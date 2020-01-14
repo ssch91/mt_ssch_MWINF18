@@ -1,0 +1,58 @@
+\documentclass[12pt]{report}
+
+\usepackage[latin1]{inputenc}
+%zur Benutzung von Grafiken
+\usepackage{graphicx}
+%für Kapitelformatierung
+\usepackage{titlesec}
+%für Zeilenabstand
+\usepackage{setspace}
+%für Deutsche Bezeichungen
+\usepackage[ngerman]{babel}
+%Seitenlayout
+\usepackage[a4paper,top=20mm,bottom=20mm,left=30mm,right=40mm]{geometry}
+%Bib-Ressourcen ermöglichen, Stil setzen und genau parametrieren
+\usepackage[style=footnote-dw,natbib=true,backref=true,edsuper=true,nopublisher=false,urldate=long,backend=biber]{biblatex}
+%Für das Abkürzungsverzeichnis alternativ: \usepackage[toc]{glossaries}
+\usepackage[acronym,nonumberlist,automake]{glossaries}
+
+
+%Abkürzungen
+\include{acronyms}
+%Parametrierung der Packages
+\include{metadata}
+
+%Abkürzungsverzeichnis erstellen
+\makeglossaries
+
+\begin{document}
+
+\input{titlepage}
+\frontmatter
+\tableofcontents 
+\newpage
+\addcontentsline{toc}{section}{Abbildungsverzeichnis}
+\listoffigures
+\newpage
+\addcontentsline{toc}{section}{Tabellenverzeichnisverzeichnis}
+\listoftables
+\newpage
+%\addcontentsline{toc}{section}{Abkürzungsverzeichnis}
+\printglossary[type=\acronymtype,title=Abkürzungsverzeichnis]
+
+\newpage
+\mainmatter
+\input{chapters/einleitung}
+\input{chapters/controllingansatz}
+\input{chapters/grundlagen_des_produktionscontrollings}
+\input{chapters/grundlagen_des_it_controllings}
+\input{chapters/flexibilitaet}
+\input{chapters/rahmenwerk_zur_bewertung}
+\input{chapters/ausblick_und_potential}
+\newpage
+\backmatter
+\printbibliography
+\appendix
+\input{chapters/anhang}
+
+\end{document}

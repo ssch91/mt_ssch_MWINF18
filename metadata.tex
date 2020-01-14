@@ -1,0 +1,65 @@
+
+%section als 1 statt 1.1, damit Chapter nicht benötigt wird
+\renewcommand{\thesection}{\arabic{section}}
+%auch ab Ebene 3 bis 5 nummerieren
+\setcounter{secnumdepth}{5}
+%Stil der Kopf- und Fußzeilen
+\newpagestyle{mainmatter}{%
+  \setheadrule{1pt}
+  \sethead{\thesection ~\sectiontitle}{}{\thesubsection ~\subsectiontitle}%
+  \setfoot{}{\thepage}{}
+}
+\newpagestyle{rest}{%
+  \sethead{}{}{}
+  \setfoot{}{\thepage}{}
+}
+%damit auch der Name der Subsection erkannt wird
+\settitlemarks{section,subsection,subsubsection}
+%anwenden des Stils
+
+
+
+%Bilder in Unterordner suchen
+\graphicspath{{image/}}
+%Zeilenabstand
+\setstretch{1.5}
+%Bib-Ressourcen einbinden
+\addbibresource{bibliography.bib}
+%Tiefe des Inhaltsverzeichnisses
+\setcounter{tocdepth}{4}
+%neue Seite nach Kapitelende
+\newcommand{\sectionbreak}{\clearpage}
+
+
+%URLs im Literaturverzeichnis umbrechen
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+
+%Kurzreferenz bei zweiter Benutzung ohne "wie Anm. x"
+\renewcommand\citenamepunct{\addcomma\space}
+\renewbibmacro*{cite:seenote}{}
+
+%Titel statt "Akronyme"
+%\renewcommand*{\acronymname}{Abkürzungsverzeichnis}
+
+%Seitennummerierugen
+\newcounter{savepage}
+\def\frontmatter{
+	\pagestyle{rest}
+    \pagenumbering{Roman}
+    \setcounter{page}{1}
+}
+
+\def\mainmatter{
+	\pagestyle{mainmatter}
+	\setcounter{savepage}{\number\value{page}}
+	\newpage
+	\pagenumbering{arabic}
+}
+
+\def\backmatter{
+	\pagestyle{rest}
+  	\newpage
+	\pagenumbering{Roman}
+	\setcounter{page}{\value{savepage}}
+}
