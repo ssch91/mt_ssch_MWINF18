@@ -35,12 +35,19 @@
 \setcounter{biburllcpenalty}{7000}
 \setcounter{biburlucpenalty}{8000}
 
+%Fußzeilen nicht auf nächster Seite fortführen
+\interfootnotelinepenalty=10000
+
 %Kurzreferenz bei zweiter Benutzung ohne "wie Anm. x"
 \renewcommand\citenamepunct{\addcomma\space}
 \renewbibmacro*{cite:seenote}{}
 
-%Titel statt "Akronyme"
-%\renewcommand*{\acronymname}{Abkürzungsverzeichnis}
+%Vertikale Zentrierung von Zelleninhalten
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\newcolumntype{C}{>{\Centering\arraybackslash}X} % centered "X" column
+
+
+
 
 %Seitennummerierugen
 \newcounter{savepage}
