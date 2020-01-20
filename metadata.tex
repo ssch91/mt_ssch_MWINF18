@@ -1,8 +1,9 @@
-
 %section als 1 statt 1.1, damit Chapter nicht benötigt wird
 \renewcommand{\thesection}{\arabic{section}}
+
 %auch ab Ebene 3 bis 5 nummerieren
 \setcounter{secnumdepth}{5}
+
 %Stil der Kopf- und Fußzeilen
 \newpagestyle{mainmatter}{%
   \setheadrule{1pt}
@@ -15,18 +16,21 @@
 }
 %damit auch der Name der Subsection erkannt wird
 \settitlemarks{section,subsection,subsubsection}
-%anwenden des Stils
 
 
 
 %Bilder in Unterordner suchen
 \graphicspath{{image/}}
+
 %Zeilenabstand
 \setstretch{1.5}
+
 %Bib-Ressourcen einbinden
 \addbibresource{bibliography.bib}
+
 %Tiefe des Inhaltsverzeichnisses
-\setcounter{tocdepth}{4}
+\setcounter{tocdepth}{2}
+
 %neue Seite nach Kapitelende
 \newcommand{\sectionbreak}{\clearpage}
 
@@ -49,7 +53,7 @@
 
 
 
-%Seitennummerierugen
+%Seitennummerierungen
 \newcounter{savepage}
 \def\frontmatter{
 	\pagestyle{rest}
