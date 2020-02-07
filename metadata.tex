@@ -29,7 +29,7 @@
 \addbibresource{bibliography.bib}
 
 %Tiefe des Inhaltsverzeichnisses
-\setcounter{tocdepth}{2}
+\setcounter{tocdepth}{3}
 
 %neue Seite nach Kapitelende
 \newcommand{\sectionbreak}{\clearpage}
@@ -50,8 +50,12 @@
 \renewcommand\tabularxcolumn[1]{m{#1}}
 \newcolumntype{C}{>{\Centering\arraybackslash}X} % centered "X" column
 
+%Fußnoten kleiner machen
+\renewcommand{\footnotesize}{\scriptsize}
 
-
+%Enumerates in Enumerates ermöglichen also 1., 2., 2.1., 2.2., 3., etc.
+%\renewcommand{\labelenumii}{\theenumii}
+%\renewcommand{\theenumii}{\theenumi.\arabic{enumii}.}
 
 %Seitennummerierungen
 \newcounter{savepage}
