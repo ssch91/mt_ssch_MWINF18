@@ -147,6 +147,34 @@
       \verb 10.1007/978-3-642-31893-1
       \endverb
     \endentry
+    \entry{bouffier1952}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d4a88ed50cfa3ddd80450ed181982f08}{%
+           family={Bouffier},
+           familyi={B\bibinitperiod},
+           given={Willy},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \strng{namehash}{d4a88ed50cfa3ddd80450ed181982f08}
+      \strng{fullhash}{d4a88ed50cfa3ddd80450ed181982f08}
+      \strng{bibnamehash}{d4a88ed50cfa3ddd80450ed181982f08}
+      \strng{authorbibnamehash}{d4a88ed50cfa3ddd80450ed181982f08}
+      \strng{authornamehash}{d4a88ed50cfa3ddd80450ed181982f08}
+      \strng{authorfullhash}{d4a88ed50cfa3ddd80450ed181982f08}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Der österreichische Betriebswirt}
+      \field{number}{2}
+      \field{title}{Kennzahlen im betrieblichen Rechnungswesen}
+      \field{year}{1952}
+      \field{pages}{26\bibrangedash 40}
+      \range{pages}{15}
+    \endentry
     \entry{britzelmaier2013controlling}{book}{}
       \name{author}{1}{}{%
         {{hash=cd682ca5c237e6a4dadd07ab7ce24c88}{%
@@ -310,6 +338,38 @@
       \field{type}{Studie}
       \field{year}{2008}
     \endentry
+    \entry{davis1950}{article}{}
+      \name{author}{2}{}{%
+        {{hash=327d9c79d6c486daa36e7e5c03537e78}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={C.G.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=36a4dd6068ef03cdbf8c103dac4778e5}{%
+           family={Jajodia},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Management Association}%
+      }
+      \strng{namehash}{ef87c8dc51ee6a5761e6c9691eb71531}
+      \strng{fullhash}{ef87c8dc51ee6a5761e6c9691eb71531}
+      \strng{bibnamehash}{ef87c8dc51ee6a5761e6c9691eb71531}
+      \strng{authorbibnamehash}{ef87c8dc51ee6a5761e6c9691eb71531}
+      \strng{authornamehash}{ef87c8dc51ee6a5761e6c9691eb71531}
+      \strng{authorfullhash}{ef87c8dc51ee6a5761e6c9691eb71531}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Financial Management Series}
+      \field{title}{How the DuPont Organization Appraises its Performance}
+      \field{year}{2018}
+      \field{pages}{3\bibrangedash 7}
+      \range{pages}{5}
+    \endentry
     \entry{capgemini2019}{report}{}
       \name{author}{2}{}{%
         {{hash=f8d39da82a124bb8c67a14f836ba9844}{%
@@ -346,6 +406,33 @@
       \verb https://www.capgemini.com/de-de/resources/studie-it-trends-2019/
       \endverb
     \endentry
+    \entry{zentralverband1989zvei}{book}{}
+      \name{author}{1}{}{%
+        {{hash=00113733ad9e3e17197f8c3c44228860}{%
+           family={Elektronikindustrie},
+           familyi={E\bibinitperiod},
+           given={Zentralverband\bibnamedelima Elektrotechnik-},
+           giveni={Z\bibinitperiod\bibinitdelim E\bibinithyphendelim \bibinitperiod},
+           prefix={und},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ZVEI, Betriebswirtschaftlicher Ausschuss}%
+      }
+      \strng{namehash}{00113733ad9e3e17197f8c3c44228860}
+      \strng{fullhash}{00113733ad9e3e17197f8c3c44228860}
+      \strng{bibnamehash}{00113733ad9e3e17197f8c3c44228860}
+      \strng{authorbibnamehash}{00113733ad9e3e17197f8c3c44228860}
+      \strng{authornamehash}{00113733ad9e3e17197f8c3c44228860}
+      \strng{authorfullhash}{00113733ad9e3e17197f8c3c44228860}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Betriebswirtschaftliche Schriftenreihe des ZVEI}
+      \field{title}{ZVEI-Kennzahlensystem: ein Instrument zur Unternehmenssteuerung}
+      \field{year}{1989}
+    \endentry
     \entry{fischer2016}{article}{}
       \name{author}{1}{}{%
         {{hash=8c250908c426be9f0639d66b28885159}{%
@@ -370,6 +457,33 @@
       \field{year}{2016}
       \field{pages}{172.176}
       \range{pages}{-1}
+    \endentry
+    \entry{gadatsch2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d1dcb548df0269e209ba84fe0ce72c65}{%
+           family={Gadatsch},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg+Teubner}%
+      }
+      \strng{namehash}{d1dcb548df0269e209ba84fe0ce72c65}
+      \strng{fullhash}{d1dcb548df0269e209ba84fe0ce72c65}
+      \strng{bibnamehash}{d1dcb548df0269e209ba84fe0ce72c65}
+      \strng{authorbibnamehash}{d1dcb548df0269e209ba84fe0ce72c65}
+      \strng{authornamehash}{d1dcb548df0269e209ba84fe0ce72c65}
+      \strng{authorfullhash}{d1dcb548df0269e209ba84fe0ce72c65}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grundkurs {IT}-Projektcontrolling}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1007/978-3-8348-9520-2
+      \endverb
     \endentry
     \entry{Gadatsch2014}{book}{}
       \name{author}{2}{}{%
@@ -719,6 +833,110 @@
       \field{title}{Produktionswirtschaft: eine Einf{ü}hrung mit Anwendungen und Kontrollfragen; mit Tabellen}
       \field{year}{1999}
     \endentry
+    \entry{kamps2018gabler}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e50ec8797d2aa38dfeb6cb9be8df7455}{%
+           family={Kamps},
+           familyi={K\bibinitperiod},
+           given={Udo},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{fullhash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{bibnamehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{authorbibnamehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{authornamehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{authorfullhash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gabler Wirtschaftslexikon}
+      \field{title}{Beziehungszahl}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/beziehungszahl-31696/version-255247
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/beziehungszahl-31696/version-255247
+      \endverb
+    \endentry
+    \entry{kamps2018gabler2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e50ec8797d2aa38dfeb6cb9be8df7455}{%
+           family={Kamps},
+           familyi={K\bibinitperiod},
+           given={Udo},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{fullhash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{bibnamehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{authorbibnamehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{authornamehash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \strng{authorfullhash}{e50ec8797d2aa38dfeb6cb9be8df7455}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gabler Wirtschaftslexikon}
+      \field{title}{Indexzahl}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/indexzahl-34533/version-258035
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/indexzahl-34533/version-258035
+      \endverb
+    \endentry
+    \entry{kaplan1996balanced}{book}{}
+      \name{author}{5}{}{%
+        {{hash=b3c59a4b5cb9ecbb1d8c4824ee4f6778}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={R.S.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b3c59a4b5cb9ecbb1d8c4824ee4f6778}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={R.S.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c1e720b3c905434919f8c3573d318502}{%
+           family={Norton},
+           familyi={N\bibinitperiod},
+           given={D.P.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c1e720b3c905434919f8c3573d318502}{%
+           family={Norton},
+           familyi={N\bibinitperiod},
+           given={D.P.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cbf9a0c22376127c645301af108cb060}{%
+           family={Books24x7},
+           familyi={B\bibinitperiod},
+           given={Inc},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business School Press}%
+      }
+      \strng{namehash}{c88e1e4727710b888475ea398751153f}
+      \strng{fullhash}{66dcca0cc296505b95f1869597bf2681}
+      \strng{bibnamehash}{c88e1e4727710b888475ea398751153f}
+      \strng{authorbibnamehash}{c88e1e4727710b888475ea398751153f}
+      \strng{authornamehash}{c88e1e4727710b888475ea398751153f}
+      \strng{authorfullhash}{66dcca0cc296505b95f1869597bf2681}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780875846514}
+      \field{series}{BusinessPro collection}
+      \field{title}{The Balanced Scorecard: Translating Strategy Into Action}
+      \field{year}{1996}
+    \endentry
     \entry{kesten2013}{book}{}
       \name{author}{3}{}{%
         {{hash=9e3f95d117318ff8a0acacc2c7f86fbb}{%
@@ -817,6 +1035,34 @@
       \field{title}{Beschaffungscontrolling - Die Performance der Beschaffung durch geeignete Instrumente messbar machen}
       \field{year}{2011}
     \endentry
+    \entry{Krcmar2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=97558c30684fb70538b0efcd39836dfd}{%
+           family={Krcmar},
+           familyi={K\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{fullhash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{bibnamehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{authorbibnamehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{authornamehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{authorfullhash}{97558c30684fb70538b0efcd39836dfd}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6. Aufl.}
+      \field{title}{Informationsmanagement}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1007/978-3-662-45863-1
+      \endverb
+    \endentry
     \entry{kuepper2013controlling}{book}{}
       \name{author}{1}{}{%
         {{hash=88ab1d54b9d9566def75cafe4bcb5bde}{%
@@ -874,6 +1120,89 @@
       \field{isbn}{9783791023427}
       \field{title}{Ablauforganisation in Produktion und Logistik}
       \field{year}{2004}
+    \endentry
+    \entry{kuetz2012projektcontrolling}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a25caedbcc378a3c3b9ac52fa92e1a87}{%
+           family={K{ü}tz},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {dpunkt.verlag}%
+      }
+      \strng{namehash}{a25caedbcc378a3c3b9ac52fa92e1a87}
+      \strng{fullhash}{a25caedbcc378a3c3b9ac52fa92e1a87}
+      \strng{bibnamehash}{a25caedbcc378a3c3b9ac52fa92e1a87}
+      \strng{authorbibnamehash}{a25caedbcc378a3c3b9ac52fa92e1a87}
+      \strng{authornamehash}{a25caedbcc378a3c3b9ac52fa92e1a87}
+      \strng{authorfullhash}{a25caedbcc378a3c3b9ac52fa92e1a87}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783864910852}
+      \field{title}{Projektcontrolling in der IT: Steuerung von Projekten und Projektportfolios}
+      \field{year}{2012}
+    \endentry
+    \entry{kuetz2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c99d15c7dc9dccba7b1a991e278e338a}{%
+           family={Kütz},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Köthen}%
+      }
+      \list{publisher}{1}{%
+        {dpunkt.verlag}%
+      }
+      \strng{namehash}{c99d15c7dc9dccba7b1a991e278e338a}
+      \strng{fullhash}{c99d15c7dc9dccba7b1a991e278e338a}
+      \strng{bibnamehash}{c99d15c7dc9dccba7b1a991e278e338a}
+      \strng{authorbibnamehash}{c99d15c7dc9dccba7b1a991e278e338a}
+      \strng{authornamehash}{c99d15c7dc9dccba7b1a991e278e338a}
+      \strng{authorfullhash}{c99d15c7dc9dccba7b1a991e278e338a}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. Auflage}
+      \field{title}{Kennzahlen in der IT: Werkzeuge für Controlling und Management}
+      \field{year}{2011}
+    \endentry
+    \entry{lachnit1976}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a321804ffa1045399205a324cde071b0}{%
+           family={Lachnit},
+           familyi={L\bibinitperiod},
+           given={Laurenz},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \strng{namehash}{a321804ffa1045399205a324cde071b0}
+      \strng{fullhash}{a321804ffa1045399205a324cde071b0}
+      \strng{bibnamehash}{a321804ffa1045399205a324cde071b0}
+      \strng{authorbibnamehash}{a321804ffa1045399205a324cde071b0}
+      \strng{authornamehash}{a321804ffa1045399205a324cde071b0}
+      \strng{authorfullhash}{a321804ffa1045399205a324cde071b0}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für betriebswirtschaftliche Forschung (zfbf)}
+      \field{number}{28}
+      \field{title}{Zur Weiterentwicklung betriebswirtschaftlicher Kennzahlensysteme}
+      \field{year}{1976}
+      \field{pages}{216\bibrangedash 230}
+      \range{pages}{15}
     \endentry
     \entry{Lachnit2012}{incollection}{}
       \name{author}{2}{}{%
@@ -933,6 +1262,104 @@
       \field{year}{1988}
       \field{pages}{133\bibrangedash 146}
       \range{pages}{14}
+    \endentry
+    \entry{Langmann2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f487b4c195bcfe4e7bb2eb0d4a5cc9da}{%
+           family={Langmann},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{f487b4c195bcfe4e7bb2eb0d4a5cc9da}
+      \strng{fullhash}{f487b4c195bcfe4e7bb2eb0d4a5cc9da}
+      \strng{bibnamehash}{f487b4c195bcfe4e7bb2eb0d4a5cc9da}
+      \strng{authorbibnamehash}{f487b4c195bcfe4e7bb2eb0d4a5cc9da}
+      \strng{authornamehash}{f487b4c195bcfe4e7bb2eb0d4a5cc9da}
+      \strng{authorfullhash}{f487b4c195bcfe4e7bb2eb0d4a5cc9da}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{F{\&}E-Projektcontrolling}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-8349-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-8349-8349-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-8349-8349-7
+      \endverb
+    \endentry
+    \entry{Leimbck2015}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=773f23a129a41ff3593443973611c8e0}{%
+           family={Leimböck},
+           familyi={L\bibinitperiod},
+           given={Egon},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0ea8ec93320fdbb570f556d1e5b396c8}{%
+           family={Klaus},
+           familyi={K\bibinitperiod},
+           given={Ulf\bibnamedelima Rüdiger},
+           giveni={U\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f272f905c3c675d1d932352e21faaa1b}{%
+           family={Hölkermann},
+           familyi={H\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{3668fe390c45cbd4b9b87c6dd240c94a}
+      \strng{fullhash}{3668fe390c45cbd4b9b87c6dd240c94a}
+      \strng{bibnamehash}{3668fe390c45cbd4b9b87c6dd240c94a}
+      \strng{authorbibnamehash}{3668fe390c45cbd4b9b87c6dd240c94a}
+      \strng{authornamehash}{3668fe390c45cbd4b9b87c6dd240c94a}
+      \strng{authorfullhash}{3668fe390c45cbd4b9b87c6dd240c94a}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Baukalkulation und Projektcontrolling}
+      \field{title}{Teil B Projektcontrolling}
+      \field{year}{2015}
+      \field{pages}{125\bibrangedash 175}
+      \range{pages}{51}
+      \verb{doi}
+      \verb 10.1007/978-3-658-04872-3_3
+      \endverb
+    \endentry
+    \entry{meyer1989kunden}{book}{}
+      \name{author}{1}{}{%
+        {{hash=baed1757a9835cd71669f8a3c2303d2f}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sch{ä}ffer, Verlag f{ü}r Wirtschaft u. Steuern}%
+      }
+      \strng{namehash}{baed1757a9835cd71669f8a3c2303d2f}
+      \strng{fullhash}{baed1757a9835cd71669f8a3c2303d2f}
+      \strng{bibnamehash}{baed1757a9835cd71669f8a3c2303d2f}
+      \strng{authorbibnamehash}{baed1757a9835cd71669f8a3c2303d2f}
+      \strng{authornamehash}{baed1757a9835cd71669f8a3c2303d2f}
+      \strng{authorfullhash}{baed1757a9835cd71669f8a3c2303d2f}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783820205275}
+      \field{title}{Kunden-Bilanz-Analyse der Kreditinstitute: eine Einf{ü}hrung in die Jahresabschluss-Analyse und in die Analyse-Praxis der Kreditinstitute}
+      \field{year}{1989}
     \endentry
     \entry{schroederHMD2016}{article}{}
       \name{author}{2}{}{%
@@ -1082,6 +1509,55 @@
       \verb https://www.cio.de/a/4-massnahmen-um-starre-it-architekturen-aufzubrechen,891605
       \endverb
     \endentry
+    \entry{gehalt2018}{report}{}
+      \list{institution}{1}{%
+        {Institut für Arbeitsmarkt- und Berufsforschung}%
+      }
+      \list{location}{1}{%
+        {Nürnberg}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Regionale Lohnunterschiede zwischen Männern und Frauen in Deutschland}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
+    \entry{reichmann1976}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2e9b1ecb499afc3f1f89c04f35b74cea}{%
+           family={Reichmann},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a321804ffa1045399205a324cde071b0}{%
+           family={Lachnit},
+           familyi={L\bibinitperiod},
+           given={Laurenz},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \strng{namehash}{49a84d26652d4211268ae71a2baaf5fc}
+      \strng{fullhash}{49a84d26652d4211268ae71a2baaf5fc}
+      \strng{bibnamehash}{49a84d26652d4211268ae71a2baaf5fc}
+      \strng{authorbibnamehash}{49a84d26652d4211268ae71a2baaf5fc}
+      \strng{authornamehash}{49a84d26652d4211268ae71a2baaf5fc}
+      \strng{authorfullhash}{49a84d26652d4211268ae71a2baaf5fc}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{28. Jg.}
+      \field{journaltitle}{Zeitschrift für betriebswirtschaftliche Forschung (zfbf)}
+      \field{title}{Planung, Steuerung und Kontrolle mit Hilfe von Kennzahlen}
+      \field{year}{1976}
+      \field{pages}{705\bibrangedash 723}
+      \range{pages}{19}
+    \endentry
     \entry{reichmann1985}{article}{}
       \name{author}{2}{}{%
         {{hash=2e9b1ecb499afc3f1f89c04f35b74cea}{%
@@ -1215,6 +1691,44 @@
       \verb https://wirtschaftslexikon.gabler.de/definition/marketingcontrolling-41129/version-264500
       \endverb
     \endentry
+    \entry{hoffmann2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bd3f24fd81a5fe9035699fd5d00f5b4c}{%
+           family={Rollwagen},
+           familyi={R\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9bb7505af6f56de3344e7ca74aa3fb3c}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2f01efbe6a744f6d91161b2316c1a07d}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{17e94fdb787e4633243eafcee2635521}
+      \strng{fullhash}{17e94fdb787e4633243eafcee2635521}
+      \strng{bibnamehash}{17e94fdb787e4633243eafcee2635521}
+      \strng{authorbibnamehash}{17e94fdb787e4633243eafcee2635521}
+      \strng{authornamehash}{17e94fdb787e4633243eafcee2635521}
+      \strng{authorfullhash}{17e94fdb787e4633243eafcee2635521}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deutsche Bank Research}
+      \field{title}{Deutschland im Jahr 2020 - Neue Herausforderungen für ein Land auf Expedition}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb https://www.dbresearch.de/PROD/RPS_DE-PROD/PROD0000000000474798/Deutschland_im_Jahr_2020_-_Neue_Herausforderungen_.PDF
+      \endverb
+      \verb{url}
+      \verb https://www.dbresearch.de/PROD/RPS_DE-PROD/PROD0000000000474798/Deutschland_im_Jahr_2020_-_Neue_Herausforderungen_.PDF
+      \endverb
+    \endentry
     \entry{Sandberg2017}{book}{}
       \name{author}{1}{}{%
         {{hash=797df580e50ede20e130329936c65da2}{%
@@ -1242,6 +1756,86 @@
       \verb{doi}
       \verb https://doi.org/10.1515/9783110514810
       \endverb
+    \endentry
+    \entry{Sandt2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0b63a0ed694c2f1a71fc545a08fb9512}{%
+           family={Sandt},
+           familyi={S\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitätsverlag}%
+      }
+      \strng{namehash}{0b63a0ed694c2f1a71fc545a08fb9512}
+      \strng{fullhash}{0b63a0ed694c2f1a71fc545a08fb9512}
+      \strng{bibnamehash}{0b63a0ed694c2f1a71fc545a08fb9512}
+      \strng{authorbibnamehash}{0b63a0ed694c2f1a71fc545a08fb9512}
+      \strng{authornamehash}{0b63a0ed694c2f1a71fc545a08fb9512}
+      \strng{authorfullhash}{0b63a0ed694c2f1a71fc545a08fb9512}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Management mit Kennzahlen und Kennzahlensystemen}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1007/978-3-322-91473-6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-322-91473-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-322-91473-6
+      \endverb
+    \endentry
+    \entry{schenk1939betriebskennzahlen}{book}{}
+      \name{author}{1}{}{%
+        {{hash=13b09500170dbf1801af4f57aedf8a9c}{%
+           family={Schenk},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \strng{namehash}{13b09500170dbf1801af4f57aedf8a9c}
+      \strng{fullhash}{13b09500170dbf1801af4f57aedf8a9c}
+      \strng{bibnamehash}{13b09500170dbf1801af4f57aedf8a9c}
+      \strng{authorbibnamehash}{13b09500170dbf1801af4f57aedf8a9c}
+      \strng{authornamehash}{13b09500170dbf1801af4f57aedf8a9c}
+      \strng{authorfullhash}{13b09500170dbf1801af4f57aedf8a9c}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Betriebskennzahlen: Begriff, Ordnung und Bedeutung F{ü}r Die Betriebsbeurteilung}
+      \field{year}{1939}
+    \endentry
+    \entry{schmalenbach1909}{article}{}
+      \name{author}{1}{}{%
+        {{hash=41ae3ed0dce0abdbe42814f929a709b7}{%
+           family={Schmalenbach},
+           familyi={S\bibinitperiod},
+           given={Eugen},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{41ae3ed0dce0abdbe42814f929a709b7}
+      \strng{fullhash}{41ae3ed0dce0abdbe42814f929a709b7}
+      \strng{bibnamehash}{41ae3ed0dce0abdbe42814f929a709b7}
+      \strng{authorbibnamehash}{41ae3ed0dce0abdbe42814f929a709b7}
+      \strng{authornamehash}{41ae3ed0dce0abdbe42814f929a709b7}
+      \strng{authorfullhash}{41ae3ed0dce0abdbe42814f929a709b7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für betriebswirtschaftliche Forschung (zfbf)}
+      \field{number}{3}
+      \field{title}{Über Verrechnungspreise}
+      \field{year}{1909}
     \endentry
     \entry{klein2010moderne2}{incollection}{}
       \name{author}{1}{}{%
@@ -1415,6 +2009,36 @@
       \verb 10.1007/978-3-663-13776-4
       \endverb
     \endentry
+    \entry{syska2006}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=cbbaeef14e2f8475872b6b8fc32bdb32}{%
+           family={Syska},
+           familyi={S\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{cbbaeef14e2f8475872b6b8fc32bdb32}
+      \strng{fullhash}{cbbaeef14e2f8475872b6b8fc32bdb32}
+      \strng{bibnamehash}{cbbaeef14e2f8475872b6b8fc32bdb32}
+      \strng{authorbibnamehash}{cbbaeef14e2f8475872b6b8fc32bdb32}
+      \strng{authornamehash}{cbbaeef14e2f8475872b6b8fc32bdb32}
+      \strng{authorfullhash}{cbbaeef14e2f8475872b6b8fc32bdb32}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Produktionsmanagement}
+      \field{title}{Just-in-Time ({JIT})}
+      \field{year}{2006}
+      \field{pages}{65\bibrangedash 68}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-9091-4_23
+      \endverb
+    \endentry
     \entry{weber2005internationalisierung}{book}{}
       \name{author}{2}{}{%
         {{hash=0f08e2413f70481eba52a73d540bbd56}{%
@@ -1480,6 +2104,64 @@
       \field{year}{2015}
       \verb{doi}
       \verb https://books.google.de/books?id=M62lAgAAQBAJ
+      \endverb
+    \endentry
+    \entry{weber2010logistik}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0f08e2413f70481eba52a73d540bbd56}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0f51864f2ce2e1a105f76e843f2458d0}{%
+           family={Wallenburg},
+           familyi={W\bibinitperiod},
+           given={C.M.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sch{ä}ffer-Poeschel}%
+      }
+      \strng{namehash}{3a23c9890aef80c8d0f2587722897cc4}
+      \strng{fullhash}{3a23c9890aef80c8d0f2587722897cc4}
+      \strng{bibnamehash}{3a23c9890aef80c8d0f2587722897cc4}
+      \strng{authorbibnamehash}{3a23c9890aef80c8d0f2587722897cc4}
+      \strng{authornamehash}{3a23c9890aef80c8d0f2587722897cc4}
+      \strng{authorfullhash}{3a23c9890aef80c8d0f2587722897cc4}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783791026565}
+      \field{title}{Logistik- und Supply-Chain-Controlling}
+      \field{year}{2010}
+    \endentry
+    \entry{weber2018gabler}{article}{}
+      \name{author}{1}{}{%
+        {{hash=72819479f39737bb395e9c643f2a0f1c}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{72819479f39737bb395e9c643f2a0f1c}
+      \strng{fullhash}{72819479f39737bb395e9c643f2a0f1c}
+      \strng{bibnamehash}{72819479f39737bb395e9c643f2a0f1c}
+      \strng{authorbibnamehash}{72819479f39737bb395e9c643f2a0f1c}
+      \strng{authornamehash}{72819479f39737bb395e9c643f2a0f1c}
+      \strng{authorfullhash}{72819479f39737bb395e9c643f2a0f1c}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gabler Wirtschaftslexikon}
+      \field{title}{Kennzahlen}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/kennzahlen-41897/version-265253
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/kennzahlen-41897/version-265253
       \endverb
     \endentry
     \entry{Wiedenhofer2016}{article}{}
@@ -1593,6 +2275,52 @@
       \field{year}{2016}
       \verb{doi}
       \verb https://books.google.de/books?id=PW0LkAEACAAJ
+      \endverb
+    \endentry
+    \entry{Zirkler2018}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=e5f32466dca6cef2b91d188a5f0fb02d}{%
+           family={Zirkler},
+           familyi={Z\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=aea0700c2d3c975004c91b21df67d2d6}{%
+           family={Nobach},
+           familyi={N\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5a2a7e55a760c13257e17a3709c05210}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e2e3474cea081a3cf4ac08a16c265cf6}{%
+           family={Behrens},
+           familyi={B\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{233c8e3d69b089ff3b338db92d2ef098}
+      \strng{fullhash}{657ae67eb5db897a383d699913a1caf1}
+      \strng{bibnamehash}{233c8e3d69b089ff3b338db92d2ef098}
+      \strng{authorbibnamehash}{233c8e3d69b089ff3b338db92d2ef098}
+      \strng{authornamehash}{233c8e3d69b089ff3b338db92d2ef098}
+      \strng{authorfullhash}{657ae67eb5db897a383d699913a1caf1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Projektcontrolling}
+      \field{month}{10}
+      \field{title}{Das Projektcontrolling}
+      \field{year}{2018}
+      \field{pages}{23\bibrangedash 38}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-658-23714-1_3
       \endverb
     \endentry
     \entry{klein2010moderne3}{incollection}{}
