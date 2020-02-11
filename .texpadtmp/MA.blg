@@ -1,15 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.blg'
-[36] biber-darwin:315> INFO - === Sun Feb  9, 2020, 03:45:48
-[59] Biber.pm:371> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
-[189] Biber.pm:889> INFO - Found 72 citekeys in bib section 0
-[204] Biber.pm:4093> INFO - Processing section 0
-[214] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' for section 0
-[217] bibtex.pm:1523> INFO - LaTeX decoding ...
-[312] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
-[676] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[676] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[676] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[676] Biber.pm:3927> INFO - No sort tailoring available for locale 'de-DE'
-[738] bbl.pm:636> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
-[765] bbl.pm:739> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
+[36] biber-darwin:315> INFO - === Tue Feb 11, 2020, 01:29:36
+[60] Biber.pm:371> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
+[204] Biber.pm:889> INFO - Found 86 citekeys in bib section 0
+[218] Biber.pm:4093> INFO - Processing section 0
+[230] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' for section 0
+[233] bibtex.pm:1523> INFO - LaTeX decoding ...
+[344] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
+[698] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/ooTPkYN2yI/bibliography.bib_4531.utf8, line 765, warning: 218 characters of junk seen at toplevel
+[785] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[785] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[785] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[785] Biber.pm:3927> INFO - No sort tailoring available for locale 'de-DE'
+[860] bbl.pm:636> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
+[895] bbl.pm:739> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
+[895] Biber.pm:110> INFO - WARNINGS: 1

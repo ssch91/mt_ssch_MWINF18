@@ -19,46 +19,43 @@
 \BOOKMARK [2][-]{subsection.0.2.4}{Steuerungsansatz}{section.0.2}% 19
 \BOOKMARK [3][-]{subsubsection.0.2.4.1}{Kennzahlen}{subsection.0.2.4}% 20
 \BOOKMARK [3][-]{subsubsection.0.2.4.2}{Verrechnungspreise}{subsection.0.2.4}% 21
-\BOOKMARK [3][-]{subsubsection.0.2.4.3}{Budgetierung}{subsection.0.2.4}% 22
-\BOOKMARK [1][-]{section.0.3}{Grundlagen des Produktionscontrollings}{}% 23
-\BOOKMARK [2][-]{subsection.0.3.1}{Definition des Produktionscontrollings}{section.0.3}% 24
-\BOOKMARK [2][-]{subsection.0.3.2}{Ziele und Aufgaben des Produktionscontrollings}{section.0.3}% 25
-\BOOKMARK [3][-]{subsubsection.0.3.2.1}{Ziele des Produktionscontrollings}{subsection.0.3.2}% 26
-\BOOKMARK [3][-]{subsubsection.0.3.2.2}{Aufgaben des Produktionscontrollings}{subsection.0.3.2}% 27
-\BOOKMARK [2][-]{subsection.0.3.3}{Teilbereiche des Produktionscontrollings}{section.0.3}% 28
-\BOOKMARK [3][-]{subsubsection.0.3.3.1}{Strategisches Produktionscontrolling}{subsection.0.3.3}% 29
-\BOOKMARK [3][-]{subsubsection.0.3.3.2}{Taktisches Produktionscontrolling}{subsection.0.3.3}% 30
-\BOOKMARK [3][-]{subsubsection.0.3.3.3}{Operatives Produktionscontrolling}{subsection.0.3.3}% 31
-\BOOKMARK [2][-]{subsection.0.3.4}{Methoden und Techniken des Produktionscontrollings}{section.0.3}% 32
-\BOOKMARK [3][-]{subsubsection.0.3.4.1}{Strategische Instrumente}{subsection.0.3.4}% 33
-\BOOKMARK [3][-]{subsubsection.0.3.4.2}{Operative Instrumente}{subsection.0.3.4}% 34
-\BOOKMARK [1][-]{section.0.4}{Grundlagen des IT-Controllings}{}% 35
-\BOOKMARK [2][-]{subsection.0.4.1}{Definition des IT-Controllings}{section.0.4}% 36
-\BOOKMARK [2][-]{subsection.0.4.2}{Einbettung des IT-Controlling in das IT-Management}{section.0.4}% 37
-\BOOKMARK [2][-]{subsection.0.4.3}{Organisation des IT-Controlling}{section.0.4}% 38
-\BOOKMARK [2][-]{subsection.0.4.4}{Ziele und Aufgaben des IT-Controllings}{section.0.4}% 39
-\BOOKMARK [3][-]{subsubsection.0.4.4.1}{Ziele des IT-Controllings}{subsection.0.4.4}% 40
-\BOOKMARK [3][-]{subsubsection.0.4.4.2}{Aufgaben des IT-Controllings}{subsection.0.4.4}% 41
-\BOOKMARK [2][-]{subsection.0.4.5}{Teilbereiche des IT-Controlling}{section.0.4}% 42
-\BOOKMARK [3][-]{subsubsection.0.4.5.1}{IT-Portfoliocontrolling}{subsection.0.4.5}% 43
-\BOOKMARK [3][-]{subsubsection.0.4.5.2}{IT-Projektcontrolling}{subsection.0.4.5}% 44
-\BOOKMARK [3][-]{subsubsection.0.4.5.3}{IT-Produktcontrolling}{subsection.0.4.5}% 45
-\BOOKMARK [3][-]{subsubsection.0.4.5.4}{IT-Infrastrukturcontrolling}{subsection.0.4.5}% 46
-\BOOKMARK [2][-]{subsection.0.4.6}{Methoden und Techniken des IT-Controlling}{section.0.4}% 47
-\BOOKMARK [3][-]{subsubsection.0.4.6.1}{IT-Kennzahlen}{subsection.0.4.6}% 48
-\BOOKMARK [3][-]{subsubsection.0.4.6.2}{IT-Balanced Scorecard}{subsection.0.4.6}% 49
-\BOOKMARK [3][-]{subsubsection.0.4.6.3}{IT-Kosten- und Leistungsrechnung}{subsection.0.4.6}% 50
-\BOOKMARK [3][-]{subsubsection.0.4.6.4}{Total Cost of Ownership}{subsection.0.4.6}% 51
-\BOOKMARK [3][-]{subsubsection.0.4.6.5}{IT-Outsourcing}{subsection.0.4.6}% 52
-\BOOKMARK [1][-]{section.0.5}{Flexibilit\344t}{}% 53
-\BOOKMARK [2][-]{subsection.0.5.1}{Allgemeines Verst\344ndnis von Flexibilit\344t}{section.0.5}% 54
-\BOOKMARK [2][-]{subsection.0.5.2}{Flexibilit\344t im Anwendungskontext}{section.0.5}% 55
-\BOOKMARK [3][-]{subsubsection.0.5.2.1}{Flexibilit\344t im Kontext der Produktion}{subsection.0.5.2}% 56
-\BOOKMARK [3][-]{subsubsection.0.5.2.2}{Flexibilit\344t im Kontext der IT-Organisation}{subsection.0.5.2}% 57
-\BOOKMARK [3][-]{subsubsection.0.5.2.3}{Messung und Bewertung von Flexibilit\344t}{subsection.0.5.2}% 58
-\BOOKMARK [1][-]{section.0.6}{Rahmenwerk zur Bewertung}{}% 59
-\BOOKMARK [2][-]{subsection.0.6.1}{Konzeptionelle Idee}{section.0.6}% 60
-\BOOKMARK [2][-]{subsection.0.6.2}{Dimensionsdefinition}{section.0.6}% 61
-\BOOKMARK [2][-]{subsection.0.6.3}{Das Rahmenwerk als Resultat}{section.0.6}% 62
-\BOOKMARK [2][-]{subsection.0.6.4}{Interpretation als Werttreiber}{section.0.6}% 63
-\BOOKMARK [1][-]{section.0.7}{Ausblick und Potential}{}% 64
+\BOOKMARK [1][-]{section.0.3}{Produktionscontrollings}{}% 22
+\BOOKMARK [2][-]{subsection.0.3.1}{Definition}{section.0.3}% 23
+\BOOKMARK [2][-]{subsection.0.3.2}{Betrachtungsgegenst\344nde}{section.0.3}% 24
+\BOOKMARK [2][-]{subsection.0.3.3}{Teilbereiche}{section.0.3}% 25
+\BOOKMARK [3][-]{subsubsection.0.3.3.1}{Strategisches Produktionscontrolling}{subsection.0.3.3}% 26
+\BOOKMARK [3][-]{subsubsection.0.3.3.2}{Taktisches Produktionscontrolling}{subsection.0.3.3}% 27
+\BOOKMARK [3][-]{subsubsection.0.3.3.3}{Operatives Produktionscontrolling}{subsection.0.3.3}% 28
+\BOOKMARK [2][-]{subsection.0.3.4}{Methoden und Techniken}{section.0.3}% 29
+\BOOKMARK [3][-]{subsubsection.0.3.4.1}{Strategische Instrumente}{subsection.0.3.4}% 30
+\BOOKMARK [3][-]{subsubsection.0.3.4.2}{Operative Instrumente}{subsection.0.3.4}% 31
+\BOOKMARK [1][-]{section.0.4}{Grundlagen des IT-Controllings}{}% 32
+\BOOKMARK [2][-]{subsection.0.4.1}{Definition des IT-Controllings}{section.0.4}% 33
+\BOOKMARK [2][-]{subsection.0.4.2}{Einbettung des IT-Controlling in das IT-Management}{section.0.4}% 34
+\BOOKMARK [2][-]{subsection.0.4.3}{Organisation des IT-Controlling}{section.0.4}% 35
+\BOOKMARK [2][-]{subsection.0.4.4}{Ziele und Aufgaben des IT-Controllings}{section.0.4}% 36
+\BOOKMARK [3][-]{subsubsection.0.4.4.1}{Ziele des IT-Controllings}{subsection.0.4.4}% 37
+\BOOKMARK [3][-]{subsubsection.0.4.4.2}{Aufgaben des IT-Controllings}{subsection.0.4.4}% 38
+\BOOKMARK [2][-]{subsection.0.4.5}{Teilbereiche des IT-Controlling}{section.0.4}% 39
+\BOOKMARK [3][-]{subsubsection.0.4.5.1}{IT-Portfoliocontrolling}{subsection.0.4.5}% 40
+\BOOKMARK [3][-]{subsubsection.0.4.5.2}{IT-Projektcontrolling}{subsection.0.4.5}% 41
+\BOOKMARK [3][-]{subsubsection.0.4.5.3}{IT-Produktcontrolling}{subsection.0.4.5}% 42
+\BOOKMARK [3][-]{subsubsection.0.4.5.4}{IT-Infrastrukturcontrolling}{subsection.0.4.5}% 43
+\BOOKMARK [2][-]{subsection.0.4.6}{Methoden und Techniken des IT-Controlling}{section.0.4}% 44
+\BOOKMARK [3][-]{subsubsection.0.4.6.1}{IT-Kennzahlen}{subsection.0.4.6}% 45
+\BOOKMARK [3][-]{subsubsection.0.4.6.2}{IT-Balanced Scorecard}{subsection.0.4.6}% 46
+\BOOKMARK [3][-]{subsubsection.0.4.6.3}{IT-Kosten- und Leistungsrechnung}{subsection.0.4.6}% 47
+\BOOKMARK [3][-]{subsubsection.0.4.6.4}{Total Cost of Ownership}{subsection.0.4.6}% 48
+\BOOKMARK [3][-]{subsubsection.0.4.6.5}{IT-Outsourcing}{subsection.0.4.6}% 49
+\BOOKMARK [1][-]{section.0.5}{Flexibilit\344t}{}% 50
+\BOOKMARK [2][-]{subsection.0.5.1}{Allgemeines Verst\344ndnis von Flexibilit\344t}{section.0.5}% 51
+\BOOKMARK [2][-]{subsection.0.5.2}{Flexibilit\344t im Anwendungskontext}{section.0.5}% 52
+\BOOKMARK [3][-]{subsubsection.0.5.2.1}{Flexibilit\344t im Kontext der Produktion}{subsection.0.5.2}% 53
+\BOOKMARK [3][-]{subsubsection.0.5.2.2}{Flexibilit\344t im Kontext der IT-Organisation}{subsection.0.5.2}% 54
+\BOOKMARK [3][-]{subsubsection.0.5.2.3}{Messung und Bewertung von Flexibilit\344t}{subsection.0.5.2}% 55
+\BOOKMARK [1][-]{section.0.6}{Rahmenwerk zur Bewertung}{}% 56
+\BOOKMARK [2][-]{subsection.0.6.1}{Konzeptionelle Idee}{section.0.6}% 57
+\BOOKMARK [2][-]{subsection.0.6.2}{Dimensionsdefinition}{section.0.6}% 58
+\BOOKMARK [2][-]{subsection.0.6.3}{Das Rahmenwerk als Resultat}{section.0.6}% 59
+\BOOKMARK [2][-]{subsection.0.6.4}{Interpretation als Werttreiber}{section.0.6}% 60
+\BOOKMARK [1][-]{section.0.7}{Ausblick und Potential}{}% 61
