@@ -19,6 +19,92 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Abts2017}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e0b3c54dc44d363192a2ee0648b809aa}{%
+           family={Abts},
+           familyi={A\bibinitperiod},
+           given={Dietmar},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dc77fc4d02d4aa7f345dcea3adff3974}{%
+           family={Mülder},
+           familyi={M\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{6a85d8670f823b354544f7f3825e212f}
+      \strng{fullhash}{6a85d8670f823b354544f7f3825e212f}
+      \strng{bibnamehash}{6a85d8670f823b354544f7f3825e212f}
+      \strng{authorbibnamehash}{6a85d8670f823b354544f7f3825e212f}
+      \strng{authornamehash}{6a85d8670f823b354544f7f3825e212f}
+      \strng{authorfullhash}{6a85d8670f823b354544f7f3825e212f}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grundkurs Wirtschaftsinformatik}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1007/978-3-658-16379-2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-16379-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-16379-2
+      \endverb
+    \endentry
+    \entry{Alpar2019}{book}{}
+      \name{author}{4}{}{%
+        {{hash=b65eda23c9add90eda5a2ccd34f6dfd9}{%
+           family={Alpar},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0a4462d4bbc681ebabcc379042416549}{%
+           family={Alt},
+           familyi={A\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=17886613a94639a5b52859b631af5d29}{%
+           family={Bensberg},
+           familyi={B\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fe403b79dc6717735b2efbcb81207159}{%
+           family={Weimann},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{f1b762df5dbb96f435c9cb37cc1f6c55}
+      \strng{fullhash}{dfd8bf27f952b2edb7186446d9e2f286}
+      \strng{bibnamehash}{f1b762df5dbb96f435c9cb37cc1f6c55}
+      \strng{authorbibnamehash}{f1b762df5dbb96f435c9cb37cc1f6c55}
+      \strng{authornamehash}{f1b762df5dbb96f435c9cb37cc1f6c55}
+      \strng{authorfullhash}{dfd8bf27f952b2edb7186446d9e2f286}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Anwendungsorientierte Wirtschaftsinformatik}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1007/978-3-658-25581-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-25581-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-25581-7
+      \endverb
+    \endentry
     \entry{battenfeld1999}{article}{}
       \name{author}{1}{}{%
         {{hash=ae895fe185ebebe72197992cc6dc1d1b}{%
@@ -752,6 +838,31 @@
       \verb 10.1007/978-3-642-57587-7_5
       \endverb
     \endentry
+    \entry{grap1998produktion}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5e00727426e2412c06e0891e13f82ebb}{%
+           family={Grap},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Vahlen}%
+      }
+      \strng{namehash}{5e00727426e2412c06e0891e13f82ebb}
+      \strng{fullhash}{5e00727426e2412c06e0891e13f82ebb}
+      \strng{bibnamehash}{5e00727426e2412c06e0891e13f82ebb}
+      \strng{authorbibnamehash}{5e00727426e2412c06e0891e13f82ebb}
+      \strng{authornamehash}{5e00727426e2412c06e0891e13f82ebb}
+      \strng{authorfullhash}{5e00727426e2412c06e0891e13f82ebb}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783800623211}
+      \field{title}{Produktion und Beschaffung: eine praxisorientierte Einf{ü}hrung}
+      \field{year}{1998}
+    \endentry
     \entry{klein2014marketing1}{incollection}{}
       \name{author}{1}{}{%
         {{hash=9abbbcc5ff76296c47b4b21418f2a495}{%
@@ -819,6 +930,31 @@
       \verb{doi}
       \verb 10.1007/978-3-642-61989-2
       \endverb
+    \endentry
+    \entry{hartmann2002materialwirtschaft}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2278c9ba09223a9819e89d93342c4cd0}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duncker \& Humblot}%
+      }
+      \strng{namehash}{2278c9ba09223a9819e89d93342c4cd0}
+      \strng{fullhash}{2278c9ba09223a9819e89d93342c4cd0}
+      \strng{bibnamehash}{2278c9ba09223a9819e89d93342c4cd0}
+      \strng{authorbibnamehash}{2278c9ba09223a9819e89d93342c4cd0}
+      \strng{authornamehash}{2278c9ba09223a9819e89d93342c4cd0}
+      \strng{authorfullhash}{2278c9ba09223a9819e89d93342c4cd0}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{8. Auflage}
+      \field{title}{Materialwirtschaft.: Organisation - Planung - Durchf{ü}hrung - Kontrolle.}
+      \field{year}{2005}
     \endentry
     \entry{Haeusser2016}{book}{}
       \name{author}{1}{}{%
@@ -1273,6 +1409,45 @@
       \verb 10.1007/978-3-662-45863-1
       \endverb
     \endentry
+    \entry{kuenzel2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3fd490ea39f5932261d76ee7c287ea9f}{%
+           family={Künzel},
+           familyi={K\bibinitperiod},
+           given={Larissa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bd8323a343f5bbcb8d67c2fc711ab1af}{%
+           family={Brecht},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=67cfbf07fb5424cb4b7340878d4da243}{%
+           family={Hagen},
+           familyi={H\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {GITO-Verlag}%
+      }
+      \strng{namehash}{21193d8dafa8f7f1e5d82af0e6a012c3}
+      \strng{fullhash}{21193d8dafa8f7f1e5d82af0e6a012c3}
+      \strng{bibnamehash}{21193d8dafa8f7f1e5d82af0e6a012c3}
+      \strng{authorbibnamehash}{21193d8dafa8f7f1e5d82af0e6a012c3}
+      \strng{authornamehash}{21193d8dafa8f7f1e5d82af0e6a012c3}
+      \strng{authorfullhash}{21193d8dafa8f7f1e5d82af0e6a012c3}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1860-6725}
+      \field{journaltitle}{ERP Management}
+      \field{month}{3}
+      \field{title}{SAP S/4HANA Funktionscheck im Bereich des Produktionscontrollings}
+      \field{year}{2018}
+      \field{pages}{41\bibrangedash 44}
+      \range{pages}{4}
+    \endentry
     \entry{kuepper2013controlling}{book}{}
       \name{author}{1}{}{%
         {{hash=88ab1d54b9d9566def75cafe4bcb5bde}{%
@@ -1546,6 +1721,39 @@
       \verb 10.1007/978-3-658-04872-3_3
       \endverb
     \endentry
+    \entry{Loedding2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3810c7f292ede24fc78601881d0b5e2b}{%
+           family={Lödding},
+           familyi={L\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{3810c7f292ede24fc78601881d0b5e2b}
+      \strng{fullhash}{3810c7f292ede24fc78601881d0b5e2b}
+      \strng{bibnamehash}{3810c7f292ede24fc78601881d0b5e2b}
+      \strng{authorbibnamehash}{3810c7f292ede24fc78601881d0b5e2b}
+      \strng{authornamehash}{3810c7f292ede24fc78601881d0b5e2b}
+      \strng{authorfullhash}{3810c7f292ede24fc78601881d0b5e2b}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verfahren der Fertigungssteuerung}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1007/978-3-662-48459-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-48459-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-48459-3
+      \endverb
+    \endentry
     \entry{lohschmidt2005ziele}{book}{}
       \name{author}{1}{}{%
         {{hash=47a069a812c72e3d3ee3fcde721c5d24}{%
@@ -1684,6 +1892,39 @@
       \field{year}{2009}
       \verb{doi}
       \verb https://books.google.de/books?id=ln4aMAAACAAJ
+      \endverb
+    \endentry
+    \entry{Pfohl2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=62d70c494c3b5bf7bc473ff66321590d}{%
+           family={Pfohl},
+           familyi={P\bibinitperiod},
+           given={Hans-Christian},
+           giveni={H\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{62d70c494c3b5bf7bc473ff66321590d}
+      \strng{fullhash}{62d70c494c3b5bf7bc473ff66321590d}
+      \strng{bibnamehash}{62d70c494c3b5bf7bc473ff66321590d}
+      \strng{authorbibnamehash}{62d70c494c3b5bf7bc473ff66321590d}
+      \strng{authornamehash}{62d70c494c3b5bf7bc473ff66321590d}
+      \strng{authorfullhash}{62d70c494c3b5bf7bc473ff66321590d}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Logistiksysteme}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1007/978-3-662-56228-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-56228-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-56228-4
       \endverb
     \endentry
     \entry{radermacher2009}{article}{}
