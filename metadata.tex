@@ -57,6 +57,16 @@
 %\renewcommand{\labelenumii}{\theenumii}
 %\renewcommand{\theenumii}{\theenumi.\arabic{enumii}.}
 
+
+\tikzset{
+  basic/.style  = {draw, text width=2.5cm, drop shadow, font=\sffamily, rectangle},
+  root/.style   = {basic, rounded corners=2pt, thin, align=center,
+                   fill=green!30},
+  level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=green!60,
+                   text width=8em},
+  level 3/.style = {basic, thin, align=left, fill=pink!60, text width=6.5em}
+}
+
 %Seitennummerierungen
 \newcounter{savepage}
 \def\frontmatter{

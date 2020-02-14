@@ -20,39 +20,131 @@ Da vor allem der Gesamtbereich der planerischen und steuernden Aspekte der Produ
 Die Unterscheidung  der zeitlichen Planungshorizonte (strategisch, taktisch, operativ) ist ferner übergreifend in immer ähnlicher Auslegung zu bemerken, sodass eine weniger strikte Trennung darüber hinaus nicht trivialisierend scheint.
 Die alleinige Betrachtung von Steuerungsmethoden, also die Ausklammerung von Planungsmethoden wäre sowieso eine unangemessene Reduktion des Untersuchungsbereichs.
 \subsection{Betrachtungsgegenstände}
+\subsubsection{Bedarfsplanung}
 %bild produktionsplanung
+\todo{einleiten mit produktionsplanungsprozess}
 \begin{itemize}
-\item Bedarfsplanung
-	\begin{itemize}
-	\item Primärbedarf\\
-		Die Primärbedarfsplanung ermittelt die herzustellende Menge der zum Absatz bestimmten, d.h. verkaufsfähigen Erzeugnisse, Baugruppen oder Einzelteile nach Art, Menge und Termin bzw. Planungsperiode.\footnote{Vgl. \cite[S.199]{Abts2017} und \cite[S.108]{Loedding2016}}
-		Dieser Prozess wird maßgeblich durch Kalkulation bestehender Aufträge sowie Absatzprognosen auf der einen Seite und maschinelle sowie personelle Kapazität auf der anderen Seite beeinflusst.\footnote{Vgl. \cite[S.199]{Abts2017}}
-		Ebenfalls geläufig ist die Bezeichnung Produktionsprogramm bzw. Produktionsprogrammplanung.\footnote{Vgl. \cite[S.108]{Loedding2016}}
-		\item Sekundärbedarf\\
-		Der darauf aufbauende Materialbedarf bzw. Sekundärbedarf und dessen Planung ermittelt anhand von Stücklisten oder früherer Verbrauchswerte abzüglich Lagerkapazitäten\footnote{Vgl. \cite[S.200]{Abts2017}} den für den Primärbedarf notwendige Menge an Komponenten und Teilen und ordnet diese periodengerecht zu\footnote{Vgl. \cite[S.110]{Loedding2016}}.
-		\item Tertiärbedarf\\
-		Darüber hinaus kann ein Tertiärbedarf erfasst werden, der den Bedarf an Betriebs- und Hilfsstoffen sowie Verschleißmaterial\footnote{Vgl. \cite[S.104]{Pfohl2018}} anzeigt.\footnote{Vgl. \cite[S.243]{Alpar2019}}
-	\end{itemize}
-	Die ermittelten Sekundär- und Tertiärbedarfe stellen zunächst grundsätzlich Bruttobedarfe dar, die sich durch Lagerbestandsfortschreibung in Nettobedarfe überführen lassen.\footnote{Vgl. \cite[S.243]{Alpar2019}}\\
-	Die Zusammenhänge sind in Abbildung \ref{img:Materialbedarfsarten} dargestellt.
-	%Bild ->
-	\begin{figure}[!htb]
-	\centering
-	\includegraphics[width=1\linewidth]{pfohl_Materialbedarfsarten}
-	\captionof{figure}[Materialbedarfsarten]{Materialbedarfsarten\footnotemark}
-	\label{img:Materialbedarfsarten}
-	%Bild <-
-	\end{figure}
-	\addtocounter{footnote}{+0}\footnotetext{\cite[S.287]{hartmann2002materialwirtschaft}}
-	\item Losgrößenplanung
-	\item Termin- und Kapazitätsplanung
-	\item Auftragsfreigabe
-	\item Ablaufplanung
+\item Primärbedarf\\
+Die Primärbedarfsplanung ermittelt die herzustellende Menge der zum Absatz bestimmten, d.h. verkaufsfähigen Erzeugnisse, Baugruppen oder Einzelteile nach Art, Menge und Termin bzw. Planungsperiode.\footnote{Vgl. \cite[S.199]{Abts2017} und \cite[S.108]{Loedding2016}}
+Dieser Prozess wird maßgeblich durch Kalkulation bestehender Aufträge sowie Absatzprognosen auf der einen Seite und maschinelle sowie personelle Kapazität auf der anderen Seite beeinflusst.\footnote{Vgl. \cite[S.199]{Abts2017}}
+Ebenfalls geläufig ist die Bezeichnung Produktionsprogramm bzw. Produktionsprogrammplanung.\footnote{Vgl. \cite[S.108]{Loedding2016}}
+\item Sekundärbedarf\\
+Der darauf aufbauende Materialbedarf bzw. Sekundärbedarf und dessen Planung ermittelt anhand von Stücklisten oder früherer Verbrauchswerte abzüglich Lagerkapazitäten\footnote{Vgl. \cite[S.200]{Abts2017}} den für den Primärbedarf notwendige Menge an Komponenten und Teilen und ordnet diese periodengerecht zu\footnote{Vgl. \cite[S.110]{Loedding2016}}.
+\item Tertiärbedarf\\
+Darüber hinaus kann ein Tertiärbedarf erfasst werden, der den Bedarf an Betriebs- und Hilfsstoffen sowie Verschleißmaterial\footnote{Vgl. \cite[S.104]{Pfohl2018}} anzeigt.\footnote{Vgl. \cite[S.243]{Alpar2019}}
 \end{itemize}
+Die ermittelten Sekundär- und Tertiärbedarfe stellen zunächst grundsätzlich Bruttobedarfe dar, die sich durch Lagerbestandsfortschreibung in Nettobedarfe überführen lassen.\footnote{Vgl. \cite[S.243]{Alpar2019}}\\
+Die Zusammenhänge sind in Abbildung \ref{img:Materialbedarfsarten} dargestellt.
+%Bild ->
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=1\linewidth]{pfohl_Materialbedarfsarten}
+\captionof{figure}[Materialbedarfsarten]{Materialbedarfsarten\footnotemark}
+\label{img:Materialbedarfsarten}
+\end{figure}
+%Bild <-
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.287]{hartmann2002materialwirtschaft}}
+Die Berechnungsmethoden für die skizzierten Zwecke werden literaturübergreifend unterschieden zwischen deterministischen, stochastischen und Schätzungs-Ansätzen.\footnote{Vgl. \cite[S.284]{hartmann2002materialwirtschaft}, \cite[S.105]{Pfohl2018} und \cite[S.443ff und S.489ff]{Schoensleben2016}}
+\begin{itemize}
+\item Deterministisch Verfahren\\
+Deterministische Verfahren existieren sowohl analytischer als auch synthetischer Natur.
+Während analytische Verfahren die exakte Kalkulation anhand von Stücklisten vornehmen\footnote{Vgl. \cite[S.105]{Pfohl2018}}, geht die synthetische Bedarfsermittlung mit Teileverwendungsnachweisen an die Ermittlung heran.\footnote{Vgl. \cite[S.105]{Pfohl2018}}
+Deterministische Verfahren sind deduktiv.
+\item Stochastisch Verfahren\\
+Stochastische nutzen zur Bedarfsermittlung historische Verbrauchsdaten vergleichbarer Produktionen.
+Auf deren Basis wird eine Prognose der geplanten Produktion vorgenommen.\footnote{Vgl. \cite[S.106]{Pfohl2018}}
+Je nach Tendenz (steigend, gleichbleibend) sind dafür Methoden wie die Mittelwerbildung, exponentielle Glättung oder Regressionsrechnung möglich.\footnote{Vgl. \cite[S.106]{Pfohl2018}}
+Stochastische Verfahren sind induktiv.
+\item Schätzverfahren\\
+Sind für keine der beiden genannten Methoden die Voraussetzungen gegeben, so bleiben lediglich Schätzmethoden übrig.
+Hierbei ist lediglich zu unterscheiden zwischen rein intuitiven Schätzungen einer oder mehrerer Personen und logisch begründbaren und damit intersubjektiv überprüfbaren Schätzungen.\footnote{Vgl. \cite[S.106]{Pfohl2018}}
+\end{itemize}
+Die Zusammenhänge der Berechnungsmethoden sind in Abbildung \ref{img:berechnungsmethoden} dargestellt.
+%Bild ->
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=1\linewidth]{methoden_bedarfsermittlung}
+\captionof{figure}[Methoden der Bedarfsermittlung]{Methoden der Bedarfsermittlung\footnotemark}
+\label{img:berechnungsmethoden}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.289]{hartmann2002materialwirtschaft}}
+%Bild <-
+%---------------
+%LOSGRÖSSEN
+\subsubsection{Losgrößen}
+	Ein Los besteht ,,aus einer bestimmten Anzahl konstruktiv und technologisch gleicher oder ähnlicher Einzelteile, die unabhängig davon, ob sie zu einem oder mehreren Endprodukten gehören, gemeinsam in einem Fertigungsauftrag unter einmaliger Gewährung der Rüstzeit\footnote{,,Als Rüsten bezeichnet man den Vorgang, die Maschine auf die Fertigung eines neuen Teiles oder Loses einzurichten. Teil des Rüstens sind auch Probeläufe der Maschine.'' - \cite[S.182]{vahrenkamp2008produktionsmanagement}} je Arbeitsgang und Arbeitsplatz gefertigt werden.''\footnote{\cite[S.670]{nebl2007produktionswirtschaft}}
+	Eine Losgröße beschreibt demnach die Menge gleichartiger Objekte, die nacheinander in einem Rüstvorgang angefertigt werden.
+	Losgrößen sind sowohl für Primär- als auch Sekundär- und Tertiärbedarf festzulegen.\footnote{Vgl. \cite{siepermann2018}}
+	Bei der Losgrößenplanung handelt sich um ein Methodenportfolio zur Kosten- oder Flussoptimierung\footnote{Vgl. \cite[S.153]{vahrenkamp2008produktionsmanagement}}
+	Es wird zwischen Durchlaufzeitminimierung, Flussoptimierung mit Engpassberücksichtigung, Kostenminimierung und Lager- und-Produktionskostenoptimierung unterschieden.
+	\begin{itemize}
+		\item Durchlaufzeitminimierung\\
+		Der Ansatz durchlaufzeitminimaler Lose stammt aus der Lean Production\footnote{Vgl. \cite[S.154]{vahrenkamp2008produktionsmanagement}} und fokussiert exklusiv die Minimierung der Produktionszeit eines Loses.\footnote{Vgl. \cite[S.154]{vahrenkamp2008produktionsmanagement}}
+		Die Rüstvorgänge werden dabei genau wie die Produktionsvorgänge lediglich hinsichtlich der Dauer betrachtet.\footnote{Vgl. \cite[S.154]{vahrenkamp2008produktionsmanagement}}
+		Das Verfahren versucht zu hohen Anteil an Rüstzeiten gegenüber zu langer Bearbeitungsdauer zu optimieren.\footnote{Vgl. \cite[S.154]{vahrenkamp2008produktionsmanagement}}
+		\item Flussoptimierung mit Engpassberücksichtigung\\
+		Wie auch die Durchlaufzeitminimierung besteht auch dieser Ansatz in zeitlicher Optimierung.\footnote{Vgl. \cite[S.155]{vahrenkamp2008produktionsmanagement}}
+		Der Ansatz ist vor allem dann relevant, wenn verschiedene Produkte in vorgegebenem Zyklus hintereinander auf einer Maschine produziert werden muss.
+		Die Problematik besteht weniger in diesem Vorgang als in der Synchronisierung mit anschließenden Vorgängen die von dessen Erzeugnissen abhängig sind bzw. darauf aufbauen.\footnote{Vgl. \cite[S.155]{vahrenkamp2008produktionsmanagement}}
+		Das Verfahren stimmt die Losgröße auf den Bedarf ab.\footnote{Vgl. \cite[S.155-157]{vahrenkamp2008produktionsmanagement}}
+		\item Kostenminimierung\\
+		Die Kostenminimierung ist hingegen ein klassisches betriebswirtschaftliches Losgrößenbestimmungsverfahren.
+		Die fixen Rüstkosten zuzüglich der variablen Herstellungskosten sind rein ökonomisch anhand des Bedarfes und der möglichen Laufzeiten so zu kalkulieren, dass die Kosten möglichst gering sind.\footnote{Vgl. \cite[S.158]{vahrenkamp2008produktionsmanagement}}
+		\item Lager- und-Produktionskostenoptimierung\\
+		In diesem Verfahren werden zusätzlich zu Rüst- und Produktionskosten die Lagerkosten berücksichtigt und das Verhältnisse für einen isolierten Teil der Produktionsstufe optimiert.\footnote{Vgl. \cite[S.159]{vahrenkamp2008produktionsmanagement}}
+		Die Prämisse des Verfahrens ist, dass Erzeugnisse mit Fertigstellung Lagerkosten verursachen.
+		Dabei sind vor allem häufige Rüstkosten hohen Lagerkosten gegenüber zu optimieren.
+		Die optimale Losgröße nach Andler z.B. ermittelt eine Losgröße, welche die Summe von Rüst- und Lagerkosten minimiert und ist auch auf Einkaufslosgrößen übertragbar, wenn Rüstkosten durch bestellfixe Kosten ersetzt werden.\footnote{Vgl. \cite{andler1929}}
+	\end{itemize}
+	Die Berechnungsmethoden für die skizzierten Zwecke sind entweder statischer oder dynamischer Natur.\footnote{Vgl. \cite[S.284]{hartmann2002materialwirtschaft}, \cite[S.105]{Pfohl2018} und \cite[S.443ff und S.489ff]{Schoensleben2016}}
+	\begin{itemize}
+		\item Statische Verfahren
+		Statische Verfahren wie der Ansatz von Andler verwenden lediglich die Kosten (Rüst-, Lager- und variable Produktionskosten) und berechnen die Losgröße einer Planungsperiode.\footnote{Vgl. \cite[S.162]{vahrenkamp2008produktionsmanagement}}
+		\item Dynamische Verfahren
+		Dynamische Verfahren sind dagegen auf zeitlich veränderliche Nachfragemengen ausgerichtet.
+		Außerdem existieren Verfahren für ein- und mehrstufige Verfahren.
+	\end{itemize}	
+	%---------------
+%TERMIN- und KAPAZITÄTSPLANUNG	
+\subsubsection{Termin- und Kapazitätsplanung}
+\todo{In der Leseprobe von Vahrenkamp fehlten hier Seiten}
+Nach Abschluss der Planung der Produktionsmengen ist festzulegen, in welcher Weise Aufträge die Produktion zu durchlaufen\footnote{Vgl. \cite[S.181]{vahrenkamp2008produktionsmanagement}} haben und welche Zeitstrukturen dabei einzuhalten sind.\footnote{Vgl. \cite[S.214]{Abts2017}}
+Dabei ist auch die Kapazität von Infrastruktur und Personal zu berücksichtigen.\footnote{Vgl. \cite[S.200]{Abts2017} und \cite[S.181]{vahrenkamp2008produktionsmanagement}}
+Der Planungsprozess setzt sich aus der Durchlauf- und Kapazitätsterminierung zusammen.\footnote{Vgl. \cite[S.181]{vahrenkamp2008produktionsmanagement}}\\
+%Durchlaufterminierung
+Die Durchlaufterminierung legt vorläufige Star- und Endtermine der Arbeitsvorgänge sowie deren Koordination grob fest.\footnote{Vgl. \cite[S.181]{vahrenkamp2008produktionsmanagement}}
+Kapazitätsrestriktionen bleiben bis zu diesem Punkt unberücksichtigt.\footnote{Vgl. \cite[S.181]{vahrenkamp2008produktionsmanagement}}
+Zentraler Aspekt bei dieser Planung ist die Arbeitsplatzdurchlaufzeit, die die Zeitspanne für jeden Arbeitsschritt definiert, um diesen zwischen dem davor und dem danach liegenden Arbeitsschritt einzuordnen.\footnote{Vgl. \cite[S.182]{vahrenkamp2008produktionsmanagement}}
+Die Arbeitsplatzdurchlaufzeit setzt sich dabei aus aus den Komponenten Transportzeit, Wartezeit, Rüstzeit und der eigentlichen Bearbeitungszeit zusammen\footnote{Vgl. \cite[S.182]{vahrenkamp2008produktionsmanagement}}, vgl. Abbildung \ref{img:arbeitsplatzdurchlaufzeit}, wobei sowohl ablauforganisatorische oder technische Gründe für Wartezeit verantwortlich sein können (z.B. Materialaushärtung).\footnote{Vgl. \cite[S.181]{vahrenkamp2008produktionsmanagement}}
+%Bild ->
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=0.5\linewidth]{arbeitsplatzdurchlaufzeit}
+\captionof{figure}[Arbeitsplatzdurchlaufzeit]{Arbeitsplatzdurchlaufzeit\footnotemark}
+\label{img:arbeitsplatzdurchlaufzeit}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.182]{vahrenkamp2008produktionsmanagement}}
+%Bild <-
+Die Summe aller Arbeitsplatzdurchlaufzeiten ergibt die Schätzung für die Durchlaufzeit eines gesamten Auftrags.
+Aufgrund möglicher Konkurrenzen um Arbeitsstationen können sich Wartezeiten verändern und, da Rüstzeiten reihenfolgen- und zustandsabhängig sind, können sich diese ebenfalls verändern, sodass ohne Kapazitätsberücksichtigung die Durchlaufzeitenkalkulatio lediglich eine zu interpretierende Schätzung darstellt.\footnote{Vgl. \cite[S.182]{vahrenkamp2008produktionsmanagement}}
+Der Pfad der Gesamtdurchlaufzeit stellt den kritischen Pfad der Produktion dar.\footnote{Begriff aus der Netzplantechnik, vgl. \cite[S.182]{vahrenkamp2008produktionsmanagement}}
+Mithilfe von Vorwärts- oder Rückwärtsterminierung werden letztlich alle Zeitpunkte bzw. Termine für die Produktion festgelegt.\footnote{Vgl. \cite[S.184-185]{vahrenkamp2008produktionsmanagement}}\\\\
+%Kapazitätsterminierung
+Aus der Durchlaufterminierung resultieren terminierte Aufträge, deren Durchführbarkeit noch nicht bestätigt ist.\footnote{Vgl. \cite[S.185]{vahrenkamp2008produktionsmanagement}}
+Diese Verifikation ist Aufgabe der Kapazitätsterminierung in Form der Ermittlung von Unter- bzw. Überauslastungen, die untereinander ausgeglichen werden müssen.\footnote{Vgl. \cite[S.200]{Abts2017}}
+Mögliche Kapazitätseinschränkungen resultieren aus Wartungs- und Instandhaltungsarbeiten, Produktionsstörungen sowie Urlaubs- und Krankheitszeiten des Personals.\footnote{Vgl. \cite[S.200]{Abts2017}}
+Solche Kapazitätsengunstimmigkeiten bedingen entweder die Anpassung des Kapazitätsangebots an die Kapazitätsnachfrage (Kapazitätsanpassung) oder umgekehrt (Belastungsanpassung).\footnote{Vgl. \cite[S.126-128]{kurbel2016enterprise},\\ \cite[S.186-187]{vahrenkamp2008produktionsmanagement},\\ \cite[S.190-193]{zaepfel2010grundzuege} und\\ \cite[S.689-690]{schweitzer1994industriebetriebslehre}}
+Kapazitätsanpassungen sind z.B. möglich durch zeitliche Modifikation (Überstunden oder Kurzarbeit bei Überlastung, Schichtabbau bei Unterlastung, etc.), Intensitätsanpassung (Durchsatzerhöhung oder -verringerung durch Anpassung der Produktionsgeschwindigkeit) oder quantitativer Anpassung (Nutzung von Reserven bei Überlastung, temporäre Stilllegung bei Unterlastung, Umschichtung von Personal aus anderen Bereichen, etc.).\footnote{Vgl. \cite[S.267-269]{kiener2012produktions} \cite[S.229]{guenther2011produktion}}\\\\
+Belastungsanpassungen sind z.B. durch zeitliche Verschiebung von Fertigungsaufträgen, die nicht bereits zum frühesten Zeitpunkt geplant sind, auf Zeitpunkte mit geringerer Auslastung zu realisieren.
+Ferner sind Stauchungen und Streckungen durch geringere oder höhere Kapazitätsinanspruchnahme möglich, Anpassung der Auftragsgröße (falls nur ein Teil des Loses zur Auftragserfüllung notwendig ist (Überlastung) oder überproduzierte Errzeugnisse auf Lager gelegt werden können (Unterlastung)), externe Auftragsvergabe bis hin zu Auftragsverzicht (Überlastung) oder Auftragsannahme (Unterlastung) oder, sofern technisch möglich, alternative Durchführung von Arbeiten auf anderen Betriebsmitteln.\footnote{Vgl. \cite[S.269-271]{kiener2012produktions} und\\ \cite[S.716-720]{Nebl2011}}\\
+Die Maßnahmen sind dabei nicht immer klar voneinander abzugrenzen, da z.B. Intensitätsanpassungen auch Stauchungen bzw. Streckungen bedingen.
+\subsubsection{Auftragsfreigabe}
+\subsubsection{Ablaufplanung}
 
 
 
 \subsection{Teilbereiche}
+%https://refa.de/service/refa-lexikon/produktionsmanagement mal gucken
 \subsubsection{Strategisches Produktionscontrolling}
 \subsubsection{Taktisches Produktionscontrolling}
 \subsubsection{Operatives Produktionscontrolling}

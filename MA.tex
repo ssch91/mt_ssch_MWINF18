@@ -31,6 +31,12 @@
 %Parametrierung der Packages
 \include{metadata}
 
+%Latex Smartdiagram, Bäumc zeichnen und Stil
+\usepackage{forest}
+\useforestlibrary{edges}
+
+%footnote ohne Indent
+\usepackage[hang,flushmargin]{footmisc}
 
 %Abkürzungsverzeichnis erstellen
 \makeglossaries
@@ -38,7 +44,7 @@
 \begin{document}
 
 \input{titlepage}
-12\tableofcontents 
+\tableofcontents 
 \newpage
 \addcontentsline{toc}{section}{Abbildungsverzeichnis}
 \listoffigures
