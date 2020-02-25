@@ -19,10 +19,27 @@ Hier stellt sich nun die Frage, inwieweit die Differenzierung der Funktionsberei
 Da vor allem der Gesamtbereich der planerischen und steuernden Aspekte der Produktion einschlägige Überlegungen zu Flexibilität aufweist und deren Übertragbarkeit geprüft werden soll, scheint eine harte Begriffstrennung insofern nicht hilfreich, als dass Methoden aufgabenbereichsübergreifend zum Einsatz kommen können.
 Die Unterscheidung  der zeitlichen Planungshorizonte (strategisch, taktisch, operativ) ist ferner übergreifend in immer ähnlicher Auslegung zu bemerken, sodass eine weniger strikte Trennung darüber hinaus nicht trivialisierend scheint.
 Die alleinige Betrachtung von Steuerungsmethoden, also die Ausklammerung von Planungsmethoden wäre sowieso eine unangemessene Reduktion des Untersuchungsbereichs.
-\subsection{Betrachtungsgegenstände}
+\subsection{Betrachtungsgegenstände}\label{betrachtungsgegenstaende}
+Die Betrachtungsgegenstände umfänglich zu erfassen ist essentiell, um Dimensionsansätze zu identifizieren, in denen Flexibilität zum Tragen kommen kann.
+In dieser Hinsicht eignet sich das hierarchische Konzept der \gls{PPS}, welches in der Literatur zu ablauforganisatorischen Konzeption von  Logistik und Produktion übergreifend wiederfindet.
+Die Tragweite des Konzepts wird deutlich durch die Einstufung von Drexl et al., die vor dem Hintergrund der stärkeren Integration von Produktions- und Planungsbestandteilen mit Aspekten der Datenverarbeitung konstatierten:
+,,Unter Produktionsplanung und -steuerung versteht man die räumliche, zeitliche und mengenmäßige Planung, Steuerung und Kontrolle des gesamten Geschehens im Produktionsbereich.''\footnote{\cite[S.1]{Drexl1993KonzeptionelleGK}}
+Zäpfel ergänzt die Tragweite auf lang-, mittel- und kurzfristige Ausstattungs, Programm- und Prozessentscheidungen.\footnote{Vgl. \cite{zaepfel2010taktisches}, \cite{zaepfel2014strategisches} und \cite{zaepfel1982operatives}}
+%Bild ->
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=1\linewidth]{pps_system}
+\captionof{figure}[Produktions-Planungs-und-Steuerungs-System]{Produktions-Planungs-und-Steuerungs-System\footnotemark}
+\label{img:pps_system}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{Eigene Darstellung nach \cite[S.113]{vahrenkamp2008produktionsmanagement}, \cite[S.2-3]{Drexl1993KonzeptionelleGK}, \cite[S.471]{zelewski2008produktionsplanungs}, \cite[S.259]{Kistner2001}, \cite[S.251-259]{hansmann2006industrielles}, \cite[S.17]{Wiendahl2002} und \cite[S.101]{fandel2011produktionsmanagement}}
+%Bild <-
+Der Prozess deckt die Planung des Materials, der Kapazitäten und Termine ab sowie die anschließende Überführung in vorhandene Systeme und Anlagen zur Ausführung unter Berücksichtigung einschlägiger Einschränkungen sowie die Informationserfassung zu Steuerung im Ablauf und deren Maßnahmentwicklung (vgl. Abbildung \ref{img:pps_system}).
+Das Planungs- und Steuerungsproblem wird dabei in Teilprobleme zerlegt, deren Lösung wiederum Input für die nächste Prozessstufe ist (Konsekutivschritte\footnote{Vgl. \cite{vahrenkamp2008produktionsmanagement}}).
+Die \gls{PPS} steht damit stellvertretend für die ganzheitliche Planung und Steuerung aller mit der Produktion in Zusammenhang stehenden Aspekte sowie dem Controlling-Aspekt, der inhaltlich darauf aufbaut.
+Der Modell-Aspekt betont dabei die Notwendigkeit der Adaption an betriebliche Rahmenbedingungen.
+
 \subsubsection{Bedarfsplanung}
-%bild produktionsplanung
-\todo{einleiten mit produktionsplanungsprozess}
 \begin{itemize}
 \item Primärbedarf\\
 Die Primärbedarfsplanung ermittelt die herzustellende Menge der zum Absatz bestimmten, d.h. verkaufsfähigen Erzeugnisse, Baugruppen oder Einzelteile nach Art, Menge und Termin bzw. Planungsperiode.\footnote{Vgl. \cite[S.199]{Abts2017} und \cite[S.108]{Loedding2016}}
@@ -139,21 +156,165 @@ Belastungsanpassungen sind z.B. durch zeitliche Verschiebung von Fertigungsauftr
 Ferner sind Stauchungen und Streckungen durch geringere oder höhere Kapazitätsinanspruchnahme möglich, Anpassung der Auftragsgröße (falls nur ein Teil des Loses zur Auftragserfüllung notwendig ist (Überlastung) oder überproduzierte Errzeugnisse auf Lager gelegt werden können (Unterlastung)), externe Auftragsvergabe bis hin zu Auftragsverzicht (Überlastung) oder Auftragsannahme (Unterlastung) oder, sofern technisch möglich, alternative Durchführung von Arbeiten auf anderen Betriebsmitteln.\footnote{Vgl. \cite[S.269-271]{kiener2012produktions} und\\ \cite[S.716-720]{Nebl2011}}\\
 Die Maßnahmen sind dabei nicht immer klar voneinander abzugrenzen, da z.B. Intensitätsanpassungen auch Stauchungen bzw. Streckungen bedingen.
 \subsubsection{Auftragsfreigabe}
-\subsubsection{Ablaufplanung}
-
-
-
-\subsection{Teilbereiche}
-%https://refa.de/service/refa-lexikon/produktionsmanagement mal gucken
+Die Schnittstelle zwischen Produktionsplanung stellt die Auftragsfreigabe dar.\footnote{Vgl. \cite[S.243]{vahrenkamp2008produktionsmanagement}}
+Bestandteil dieses vergleichsweise umfangsarmen Prozesses ist nach vorheriger Prüfung des benötigten Inputs (vgl. \ref{DefinitionProduktionscontrolling}) dessen die Bereitstellung  unter Kommunikation aller für die Auftragsabwicklung notwendigen Informationen.\footnote{Vgl. \cite[S.243]{vahrenkamp2008produktionsmanagement}}
+Dazu sind drei verschiedene Verfahrenskategorien zu ermitteln: die sofortige Auftragsfreigabe, Auftragsfreigabe nach Termin und die bestandsregelnde Auftragsfreigabe.\footnote{Vgl. \cite[S.354]{Loedding2016}}
+Da diese bis auf letztere aufgrund offensichtlicher durch Simplizität begründete Probleme (z.B. die mangelnde Differenzierung zwischen wichtigen und weniger wichtigen Aufträgen) für komplexe Produktionen weniger relevant (geworden\footnote{Vgl. \cite[S.xv-xvi]{Loedding2016}}) sind, finden sie sich in der Praxis vor allem in schlanken Produktionsstrukturen mit Kanban-Verwendung wieder.\footnote{Vgl. \cite[S.341]{Loedding2016}}
+Die differenztierteren bestandsregelnden Methoden kalkulieren das Erzeugnisvolumen nicht in Abhängigkeit des Auftragsvolumens sondern anhand des Gesamtproduktionsvoluments,\footnote{Vgl. \cite[S.354]{Loedding2016}} um ein ausreichendes Erzeugnisvolumen ganzheitlich zu garantieren.
+Daneben existieren als Sonderform der bestandsregelnden Methoden die Auftragsfreigabeverfahren mit arbeitssystemspezifischem Belastungsausgleich.
+Diese versuchen, das Erzeugnisvolumen in Abhängigkeit des auf Arbeitssysteme (Arbeitsstationen) heruntergebrochenen Gesamtproduktionsvolumens zu steuern und berücksichtigen dabei direkten (aktuell zu erzeugenden) Output und indirekten (auf Basis des zu erwartenden Outputs des davor liegenden Arbeitsstation) und streben dabei eine Überlastungsvermeidung der Arbeitssysteme, als die Einhaltung von Maximalwerten an.\footnote{Vgl. \cite[S.347-348]{Loedding2016}}
+Eine vollständige Übersicht der Verfahren findet sich in Anhang x.\todo{Bild schon im Ordner, Anhang bauen}
+\subsubsection{Ablaufplanung}\label{Ablaufplanung}
+Die Ablaufplanung soll einen detailliert terminierten Maschinenbelegungsplan hervorbringen.\footnote{Vgl. \cite[S.279-280]{domschke1997produktionsplanung}}
+Dadurch werden in Abhängigkeit von Auftragsfreigabezeitpunkt, gewünschtem Fertigstellungstermin und der Bearbeitungszeit die Arbeitssystembelegungen so feinterminiert und zugewiesen\footnote{Vgl. \cite[S.280-281]{domschke1997produktionsplanung}},
+dass Kapazitäten bestmöglich ausgeschöpft, Durchlaufzeit gering gehalten und eine hohe Termintreue erreicht wird.\footnote{Vgl. \cite[S.236-239]{Bloech2014} und \cite[S.291-293]{domschke1997produktionsplanung}}
+Diesbezüglich besteht ein Zielkonflikt zwischen Minimierung der (Gesamt-)Durchlaufzeit und Maximierung der Kapazitätsausschöpfung.\footnote{Vgl. \cite[S.203]{Liesegang1975}}
+Zusätzlich erschwerend wirken bei der Ermöglichung maximaler Kapazitätsausschöpfung stochastische Umgebungsansätze wie schwankende Nachfragemengen und Störungen aufgrund derer Warteschlangen vor Arbeitssystemen in Kauf zu nehmen wären, was wiederum nicht dem Ziel der Durchlaufzeitminimierung entspräche.
+ Die praktische Lösung von Problemen der Ablaufplanung besteht in der Beherrschung großer Probleme der Kombinatorik.\footnote{Vgl. \cite[S.196]{Liesegang1975} und \cite{Seelbach1975}}
+ In der Praxis sind vor allem Näherungsverfahren im Einsatz\footnote{auch heuristische Verfahren bezeichet, vgl. \cite[S.212]{zaepfel2010grundzuege} sowie  \cite[S.202]{guenther2011produktion}}, die die Komplexität der Parameterkombinationen unter Berücksichtigung verschiedener Umfeld- und Auftragscharakteristika\footnote{Vgl. \cite[S.203]{Liesegang1975} zum methodischen Ansatz der Kombinatorik und \cite[S.283-290]{domschke1997produktionsplanung} zu auftrags- und produktionsumfeldbezogenen Charakteristika wie Maschinenmodellen sowie ähnlich wie Liesegang et al. zu sequentiellen Abhängigkeiten.} approximierend, d.h. in Subsysteme bzw. -probleme unterteilt, lösen.\footnote{Vgl. dazu auch umfassend z.B. \cite{Jaehn2019}, \cite[S.201-209]{guenther2011produktion} und \cite{Adam1993}}
+ Die verwendete Methode kann dabei einen Fokus für die Ablaufplanung hinsichtlich angesprochenen Zielkonflikts legen\footnote{Vgl. dazu auch \cite[S.103-125]{Kistner2001}}, indem ein Kriterium präferiert wird.\footnote{z.B. die Kürzeste-Operationszeit-Regel zur Reduktion der Durchlaufzeit, vgl. \cite[S.204]{guenther2011produktion}}
+ Methodisch lassen sich in diesem Planungsprozess methodische Analogien zum Projektmanagement feststellen.
+ Die inhaltliche Darstellung eines Projekts über Projektstrukturpläne kann in ähnlicher Weise ablaufgeplant werden, wobei auch zur Terminierung, Zuweisung und Koordination teils identische Darstellungsmethoden wie Netzplantechnik oder Gantt-Diagramme genutzt werden.\footnote{Vgl. \cite{Jakoby2018}}
+ \subsubsection{Auftragsüberwachung}
+ Als letzte Sektion des \gls{PPS}-Prozesses dient die Auftragsüberwachung dazu, Aufträge in der Produktion zu verfolgen, Belastungen zu beobachten, Störungen aufzudecken und auf diese Weise rechtzeitig\footnote{Vgl. \cite[S.154]{mathar2009unternehmenslogistik}} präventive oder reaktive Maßnahmen zu ermöglichen.\footnote{Vgl. \cite[S.280]{kuepper2004ablauforganisation}}
+ Darüber hinaus steht das übergeordnete Ziel der Produktionssteuerung im Fokus, die Aufgabenabwicklung ,,bereichsübergreifend, durchgängig und ohne Informationsbrüche unter Zeit-, Kosten und Qualitätsgesichtpunkten zu koordinieren''\footnote{\cite[S.34]{Lindl1994}}.
+ Die Betrachtungsaspekte in dieser Hinsicht sind z.B. Beginn- und Endtermine unterschiedlicher Ebenen (z.B. je Arbeitsstation), Materialverbräuche und Ausfälle (z.B. technische oder personelle).\footnote{Vgl. \cite[S.201]{Abts2017} und \cite[S.50]{Schotten1998}}
+ Voraussetzung dafür ist die konsequente Datenerfassung, in diesem Kontext \gls{BDE} genannt, die für ,,die Meldung sämtlicher abbrechnungsrelevanter Ereignisse während der Wertschöpfung''\footnote{\cite[S.629]{Schoensleben2016}} sorgt.
+ Die Gegenüberstellung von erfassten Ist-Werten und den Soll-Werten aus der Produktionsplanung weist per Abweichungsanalyse auf Handlungsnotwendigkeiten hin.\footnote{Vgl. \cite[S.201]{Abts2017}} 
+ Simon und Wiendahl formulieren dazu identische Modelle, vgl. Abbildung \ref{img:ablauf_auftragsueberwachung}.
+ \begin{figure}[!htb]
+\centering
+\includegraphics[width=0.7\linewidth]{wiendahl_2002_auftragsueberwachung}
+\captionof{figure}[Ablauf der Auftragsüberwachung]{Ablauf der Auftragsüberwachung\footnotemark}
+\label{img:ablauf_auftragsueberwachung}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.99, Abb. 4.22]{Wiendahl2002}, inhaltlich und terminologisch allerdings völlig deckungsgleich mit \cite[S.67 Abb. 6-1]{Simon1995}. Wiendahl nimmt an dieser Stelle keinen Bezug zu Simon, obwohl inhaltlich kein Unterschied besteht.}
+Die Modelle bedingen eine Erfassung der relevanten Informationen aus der Produktion.
+Dabei ist neben automatisierter Maschinendatenerfassung\footnote{Hierbei ist die Ausprägung der Sensorik von Bedeutung.} vor allem die manuelle Erfassung an Terminals geläufig.\footnote{Vgl. \cite[S.48-51]{Sinsel2020} und \cite[S.68]{Simon1995}}
+Die Daten, die auf diese Weise zusammengeführt werden, sind aufgrund dieser Unterschiede insofern problematisch, als dass sie in stark unterschiedlicher Frequenz erfasst werden, ihr Informationsgehalt schwankt und menschliche Intepretation sie verfälscht. Zu unterscheiden sind z.B.  mittelbar erfasste Daten wie Aushärtungsgrad eines Materials anhand dessen Temperatur und unmittelbar zu erfassende Zustände wie Materialverbrauch anhand von Fullständen vorher und nachher. Während maschinell erfasste Daten in der Regel hochfrequent übermittelt werden können, sind bei manueller Erfassung Grenzen gesetzt.
+Bei letzteren sind Erfassungsfehler möglich, außerdem Interprationsfehler z.B. bei der Angabe von Gründen für Stillstand.
+Zwar sind auch bei sensorischer Erfassung Fehler möglich, aber auch analysier- und korrigierbar.
+Verfahren der künstlichen Intelligenz wie das maschinelle Lernen etablieren sich in dieser Hinsicht zur Vermeidung von Interpretationsfehlern sowie zur selbstständigen Vorhersage notwendiger Maßnahmen.\footnote{Vgl. \cite{Sochaki2020}}
+Entscheidend zur Ermittlung der tatsächlichen Ist-Werte auf Basis der übermittelten Zustandsdaten ist die Adaption (vgl. Abbildung \ref{img:ablauf_auftragsueberwachung}) an stochastische, d.h. nicht exakt modellierbare Einflüsse, die zu Ablaufstörungen führen können und die Zielausrichtung (d.h. Effizienz bzw. Effektivität) verwässern könnten.\footnote{Vgl. \cite[S.99]{Wiendahl2002}}
+Hierfür eignet sich das Modell des adaptiven Zustandsbeobachters.\footnote{Vgl. \cite[S.99]{Wiendahl2002} und \cite[S.68-71]{Simon1995}}
+ \begin{figure}[!htb]
+\centering
+\includegraphics[width=0.7\linewidth]{wiehndahl_2002_zustandsbeobachter}
+\captionof{figure}[Adaptiver Zustandsbeobachter]{Adaptiver Zustandsbeobachter\footnotemark}
+\label{img:zustandsbeobachter}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.100, Abb. 4.23]{Wiendahl2002}}
+Die Grundlage der Modelladaption, die weiterführend die Qualität der Entscheidungsgrundlage sichern soll, sind die Ist-Daten des Fertigungsfortschritts, welche mit den prognostizierten Daten des bisherigen Modells abgeglichen werden.\footnote{Vgl. \cite[S.100]{Wiendahl2002}}
+Wenn wesentliche Abweichungen vorliegen, werden Korrekturen in der Terminierung vorgenommen und Aktualisierung der im Modell hinterlegten Beziehungen.\footnote{Vgl. \cite[S.100]{Wiendahl2002}, zur ausführlichen Definition eines Beobachters vgl. \cite{Lunze2020}}
+Aufgrund der bereits vorher erfolgten Feinterminierung und Kapazitätsplanung stellt sich diesbezüglich die Frage nach Handlungsoptionen.
+Unter Berücksichtigung der bereits in der Planungsphase vorliegenden Einschränkungen und der Reservierung von Kapazitäten reduzieren sich die Optionen auf Reserven, Alternativen sowie den Unwägbarkeiten entstammenden freigebliebenen Ressourcen.
+In diesem Rahmen können Korrekturmaßnahmen veranlasst werden, die Umterminierungen oder Kapazitätsveränderungen beinhalten (vgl. \ref{Ablaufplanung}).
+Eine simple Form der Reaktion ist die Entkopplung von der Maßnahme in Form einer Berichtserstellung.\footnote{Vgl. \cite[S.102]{Jost1993}}
+\subsection{Teilbereiche}\label{Teilbereiche}
+Auch das \gls{P-C} lässt sich inhaltlich nach seiner zeitlichen Ausrichtung differenzieren.
+Die Aufgaben und Inhalte je nach betrachteter zeitlicher Dimension sind dabei entsprechend der Kategorisierung von Horv\'ath, Gleich und Seiter einzuordnen (vgl. Tabelle \ref{tab:1}).
+Anhand dieser Vorgabe stellt sich die Frage nach der Gliederungstiefe in zwei oder drei Dimensionen bzw. der Interpretation der kürzeren Horizonte in jeweils taktisch (mittelfristig) und operativ (kurzfristig) oder in eine kombinierte Perspektive (taktisch/operativ oder wie Horv\'ath, Gleich und Seiter keine explizite Erwähnung mittelfristiger/taktischer Perspektive bzw. die Interpretation als entweder der strategischen oder operativen Perspektive zugehörig).
+Dazu sind grundsätzlich beide Varianten in einschlägiger bzw. einflussreicher Literatur festzustellen.
+Neben Horv\'ath, Gleich \& Seiter konkretisieren z.B. Bauer, Reichmann, Kißler \& Baumöl und Klein \& Schnell je zwei Dimensionen\footnote{Vgl. \cite[S.14-16]{Bauer2017}, \cite[S.362-364]{Reichmann2017} \cite[S.26]{schnell2012controlling}}, während Vahrenkamp, Weber \& Schäffer, Küpper et al. und Gottmann die Dimensionen voneinander trennen.\footnote{Vgl. \cite[S.1ff, S.68ff und S.110ff]{vahrenkamp2008produktionsmanagement}, \cite[S.274-275]{weber2015einfuehrung}, \cite[S.137]{kuepper2013controlling} und \cite[S.9]{Gottmann2019}. Gottmann differenziert hier nicht explizit in der Ausrichtung des Teilbereichs, sondern implizit über darin enthaltene Betrachtungsgegenstände. An anderer Stelle kombiniert sie allerdings beide Perspektiven, vgl. \cite[S.37]{Gottmann2019}.}\\
+\todo{Zäpfel könnte man noch anführen}
+Letztlich ist hier weniger die Terminologie entscheidend, sondern die Identifizierung der in den Teilbereichen enthaltenen Inhalte.
+Daher scheint es folgerichtig, den Fokus weniger auf die Einordnung von Maßnahmen innerhalb einer Perspektive zu legen und sich in dieser Differenzierung zu verlieren, sondern die unterschiedlichen Maßnahmen darin zu identifizieren, weshalb folgend von zwei unterschiedlichen Perspektiven ausgegangen wird.
+Für praktische Ausprägungen für ein Bereichs-Controlling wie das \gls{P-C} ist in der Controlling-Konzeption darüber hinaus immer die Orientierung am Unternehmenscontrolling essentiell, um insofern das fachspezifische Bereichscontrolling inhaltlich mit dem Unternehmenscontrolling zu synchronisierung.\footnote{Vgl. \cite[S.561-567]{kuepper2013controlling}}
 \subsubsection{Strategisches Produktionscontrolling}
-\subsubsection{Taktisches Produktionscontrolling}
-\subsubsection{Operatives Produktionscontrolling}
+%https://refa.de/service/refa-lexikon/produktionsmanagement 
+%https://wiki.hslu.ch/controlling/Produktionscontrolling
+Die Dauer des Planungshorizonts der strategischen Perspektive ist Gegenstand einer fortwährenden Diskussion.
+Während klassischer Weise Ziele von fünf bis zehn Jahren genannt werden\footnote{Vgl. \cite[S.137]{kuepper2013controlling}}, etablieren sich mittlerweile aufgrund von Marktbedingungen kürzere Planungszyklen.\footnote{Vgl. z.B. \cite{Ducharme2020} und \cite{schoeb2015}}
+Auch kürzere Planungszyklen müssen allerdings noch in der Lage sein, dem strategischen Anspruch gerecht zu werden.\footnote{Vgl. \cite{tiefenbeck2018}}
+In der Praxis vertreten sind Zykluszeiten zwischen drei und sieben Jahren.\footnote{Vgl. \cite[S.19]{Alpar2019} zu 5-7 Jahren und \cite[S.58]{schoeb2015} zu 3-5 Jahren}
+Dabei impliziert der Planungszeitraum nur indirekt die Inhalte.
+Manche Unternehmen grenzen als ,,Langfristplanung'' lediglich die zeitliche Erweiterung der Formalziele von der mittelfristigen Planung ab, während eine andere Interpretation strategische Aspekte betont und von grundsätzlich anderen Planungsinhalten als in der taktischen, also mittelfristigen, Planung ausgeht.\footnote{Vgl. \cite[S.275]{weber2015einfuehrung}}
+Ziel der Betrachtung der strategischen Perspektive ist allerdings die Identifizierung diesbezüglich exklusiver Sichtweisen und Inhalte, weshalb erstere Sichtweise nicht hilfreich ist.
+Strategisches Controlling hat grundsätzlich zum Ziel, die Planung des langfristigen Erfolges zu unterstützen\footnote{Vgl. \cite[S.14]{Bauer2017} und \cite[S.275]{weber2015einfuehrung} und \cite[S.137]{kuepper2013controlling}}, vgl. dazu auch \ref{sec:aufgabenundziele}.
+Dazu  werden neben internen Aspekten auch Umweltgrößen mit einbzogen.
+Im Fokus des strategischen \gls{P-C} stehen dabei fertigungswirtschaftliche Faktoren\footnote{Vgl. \cite[S.78]{schnell2018produktion}}:
+\begin{itemize}
+	\item Fertigungstechnologie\\
+	Unternehmen müssen langfristig die eingesetzten Technologien und Werkstoffe dahingehend prüfen, ob sie hinsichtlich Know-How, Kosten und Qualität zukunftsfähig sind oder, ob der technische Fortschritt neue Möglichkeiten bietet.\footnote{Vgl. \cite[S.78]{schnell2018produktion} und \cite[S.15]{Bauer2017}}
+	\item Fertigungskonzept\\
+	Die im \gls{PPS}-Konzept beschriebenen Komponenten sind immer Teil eines Fertigungskonzeptes, welches durch z.B. Organisation des Personaleinsatzes, Anordnung der Fertigungseinrichtung und Automatisierungsgrad beschrieben wird.\footnote{Vgl. \cite[S.78]{schnell2018produktion}}
+	Um hier einen bestmöglichen Fertigungsfluss zu erreichen, muss das Fertigungskonzept bestmöglich auf Produktart, Kundenstruktur und die technischen Gegebenheiten abgestimmt werden.\footnote{Vgl. \cite[S.78]{schnell2018produktion} und \cite[S.15]{Bauer2017}}
+	\item Fertigungstiefe\\
+	Dieselben Faktoren spielen auch bei der Ausrichtung der Fertigungstiefe eine Rolle. 
+	Das Zusammenspiel von Fremdbezug und Eigenfertigung grundsätzlich zu prüfen, hat sowohl ökonomische als qualitative Auswirkungen.\footnote{Vgl. \cite[S.78]{schnell2018produktion} und \cite[S.15]{Bauer2017}}
+	\item Fertigungsstandort\\
+	Die Abwägung logistischer Interessen gegenüber wirtschaftlichen ist eine zentrale Fragestellung bei der Wahl eines Produktionsstandorts.\footnote{Vgl. \cite[S.78]{schnell2018produktion} und \cite[S.16]{Bauer2017}}
+	Zwar stellt sich die Frage einer Verlagerung oder Aufbau eines neuen Standorts nur selten\footnote{Vgl. \cite[S.78]{schnell2018produktion}},
+	doch ist sie dafür umso entscheidender. 
+\end{itemize}
+Die Inhalte strategischer, durch das \gls{P-C} gestützter Entscheidungen beziehen sich in der Konsequenz auf Auslösung oder Nicht-Auslösung von Investitionen\footnote{Vgl. \cite[S.78]{schnell2018produktion} und \cite[S.37]{Gottmann2019}}, wobei der Fokus des Controllings auf der Feststellung der Notwendigkeit und der Prävention von Fehlinvestitionen liegt.\footnote{Vgl. \cite[S.37]{Gottmann2019}}
+\subsubsection{Taktisch-operatives Produktionscontrolling}
+Die Einordnung des zeitlichen Planungshorizonts in der taktisch-operativen Perspektive muss anhand der zuvor vorgenommenen Einschränkung erfolgen.
+Da die dynamischen Marktbedingungen wie angesprochen vor allem die langfristige Planung erschweren, kommen diese Umstände allerdings hier weniger zum Tragen.
+Schäffer \& Weber nennen grundsätzlich Planungshorizonte bis zu fünf Jahren, die das WHU Controller Panel nennt\footnote{Vgl. \cite[S.41]{schaeffer2015controlling}} und einen praktischen Durchschnitt von bis zu drei Jahren.\footnote{Vgl. \cite[S.275]{weber2015einfuehrung}}
+Diese Perspektive betrachtet dabei allerdings auch kürzere Planungszyklen unterhalb eines Wirtschaftsjahres, also die kurzfristige Anschauungsweise.
+Das taktisch-operative \gls{P-C} stellt die Haupttätigkeit eines Produktions-Controllers dar.\footnote{Vgl. \cite[S.25]e{schnell2018modernes}}
+Dabei umfassen die Tätigkeiten neben der Sicherstellung der optimalen Nutzung der fertigungswirtschaftlichen Infrastruktur hinsichtlich der in \ref{betrachtungsgegenstaende} genannten Betrachtungsgegenstände nicht nur die operative Ermittlung und Bereitstellung von relevanten Kennzahlen zu z.B. Auslastung, Ausschuss, Betriebsbereitschaft etc., sondern auch die laufende Konzeption eines optimalen Kennahlensystems und die Unterstützung der Planung bei kurz- und mittelfristigen Maßnahmen zur Verbesserung dieser Kriterien und zur Beseitigung von Ablaufproblemen.
+\\\\
+Das Streben des Produktionsmanagements, mit einem reibungslos funktionierenden Fertigungsbetrieb zum Erfolg des Unternehmens beizutragen, wird maßgeblich durch das \gls{P-C} ermöglicht.
+Erst durch das Erreichen der Controlling-Ziele erhält das Produktionsmanagement die Transparenz, mit der die fertigungswirtschaftlichen Fragen beantwortet werden können, um dadurch die Erreichung der fertigungswirtschaftlichen Ziele zu ermöglichen.\footnote{Vgl. \cite[S.821]{schnell2007}}
+Dadurch streben letztendlich sowohl das Controlling als auch das Management nach denselben übergeordneten Zielen, vgl. Abbildung \ref{img:viereck}.
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=0.7\linewidth]{schnell_2012_viereck}
+\captionof{figure}[Effektivität und Effizienz in der Produktion]{Effektivität und Effizienz in der Produktion\footnotemark}
+\label{img:viereck}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.24, Abb. 1]{klein2012controlling1}}
+Sie bewegen  sich im ,,teuflischen Viereck'' zwischen Leistung, Termintreue, Qualität und Kosten und ermöglichen deren bestmögliche Zieleinhaltung über methodische Synergieeffekte.\footnote{Vgl. \cite[S.23-24]{klein2012controlling1} und \cite[S.80]{schnell2018produktion}}
+\subsubsection{Stufenweiser Ansatz}
+Neben der resümierten inhaltlichen Trennung von strategischem und taktischem/operativem \gls{P-C} formulieren Klein \& Schnell einen ,,stufenweisen''\footnote{\cite[S.80]{schnell2018produktion}} bzw. graduellen Ansatz, der den hierarchisch-funktionellen Zusammenhang von qualitativen und quantitativen Methoden betont.\footnote{Vgl. \cite[S.80]{schnell2018produktion}}
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=0.85\linewidth]{schnell_klein_gradueller_aufbau}
+\captionof{figure}[Stufenweiser Aufbau des Produktions-Controllings]{Stufenweiser Aufbau des Produktions-Controllings\footnotemark}
+\label{img:stufenweiser}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.80, Abb.2]{schnell2018produktion}}
+Dieser Ansatz (vgl. Abbildung \ref{img:stufenweiser}) identifiziert allerdings keine zusätzlichen Ziele oder Inhalte, sondern betont lediglich das integrative Zusammenspiel von kostenrechnerischen Verfahren, Kennzahlen und Kennzahlensystemen und strategischen Analysen in einem Wertstromverfahren.\footnote{Vgl. \cite[S.80]{schnell2018produktion}}\\
+Im Sinne dieser Arbeit soll primär dieser Integrationsgedanke zusäzlich transportiert werden.
 \subsection{Methoden und Techniken}
-KLR selbst digital extrem relevant\cite{kuenzel2018}
+Die in \ref{Teilbereiche} identifizierten Ziele, die im gesamten Spektrum des \gls{P-C} ins Auge gefasst werden, sind dem Ansatz gemäß des Controllings, Handlungsalternativen zu messen und Zielerreichung zu bewerten, durch Methoden realisierungsfähig zu machen.
+Typische Vertreter des strategischen bzw. des taktisch-operativen Controllings sollen dazu untersucht werden.
+Im Rahmen von Produktqualität und Ressourcen- bzw. Kosteneffizienz gewinnt durch die erwähnten volatilen Märkte und die dadurch kürzeren Planungszyklen die Flexibilität an Bedeutung.\footnote{Vgl. \cite[S.151-152]{rossmeissl2014} und \cite[S.80]{gleich2016}}
+\subsubsection{Produktlebenszyklus-Analyse}
+\subsubsection{Balanced Scorecard}
+Die von Kaplan \& und Norton definierte \gls{BSC}\footnote{Vgl. \cite{kaplan1996balanced}} ist ein Kennzahlen- und Führungssystem, das zur von Integration von Strategie und Operative\footnote{Vgl. \cite[S.59-60]{Alpar2019}} dient.
+Dazu wird in der lehrbuchgemäßen Variante eine finanzielle\footnote{Vgl. \cite[S.47-62]{kaplan1996balanced}} Kennzahlenperspektive durch Perspektiven zu Kunden\footnote{Vgl. \cite[S.63-91]{kaplan1996balanced}} , Prozessen\footnote{Vgl. \cite[S.92-125]{kaplan1996balanced}} und Entwicklung\footnote{Vgl. \cite[S.126-146]{kaplan1996balanced}} ergänzt und diese anhand der Geschäftsstrategie ausgerichtet.\footnote{Vgl. \cite[S.147-167]{kaplan1996balanced}}
+Um dies zu erreichen, wird die in der Regel abstrakte Geschäftsstrategie in operationalisierbare Teilziele je Perspektive überführt, diese durch eine oder mehrere Kennzahlen operationalisiert.\footnote{Vgl. \cite{kunz2007bsc}}
+Je Kennzahl werden in der Regel auch Zielwerte und Maßnahmen definiert, um diese zu erreichen, vgl. Abbildung \ref{img:schematischbsc}.\footnote{Vgl. \cite{kunz2007bsc}}\\%HIER ZEILENUMBRUCH!
+%Bild Aufbau BSC
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=0.85\linewidth]{gadatsch_2014_bsc_aufbau}
+\captionof{figure}[Schematischer Aufbau der Balanced Scorecard]{Schematischer Aufbau der Balanced Scorecard\footnotemark}
+\label{img:schematischbsc}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.111, Abb.3.27]{Gadatsch2014}}
+%Bild <--
+Die eingesetzten Kennzahlen sollen sich dabei aus Ursache-Wirkungs-Zusammenhängen ergeben und dabei inhaltlich Aspekte anderer Perspektiven begünstigen.\footnote{Vgl. \cite[S.118]{Horvath2015} und \cite{kunz2007bsc}}
+Einzelne Perspektiven können in diesem Konstrukt wiederum Subsysteme besitzen, deren Definition identisch unter gleichen Voraussetzungen vorzunehmen ist.\footnote{Vgl. \cite[S.116-117]{Horvath2015}}
+Der Betriebsmodus der \gls{BSC} sieht einen Kreislauf vor, der fortwährend Anpassungen der \gls{BSC} aufgrund von Anpassungen der Strategie vorsieht und dabei Kommunikation und Angemessenheitsprüfung (Feedback und Lernen) fordert, vgl. Abbildung \ref{img:fuehrungskreislauf_bsc}.\footnote{Vgl. \cite[S.110]{Gadatsch2014}}
+%Bild Kreislauf
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=0.85\linewidth]{gadatsch_2014_BSC_kreislauf}
+\captionof{figure}[Balanced Scorecard Führungskreislauf]{Balanced Scorecard Führungskreislauf\footnotemark}
+\label{img:fuehrungskreislauf_bsc}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{\cite[S.110, Abb.3.26]{Gadatsch2014}}
+%Bild <--
+In der Praxis sind oft addressatenspezifische \gls{BSC} erforderlich,\footnote{Vgl. \cite[S.47]{kesten2019}}, um dessen bereichsindividuellen Informationsbedarf abdecken zu können.
+Zu diesem Zweck kann entweder die Strategie in eine Sub-Strategie des Teilbereichs überführt und in den Standard-Perspektiven durch Kennzahlen ausgedrückt\footnote{Vgl. \cite{toenissen2010bsc}} oder individuelle Perspektiven für eine bereichsspezifische Strategie gebildet werden,\footnote{Vgl. dazu z.B. \cite{lelke2010bsc}, \cite{Obermaier2017}, \cite{Kempkes2018} und \cite[S.109-119]{Gadatsch2014}} wobei hier nicht zwingend immer nur vier Perspektiven zum Einsatz kommen.\footnote{Beispielhaft vgl. hierzu \cite{reissig2010bsc}}\\
 
-\subsubsection{Strategische Instrumente}
-\paragraph{Produktlebenszyklus-Analyse}
-\paragraph{Balanced Scorecard}
-\subsubsection{Operative Instrumente}
-\paragraph{Kennzahlen}
-\paragraph{Kennzahlensysteme}
+Die \gls{BSC} wird vielfältig eingesetzt und ihr Praxiserfolg ist unbestritten.\footnote{Vgl. dazu die Studie von Horv\'ath \& Partners mit stark positiver Rückmeldung zur strategischen Wirkung der \gls{BSC}: \cite[S.82]{greiner2012}}
+ 
+\subsubsection{Kennzahlen}
+\subsubsection{Kennzahlensysteme}
+KLR selbst digital extrem relevant\cite{kuenzel2018}
+%Flexibilität wird wichtiger: Auswirkungen von Industrie 4.0 auf das Produktionscontrolling von morgen

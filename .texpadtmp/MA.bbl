@@ -57,6 +57,42 @@
       \verb https://doi.org/10.1007/978-3-658-16379-2
       \endverb
     \endentry
+    \entry{Adam1993}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b37729b3207a1b00b3f07fd6a7737e5e}{%
+           family={Adam},
+           familyi={A\bibinitperiod},
+           given={Dietrich},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{b37729b3207a1b00b3f07fd6a7737e5e}
+      \strng{fullhash}{b37729b3207a1b00b3f07fd6a7737e5e}
+      \strng{bibnamehash}{b37729b3207a1b00b3f07fd6a7737e5e}
+      \strng{authorbibnamehash}{b37729b3207a1b00b3f07fd6a7737e5e}
+      \strng{authornamehash}{b37729b3207a1b00b3f07fd6a7737e5e}
+      \strng{authorfullhash}{b37729b3207a1b00b3f07fd6a7737e5e}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Produktions-Management}
+      \field{title}{Ablaufplanung und Fertigungssteuerung}
+      \field{year}{1993}
+      \field{pages}{391\bibrangedash 539}
+      \range{pages}{149}
+      \verb{doi}
+      \verb 10.1007/978-3-322-86149-8_8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-322-86149-8_8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-322-86149-8_8
+      \endverb
+    \endentry
     \entry{Alpar2019}{book}{}
       \name{author}{4}{}{%
         {{hash=b65eda23c9add90eda5a2ccd34f6dfd9}{%
@@ -157,6 +193,39 @@
       \field{journaltitle}{Diskussionsbeiträge: FernUniversität Hagen}
       \field{title}{Interne Marktorientierung durch Verrechnungspreise}
       \field{year}{1999}
+    \endentry
+    \entry{Bauer2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7f5c7c3d42c9a1874abaf1a0cd11fbe4}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{7f5c7c3d42c9a1874abaf1a0cd11fbe4}
+      \strng{fullhash}{7f5c7c3d42c9a1874abaf1a0cd11fbe4}
+      \strng{bibnamehash}{7f5c7c3d42c9a1874abaf1a0cd11fbe4}
+      \strng{authorbibnamehash}{7f5c7c3d42c9a1874abaf1a0cd11fbe4}
+      \strng{authornamehash}{7f5c7c3d42c9a1874abaf1a0cd11fbe4}
+      \strng{authorfullhash}{7f5c7c3d42c9a1874abaf1a0cd11fbe4}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Produktionscontrolling und -management mit {SAP}{®} {ERP}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1007/978-3-658-18366-0
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-18366-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-18366-0
+      \endverb
     \endentry
     \entry{baumhoff2014}{incollection}{}
       \name{author}{1}{}{%
@@ -593,6 +662,165 @@
       \field{pages}{3\bibrangedash 7}
       \range{pages}{5}
     \endentry
+    \entry{domschke1997produktionsplanung}{book}{}
+      \name{author}{3}{}{%
+        {{hash=576030de5045d4db6ce137b375997394}{%
+           family={Domschke},
+           familyi={D\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3f8baae5447026a658ae2233eaac7f22}{%
+           family={Scholl},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1724419bc4a4693924ac74e5a5c96cff}{%
+           family={Vo{ß}},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{18ba7ac48dc07a54a225cb485a8089a7}
+      \strng{fullhash}{18ba7ac48dc07a54a225cb485a8089a7}
+      \strng{bibnamehash}{18ba7ac48dc07a54a225cb485a8089a7}
+      \strng{authorbibnamehash}{18ba7ac48dc07a54a225cb485a8089a7}
+      \strng{authornamehash}{18ba7ac48dc07a54a225cb485a8089a7}
+      \strng{authorfullhash}{18ba7ac48dc07a54a225cb485a8089a7}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. Aufl.}
+      \field{isbn}{9783540635604}
+      \field{series}{Springer-Lehrbuch}
+      \field{title}{Produktionsplanung: Ablauforganisatorische Aspekte}
+      \field{year}{1997}
+    \endentry
+    \entry{Drexl1993KonzeptionelleGK}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=403470810a3601613216c9e763906f97}{%
+           family={Drexl},
+           familyi={D\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=13a42152bb60a6f3ba817450d8e6af4e}{%
+           family={Fleischmann},
+           familyi={F\bibinitperiod},
+           given={Bernd\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=eeb014b1f82376b7e8324940d12aa49f}{%
+           family={G{ü}nther},
+           familyi={G\bibinitperiod},
+           given={H.-O.},
+           giveni={H\bibinithyphendelim O\bibinitperiod}}}%
+        {{hash=9c1de4faed56436322a4b8fade4a885e}{%
+           family={Stadtler},
+           familyi={S\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+        {{hash=61e99bcfb1ff045afb965544588cc864}{%
+           family={Tempelmeier},
+           familyi={T\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d67919af3693013589ae182cc643ace0}
+      \strng{fullhash}{296d6065936cb03fdfd2cf9b01a4b4ce}
+      \strng{bibnamehash}{d67919af3693013589ae182cc643ace0}
+      \strng{authorbibnamehash}{d67919af3693013589ae182cc643ace0}
+      \strng{authornamehash}{d67919af3693013589ae182cc643ace0}
+      \strng{authorfullhash}{296d6065936cb03fdfd2cf9b01a4b4ce}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Manuskripte aus den Instituten für Betriebswirtschaftslehre der Universität Kiel}
+      \field{note}{No. 315}
+      \field{title}{Konzeptionelle Grundlagen kapazit{ä}tsorientierter PPS-Systeme}
+      \field{year}{1993}
+    \endentry
+    \entry{Ducharme2020}{article}{}
+      \name{author}{11}{}{%
+        {{hash=036d961dc4252b92194ec9c983506be0}{%
+           family={Ducharme},
+           familyi={D\bibinitperiod},
+           given={Marie-Pierre},
+           giveni={M\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=f0e0b8c88e4d1adc5d6eeb46d916debe}{%
+           family={Erdl},
+           familyi={E\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a8539e2d6b13991411bc0bc31293fb74}{%
+           family={Heinemann},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=66874331a2863e39462a164244b75b52}{%
+           family={Konz},
+           familyi={K\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=4ea7940cc6de9bd5752ab12d7bea41f0}{%
+           family={Puhlmann},
+           familyi={P\bibinitperiod},
+           given={Helge},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7f31a9936288f779260b7ddc485b90d1}{%
+           family={Queiroz},
+           familyi={Q\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9dba29825b7a3c445ee9a830d081c219}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+        {{hash=74c33fcaa8139975c985d9a1aeea860a}{%
+           family={Reßing},
+           familyi={R\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bb640a0ef26a811e452fc1295f6c6d4a}{%
+           family={Steyerl},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e05b6d0bfb570bf8cc2b6719c5bd9481}{%
+           family={Valesani},
+           familyi={V\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e60c0a67580afae624fd4653d7fc9a55}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WEKA Fachzeitschriftenverlag GmbH}%
+      }
+      \strng{namehash}{9688cbbfe5de7fdff7340c86f2a9bd28}
+      \strng{fullhash}{2d80795ec5ebe8947f344b9dc83fe85a}
+      \strng{bibnamehash}{9688cbbfe5de7fdff7340c86f2a9bd28}
+      \strng{authorbibnamehash}{9688cbbfe5de7fdff7340c86f2a9bd28}
+      \strng{authornamehash}{9688cbbfe5de7fdff7340c86f2a9bd28}
+      \strng{authorfullhash}{2d80795ec5ebe8947f344b9dc83fe85a}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0344-8843}
+      \field{journaltitle}{Markt \& Technik}
+      \field{month}{5}
+      \field{title}{Heuristische Verfahren zur Maschinenbelegungsplanung bei Reihenfertigung}
+      \field{year}{2020}
+      \field{pages}{64\bibrangedash 69}
+      \range{pages}{6}
+    \endentry
     \entry{capgemini2019}{report}{}
       \name{author}{2}{}{%
         {{hash=f8d39da82a124bb8c67a14f836ba9844}{%
@@ -655,6 +883,43 @@
       \field{series}{Betriebswirtschaftliche Schriftenreihe des ZVEI}
       \field{title}{ZVEI-Kennzahlensystem: ein Instrument zur Unternehmenssteuerung}
       \field{year}{1989}
+    \endentry
+    \entry{fandel2011produktionsmanagement}{book}{}
+      \name{author}{3}{}{%
+        {{hash=5991c491479143500fb8e448ed751228}{%
+           family={Fandel},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=554f7a77fa6d880cb1fb404d4ee76fef}{%
+           family={Fistek},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=23f2ea7bebc968629dceaf217eff86b6}{%
+           family={St{ü}tz},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{6b63581a8783bcca2340af8f1312a072}
+      \strng{fullhash}{6b63581a8783bcca2340af8f1312a072}
+      \strng{bibnamehash}{6b63581a8783bcca2340af8f1312a072}
+      \strng{authorbibnamehash}{6b63581a8783bcca2340af8f1312a072}
+      \strng{authornamehash}{6b63581a8783bcca2340af8f1312a072}
+      \strng{authorfullhash}{6b63581a8783bcca2340af8f1312a072}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. Aufl.}
+      \field{isbn}{9783540372172}
+      \field{series}{Springer-Lehrbuch}
+      \field{title}{Produktionsmanagement}
+      \field{year}{2009}
     \endentry
     \entry{fischer2016}{article}{}
       \name{author}{1}{}{%
@@ -779,6 +1044,45 @@
       \verb https://doi.org/10.1007/978-3-658-01590-9
       \endverb
     \endentry
+    \entry{gleich2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f44e32a9dfc831e51a9b30df6b0b8267}{%
+           family={Gleich},
+           familyi={G\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a0a55fd3d3b4142698aca6c0fa34010a}{%
+           family={Thiele},
+           familyi={T\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=31ac4fce5394b106eaff38f1c58c0caf}{%
+           family={Munck},
+           familyi={M\bibinitperiod},
+           given={Jan\bibnamedelima Christoph},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{c000f90df6c372a336662a6577307ab5}
+      \strng{fullhash}{c000f90df6c372a336662a6577307ab5}
+      \strng{bibnamehash}{c000f90df6c372a336662a6577307ab5}
+      \strng{authorbibnamehash}{c000f90df6c372a336662a6577307ab5}
+      \strng{authornamehash}{c000f90df6c372a336662a6577307ab5}
+      \strng{authorfullhash}{c000f90df6c372a336662a6577307ab5}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{3}
+      \field{title}{Auswirkungen von Industrie 4.0 auf das Produktionscontrolling von morgen}
+      \field{year}{2018}
+      \field{pages}{80\bibrangedash 84}
+      \range{pages}{5}
+    \endentry
     \entry{Gottmann2019}{book}{}
       \name{author}{1}{}{%
         {{hash=3e015f5d91805274ee1b7df5849cf133}{%
@@ -891,6 +1195,45 @@
       \field{title}{Produktion und Beschaffung: eine praxisorientierte Einf{ü}hrung}
       \field{year}{1998}
     \endentry
+    \entry{greiner2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=792d0c21a385996af53f4878438768a7}{%
+           family={Greiner},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=af65c3a0a549b96e035cb6fe6212903e}{%
+           family={Gleich},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haufe}%
+      }
+      \strng{namehash}{792d0c21a385996af53f4878438768a7}
+      \strng{fullhash}{792d0c21a385996af53f4878438768a7}
+      \strng{bibnamehash}{792d0c21a385996af53f4878438768a7}
+      \strng{authorbibnamehash}{792d0c21a385996af53f4878438768a7}
+      \strng{authornamehash}{792d0c21a385996af53f4878438768a7}
+      \strng{authorfullhash}{792d0c21a385996af53f4878438768a7}
+      \strng{editorbibnamehash}{af65c3a0a549b96e035cb6fe6212903e}
+      \strng{editornamehash}{af65c3a0a549b96e035cb6fe6212903e}
+      \strng{editorfullhash}{af65c3a0a549b96e035cb6fe6212903e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Balanced Scorecard: Best-Practice-L{ö}sungen f{ü}r die strategische Unternehmenssteuerung}
+      \field{isbn}{9783648026632}
+      \field{series}{Haufe Fachpraxis}
+      \field{title}{Balanced Scorecard: Erfahrungen, Erfolge und Probleme im praktischen Einsatz}
+      \field{year}{2012}
+      \field{pages}{65\bibrangedash 84}
+      \range{pages}{20}
+    \endentry
     \entry{klein2014marketing1}{incollection}{}
       \name{author}{1}{}{%
         {{hash=9abbbcc5ff76296c47b4b21418f2a495}{%
@@ -994,6 +1337,37 @@
       \field{year}{1979}
       \verb{doi}
       \verb 10.1007/978-3-642-61989-2
+      \endverb
+    \endentry
+    \entry{hansmann2006industrielles}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ec0181e6d4748eba6c523d22679d5f75}{%
+           family={Hansmann},
+           familyi={H\bibinitperiod},
+           given={K.W.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oldenbourg}%
+      }
+      \strng{namehash}{ec0181e6d4748eba6c523d22679d5f75}
+      \strng{fullhash}{ec0181e6d4748eba6c523d22679d5f75}
+      \strng{bibnamehash}{ec0181e6d4748eba6c523d22679d5f75}
+      \strng{authorbibnamehash}{ec0181e6d4748eba6c523d22679d5f75}
+      \strng{authornamehash}{ec0181e6d4748eba6c523d22679d5f75}
+      \strng{authorfullhash}{ec0181e6d4748eba6c523d22679d5f75}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783486580587}
+      \field{title}{Industrielles Management}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=-rZsxDQLY-QC
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=-rZsxDQLY-QC
       \endverb
     \endentry
     \entry{hartmann2002materialwirtschaft}{book}{}
@@ -1142,6 +1516,81 @@
       \verb https://doi.org/10.1007/978-3-658-22897-2
       \endverb
     \endentry
+    \entry{Jaehn2019}{book}{}
+      \name{author}{2}{}{%
+        {{hash=81f624595e5c11e896bb9c2580228c67}{%
+           family={Jaehn},
+           familyi={J\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7d75b4a3e9e56a5351c677d297112340}{%
+           family={Pesch},
+           familyi={P\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{1f4babf8e71061b7a2bfe6d343ab1e39}
+      \strng{fullhash}{1f4babf8e71061b7a2bfe6d343ab1e39}
+      \strng{bibnamehash}{1f4babf8e71061b7a2bfe6d343ab1e39}
+      \strng{authorbibnamehash}{1f4babf8e71061b7a2bfe6d343ab1e39}
+      \strng{authornamehash}{1f4babf8e71061b7a2bfe6d343ab1e39}
+      \strng{authorfullhash}{1f4babf8e71061b7a2bfe6d343ab1e39}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ablaufplanung}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1007/978-3-662-58780-5
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-58780-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-58780-5
+      \endverb
+    \endentry
+    \entry{Jakoby2018}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=7e5fb221d90914639898a0515cb0ebf5}{%
+           family={Jakoby},
+           familyi={J\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{7e5fb221d90914639898a0515cb0ebf5}
+      \strng{fullhash}{7e5fb221d90914639898a0515cb0ebf5}
+      \strng{bibnamehash}{7e5fb221d90914639898a0515cb0ebf5}
+      \strng{authorbibnamehash}{7e5fb221d90914639898a0515cb0ebf5}
+      \strng{authornamehash}{7e5fb221d90914639898a0515cb0ebf5}
+      \strng{authorfullhash}{7e5fb221d90914639898a0515cb0ebf5}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Projektmanagement für Ingenieure}
+      \field{month}{10}
+      \field{title}{Ablauf- und Terminplanung}
+      \field{year}{2018}
+      \field{pages}{199\bibrangedash 226}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1007/978-3-658-23333-4_7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-23333-4_7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-23333-4_7
+      \endverb
+    \endentry
     \entry{jehle1999produktionswirtschaft}{book}{}
       \name{author}{3}{}{%
         {{hash=58c49765b58abc3d72cb2a5d9bf5a152}{%
@@ -1181,6 +1630,39 @@
       \field{series}{Grundstudium Betriebswirtschaftslehre}
       \field{title}{Produktionswirtschaft: eine Einf{ü}hrung mit Anwendungen und Kontrollfragen; mit Tabellen}
       \field{year}{1999}
+    \endentry
+    \entry{Jost1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a200c93104011fff3d588a77804968d6}{%
+           family={Jost},
+           familyi={J\bibinitperiod},
+           given={Wolfram},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{a200c93104011fff3d588a77804968d6}
+      \strng{fullhash}{a200c93104011fff3d588a77804968d6}
+      \strng{bibnamehash}{a200c93104011fff3d588a77804968d6}
+      \strng{authorbibnamehash}{a200c93104011fff3d588a77804968d6}
+      \strng{authornamehash}{a200c93104011fff3d588a77804968d6}
+      \strng{authorfullhash}{a200c93104011fff3d588a77804968d6}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{EDV}-gestützte {CIM}-Rahmenplanung}
+      \field{year}{1993}
+      \verb{doi}
+      \verb 10.1007/978-3-322-91060-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-322-91060-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-322-91060-8
+      \endverb
     \endentry
     \entry{kamps2018gabler}{article}{}
       \name{author}{1}{}{%
@@ -1286,6 +1768,56 @@
       \field{title}{The Balanced Scorecard: Translating Strategy Into Action}
       \field{year}{1996}
     \endentry
+    \entry{Kempkes2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=92e4a4e05c74942652737069535981a8}{%
+           family={Kempkes},
+           familyi={K\bibinitperiod},
+           given={Jan\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6af096f11e6c9787628bec4bd8c2aa20}{%
+           family={Suprano},
+           familyi={S\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=92bf1ebcb90ca484573f69361d5032c7}{%
+           family={Wömpener},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{e08e92be4b81b94f35485270f96e6c0d}
+      \strng{fullhash}{e08e92be4b81b94f35485270f96e6c0d}
+      \strng{bibnamehash}{e08e92be4b81b94f35485270f96e6c0d}
+      \strng{authorbibnamehash}{e08e92be4b81b94f35485270f96e6c0d}
+      \strng{authornamehash}{e08e92be4b81b94f35485270f96e6c0d}
+      \strng{authorfullhash}{e08e92be4b81b94f35485270f96e6c0d}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Controlling {\&} Management Review}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Produktion 4.0 mit den richtigen Kennzahlen steuern}
+      \field{volume}{62}
+      \field{year}{2018}
+      \field{pages}{56\bibrangedash 61}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s12176-018-0017-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s12176-018-0017-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s12176-018-0017-y
+      \endverb
+    \endentry
     \entry{kesten2013}{book}{}
       \name{author}{3}{}{%
         {{hash=9e3f95d117318ff8a0acacc2c7f86fbb}{%
@@ -1322,6 +1854,35 @@
       \verb{doi}
       \verb 10.15358/9783800643486
       \endverb
+    \endentry
+    \entry{kesten2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ce75942bad2d551fe0793093c0ce8866}{%
+           family={Kesten},
+           familyi={K\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{ce75942bad2d551fe0793093c0ce8866}
+      \strng{fullhash}{ce75942bad2d551fe0793093c0ce8866}
+      \strng{bibnamehash}{ce75942bad2d551fe0793093c0ce8866}
+      \strng{authorbibnamehash}{ce75942bad2d551fe0793093c0ce8866}
+      \strng{authornamehash}{ce75942bad2d551fe0793093c0ce8866}
+      \strng{authorfullhash}{ce75942bad2d551fe0793093c0ce8866}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{12}
+      \field{title}{Digitalisierung in Rechnungswesen und Controlling und ihre Folgen für die Hochschullehre}
+      \field{year}{2019}
+      \field{pages}{44\bibrangedash 49}
+      \range{pages}{6}
     \endentry
     \entry{kiener2012produktions}{book}{}
       \name{author}{2}{}{%
@@ -1396,6 +1957,44 @@
       \field{year}{2012}
       \verb{doi}
       \verb 10.1007/978-3-8349-3758-2
+      \endverb
+    \endentry
+    \entry{Kistner2001}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f613b01e22afa16f832a6f68239d2337}{%
+           family={Kistner},
+           familyi={K\bibinitperiod},
+           given={Klaus-Peter},
+           giveni={K\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=6337022a499ede1ca78e3e0b493e2c34}{%
+           family={Steven},
+           familyi={S\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Physica-Verlag {HD}}%
+      }
+      \strng{namehash}{45e57bb7812012268566d50170081863}
+      \strng{fullhash}{45e57bb7812012268566d50170081863}
+      \strng{bibnamehash}{45e57bb7812012268566d50170081863}
+      \strng{authorbibnamehash}{45e57bb7812012268566d50170081863}
+      \strng{authornamehash}{45e57bb7812012268566d50170081863}
+      \strng{authorfullhash}{45e57bb7812012268566d50170081863}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Produktionsplanung}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1007/978-3-642-57546-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-57546-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-57546-4
       \endverb
     \endentry
     \entry{schnell2018produktion}{article}{}
@@ -1509,6 +2108,35 @@
       \verb{doi}
       \verb 10.1007/978-3-662-45863-1
       \endverb
+    \endentry
+    \entry{kunz2007bsc}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=9a8f3acc349a5596a09f8e2c040c6909}{%
+           family={Kunz},
+           familyi={K\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=76b3cc16705f9c469f63ec1565b1ed5a}{%
+           family={Pfeiffer},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Schaeffer-Poeschel Verlag}%
+      }
+      \strng{namehash}{3ea7b053e25c17efe49d80844e4a790c}
+      \strng{fullhash}{3ea7b053e25c17efe49d80844e4a790c}
+      \strng{bibnamehash}{3ea7b053e25c17efe49d80844e4a790c}
+      \strng{authorbibnamehash}{3ea7b053e25c17efe49d80844e4a790c}
+      \strng{authornamehash}{3ea7b053e25c17efe49d80844e4a790c}
+      \strng{authorfullhash}{3ea7b053e25c17efe49d80844e4a790c}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{booktitle}{Handwörterbuch Unternehmensrechnung und Controlling}
+      \field{series}{Enzyklopädie der Betriebswirtschaftslehre}
+      \field{year}{2002}
     \endentry
     \entry{kuenzel2018}{article}{}
       \name{author}{3}{}{%
@@ -1854,6 +2482,118 @@
       \verb 10.1007/978-3-658-04872-3_3
       \endverb
     \endentry
+    \entry{lelke2010bsc}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8af7971512de7a1706771dbe7133c913}{%
+           family={Lelke},
+           familyi={L\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=31b7ee0b986f8a7c1b997092d5f43362}{%
+           family={Ollech},
+           familyi={O\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{fb1510aa929037cd5156d96f97f1066d}
+      \strng{fullhash}{fb1510aa929037cd5156d96f97f1066d}
+      \strng{bibnamehash}{fb1510aa929037cd5156d96f97f1066d}
+      \strng{authorbibnamehash}{fb1510aa929037cd5156d96f97f1066d}
+      \strng{authornamehash}{fb1510aa929037cd5156d96f97f1066d}
+      \strng{authorfullhash}{fb1510aa929037cd5156d96f97f1066d}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{5}
+      \field{title}{Balanced Scorecard zur Performance-Messung des Personalbereichs}
+      \field{year}{2010}
+      \field{pages}{82\bibrangedash 88}
+      \range{pages}{7}
+    \endentry
+    \entry{Liesegang1975}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8820749ac759e22355bc50a78e606782}{%
+           family={Liesegang},
+           familyi={L\bibinitperiod},
+           given={Günter},
+           giveni={G\bibinitperiod}}}%
+        {{hash=becb179b54f920e42fc5d3273b66ab2e}{%
+           family={Schirmer},
+           familyi={S\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{835abddcaea4a4314fbdbbe0d8259c01}
+      \strng{fullhash}{835abddcaea4a4314fbdbbe0d8259c01}
+      \strng{bibnamehash}{835abddcaea4a4314fbdbbe0d8259c01}
+      \strng{authorbibnamehash}{835abddcaea4a4314fbdbbe0d8259c01}
+      \strng{authornamehash}{835abddcaea4a4314fbdbbe0d8259c01}
+      \strng{authorfullhash}{835abddcaea4a4314fbdbbe0d8259c01}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Operations Research}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Heuristische Verfahren zur Maschinenbelegungsplanung bei Reihenfertigung}
+      \field{volume}{19}
+      \field{year}{1975}
+      \field{pages}{195\bibrangedash 211}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/bf01999751
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/bf01999751
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/bf01999751
+      \endverb
+    \endentry
+    \entry{Lindl1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5e8f242cab5cf3a36a1959d045ab6b40}{%
+           family={Lindl},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{5e8f242cab5cf3a36a1959d045ab6b40}
+      \strng{fullhash}{5e8f242cab5cf3a36a1959d045ab6b40}
+      \strng{bibnamehash}{5e8f242cab5cf3a36a1959d045ab6b40}
+      \strng{authorbibnamehash}{5e8f242cab5cf3a36a1959d045ab6b40}
+      \strng{authornamehash}{5e8f242cab5cf3a36a1959d045ab6b40}
+      \strng{authorfullhash}{5e8f242cab5cf3a36a1959d045ab6b40}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Auftragsleittechnik für Konstruktion und Arbeitsplanung}
+      \field{year}{1994}
+      \verb{doi}
+      \verb 10.1007/978-3-662-05915-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-05915-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-05915-9
+      \endverb
+    \endentry
     \entry{Loedding2016}{book}{}
       \name{author}{1}{}{%
         {{hash=3810c7f292ede24fc78601881d0b5e2b}{%
@@ -1912,6 +2652,77 @@
       \field{series}{Unternehmen und Steuern}
       \field{title}{Ziele und Zielkonflikte bei der Festlegung von Verrechnungspreisen}
       \field{year}{2005}
+    \endentry
+    \entry{Lunze2020}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=4229949aab4df09799280ea8dfc50322}{%
+           family={Lunze},
+           familyi={L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{4229949aab4df09799280ea8dfc50322}
+      \strng{fullhash}{4229949aab4df09799280ea8dfc50322}
+      \strng{bibnamehash}{4229949aab4df09799280ea8dfc50322}
+      \strng{authorbibnamehash}{4229949aab4df09799280ea8dfc50322}
+      \strng{authornamehash}{4229949aab4df09799280ea8dfc50322}
+      \strng{authorfullhash}{4229949aab4df09799280ea8dfc50322}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Beobachter rekonstruieren den Zustand aus dem Verlauf der Eingangsgr{ö}{ß}en und der Ausgangsgr{ö}{ß}en. Nach einer Erl{ä}uterung des Beobachterproblems werden verschiedene L{ö}sungswege f{ü}r den Beobachterentwurf behandelt und an Beispielen illustriert. F{ü}r die Realisierung von Zustandsr{ü}ckf{ü}hrungen mit Beobachtern ist das Separationstheorem von fundamentaler Bedeutung, denn es erm{ö}glicht den getrennten Entwurf der R{ü}ckf{ü}hrung und des Beobachters. Abschlie{ß}end werden Parallelen zum Kalmanfilter aufgezeigt.}
+      \field{booktitle}{Regelungstechnik 2: Mehrgr{ö}{ß}ensysteme, Digitale Regelung}
+      \field{isbn}{978-3-662-60760-2}
+      \field{title}{Beobachterentwurf}
+      \field{year}{2020}
+      \field{pages}{345\bibrangedash 379}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1007/978-3-662-60760-2_8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-60760-2_8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-60760-2_8
+      \endverb
+    \endentry
+    \entry{mathar2009unternehmenslogistik}{book}{}
+      \name{author}{2}{}{%
+        {{hash=bab8675954c2ce9a0dbfd1e06e7357ae}{%
+           family={Mathar},
+           familyi={M\bibinitperiod},
+           given={H.J.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fef37bb2ad53808d3b659ab6793d7537}{%
+           family={Scheuring},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Compendio Bildungsmedien}%
+      }
+      \strng{namehash}{18816b80067bb83dd7a9bdeb8ccdf752}
+      \strng{fullhash}{18816b80067bb83dd7a9bdeb8ccdf752}
+      \strng{bibnamehash}{18816b80067bb83dd7a9bdeb8ccdf752}
+      \strng{authorbibnamehash}{18816b80067bb83dd7a9bdeb8ccdf752}
+      \strng{authornamehash}{18816b80067bb83dd7a9bdeb8ccdf752}
+      \strng{authorfullhash}{18816b80067bb83dd7a9bdeb8ccdf752}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783715593470}
+      \field{title}{Unternehmenslogistik: Grundlagen f{ü}r die betriebliche Praxis mit zahlreichen Beispielen, Repetitionsfragen und Antworten}
+      \field{year}{2009}
     \endentry
     \entry{meyer1989kunden}{book}{}
       \name{author}{1}{}{%
@@ -2032,6 +2843,53 @@
       \verb{doi}
       \verb 10.1524/9783486593099
       \endverb
+    \endentry
+    \entry{Obermaier2017}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=fc73de8f057f0b339faae624f956e6e7}{%
+           family={Obermaier},
+           familyi={O\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c0ff4bd60af32e16cfb8dcd92749da9e}{%
+           family={Grottke},
+           familyi={G\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=66181cd6ee822b110122e20748a87fb4}{%
+           family={Seiter},
+           familyi={S\bibinitperiod},
+           given={Mischa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=59effae1453ff18a85aa5a2194354b61}{%
+           family={Gr{ü}nert},
+           familyi={G\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bcd860251719bfe3db15fb481525dd90}{%
+           family={Berlin},
+           familyi={B\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b15f700d856ca242c81207048288c69d}
+      \strng{fullhash}{b15f700d856ca242c81207048288c69d}
+      \strng{bibnamehash}{b15f700d856ca242c81207048288c69d}
+      \strng{authorbibnamehash}{b15f700d856ca242c81207048288c69d}
+      \strng{authornamehash}{b15f700d856ca242c81207048288c69d}
+      \strng{authorfullhash}{b15f700d856ca242c81207048288c69d}
+      \strng{editorbibnamehash}{6c285bdf9d938b9bce17bf2eadcaea92}
+      \strng{editornamehash}{6c285bdf9d938b9bce17bf2eadcaea92}
+      \strng{editorfullhash}{6c285bdf9d938b9bce17bf2eadcaea92}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Betriebswirtschaftliche Aspekte von Industrie 4.0}
+      \field{title}{Controlling in einer ,,Industrie 4.0'' -- Neue M{ö}glichkeiten und neue Grenzen f{ü}r die Steuerung von Unternehmen}
+      \field{year}{2017}
     \endentry
     \entry{ossadnik2009controlling}{book}{}
       \name{author}{1}{}{%
@@ -2336,6 +3194,35 @@
       \verb https://wirtschaftslexikon.gabler.de/definition/marketingcontrolling-41129/version-264500
       \endverb
     \endentry
+    \entry{reissig2010bsc}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3da744a9002d63105d299397cad8415}{%
+           family={Reißig-Thust},
+           familyi={R\bibinithyphendelim T\bibinitperiod},
+           given={Solveig},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{c3da744a9002d63105d299397cad8415}
+      \strng{fullhash}{c3da744a9002d63105d299397cad8415}
+      \strng{bibnamehash}{c3da744a9002d63105d299397cad8415}
+      \strng{authorbibnamehash}{c3da744a9002d63105d299397cad8415}
+      \strng{authornamehash}{c3da744a9002d63105d299397cad8415}
+      \strng{authorfullhash}{c3da744a9002d63105d299397cad8415}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{3}
+      \field{title}{Balanced Scorecard in mittelständischen Versorgungsunternehmen}
+      \field{year}{2010}
+      \field{pages}{26\bibrangedash 31}
+      \range{pages}{6}
+    \endentry
     \entry{Rieke2015}{incollection}{}
       \name{author}{1}{}{%
         {{hash=d86cb045a3324c7b58ab25fa7fd7c920}{%
@@ -2403,6 +3290,60 @@
       \verb{url}
       \verb https://www.dbresearch.de/PROD/RPS_DE-PROD/PROD0000000000474798/Deutschland_im_Jahr_2020_-_Neue_Herausforderungen_.PDF
       \endverb
+    \endentry
+    \entry{rossmeissl2014}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=76c6b7a1d51077c9c4c57b53cdb96edf}{%
+           family={Roßmeißl},
+           familyi={R\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f44e32a9dfc831e51a9b30df6b0b8267}{%
+           family={Gleich},
+           familyi={G\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=97ce0da07d13d6d7b71e58c12d89a4b0}{%
+           family={Grönke},
+           familyi={G\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3b729ce8efed716790dbc585ebbb9bb1}{%
+           family={Kirchmann},
+           familyi={K\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d60fa8f2f0f506f421ed93787ae48e64}{%
+           family={Leyk},
+           familyi={L\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haufe}%
+      }
+      \strng{namehash}{0596d46e37f2ccaf7ead47d845974fb2}
+      \strng{fullhash}{0596d46e37f2ccaf7ead47d845974fb2}
+      \strng{bibnamehash}{0596d46e37f2ccaf7ead47d845974fb2}
+      \strng{authorbibnamehash}{0596d46e37f2ccaf7ead47d845974fb2}
+      \strng{authornamehash}{0596d46e37f2ccaf7ead47d845974fb2}
+      \strng{authorfullhash}{0596d46e37f2ccaf7ead47d845974fb2}
+      \strng{editorbibnamehash}{70c408afee034d3823f8f4a1be6d188e}
+      \strng{editornamehash}{70c408afee034d3823f8f4a1be6d188e}
+      \strng{editorfullhash}{70c408afee034d3823f8f4a1be6d188e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Controlling und Big Data}
+      \field{isbn}{3648057162}
+      \field{series}{Haufe Fachbuch}
+      \field{title}{Industrie 4.0 : Herausforderung für das Produktionsmanagement und -controlling}
+      \field{year}{2018}
+      \field{pages}{141\bibrangedash 155}
+      \range{pages}{15}
     \endentry
     \entry{Sandberg2017}{book}{}
       \name{author}{1}{}{%
@@ -2494,6 +3435,36 @@
       \verb{doi}
       \verb 10.1007/978-3-658-21327-5_1
       \endverb
+    \endentry
+    \entry{schaeffer2015controlling}{book}{}
+      \name{author}{2}{}{%
+        {{hash=933ebdc336ef2c41094a653915c48aa6}{%
+           family={Sch{ä}ffer},
+           familyi={S\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=0f08e2413f70481eba52a73d540bbd56}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WHU - Otto Beisheim School of Management}%
+      }
+      \strng{namehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
+      \strng{fullhash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
+      \strng{bibnamehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
+      \strng{authorbibnamehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
+      \strng{authornamehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
+      \strng{authorfullhash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783937141930}
+      \field{title}{Controlling - Trends \& Benchmarks}
+      \field{year}{2015}
     \endentry
     \entry{schenk1939betriebskennzahlen}{book}{}
       \name{author}{1}{}{%
@@ -2624,6 +3595,35 @@
       \field{title}{Produktionscontrolling: Bedeutung, Selbstverständnis, Aufgaben, Instrumente}
       \field{year}{2012}
     \endentry
+    \entry{schnell2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4c2b1d3faa6f398b129174eeec6794ca}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haufe}%
+      }
+      \strng{namehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{fullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{bibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorbibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authornamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorfullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Der Controlling Berater}
+      \field{month}{6}
+      \field{title}{Operatives Produktionscontrolling: Sicherung der Effizienz in Fertigungsbetrieben}
+      \field{year}{2007}
+      \field{pages}{819\bibrangedash 851}
+      \range{pages}{33}
+    \endentry
     \entry{klein2012controlling1}{incollection}{}
       \name{author}{1}{}{%
         {{hash=4c2b1d3faa6f398b129174eeec6794ca}{%
@@ -2656,7 +3656,7 @@
       \strng{editorbibnamehash}{66e00961d3fe2189f6b77ffc8cd1126e}
       \strng{editornamehash}{66e00961d3fe2189f6b77ffc8cd1126e}
       \strng{editorfullhash}{66e00961d3fe2189f6b77ffc8cd1126e}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -2666,6 +3666,35 @@
       \field{series}{Haufe Fachbuch}
       \field{title}{Produktionscontrolling: Bedeutung, Selbstverständnis, Aufgaben, Instrumente}
       \field{year}{2012}
+    \endentry
+    \entry{schoeb2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=383cebbc077bbafd8fdb1d5ff2238c82}{%
+           family={Schöb},
+           familyi={S\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{383cebbc077bbafd8fdb1d5ff2238c82}
+      \strng{fullhash}{383cebbc077bbafd8fdb1d5ff2238c82}
+      \strng{bibnamehash}{383cebbc077bbafd8fdb1d5ff2238c82}
+      \strng{authorbibnamehash}{383cebbc077bbafd8fdb1d5ff2238c82}
+      \strng{authornamehash}{383cebbc077bbafd8fdb1d5ff2238c82}
+      \strng{authorfullhash}{383cebbc077bbafd8fdb1d5ff2238c82}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{5}
+      \field{title}{Integration der operativen Planung mit dem Rolling Forecast}
+      \field{year}{2015}
+      \field{pages}{58\bibrangedash 65}
+      \range{pages}{8}
     \endentry
     \entry{Schoensleben2016}{book}{}
       \name{author}{1}{}{%
@@ -2698,6 +3727,54 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-3-662-48334-3
+      \endverb
+    \endentry
+    \entry{Schotten1998}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5ad25f0e4d5270198d20fb18eaa2169f}{%
+           family={Schotten},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a027eb819e94ece67a07f8afadb79d59}{%
+           family={Luczak},
+           familyi={L\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+        {{hash=449e59161cb3ae4494a0831c38d5a962}{%
+           family={Eversheim},
+           familyi={E\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{5ad25f0e4d5270198d20fb18eaa2169f}
+      \strng{fullhash}{5ad25f0e4d5270198d20fb18eaa2169f}
+      \strng{bibnamehash}{5ad25f0e4d5270198d20fb18eaa2169f}
+      \strng{authorbibnamehash}{5ad25f0e4d5270198d20fb18eaa2169f}
+      \strng{authornamehash}{5ad25f0e4d5270198d20fb18eaa2169f}
+      \strng{authorfullhash}{5ad25f0e4d5270198d20fb18eaa2169f}
+      \strng{editorbibnamehash}{a870a2a1a591df9c22b9b57862a23954}
+      \strng{editornamehash}{a870a2a1a591df9c22b9b57862a23954}
+      \strng{editorfullhash}{a870a2a1a591df9c22b9b57862a23954}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Produktionsplanung und -steuerung}
+      \field{year}{1998}
+      \verb{doi}
+      \verb 10.1007/978-3-662-09474-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-09474-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-09474-7
       \endverb
     \endentry
     \entry{Schroeter2002}{book}{}
@@ -2796,6 +3873,42 @@
       \field{title}{Systeme der Kosten- und Erl{ö}srechnung}
       \field{year}{2011}
     \endentry
+    \entry{Seelbach1975}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=263d72c31727a95cb5a7dd1e23d78bd5}{%
+           family={Seelbach},
+           familyi={S\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Physica-Verlag {HD}}%
+      }
+      \strng{namehash}{263d72c31727a95cb5a7dd1e23d78bd5}
+      \strng{fullhash}{263d72c31727a95cb5a7dd1e23d78bd5}
+      \strng{bibnamehash}{263d72c31727a95cb5a7dd1e23d78bd5}
+      \strng{authorbibnamehash}{263d72c31727a95cb5a7dd1e23d78bd5}
+      \strng{authornamehash}{263d72c31727a95cb5a7dd1e23d78bd5}
+      \strng{authorfullhash}{263d72c31727a95cb5a7dd1e23d78bd5}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ablaufplanung}
+      \field{title}{Kombinatorische Verfahren in der Ablaufplanung}
+      \field{year}{1975}
+      \field{pages}{80\bibrangedash 149}
+      \range{pages}{70}
+      \verb{doi}
+      \verb 10.1007/978-3-662-41497-2_4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-41497-2_4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-41497-2_4
+      \endverb
+    \endentry
     \entry{siepermann2018}{article}{}
       \name{author}{1}{}{%
         {{hash=f2d933fff70db4d35101f939879ff753}{%
@@ -2823,6 +3936,124 @@
       \verb{url}
       \verb https://wirtschaftslexikon.gabler.de/definition/marketingcontrolling-41129/version-264500
       \endverb
+    \endentry
+    \entry{Simon1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d9ea9ea4d119f87ccc9a095bf168a15b}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{d9ea9ea4d119f87ccc9a095bf168a15b}
+      \strng{fullhash}{d9ea9ea4d119f87ccc9a095bf168a15b}
+      \strng{bibnamehash}{d9ea9ea4d119f87ccc9a095bf168a15b}
+      \strng{authorbibnamehash}{d9ea9ea4d119f87ccc9a095bf168a15b}
+      \strng{authornamehash}{d9ea9ea4d119f87ccc9a095bf168a15b}
+      \strng{authorfullhash}{d9ea9ea4d119f87ccc9a095bf168a15b}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fertigungsregelung durch zielgrö{ß}enorientierte Planung und logistisches Störungsmanagement}
+      \field{year}{1995}
+      \verb{doi}
+      \verb 10.1007/978-3-662-07197-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-07197-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-07197-7
+      \endverb
+    \endentry
+    \entry{Sinsel2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=43aab93c17a4a47e44aeea4477f39dde}{%
+           family={Sinsel},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{43aab93c17a4a47e44aeea4477f39dde}
+      \strng{fullhash}{43aab93c17a4a47e44aeea4477f39dde}
+      \strng{bibnamehash}{43aab93c17a4a47e44aeea4477f39dde}
+      \strng{authorbibnamehash}{43aab93c17a4a47e44aeea4477f39dde}
+      \strng{authornamehash}{43aab93c17a4a47e44aeea4477f39dde}
+      \strng{authorfullhash}{43aab93c17a4a47e44aeea4477f39dde}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Das Internet der Dinge in der Produktion}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/978-3-662-59761-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-59761-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-59761-3
+      \endverb
+    \endentry
+    \entry{Sochaki2020}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=757568508fcee9b5258bc04a25f6060e}{%
+           family={Sochacki},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=93476cf50213d4da99ab5905cb33d51f}{%
+           family={Reinecke},
+           familyi={R\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dfd7886375a22f513c426cf5f3825b8f}{%
+           family={Bracke},
+           familyi={B\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f22f0a6c84c93d61c95842893fdd6675}{%
+           family={Schmitt},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{23ed52f2caa8f8b03c658df3756b4484}
+      \strng{fullhash}{23ed52f2caa8f8b03c658df3756b4484}
+      \strng{bibnamehash}{23ed52f2caa8f8b03c658df3756b4484}
+      \strng{authorbibnamehash}{23ed52f2caa8f8b03c658df3756b4484}
+      \strng{authornamehash}{23ed52f2caa8f8b03c658df3756b4484}
+      \strng{authorfullhash}{23ed52f2caa8f8b03c658df3756b4484}
+      \strng{editorbibnamehash}{f22f0a6c84c93d61c95842893fdd6675}
+      \strng{editornamehash}{f22f0a6c84c93d61c95842893fdd6675}
+      \strng{editorfullhash}{f22f0a6c84c93d61c95842893fdd6675}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die Durchf{ü}hrung von Wartungsma{ß}nahmen w{ä}hrend der gesamten Nutzungsphase eines technisch komplexen Produkts ist f{ü}r den zuverl{ä}ssigen und sicheren Betrieb sowie zur Gew{ä}hrleistung einer hohen Produktverf{ü}gbarkeit unerl{ä}sslich. Durch die zunehmende Fahrzeugkomplexit{ä}t werden Automobilhersteller bez{ü}glich der Wartung und Qualit{ä}tssicherung {ü}ber den gesamten Produktlebenszyklus vor immer gr{ö}{ß}ere Herausforderungen gestellt [12]. In der Automobilindustrie ist die vorausbestimmte Wartung von Fahrzeugen fest etabliert [14]. Hierbei sind Wartungsintervalle f{ü}r bestimmte Kilometerlaufleistungen oder Einsatzzeiten durch die Hersteller vorgegeben. Bei jedem Wartungsintervall werden verschiedene Wartungsarbeiten, welche in Wartungspaketen zusammengefasst sind, durchgef{ü}hrt.}
+      \field{booktitle}{Potenziale K{ü}nstlicher Intelligenz f{ü}r die Qualit{ä}tswissenschaft}
+      \field{isbn}{978-3-662-60692-6}
+      \field{title}{Ansatz zur Anpassung von Wartungs- und Instandhaltungspaketen auf Basis maschineller Lernalgorithmen im Hinblick auf den zuverl{ä}ssigen Betrieb technisch komplexer Produkte}
+      \field{year}{2020}
+      \field{pages}{221\bibrangedash 236}
+      \range{pages}{16}
     \endentry
     \entry{Stark1987}{book}{}
       \name{author}{1}{}{%
@@ -2880,6 +4111,69 @@
       \verb{doi}
       \verb 10.1007/978-3-8349-9091-4_23
       \endverb
+    \endentry
+    \entry{tiefenbeck2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=80e886f5088b35731f8bad1baf7ac3f8}{%
+           family={Tiefenbeck},
+           familyi={T\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=eb344798860fbfda29cc20fe08bd3b29}{%
+           family={Weißenberger},
+           familyi={W\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{bd1044758c92fb09a25cd63f052f10e6}
+      \strng{fullhash}{bd1044758c92fb09a25cd63f052f10e6}
+      \strng{bibnamehash}{bd1044758c92fb09a25cd63f052f10e6}
+      \strng{authorbibnamehash}{bd1044758c92fb09a25cd63f052f10e6}
+      \strng{authornamehash}{bd1044758c92fb09a25cd63f052f10e6}
+      \strng{authorfullhash}{bd1044758c92fb09a25cd63f052f10e6}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{6}
+      \field{title}{Wie gefährlich ist eine myopische Steuerungsperspektive für den langfristigen Markterfolg?}
+      \field{year}{2018}
+      \field{pages}{16\bibrangedash 21}
+      \range{pages}{6}
+    \endentry
+    \entry{toenissen2010bsc}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bf60c7b11caad71072e21ce0263601ce}{%
+           family={Tönnissen},
+           familyi={T\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{bf60c7b11caad71072e21ce0263601ce}
+      \strng{fullhash}{bf60c7b11caad71072e21ce0263601ce}
+      \strng{bibnamehash}{bf60c7b11caad71072e21ce0263601ce}
+      \strng{authorbibnamehash}{bf60c7b11caad71072e21ce0263601ce}
+      \strng{authornamehash}{bf60c7b11caad71072e21ce0263601ce}
+      \strng{authorfullhash}{bf60c7b11caad71072e21ce0263601ce}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{10}
+      \field{title}{Vertriebscontrolling auf Basis einer Balanced Scorecard}
+      \field{year}{2010}
+      \field{pages}{10\bibrangedash 14}
+      \range{pages}{5}
     \endentry
     \entry{vahrenkamp2008produktionsmanagement}{book}{}
       \name{author}{1}{}{%
@@ -3114,6 +4408,39 @@
       \verb https://doi.org/10.1007/s00287-015-0951-4
       \endverb
     \endentry
+    \entry{Wiendahl2002}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=57aff481f65f5ed63af62ba7da99e782}{%
+           family={Wiendahl},
+           familyi={W\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{57aff481f65f5ed63af62ba7da99e782}
+      \strng{fullhash}{57aff481f65f5ed63af62ba7da99e782}
+      \strng{bibnamehash}{57aff481f65f5ed63af62ba7da99e782}
+      \strng{editorbibnamehash}{57aff481f65f5ed63af62ba7da99e782}
+      \strng{editornamehash}{57aff481f65f5ed63af62ba7da99e782}
+      \strng{editorfullhash}{57aff481f65f5ed63af62ba7da99e782}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Erfolgsfaktor Logistikqualität}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1007/978-3-642-56286-0
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-56286-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-56286-0
+      \endverb
+    \endentry
     \entry{klein2014marketing3}{incollection}{}
       \name{author}{1}{}{%
         {{hash=aa1c05aa59b04ac212288ef6b604b658}{%
@@ -3300,6 +4627,42 @@
       \field{title}{Taktisches Produktions-Management}
       \field{year}{2010}
     \endentry
+    \entry{zelewski2008produktionsplanungs}{book}{}
+      \name{author}{3}{}{%
+        {{hash=9ea8c89094c6208a363e81f3a3f1902f}{%
+           family={Zelewski},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6de10d28d32e894cbf852dbaef0e7cae}{%
+           family={Hohmann},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9abb1167f3f2db14b4c521e227f89247}{%
+           family={H{ü}gens},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oldenbourg}%
+      }
+      \strng{namehash}{11b0efc170cda40288c8039cdc83de0f}
+      \strng{fullhash}{11b0efc170cda40288c8039cdc83de0f}
+      \strng{bibnamehash}{11b0efc170cda40288c8039cdc83de0f}
+      \strng{authorbibnamehash}{11b0efc170cda40288c8039cdc83de0f}
+      \strng{authornamehash}{11b0efc170cda40288c8039cdc83de0f}
+      \strng{authorfullhash}{11b0efc170cda40288c8039cdc83de0f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783486587227}
+      \field{series}{Lehr- und Handb{ü}cher der Betriebswirtschaftslehre}
+      \field{title}{Produktionsplanungs- und -steuerungssysteme: Konzepte und exemplarische Implementierungen mithilfe von SAP R/3}
+      \field{year}{2008}
+    \endentry
     \entry{Zirkler2018}{incollection}{}
       \name{author}{4}{}{%
         {{hash=e5f32466dca6cef2b91d188a5f0fb02d}{%
@@ -3391,6 +4754,7 @@
       \range{pages}{18}
     \endentry
   \enddatalist
+  \missing{e}
 \endrefsection
 \endinput
 

@@ -1,17 +1,21 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.blg'
-[49] biber-darwin:315> INFO - === Fri Feb 14, 2020, 04:52:51
-[77] Biber.pm:371> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
-[260] Biber.pm:889> INFO - Found 103 citekeys in bib section 0
-[276] Biber.pm:4093> INFO - Processing section 0
-[289] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' for section 0
-[292] bibtex.pm:1523> INFO - LaTeX decoding ...
-[437] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
-[899] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/zXNPQTiC6H/bibliography.bib_9596.utf8, line 776, warning: 218 characters of junk seen at toplevel
-[1009] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1009] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1010] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[1010] Biber.pm:3927> INFO - No sort tailoring available for locale 'de-DE'
-[1111] bbl.pm:636> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
-[1156] bbl.pm:739> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
-[1156] Biber.pm:110> INFO - WARNINGS: 1
+[40] biber-darwin:315> INFO - === Tue Feb 25, 2020, 00:27:07
+[69] Biber.pm:371> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
+[289] Biber.pm:889> INFO - Found 140 citekeys in bib section 0
+[303] Biber.pm:4093> INFO - Processing section 0
+[317] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' for section 0
+[322] bibtex.pm:1523> INFO - LaTeX decoding ...
+[496] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
+[510] Utils.pm:193> WARN - Duplicate entry key: 'Kistner2001' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
+[511] Utils.pm:193> WARN - Duplicate entry key: 'kaplan1996balanced' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
+[1045] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/W7qQ6pnfR7/bibliography.bib_20859.utf8, line 776, warning: 218 characters of junk seen at toplevel
+[1046] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/W7qQ6pnfR7/bibliography.bib_20859.utf8, line 1246, warning: 187 characters of junk seen at toplevel
+[1046] Utils.pm:193> WARN - I didn't find a database entry for 'e' (section 0)
+[1181] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1181] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1181] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[1181] Biber.pm:3927> INFO - No sort tailoring available for locale 'de-DE'
+[1305] bbl.pm:636> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
+[1359] bbl.pm:739> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
+[1360] Biber.pm:110> INFO - WARNINGS: 5
