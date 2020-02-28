@@ -12,7 +12,7 @@
 %Seitenlayout
 \usepackage[a4paper,top=20mm,bottom=20mm,left=30mm,right=40mm]{geometry}
 %Bib-Ressourcen ermöglichen, Stil setzen und genau parametrieren
-\usepackage[style=footnote-dw,natbib=true,backref=true,edsuper=true,nopublisher=false,urldate=long,backend=biber]{biblatex}
+\usepackage[style=footnote-dw,natbib=true,edsuper=true,nopublisher=false,doi=true,isbn=true,urldate=long,backend=biber]{biblatex}
 %Für das Abkürzungsverzeichnis alternativ: \usepackage[toc]{glossaries}
 \usepackage[acronym,nonumberlist,automake]{glossaries}
 %für diagonal geteilte Zellen in Tabellen, Befehl ist \backslashbox{}
@@ -26,10 +26,14 @@
 %klickbare Überschriften und Co.
 \usepackage{hyperref}
 
+%benötigt, um Abbildungen im Anhang nicht in den Verzeichnissen zu haben.
+\usepackage{ifthen}
+
 %Befüllen für Abkürzungen
 \include{acronyms}
 %Parametrierung der Packages
 \include{metadata}
+
 
 %Latex Smartdiagram, Bäumc zeichnen und Stil
 \usepackage{forest}
@@ -37,6 +41,14 @@
 
 %footnote ohne Indent
 \usepackage[hang,flushmargin]{footmisc}
+
+\usepackage{array}
+
+%Anhang nicht im TOC
+\usepackage{etoolbox}
+\appto\appendix{\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}}
+\appto\listoffigures{\addtocontents{lof}{\protect\setcounter{tocdepth}{1}}}
+\appto\listoftables{\addtocontents{lot}{\protect\setcounter{tocdepth}{1}}}
 
 %Abkürzungsverzeichnis erstellen
 \makeglossaries
@@ -60,14 +72,16 @@
 \input{chapters/einleitung}
 \input{chapters/controllingansatz}
 \input{chapters/grundlagen_des_produktionscontrollings}
-\input{chapters/grundlagen_des_it_controllings}
+%\input{chapters/grundlagen_des_it_controllings}
 \input{chapters/flexibilitaet}
 \input{chapters/rahmenwerk_zur_bewertung}
 \input{chapters/ausblick_und_potential}
 \newpage
 \backmatter
+\addcontentsline{toc}{section}{Quellenverzeichnis}
 \printbibliography
 \appendix
+\addcontentsline{toc}{section}{Anhang}
+\renewcommand\thesection{\Alph{section}}
 \input{chapters/anhang}
-
 \end{document}

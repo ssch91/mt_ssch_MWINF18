@@ -169,6 +169,31 @@
       \field{type}{Dissertation}
       \field{year}{1929}
     \endentry
+    \entry{bange2004software}{book}{}
+      \name{author}{1}{}{%
+        {{hash=44d341bf6017e58a6c24cc905b89a431}{%
+           family={Bange},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OXYGON Verlag}%
+      }
+      \strng{namehash}{44d341bf6017e58a6c24cc905b89a431}
+      \strng{fullhash}{44d341bf6017e58a6c24cc905b89a431}
+      \strng{bibnamehash}{44d341bf6017e58a6c24cc905b89a431}
+      \strng{authorbibnamehash}{44d341bf6017e58a6c24cc905b89a431}
+      \strng{authornamehash}{44d341bf6017e58a6c24cc905b89a431}
+      \strng{authorfullhash}{44d341bf6017e58a6c24cc905b89a431}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783937818023}
+      \field{title}{Software im Vergleich: Balanced Scorecard: 20 Werkzeuge f{ü}r das Performance Management. - Eine Studie des Business Application Research Center}
+      \field{year}{2004}
+    \endentry
     \entry{battenfeld1999}{article}{}
       \name{author}{1}{}{%
         {{hash=ae895fe185ebebe72197992cc6dc1d1b}{%
@@ -2749,6 +2774,31 @@
       \field{title}{Kunden-Bilanz-Analyse der Kreditinstitute: eine Einf{ü}hrung in die Jahresabschluss-Analyse und in die Analyse-Praxis der Kreditinstitute}
       \field{year}{1989}
     \endentry
+    \entry{mohrmann2007facility}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0335e723de9779eacf219f42508b8c47}{%
+           family={Mohrmann},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Books on Demand}%
+      }
+      \strng{namehash}{0335e723de9779eacf219f42508b8c47}
+      \strng{fullhash}{0335e723de9779eacf219f42508b8c47}
+      \strng{bibnamehash}{0335e723de9779eacf219f42508b8c47}
+      \strng{authorbibnamehash}{0335e723de9779eacf219f42508b8c47}
+      \strng{authornamehash}{0335e723de9779eacf219f42508b8c47}
+      \strng{authorfullhash}{0335e723de9779eacf219f42508b8c47}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783833471124}
+      \field{title}{Facility Management mithilfe der Balanced Scorecard neu denken}
+      \field{year}{2007}
+    \endentry
     \entry{schroederHMD2016}{article}{}
       \name{author}{2}{}{%
         {{hash=3e387a852021de05ea15fe5e581f520a}{%
@@ -3253,6 +3303,73 @@
       \verb 10.1007/978-3-658-07719-8_5
       \endverb
     \endentry
+    \entry{roeglinger2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=60ae6e4367f2c3d221f2ad21b0b74de5}{%
+           family={Röglinger},
+           familyi={R\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bf52d1ea7c92932593844e25d564a3f7}{%
+           family={Reinwald},
+           familyi={R\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a8a09f7a3fd869d4811c7d3a46a4b983}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Marco\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=45ff20ca5f2fcdc4b117d07041e3e514}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={H.\bibnamedelimi R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=381a61165e2c467689bdf4cccb086ba0}{%
+           family={Karagiannis},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=25a032c36fb3532d04839e5fdb2b9b6f}{%
+           family={Fill},
+           familyi={F\bibinitperiod},
+           given={H.-G.},
+           giveni={H\bibinithyphendelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {OCG}%
+      }
+      \strng{namehash}{6ae2036e4b30199467eb13da040b2b43}
+      \strng{fullhash}{6ae2036e4b30199467eb13da040b2b43}
+      \strng{bibnamehash}{6ae2036e4b30199467eb13da040b2b43}
+      \strng{authorbibnamehash}{6ae2036e4b30199467eb13da040b2b43}
+      \strng{authornamehash}{6ae2036e4b30199467eb13da040b2b43}
+      \strng{authorfullhash}{6ae2036e4b30199467eb13da040b2b43}
+      \strng{editorbibnamehash}{c43bc28316e5a40c9e26b9ed241e22df}
+      \strng{editornamehash}{c43bc28316e5a40c9e26b9ed241e22df}
+      \strng{editorfullhash}{c43bc28316e5a40c9e26b9ed241e22df}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Wirtschaftsinformatik 2009 - Business Services: Konzepte, Technologien, Anwendungen (Band 2)}
+      \field{month}{2}
+      \field{title}{Diskussionspapier WI-242: Ein formaler Ansatz zur Auswahl von Kennzahlen auf Basis empirischer Zusammenhänge}
+      \field{year}{2009}
+      \field{pages}{329\bibrangedash 338}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb http://fim-rc.de/Paperbibliothek/Veroeffentlicht/242/wi-242.pdf
+      \endverb
+      \verb{url}
+      \verb http://fim-rc.de/Paperbibliothek/Veroeffentlicht/242/wi-242.pdf
+      \endverb
+    \endentry
     \entry{hoffmann2007}{article}{}
       \name{author}{3}{}{%
         {{hash=bd3f24fd81a5fe9035699fd5d00f5b4c}{%
@@ -3552,7 +3669,7 @@
       \field{pages}{39\bibrangedash 56}
       \range{pages}{18}
     \endentry
-    \entry{schnell2012controlling}{incollection}{}
+    \entry{schnell2012kennzahlen}{incollection}{}
       \name{author}{1}{}{%
         {{hash=534c25a964eeb99913bcb796baab9aab}{%
            family={Schnell},
@@ -3592,8 +3709,93 @@
       \field{booktitle}{Controlling in der Produktion: Instrumente, Strategien und Best-Practices}
       \field{isbn}{9783648031995}
       \field{series}{Haufe Fachbuch}
+      \field{title}{Effizienzmessung in der Produktion mithilfe von Kennzahlen}
+      \field{year}{2012}
+      \field{pages}{41\bibrangedash 62}
+      \range{pages}{22}
+    \endentry
+    \entry{schnell2012controlling}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=534c25a964eeb99913bcb796baab9aab}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=29d45a9eb0ebe08234f6b49e7858f2ef}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=534c25a964eeb99913bcb796baab9aab}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haufe Lexware}%
+      }
+      \strng{namehash}{534c25a964eeb99913bcb796baab9aab}
+      \strng{fullhash}{534c25a964eeb99913bcb796baab9aab}
+      \strng{bibnamehash}{534c25a964eeb99913bcb796baab9aab}
+      \strng{authorbibnamehash}{534c25a964eeb99913bcb796baab9aab}
+      \strng{authornamehash}{534c25a964eeb99913bcb796baab9aab}
+      \strng{authorfullhash}{534c25a964eeb99913bcb796baab9aab}
+      \strng{editorbibnamehash}{da8d7b94fd2e19f18059b8044a8c04ab}
+      \strng{editornamehash}{da8d7b94fd2e19f18059b8044a8c04ab}
+      \strng{editorfullhash}{da8d7b94fd2e19f18059b8044a8c04ab}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Controlling in der Produktion: Instrumente, Strategien und Best-Practices}
+      \field{isbn}{9783648031995}
+      \field{series}{Haufe Fachbuch}
       \field{title}{Produktionscontrolling: Bedeutung, Selbstverständnis, Aufgaben, Instrumente}
       \field{year}{2012}
+    \endentry
+    \entry{schnell2015kennzahlen}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=4c2b1d3faa6f398b129174eeec6794ca}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=dcc821618636330ec34787596c4a78f8}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haufe Lexware}%
+      }
+      \strng{namehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{fullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{bibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorbibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authornamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorfullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{editorbibnamehash}{dcc821618636330ec34787596c4a78f8}
+      \strng{editornamehash}{dcc821618636330ec34787596c4a78f8}
+      \strng{editorfullhash}{dcc821618636330ec34787596c4a78f8}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Unternehmenssteuerung mit Kennzahlen - inkl. Arbeitshilfen online: Auswahl, Ermittlung, Analyse, Kommunikation}
+      \field{isbn}{3648066781}
+      \field{series}{Haufe Fachbuch}
+      \field{title}{Kennzahlen zur Effzienzsicherung in der Produktion}
+      \field{year}{2015}
+      \field{pages}{87\bibrangedash 110}
+      \range{pages}{24}
     \endentry
     \entry{schnell2007}{article}{}
       \name{author}{1}{}{%
@@ -3612,7 +3814,7 @@
       \strng{authorbibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
       \strng{authornamehash}{4c2b1d3faa6f398b129174eeec6794ca}
       \strng{authorfullhash}{4c2b1d3faa6f398b129174eeec6794ca}
-      \field{extraname}{2}
+      \field{extraname}{4}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -3656,7 +3858,7 @@
       \strng{editorbibnamehash}{66e00961d3fe2189f6b77ffc8cd1126e}
       \strng{editornamehash}{66e00961d3fe2189f6b77ffc8cd1126e}
       \strng{editorfullhash}{66e00961d3fe2189f6b77ffc8cd1126e}
-      \field{extraname}{3}
+      \field{extraname}{5}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -3666,6 +3868,46 @@
       \field{series}{Haufe Fachbuch}
       \field{title}{Produktionscontrolling: Bedeutung, Selbstverständnis, Aufgaben, Instrumente}
       \field{year}{2012}
+    \endentry
+    \entry{schnell2018modernes}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=4c2b1d3faa6f398b129174eeec6794ca}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=dcc821618636330ec34787596c4a78f8}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haufe}%
+      }
+      \strng{namehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{fullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{bibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorbibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authornamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorfullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{editorbibnamehash}{dcc821618636330ec34787596c4a78f8}
+      \strng{editornamehash}{dcc821618636330ec34787596c4a78f8}
+      \strng{editorfullhash}{dcc821618636330ec34787596c4a78f8}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Modernes Produktionscontrolling f{ü}r die Industrie 4.0: Konzepte, Instrumente und Kennzahlen}
+      \field{isbn}{9783648117606}
+      \field{series}{Haufe Fachbuch}
+      \field{title}{Produktionscontrolling: Selbstverständnis, Aufgaben und Instrumente}
+      \field{year}{2018}
+      \field{pages}{21\bibrangedash 40}
+      \range{pages}{20}
     \endentry
     \entry{schoeb2015}{article}{}
       \name{author}{1}{}{%
@@ -4480,6 +4722,40 @@
       \field{pages}{63\bibrangedash 80}
       \range{pages}{18}
     \endentry
+    \entry{winkler2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=32f3b4e672de372cd68d985c7984c364}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={Herwig},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cfdea1fb8086087748b3898461009b7f}{%
+           family={Sobernig},
+           familyi={S\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für ControllingWissen AG}%
+      }
+      \strng{namehash}{2c9db7067c7b1916329c8bb2f568a313}
+      \strng{fullhash}{2c9db7067c7b1916329c8bb2f568a313}
+      \strng{bibnamehash}{2c9db7067c7b1916329c8bb2f568a313}
+      \strng{authorbibnamehash}{2c9db7067c7b1916329c8bb2f568a313}
+      \strng{authornamehash}{2c9db7067c7b1916329c8bb2f568a313}
+      \strng{authorfullhash}{2c9db7067c7b1916329c8bb2f568a313}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{2}
+      \field{title}{Entwicklung und Einsatz einer Flexibility Scorecard}
+      \field{year}{2008}
+      \field{pages}{4\bibrangedash 10}
+      \range{pages}{7}
+    \endentry
     \entry{woehe2016einfuehrung}{book}{}
       \name{author}{3}{}{%
         {{hash=222159a1af113aa93491290427613b05}{%
@@ -4754,7 +5030,6 @@
       \range{pages}{18}
     \endentry
   \enddatalist
-  \missing{e}
 \endrefsection
 \endinput
 
