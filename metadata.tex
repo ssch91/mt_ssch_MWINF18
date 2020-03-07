@@ -73,6 +73,18 @@
   level 3/.style = {basic, thin, align=left, fill=pink!60, text width=6.5em}
 }
 
+%engeres itemize
+\newenvironment{tightenumerate}{
+\begin{enumerate}{
+\setlength{\topsep}{-1ex}
+\setlength{\itemsep}{-1ex}
+\setlength{\leftmargin}{4ex}
+}
+}{
+\end{enumerate}
+\vspace{1ex}
+}
+
 %Seitennummerierungen
 \newcounter{savepage}
 \def\frontmatter{

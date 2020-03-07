@@ -19,6 +19,7 @@
 \usepackage{diagbox}
 %Benötigt, um Tabellen automatisch am Rand umzubrechen
 \usepackage{tabularx,ragged2e}
+\usepackage{makecell}
 %Benötigt, um Captions bei Tabellen jeweils zu zentrieren, könnte auch in den Metadaten für alle passieren
 \usepackage{caption}
 %Für ToDo-Annotationen, bei Bedarf entfernen
@@ -34,7 +35,6 @@
 %Parametrierung der Packages
 \include{metadata}
 
-
 %Latex Smartdiagram, Bäumc zeichnen und Stil
 \usepackage{forest}
 \useforestlibrary{edges}
@@ -42,7 +42,14 @@
 %footnote ohne Indent
 \usepackage[hang,flushmargin]{footmisc}
 
+%Tabelle über mehrere Seiten in diesem environment
+\usepackage{longtable} 
+
 \usepackage{array}
+
+%mit [H] figures und tables festnageln
+\usepackage{float}
+
 
 %Anhang nicht im TOC
 \usepackage{etoolbox}

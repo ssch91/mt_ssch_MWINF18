@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.31)  28 FEB 2020 04:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.31)  7 MAR 2020 07:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -616,21 +616,26 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip101
 \RaggedRightParindent=\skip102
 \JustifyingParindent=\skip103
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen158
+\c@nlinenum=\count326
+\TeXr@lab=\toks38
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen158
-\captionmargin@=\dimen159
-\captionwidth=\dimen160
-\caption@tempdima=\dimen161
-\caption@indent=\dimen162
-\caption@parindent=\dimen163
-\caption@hangindent=\dimen164
+\captionmargin=\dimen159
+\captionmargin@=\dimen160
+\captionwidth=\dimen161
+\caption@tempdima=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
 )
-\c@caption@flags=\count326
-\c@ContinuedFloat=\count327
+\c@caption@flags=\count327
+\c@ContinuedFloat=\count328
 Package caption Info: longtable package is loaded.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
@@ -655,9 +660,9 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks38
-\pgfutil@tempdima=\dimen165
-\pgfutil@tempdimb=\dimen166
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen166
+\pgfutil@tempdimb=\dimen167
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box40
  (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
@@ -670,29 +675,29 @@ Package: pgf 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks39
-\pgfkeys@temptoks=\toks40
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks41
+\pgfkeys@tmptoks=\toks42
 ))
-\pgf@x=\dimen167
-\pgf@y=\dimen168
-\pgf@xa=\dimen169
-\pgf@ya=\dimen170
-\pgf@xb=\dimen171
-\pgf@yb=\dimen172
-\pgf@xc=\dimen173
-\pgf@yc=\dimen174
+\pgf@x=\dimen168
+\pgf@y=\dimen169
+\pgf@xa=\dimen170
+\pgf@ya=\dimen171
+\pgf@xb=\dimen172
+\pgf@yb=\dimen173
+\pgf@xc=\dimen174
+\pgf@yc=\dimen175
 \w@pgf@writea=\write4
 \r@pgf@reada=\read2
-\c@pgf@counta=\count328
-\c@pgf@countb=\count329
-\c@pgf@countc=\count330
-\c@pgf@countd=\count331
-\t@pgf@toka=\toks42
-\t@pgf@tokb=\toks43
-\t@pgf@tokc=\toks44
-\pgf@sys@id@count=\count332
+\c@pgf@counta=\count329
+\c@pgf@countb=\count330
+\c@pgf@countc=\count331
+\c@pgf@countd=\count332
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+\pgf@sys@id@count=\count333
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
 )
@@ -703,60 +708,60 @@ File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
 File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
 ))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfsyssoftpath@smallbuffer@items=\count333
-\pgfsyssoftpath@bigbuffer@items=\count334
+\pgfsyssoftpath@smallbuffer@items=\count334
+\pgfsyssoftpath@bigbuffer@items=\count335
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen175
-\pgfmath@count=\count335
+\pgfmath@dimen=\dimen176
+\pgfmath@count=\count336
 \pgfmath@box=\box41
-\pgfmath@toks=\toks45
-\pgfmath@stack@operand=\toks46
-\pgfmath@stack@operation=\toks47
+\pgfmath@toks=\toks46
+\pgfmath@stack@operand=\toks47
+\pgfmath@stack@operation=\toks48
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count336
+\c@pgfmathroundto@lastzeros=\count337
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@picminx=\dimen176
-\pgf@picmaxx=\dimen177
-\pgf@picminy=\dimen178
-\pgf@picmaxy=\dimen179
-\pgf@pathminx=\dimen180
-\pgf@pathmaxx=\dimen181
-\pgf@pathminy=\dimen182
-\pgf@pathmaxy=\dimen183
-\pgf@xx=\dimen184
-\pgf@xy=\dimen185
-\pgf@yx=\dimen186
-\pgf@yy=\dimen187
-\pgf@zx=\dimen188
-\pgf@zy=\dimen189
+\pgf@picminx=\dimen177
+\pgf@picmaxx=\dimen178
+\pgf@picminy=\dimen179
+\pgf@picmaxy=\dimen180
+\pgf@pathminx=\dimen181
+\pgf@pathmaxx=\dimen182
+\pgf@pathminy=\dimen183
+\pgf@pathmaxy=\dimen184
+\pgf@xx=\dimen185
+\pgf@xy=\dimen186
+\pgf@yx=\dimen187
+\pgf@yy=\dimen188
+\pgf@zx=\dimen189
+\pgf@zy=\dimen190
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@path@lastx=\dimen190
-\pgf@path@lasty=\dimen191
+\pgf@path@lastx=\dimen191
+\pgf@path@lasty=\dimen192
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@shorten@end@additional=\dimen192
-\pgf@shorten@start@additional=\dimen193
+\pgf@shorten@end@additional=\dimen193
+\pgf@shorten@start@additional=\dimen194
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfpic=\box42
 \pgf@hbox=\box43
 \pgf@layerbox@main=\box44
-\pgf@picture@serial@count=\count337
+\pgf@picture@serial@count=\count338
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgflinewidth=\dimen194
+\pgflinewidth=\dimen195
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@pt@x=\dimen195
-\pgf@pt@y=\dimen196
-\pgf@pt@temp=\dimen197
+\pgf@pt@x=\dimen196
+\pgf@pt@y=\dimen197
+\pgf@pt@temp=\dimen198
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -765,12 +770,12 @@ File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
 File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfarrowsep=\dimen198
+\pgfarrowsep=\dimen199
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@max=\dimen199
-\pgf@sys@shading@range@num=\count338
-\pgf@shadingcount=\count339
+\pgf@max=\dimen256
+\pgf@sys@shading@range@num=\count339
+\pgf@shadingcount=\count340
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
@@ -791,46 +796,46 @@ File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
 File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
-\pgf@nodesepstart=\dimen256
-\pgf@nodesepend=\dimen257
+\pgf@nodesepstart=\dimen257
+\pgf@nodesepend=\dimen258
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
 )) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen258
-\pgffor@skip=\dimen259
-\pgffor@stack=\toks48
-\pgffor@toks=\toks49
+\pgffor@iter=\dimen259
+\pgffor@skip=\dimen260
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
 )) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2019/04/04 v3.1.2 (3.1.2)
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@plot@mark@count=\count340
-\pgfplotmarksize=\dimen260
+\pgf@plot@mark@count=\count341
+\pgfplotmarksize=\dimen261
 )
-\tikz@lastx=\dimen261
-\tikz@lasty=\dimen262
-\tikz@lastxsaved=\dimen263
-\tikz@lastysaved=\dimen264
-\tikzleveldistance=\dimen265
-\tikzsiblingdistance=\dimen266
+\tikz@lastx=\dimen262
+\tikz@lasty=\dimen263
+\tikz@lastxsaved=\dimen264
+\tikz@lastysaved=\dimen265
+\tikzleveldistance=\dimen266
+\tikzsiblingdistance=\dimen267
 \tikz@figbox=\box47
 \tikz@figbox@bg=\box48
 \tikz@tempbox=\box49
 \tikz@tempbox@bg=\box50
-\tikztreelevel=\count341
-\tikznumberofchildren=\count342
-\tikznumberofcurrentchild=\count343
-\tikz@fig@count=\count344
+\tikztreelevel=\count342
+\tikznumberofchildren=\count343
+\tikznumberofcurrentchild=\count344
+\tikz@fig@count=\count345
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfmatrixcurrentrow=\count345
-\pgfmatrixcurrentcolumn=\count346
-\pgf@matrix@numberofcolumns=\count347
+\pgfmatrixcurrentrow=\count346
+\pgfmatrixcurrentcolumn=\count347
+\pgf@matrix@numberofcolumns=\count348
 )
-\tikz@expandcount=\count348
+\tikz@expandcount=\count349
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
@@ -842,7 +847,7 @@ File: tikzlibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )))
-\c@@todonotes@numberoftodonotes=\count349
+\c@@todonotes@numberoftodonotes=\count350
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -876,15 +881,15 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen267
-\Hy@linkcounter=\count350
-\Hy@pagecounter=\count351
+\@linkdim=\dimen268
+\Hy@linkcounter=\count351
+\Hy@pagecounter=\count352
  (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count352
+\Hy@SavedSpaceFactor=\count353
  (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
@@ -895,12 +900,12 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count353
+\c@Hy@tempcnt=\count354
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen268
-\Fld@menulength=\count354
-\Field@Width=\dimen269
-\Fld@charsize=\dimen270
+\XeTeXLinkMargin=\dimen269
+\Fld@menulength=\count355
+\Field@Width=\dimen270
+\Fld@charsize=\dimen271
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -910,15 +915,15 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count355
-\c@Item=\count356
-\c@Hfootnote=\count357
+\Hy@abspage=\count356
+\c@Item=\count357
+\c@Hfootnote=\count358
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count358
-\c@bookmark@seq@number=\count359
+\Fld@listcount=\count359
+\c@bookmark@seq@number=\count360
  (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
@@ -942,7 +947,7 @@ Package titlesec Warning: You are using an old interface for page styles
 (titlesec)                into errors.
 
 )
-\c@savepage=\count360
+\c@savepage=\count361
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/forest/forest.sty
 Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
@@ -992,11 +997,11 @@ File: tikzlibraryfit.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count361
+\pgf@intersect@solutions=\count362
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks50
-\pgfopts@list@add@b@toks=\toks51
+\pgfopts@list@add@a@toks=\toks51
+\pgfopts@list@add@b@toks=\toks52
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/elocalloc/elocalloc.sty
 Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
 )
@@ -1008,24 +1013,24 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: expl3 2019-05-07 L3 programming layer (loader) 
  (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2019-05-07 L3 programming layer (code)
-\c_max_int=\count362
-\l_tmpa_int=\count363
-\l_tmpb_int=\count364
-\g_tmpa_int=\count365
-\g_tmpb_int=\count366
-\g__kernel_prg_map_int=\count367
-\c__ior_term_ior=\count368
-\c_log_iow=\count369
-\l_iow_line_count_int=\count370
-\l__iow_line_target_int=\count371
-\l__iow_one_indent_int=\count372
-\l__iow_indent_int=\count373
-\c_zero_dim=\dimen271
-\c_max_dim=\dimen272
-\l_tmpa_dim=\dimen273
-\l_tmpb_dim=\dimen274
-\g_tmpa_dim=\dimen275
-\g_tmpb_dim=\dimen276
+\c_max_int=\count363
+\l_tmpa_int=\count364
+\l_tmpb_int=\count365
+\g_tmpa_int=\count366
+\g_tmpb_int=\count367
+\g__kernel_prg_map_int=\count368
+\c__ior_term_ior=\count369
+\c_log_iow=\count370
+\l_iow_line_count_int=\count371
+\l__iow_line_target_int=\count372
+\l__iow_one_indent_int=\count373
+\l__iow_indent_int=\count374
+\c_zero_dim=\dimen272
+\c_max_dim=\dimen273
+\l_tmpa_dim=\dimen274
+\l_tmpb_dim=\dimen275
+\g_tmpa_dim=\dimen276
+\g_tmpb_dim=\dimen277
 \c_zero_skip=\skip105
 \c_max_skip=\skip106
 \l_tmpa_skip=\skip107
@@ -1038,100 +1043,100 @@ Package: expl3 2019-05-07 L3 programming layer (code)
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count374
-\l__intarray_loop_int=\count375
-\c__intarray_sp_dim=\dimen277
-\g__intarray_font_int=\count376
-\c__fp_leading_shift_int=\count377
-\c__fp_middle_shift_int=\count378
-\c__fp_trailing_shift_int=\count379
-\c__fp_big_leading_shift_int=\count380
-\c__fp_big_middle_shift_int=\count381
-\c__fp_big_trailing_shift_int=\count382
-\c__fp_Bigg_leading_shift_int=\count383
-\c__fp_Bigg_middle_shift_int=\count384
-\c__fp_Bigg_trailing_shift_int=\count385
-\c__kernel_randint_max_int=\count386
-\g__fp_array_int=\count387
-\l__fp_array_loop_int=\count388
-\l__sort_length_int=\count389
-\l__sort_min_int=\count390
-\l__sort_top_int=\count391
-\l__sort_max_int=\count392
-\l__sort_true_max_int=\count393
-\l__sort_block_int=\count394
-\l__sort_begin_int=\count395
-\l__sort_end_int=\count396
-\l__sort_A_int=\count397
-\l__sort_B_int=\count398
-\l__sort_C_int=\count399
-\l__tl_analysis_normal_int=\count400
-\l__tl_analysis_index_int=\count401
-\l__tl_analysis_nesting_int=\count402
-\l__tl_analysis_type_int=\count403
-\l__regex_internal_a_int=\count404
-\l__regex_internal_b_int=\count405
-\l__regex_internal_c_int=\count406
-\l__regex_balance_int=\count407
-\l__regex_group_level_int=\count408
-\l__regex_mode_int=\count409
-\c__regex_cs_in_class_mode_int=\count410
-\c__regex_cs_mode_int=\count411
-\l__regex_catcodes_int=\count412
-\l__regex_default_catcodes_int=\count413
-\c__regex_catcode_D_int=\count414
-\c__regex_catcode_S_int=\count415
-\c__regex_catcode_L_int=\count416
-\c__regex_catcode_O_int=\count417
-\c__regex_catcode_A_int=\count418
-\c__regex_all_catcodes_int=\count419
-\l__regex_show_lines_int=\count420
-\l__regex_min_state_int=\count421
-\l__regex_max_state_int=\count422
-\l__regex_left_state_int=\count423
-\l__regex_right_state_int=\count424
-\l__regex_capturing_group_int=\count425
-\l__regex_min_pos_int=\count426
-\l__regex_max_pos_int=\count427
-\l__regex_curr_pos_int=\count428
-\l__regex_start_pos_int=\count429
-\l__regex_success_pos_int=\count430
-\l__regex_curr_char_int=\count431
-\l__regex_curr_catcode_int=\count432
-\l__regex_last_char_int=\count433
-\l__regex_case_changed_char_int=\count434
-\l__regex_curr_state_int=\count435
-\l__regex_step_int=\count436
-\l__regex_min_active_int=\count437
-\l__regex_max_active_int=\count438
-\l__regex_replacement_csnames_int=\count439
-\l__regex_match_count_int=\count440
-\l__regex_min_submatch_int=\count441
-\l__regex_submatch_int=\count442
-\l__regex_zeroth_submatch_int=\count443
-\g__regex_trace_regex_int=\count444
+\l_keys_choice_int=\count375
+\l__intarray_loop_int=\count376
+\c__intarray_sp_dim=\dimen278
+\g__intarray_font_int=\count377
+\c__fp_leading_shift_int=\count378
+\c__fp_middle_shift_int=\count379
+\c__fp_trailing_shift_int=\count380
+\c__fp_big_leading_shift_int=\count381
+\c__fp_big_middle_shift_int=\count382
+\c__fp_big_trailing_shift_int=\count383
+\c__fp_Bigg_leading_shift_int=\count384
+\c__fp_Bigg_middle_shift_int=\count385
+\c__fp_Bigg_trailing_shift_int=\count386
+\c__kernel_randint_max_int=\count387
+\g__fp_array_int=\count388
+\l__fp_array_loop_int=\count389
+\l__sort_length_int=\count390
+\l__sort_min_int=\count391
+\l__sort_top_int=\count392
+\l__sort_max_int=\count393
+\l__sort_true_max_int=\count394
+\l__sort_block_int=\count395
+\l__sort_begin_int=\count396
+\l__sort_end_int=\count397
+\l__sort_A_int=\count398
+\l__sort_B_int=\count399
+\l__sort_C_int=\count400
+\l__tl_analysis_normal_int=\count401
+\l__tl_analysis_index_int=\count402
+\l__tl_analysis_nesting_int=\count403
+\l__tl_analysis_type_int=\count404
+\l__regex_internal_a_int=\count405
+\l__regex_internal_b_int=\count406
+\l__regex_internal_c_int=\count407
+\l__regex_balance_int=\count408
+\l__regex_group_level_int=\count409
+\l__regex_mode_int=\count410
+\c__regex_cs_in_class_mode_int=\count411
+\c__regex_cs_mode_int=\count412
+\l__regex_catcodes_int=\count413
+\l__regex_default_catcodes_int=\count414
+\c__regex_catcode_D_int=\count415
+\c__regex_catcode_S_int=\count416
+\c__regex_catcode_L_int=\count417
+\c__regex_catcode_O_int=\count418
+\c__regex_catcode_A_int=\count419
+\c__regex_all_catcodes_int=\count420
+\l__regex_show_lines_int=\count421
+\l__regex_min_state_int=\count422
+\l__regex_max_state_int=\count423
+\l__regex_left_state_int=\count424
+\l__regex_right_state_int=\count425
+\l__regex_capturing_group_int=\count426
+\l__regex_min_pos_int=\count427
+\l__regex_max_pos_int=\count428
+\l__regex_curr_pos_int=\count429
+\l__regex_start_pos_int=\count430
+\l__regex_success_pos_int=\count431
+\l__regex_curr_char_int=\count432
+\l__regex_curr_catcode_int=\count433
+\l__regex_last_char_int=\count434
+\l__regex_case_changed_char_int=\count435
+\l__regex_curr_state_int=\count436
+\l__regex_step_int=\count437
+\l__regex_min_active_int=\count438
+\l__regex_max_active_int=\count439
+\l__regex_replacement_csnames_int=\count440
+\l__regex_match_count_int=\count441
+\l__regex_min_submatch_int=\count442
+\l__regex_submatch_int=\count443
+\l__regex_zeroth_submatch_int=\count444
+\g__regex_trace_regex_int=\count445
 \c_empty_box=\box71
 \l_tmpa_box=\box72
 \l_tmpb_box=\box73
 \g_tmpa_box=\box74
 \g_tmpb_box=\box75
-\l__box_top_dim=\dimen278
-\l__box_bottom_dim=\dimen279
-\l__box_left_dim=\dimen280
-\l__box_right_dim=\dimen281
-\l__box_top_new_dim=\dimen282
-\l__box_bottom_new_dim=\dimen283
-\l__box_left_new_dim=\dimen284
-\l__box_right_new_dim=\dimen285
+\l__box_top_dim=\dimen279
+\l__box_bottom_dim=\dimen280
+\l__box_left_dim=\dimen281
+\l__box_right_dim=\dimen282
+\l__box_top_new_dim=\dimen283
+\l__box_bottom_new_dim=\dimen284
+\l__box_left_new_dim=\dimen285
+\l__box_right_new_dim=\dimen286
 \l__box_internal_box=\box76
 \l__coffin_internal_box=\box77
-\l__coffin_internal_dim=\dimen286
-\l__coffin_offset_x_dim=\dimen287
-\l__coffin_offset_y_dim=\dimen288
-\l__coffin_x_dim=\dimen289
-\l__coffin_y_dim=\dimen290
-\l__coffin_x_prime_dim=\dimen291
-\l__coffin_y_prime_dim=\dimen292
+\l__coffin_internal_dim=\dimen287
+\l__coffin_offset_x_dim=\dimen288
+\l__coffin_offset_y_dim=\dimen289
+\l__coffin_x_dim=\dimen290
+\l__coffin_y_dim=\dimen291
+\l__coffin_x_prime_dim=\dimen292
+\l__coffin_y_prime_dim=\dimen293
 \c_empty_coffin=\box78
 \l__coffin_aligned_coffin=\box79
 \l__coffin_aligned_internal_coffin=\box80
@@ -1139,108 +1144,115 @@ Package: expl3 2019-05-07 L3 programming layer (code)
 \l_tmpb_coffin=\box82
 \g_tmpa_coffin=\box83
 \g_tmpb_coffin=\box84
-\l__coffin_bounding_shift_dim=\dimen293
-\l__coffin_left_corner_dim=\dimen294
-\l__coffin_right_corner_dim=\dimen295
-\l__coffin_bottom_corner_dim=\dimen296
-\l__coffin_top_corner_dim=\dimen297
-\l__coffin_scaled_total_height_dim=\dimen298
-\l__coffin_scaled_width_dim=\dimen299
+\l__coffin_bounding_shift_dim=\dimen294
+\l__coffin_left_corner_dim=\dimen295
+\l__coffin_right_corner_dim=\dimen296
+\l__coffin_bottom_corner_dim=\dimen297
+\l__coffin_top_corner_dim=\dimen298
+\l__coffin_scaled_total_height_dim=\dimen299
+\l__coffin_scaled_width_dim=\dimen300
 \c__coffin_empty_coffin=\box85
 \l__coffin_display_coffin=\box86
 \l__coffin_display_coord_coffin=\box87
 \l__coffin_display_pole_coffin=\box88
-\l__coffin_display_offset_dim=\dimen300
-\l__coffin_display_x_dim=\dimen301
-\l__coffin_display_y_dim=\dimen302
+\l__coffin_display_offset_dim=\dimen301
+\l__coffin_display_x_dim=\dimen302
+\l__coffin_display_y_dim=\dimen303
 \g__file_internal_ior=\read3
-\l__seq_internal_a_int=\count445
-\l__seq_internal_b_int=\count446
-\c__deprecation_minus_one=\count447
+\l__seq_internal_a_int=\count446
+\l__seq_internal_b_int=\count447
+\c__deprecation_minus_one=\count448
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count448
+\l__driver_color_stack_int=\count449
 \l__driver_pdf_tmp_box=\box89
 ))
 Package: xparse 2019-05-03 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count449
-\g__xparse_grabber_int=\count450
-\l__xparse_m_args_int=\count451
-\l__xparse_v_nesting_int=\count452
+\l__xparse_current_arg_int=\count450
+\g__xparse_grabber_int=\count451
+\l__xparse_m_args_int=\count452
+\l__xparse_v_nesting_int=\count453
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/inlinedef/inlinedef.sty
 Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
-\ID@toks=\toks52
-\ID@count=\count453
+\ID@toks=\toks53
+\ID@count=\count454
 )
-\ID@usercommands=\toks53
-\safeloop@depth=\count454
-\safeRKloop@depth=\count455
-\forest@temp@dimen=\dimen303
-\forest@temp@count=\count456
-\forest@n=\count457
-\forest@temp@global@count=\count458
-\forest@temp@toks=\toks54
-\forest@temparray@M=\count459
-\forest@temparray@N=\count460
-\forest@global@temparray@M=\count461
-\forest@global@temparray@N=\count462
-\forest@isnum@count=\count463
-\forest@isdim@nonintpart=\count464
-\forest@isdim@dimen=\dimen304
-\forest@sort@m=\count465
-\forest@sort@k=\count466
-\forest@sort@p=\count467
-\bracket@content=\toks55
-\bracket@afterthought=\toks56
-\forest@node@maxid=\count468
-\forest@process@left@M=\count469
-\forest@process@left@N=\count470
-\forest@process@right@M=\count471
-\forest@process@right@N=\count472
-\forest@process@saved@M=\count473
-\forest@process@saved@N=\count474
-\forest@process@result@M=\count475
-\forest@process@result@N=\count476
-\forest@process@n=\count477
-\forest@nodewalk@branch@toks=\toks57
-\forest@nodewalk@shortsteps@resolution=\toks58
-\forest@do@dynamics=\toks59
+\ID@usercommands=\toks54
+\safeloop@depth=\count455
+\safeRKloop@depth=\count456
+\forest@temp@dimen=\dimen304
+\forest@temp@count=\count457
+\forest@n=\count458
+\forest@temp@global@count=\count459
+\forest@temp@toks=\toks55
+\forest@temparray@M=\count460
+\forest@temparray@N=\count461
+\forest@global@temparray@M=\count462
+\forest@global@temparray@N=\count463
+\forest@isnum@count=\count464
+\forest@isdim@nonintpart=\count465
+\forest@isdim@dimen=\dimen305
+\forest@sort@m=\count466
+\forest@sort@k=\count467
+\forest@sort@p=\count468
+\bracket@content=\toks56
+\bracket@afterthought=\toks57
+\forest@node@maxid=\count469
+\forest@process@left@M=\count470
+\forest@process@left@N=\count471
+\forest@process@right@M=\count472
+\forest@process@right@N=\count473
+\forest@process@saved@M=\count474
+\forest@process@saved@N=\count475
+\forest@process@result@M=\count476
+\forest@process@result@N=\count477
+\forest@process@n=\count478
+\forest@nodewalk@branch@toks=\toks58
+\forest@nodewalk@shortsteps@resolution=\toks59
+\forest@do@dynamics=\toks60
 \forest@box=\box90
-\forest@xg=\dimen305
-\forest@yg=\dimen306
-\forest@xs=\dimen307
-\forest@ys=\dimen308
-\forest@pi@toks=\toks60
-\forest@segment@toks=\toks61
-\forest@PIi@toks=\toks62
-\forest@PIii@toks=\toks63
+\forest@xg=\dimen306
+\forest@yg=\dimen307
+\forest@xs=\dimen308
+\forest@ys=\dimen309
+\forest@pi@toks=\toks61
+\forest@segment@toks=\toks62
+\forest@PIi@toks=\toks63
+\forest@PIii@toks=\toks64
 \forest@copy@in=\read4
 \forest@copy@out=\write5
-\forest@externalize@max@outer@n=\count478
-\forest@externalize@inner@n=\count479
+\forest@externalize@max@outer@n=\count479
+\forest@externalize@inner@n=\count480
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/forest/forest-lib-edges.sty
 Package: forest-lib-edges 2016/12/05 v0.1.1
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks64
-\footnotemargin=\dimen309
-\c@pp@next@reset=\count480
+\FN@temptoken=\toks65
+\footnotemargin=\dimen310
+\c@pp@next@reset=\count481
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
 Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count482
+\float@exts=\toks66
+\float@box=\box91
+\@float@everytoks=\toks67
+\@floatcapt=\box92
 )
 \glswrite=\write6
 \glo@main@file=\write7
 \openout7 = `MA.glo'.
 
-Package glossaries Info: Writing glossary file MA.glo on input line 54.
+Package glossaries Info: Writing glossary file MA.glo on input line 61.
 \glo@acronym@file=\write8
 \openout8 = `MA.acn'.
 
-Package glossaries Info: Writing glossary file MA.acn on input line 54.
+Package glossaries Info: Writing glossary file MA.acn on input line 61.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
@@ -1267,38 +1279,42 @@ File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count481
-\@quotereset=\count482
-(/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.aux)
+\@quotelevel=\count483
+\@quotereset=\count484
+(/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.aux
+
+LaTeX Warning: Label `tab:5' multiply defined.
+
+)
 \openout1 = `MA.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
  (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count483
-\scratchdimen=\dimen310
-\scratchbox=\box91
-\nofMPsegments=\count484
-\nofMParguments=\count485
-\everyMPshowfont=\toks65
-\MPscratchCnt=\count486
-\MPscratchDim=\dimen311
-\MPnumerator=\count487
-\makeMPintoPDFobject=\count488
-\everyMPtoPDFconversion=\toks66
+\scratchcounter=\count485
+\scratchdimen=\dimen311
+\scratchbox=\box93
+\nofMPsegments=\count486
+\nofMParguments=\count487
+\everyMPshowfont=\toks68
+\MPscratchCnt=\count488
+\MPscratchDim=\dimen312
+\MPnumerator=\count489
+\makeMPintoPDFobject=\count490
+\everyMPtoPDFconversion=\toks69
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -1345,7 +1361,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Redefining '\citeauthor' on input line 56.
+Package biblatex Info: Redefining '\citeauthor' on input line 63.
 Package biblatex Info: Input encoding 'latin1' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'latin1'.
@@ -1353,39 +1369,48 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MA.bbl' found.
-(/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl)
-Package biblatex Info: Reference section=0 on input line 56.
-Package biblatex Info: Reference segment=0 on input line 56.
+(/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                seebacher2013ansaetze
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 63.
+Package biblatex Info: Reference segment=0 on input line 63.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 56.
+LaTeX Info: Redefining \selectfont on input line 63.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
  ABD: EveryShipout initializing macros
 
-Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 56.
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 63.
 
-\AtBeginShipoutBox=\box92
-Package hyperref Info: Link coloring OFF on input line 56.
+\AtBeginShipoutBox=\box94
+Package hyperref Info: Link coloring OFF on input line 63.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count489
+\c@section@level=\count491
 )
-LaTeX Info: Redefining \ref on input line 56.
-LaTeX Info: Redefining \pageref on input line 56.
-LaTeX Info: Redefining \nameref on input line 56.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
  (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.out) (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.out)
 \@outlinefile=\write9
 \openout9 = `MA.out'.
 
  (./titlepage.tex)
-<image/nak.jpg, id=74, 256.0767pt x 56.8524pt>
+<image/nak.jpg, id=78, 256.0767pt x 56.8524pt>
 File: image/nak.jpg Graphic file (type jpg)
 <use image/nak.jpg>
-Package pdftex.def Info: image/nak.jpg  used on input line 59.
+Package pdftex.def Info: image/nak.jpg  used on input line 66.
 (pdftex.def)             Requested size: 256.07608pt x 56.85225pt.
  [1
 
@@ -1398,34 +1423,51 @@ Package pdftex.def Info: image/nak.jpg  used on input line 59.
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image/nak.jpg>] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.tocpdfTeX warning (ext4): destination with the same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.58 ...ftragsfreigabe}{35}{subsubsection.0.3.2.4}
+l.58 ...it\"atsplanung}{34}{subsubsection.0.3.2.3}
                                                   % [1
 
 ]
-Overfull \hbox (3.64299pt too wide) detected at line 136
- []\OT1/cmr/m/n/12 XXI
+Overfull \hbox (3.96521pt too wide) detected at line 126
+ []\OT1/cmr/m/n/12 VIII
+ []
+
+
+Overfull \hbox (17.01646pt too wide) detected at line 130
+ []\OT1/cmr/m/n/12 XXVII
+ []
+
+
+Overfull \hbox (21.5817pt too wide) detected at line 134
+ []\OT1/cmr/m/n/12 XXVIII
+ []
+
+
+Overfull \hbox (17.01646pt too wide) detected at line 150
+ []\OT1/cmr/m/n/12 XXXII
  []
 
 )
 \tf@toc=\write10
 \openout10 = `MA.toc'.
 
- [2] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.lof)
+ [2] [3] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.lof)
 \tf@lof=\write11
 \openout11 = `MA.lof'.
 
- [3
+ [4
 
 ] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.lot)
 \tf@lot=\write12
 \openout12 = `MA.lot'.
 
- [4
+ [5
 
-] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.acr [5
+] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.acr [6
 
 
-]) [6] (./chapters/einleitung.tex
+]) [7] (./chapters/einleitung.tex
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 3.
+
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Horvath2015' is not an integer.
@@ -1433,11 +1475,54 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
+
+Overfull \hbox (21.40083pt too wide) in paragraph at lines 9--9
+\OT1/cmr/m/n/12 Abteilung?  
+ []
+
+
+Overfull \hbox (21.40083pt too wide) in paragraph at lines 9--9
+\OT1/cmr/m/n/12 Abteilung?  
+ []
+
+
+Overfull \hbox (14.01399pt too wide) in paragraph at lines 3--16
+\OT1/cmr/m/n/12 tels dement-spre-chen-der Me-tho-den auf-ein-an-der ab-zu-stim-men, so-dass bestm[]ogliche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Overfull \hbox (15.46973pt too wide) in paragraph at lines 3--16
+\OT1/cmr/m/n/12 Diese f[]ur die IT aus-ge-blie-be-ne Be-trach-tung von Fle-xi-bi-lit[]at durch die []Ubertragung
+ []
+
 [1
 
 ]
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 20.
-
 Overfull \hbox (22.21889pt too wide) in paragraph at lines 20--20
 [][]\OT1/cmr/m/n/12 Flexibilit[]at 
  []
@@ -1463,16 +1548,26 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                be correct.
 
 
-Overfull \hbox (12.21265pt too wide) in paragraph at lines 17--32
-\OT1/cmr/m/n/12 Ein zu ver-zeich-nen-der Trend ist zum Bei-spiel, da^^Y Projektmanagement-Methoden
- []
-
-
 Overfull \hbox (16.34686pt too wide) in paragraph at lines 17--32
-[][][] \OT1/cmr/m/n/12 Was be-deu-tet Fle-xi-bi-lit[]at nun aber f[]ur die Ge-samt-aus-le-gung der IT-Organisation?
+[][][] \OT1/cmr/m/n/12 Was be-deu-tet Fle-xi-bi-lit[]at nun aber f[]ur die Ge-samt-aus-le-gung der IT-Organisation? 
  []
 
-[2] [3]) (./chapters/controllingansatz.tex [4]
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--32
+
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 36--42
+
+ []
+
+[4]) (./chapters/controllingansatz.tex [5]
 Overfull \hbox (28.97714pt too wide) in paragraph at lines 7--7
 [][]\OT1/cmr/m/n/12 Schreibweise 
  []
@@ -1482,104 +1577,161 @@ Overfull \hbox (28.97714pt too wide) in paragraph at lines 7--7
 [][]\OT1/cmr/m/n/12 Schreibweise 
  []
 
-[5
+
+Overfull \hbox (28.1591pt too wide) in paragraph at lines 21--21
+[][]\OT1/cmr/m/n/12 Res[]umieren, 
+ []
+
+
+Overfull \hbox (9.7204pt too wide) in paragraph at lines 21--21
+\OT1/cmr/m/n/12 ans[]atzen 
+ []
+
+
+Overfull \hbox (14.38564pt too wide) in paragraph at lines 21--21
+\OT1/cmr/m/n/12 Leitgdan- 
+ []
+
+
+Overfull \hbox (28.1591pt too wide) in paragraph at lines 21--21
+[][]\OT1/cmr/m/n/12 Res[]umieren, 
+ []
+
+
+Overfull \hbox (9.7204pt too wide) in paragraph at lines 21--21
+\OT1/cmr/m/n/12 ans[]atzen 
+ []
+
+
+Overfull \hbox (14.38564pt too wide) in paragraph at lines 21--21
+\OT1/cmr/m/n/12 Leitgdan- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--22
+
+ []
+
+[6
 
 ]
-Overfull \hbox (10.40662pt too wide) in paragraph at lines 41--41
+Overfull \hbox (10.40662pt too wide) in paragraph at lines 40--40
  []|$[]$| 
  []
 
 
-Overfull \hbox (4.75934pt too wide) in paragraph at lines 49--49
+Overfull \hbox (4.75934pt too wide) in paragraph at lines 48--48
 \OT1/cmr/m/n/12 m[]oglich 
  []
 
 
-Overfull \hbox (1.88715pt too wide) in paragraph at lines 49--49
+Overfull \hbox (1.88715pt too wide) in paragraph at lines 48--48
 \OT1/cmr/m/n/12 schwie- 
  []
 
 
-Overfull \hbox (4.75934pt too wide) in paragraph at lines 49--49
+Overfull \hbox (4.75934pt too wide) in paragraph at lines 48--48
 \OT1/cmr/m/n/12 m[]oglich 
  []
 
 
-Overfull \hbox (1.88715pt too wide) in paragraph at lines 49--49
+Overfull \hbox (1.88715pt too wide) in paragraph at lines 48--48
 \OT1/cmr/m/n/12 schwie- 
  []
 
-[6]
-Overfull \hbox (29.23825pt too wide) in paragraph at lines 54--54
+
+Overfull \hbox (33.10362pt too wide) in paragraph at lines 24--50
+\OT1/cmr/m/n/12 Ausgehend von den f[]unf durch W[]ohe for-mu-lier-ten Aufgaben- bzw. F[]uhrungsbereichen
+ []
+
+
+Overfull \hbox (31.0166pt too wide) in paragraph at lines 24--50
+\OT1/cmr/m/n/12 ist fest-zu-hal-ten, dass Con-trol-ling-in-stru-men-te Ko-or-di-na-ti-on und Len-kung erm[]oglichen
+ []
+
+[7]
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+Overfull \hbox (29.23825pt too wide) in paragraph at lines 53--53
 [][]\OT1/cmr/m/n/12 Seitenzahlen 
  []
 
 
-Overfull \hbox (4.1024pt too wide) in paragraph at lines 54--54
+Overfull \hbox (4.1024pt too wide) in paragraph at lines 53--53
 \OT1/cmr/m/n/12 K[]upper 
  []
 
 
-Overfull \hbox (29.23825pt too wide) in paragraph at lines 54--54
+Overfull \hbox (29.23825pt too wide) in paragraph at lines 53--53
 [][]\OT1/cmr/m/n/12 Seitenzahlen 
  []
 
 
-Overfull \hbox (4.1024pt too wide) in paragraph at lines 54--54
+Overfull \hbox (4.1024pt too wide) in paragraph at lines 53--53
 \OT1/cmr/m/n/12 K[]upper 
  []
 
 
-Overfull \hbox (17.78647pt too wide) in paragraph at lines 52--56
+Overfull \hbox (17.78647pt too wide) in paragraph at lines 51--55
 \OT1/cmr/m/n/12 ken-nen und ent-spre-chen-de Anpassungs- und In-no-va-ti-ons-vorg[]ange ausl[]osen.[][][] 
  []
 
 
-Overfull \hbox (24.4487pt too wide) in paragraph at lines 52--56
+Overfull \hbox (24.4487pt too wide) in paragraph at lines 51--55
 \OT1/cmr/m/n/12 Eine An-pas-sung be-zeich-net da-bei ei-ne Re-ak-ti-on auf re-tro-gra-de Ver[]anderungen
  []
 
 
-LaTeX Warning: Marginpar on page 7 moved.
+LaTeX Warning: Marginpar on page 8 moved.
 
-[7] [8]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 93.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 93.
+[8] [9]
+Overfull \hbox (12.33148pt too wide) in paragraph at lines 82--82
+[][]\OT1/cmr/m/n/12 ausgelegt 
+ []
 
-Overfull \hbox (6.34834pt too wide) in paragraph at lines 95--96
+
+Overfull \hbox (12.33148pt too wide) in paragraph at lines 82--82
+[][]\OT1/cmr/m/n/12 ausgelegt 
+ []
+
+
+Overfull \hbox (6.34834pt too wide) in paragraph at lines 94--95
 []\OT1/cmr/m/n/12 Ein Con-trol-ling-be-reich hat de-di-zier-te und ggf. kon-sensf[]ahige []Uberlegungen
  []
 
 
-Overfull \hbox (8.0232pt too wide) in paragraph at lines 208--208
+Overfull \hbox (8.0232pt too wide) in paragraph at lines 207--207
 [][]\OT1/cmr/m/n/12 dahinter 
  []
 
 
-Overfull \hbox (8.0232pt too wide) in paragraph at lines 208--208
+Overfull \hbox (8.0232pt too wide) in paragraph at lines 207--207
 [][]\OT1/cmr/m/n/12 dahinter 
- []
-
-
-Overfull \hbox (2.5769pt too wide) in paragraph at lines 97--210
-\OT1/cmr/m/n/12 auf-tre-ten und in ih-ren Auf-ga-ben[][][] und In-stru-men-te als weit-ge-hend kon-sensf[]ahig
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 211--226
-
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 227--236
+Underfull \hbox (badness 10000) in paragraph at lines 210--225
 
  []
 
-[11] [12]
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 226--235
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 236--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--256
+
+ []
+
+[13]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Gutenberg1979' is not an integer.
@@ -1602,31 +1754,26 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 269--269
+Underfull \hbox (badness 4531) in paragraph at lines 267--267
 [][][]\OT1/cmr/m/n/8 Vgl. z.B. [][]Gottmann, []Pro-duk-ti-ons-con-trol-ling[], S.52, Gott-mann besch[]aftigt sich al-ler-dings der
  []
 
-
-Overfull \hbox (56.36382pt too wide) in paragraph at lines 259--271
-\OT1/cmr/m/n/12 Das []P-C de-fi-nie-ren u.a. Gott-mann[][][],Reichmann, Ki^^Y-ler & Baum[]ol[][][],Britzelmaier[][][],Bloech
- []
-
-[13] [14]
-Overfull \hbox (4.18896pt too wide) in paragraph at lines 272--287
+[14] [15]
+Overfull \hbox (4.18896pt too wide) in paragraph at lines 270--285
 \OT1/cmr/m/n/12 rung un-terst[]utzen.[][][] Me-tho-den der stra-te-gi-schen Di-men-si-on sind Wettbewerbs-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--287
+Underfull \hbox (badness 10000) in paragraph at lines 270--285
 
- []
-
-[15]
-Overfull \hbox (14.49734pt too wide) in paragraph at lines 288--298
-\OT1/cmr/m/n/12 heut-zu-ta-ge stel-len muss, geht mit Pro-zess-ans[]atzen wie der []Just-In-Time-Lieferung
  []
 
 [16]
+Overfull \hbox (14.49734pt too wide) in paragraph at lines 286--296
+\OT1/cmr/m/n/12 heut-zu-ta-ge stel-len muss, geht mit Pro-zess-ans[]atzen wie der []Just-In-Time-Lieferung
+ []
+
+[17]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Krcmar2015' is not an integer.
@@ -1635,16 +1782,45 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (0.9184pt too wide) in paragraph at lines 299--311
+Overfull \hbox (0.9184pt too wide) in paragraph at lines 297--309
 \OT1/cmr/m/n/12 Fachbereichs[]ubergreifend ist es Auf-ga-be des []Pr-C, Ziel-er-rei-chung un-ter Budget-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--311
+Underfull \hbox (badness 10000) in paragraph at lines 297--309
 
  []
 
-[17]
+[18]
+Overfull \hbox (32.5021pt too wide) in paragraph at lines 314--314
+[][]\OT1/cmr/m/n/12 budgetierung 
+ []
+
+
+Overfull \hbox (32.5021pt too wide) in paragraph at lines 314--314
+[][]\OT1/cmr/m/n/12 budgetierung 
+ []
+
+
+Overfull \hbox (13.24536pt too wide) in paragraph at lines 315--315
+[][]\OT1/cmr/m/n/12 inhaltlich 
+ []
+
+
+Overfull \hbox (13.24536pt too wide) in paragraph at lines 315--315
+[][]\OT1/cmr/m/n/12 inhaltlich 
+ []
+
+
+LaTeX Warning: Marginpar on page 19 moved.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 317.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 317.
+
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'schmalenbach1909'. The output might not 
@@ -1662,14 +1838,19 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[18] [19] [20]
-<image/tab2.png, id=1112, 953.5625pt x 1004.75375pt>
+[19] [20] [21]
+<image/tab2.png, id=1161, 953.5625pt x 1004.75375pt>
 File: image/tab2.png Graphic file (type png)
 <use image/tab2.png>
-Package pdftex.def Info: image/tab2.png  used on input line 350.
+Package pdftex.def Info: image/tab2.png  used on input line 349.
 (pdftex.def)             Requested size: 398.3386pt x 419.72467pt.
- [21 <./image/tab2.png>]
-Overfull \hbox (2.29337pt too wide) in paragraph at lines 364--366
+
+Overfull \hbox (7.15283pt too wide) in paragraph at lines 354--360
+\OT1/cmr/m/n/12 Der Aus-sa-ge-wert ein-zel-ner Kenn-zah-len ist al-ler-dings be-grenzt.[][][] Ein-zel-ne Kenn-
+ []
+
+[22 <./image/tab2.png>]
+Overfull \hbox (2.29337pt too wide) in paragraph at lines 363--365
 \OT1/cmr/m/n/12 Rechensysteme stel-len Kenn-zah-len in rech-ne-ri-schem Zu-sam-men-hang hier-
  []
 
@@ -1679,11 +1860,16 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                be correct.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--374
+Overfull \hbox (21.18379pt too wide) in paragraph at lines 366--373
+\OT1/cmr/m/n/12 Popul[]arer Ver-tre-ter der Ord-nungs-sys-te-me ist z.B. die []Ba-lan-ced Sco-re-card (BSC).[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--373
 
  []
 
-[22]
+[23]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'crueger2004'. The output might not 
@@ -1708,17 +1894,32 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-) (./chapters/grundlagen_des_produktionscontrollings.tex
-Underfull \hbox (badness 10000) in paragraph at lines 375--1
+
+Overfull \hbox (43.48763pt too wide) in paragraph at lines 374--390
+\OT1/cmr/m/n/12 Prei-se ist so ernst-zu-neh-men, dass Steu-er-pr[]ufungen die-se mitt-ler-wei-le ber[]ucksichtigen.[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--390
 
  []
 
 
-Overfull \hbox (17.49547pt too wide) in paragraph at lines 375--1
+Overfull \hbox (17.49547pt too wide) in paragraph at lines 374--390
 \OT1/cmr/m/n/12 se in der Tat in-ter-ne Leis-tungs-er-brin-ger. Be-stimm-te Gr[]o^^Yenordnungen erm[]oglichen
  []
 
-[23] [24]
+[24]
+Overfull \hbox (20.26057pt too wide) in paragraph at lines 391--391
+[][]\OT1/cmr/m/n/12 Erw[]ahnen, 
+ []
+
+
+Overfull \hbox (20.26057pt too wide) in paragraph at lines 391--391
+[][]\OT1/cmr/m/n/12 Erw[]ahnen, 
+ []
+
+) (./chapters/grundlagen_des_produktionscontrollings.tex [25]
 Overfull \hbox (30.94873pt too wide) in paragraph at lines 3--22
 \OT1/cmr/m/n/12 Das []Pr-C dif-fe-ren-ziert in sei-nen T[]atigkeiten die zeit-li-chen Di-men-sio-nen grunds[]atzlich.
  []
@@ -1728,10 +1929,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--22
 
  []
 
-[25
+[26
 
-] [26]
-<image/pps_system.png, id=1357, 1156.32pt x 232.87pt>
+] [27]
+<image/pps_system.png, id=1410, 1156.32pt x 232.87pt>
 File: image/pps_system.png Graphic file (type png)
 <use image/pps_system.png>
 Package pdftex.def Info: image/pps_system.png  used on input line 31.
@@ -1749,8 +1950,8 @@ Underfull \hbox (badness 5756) in paragraph at lines 35--35
 [][][]\OT1/cmr/m/n/8 Eigene Dar-stel-lung nach [][][][]R. Vah-ren-kamp, Pro-duk-ti-ons-ma-na-ge-ment, Ol-den-bourg, 2008, \OT1/cmr/m/sc/8 isbn\OT1/cmr/m/n/8 :
  []
 
-[27 <./image/pps_system.png (PNG copy)>] [28]
-<image/pfohl_Materialbedarfsarten.png, id=1437, 692.5875pt x 388.45125pt>
+[28 <./image/pps_system.png (PNG copy)>] [29]
+<image/pfohl_Materialbedarfsarten.png, id=1492, 692.5875pt x 388.45125pt>
 File: image/pfohl_Materialbedarfsarten.png Graphic file (type png)
 <use image/pfohl_Materialbedarfsarten.png>
 Package pdftex.def Info: image/pfohl_Materialbedarfsarten.png  used on input line 58.
@@ -1763,8 +1964,8 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[29 <./image/pfohl_Materialbedarfsarten.png>]
-<image/methoden_bedarfsermittlung.png, id=1484, 655.44875pt x 532.99126pt>
+[30 <./image/pfohl_Materialbedarfsarten.png>]
+<image/methoden_bedarfsermittlung.png, id=1538, 655.44875pt x 532.99126pt>
 File: image/methoden_bedarfsermittlung.png Graphic file (type png)
 <use image/methoden_bedarfsermittlung.png>
 Package pdftex.def Info: image/methoden_bedarfsermittlung.png  used on input line 83.
@@ -1777,8 +1978,8 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[30] [31 <./image/methoden_bedarfsermittlung.png>] [32]
-<image/arbeitsplatzdurchlaufzeit.png, id=1601, 358.33875pt x 155.58125pt>
+[31] [32 <./image/methoden_bedarfsermittlung.png>] [33]
+<image/arbeitsplatzdurchlaufzeit.png, id=1655, 358.33875pt x 155.58125pt>
 File: image/arbeitsplatzdurchlaufzeit.png Graphic file (type png)
 <use image/arbeitsplatzdurchlaufzeit.png>
 Package pdftex.def Info: image/arbeitsplatzdurchlaufzeit.png  used on input line 139.
@@ -1831,12 +2032,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--158
 
  []
 
-[33 <./image/arbeitsplatzdurchlaufzeit.png>] [34]
+[34 <./image/arbeitsplatzdurchlaufzeit.png>] [35]
 Overfull \hbox (7.87141pt too wide) in paragraph at lines 159--167
 \OT1/cmr/m/n/12 Die Schnitt-stel-le zwi-schen Pro-duk-ti-ons-pla-nung stellt die Auf-trags-frei-ga-be dar.[][][]
  []
 
-[35]
+[36]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'domschke1997produktionsplanung' is not an integer.
@@ -1859,13 +2060,13 @@ Overfull \hbox (26.34589pt too wide) in paragraph at lines 168--178
 \OT1/cmr/m/n/12 sto-chas-ti-sche Um-ge-bungs-ans[]atze wie schwan-ken-de Nach-fra-ge-men-gen und St[]orungen
  []
 
-[36]
-<image/wiendahl_2002_auftragsueberwachung.png, id=1801, 476.78125pt x 156.585pt>
+[37]
+<image/wiendahl_2002_auftragsueberwachung.png, id=1854, 476.78125pt x 156.585pt>
 File: image/wiendahl_2002_auftragsueberwachung.png Graphic file (type png)
 <use image/wiendahl_2002_auftragsueberwachung.png>
 Package pdftex.def Info: image/wiendahl_2002_auftragsueberwachung.png  used on input line 187.
 (pdftex.def)             Requested size: 278.83578pt x 91.57915pt.
-<image/wiehndahl_2002_zustandsbeobachter.png, id=1819, 479.7925pt x 343.2825pt>
+<image/wiehndahl_2002_zustandsbeobachter.png, id=1872, 479.7925pt x 343.2825pt>
 File: image/wiehndahl_2002_zustandsbeobachter.png Graphic file (type png)
 <use image/wiehndahl_2002_zustandsbeobachter.png>
 Package pdftex.def Info: image/wiehndahl_2002_zustandsbeobachter.png  used on input line 202.
@@ -1895,7 +2096,7 @@ Overfull \hbox (49.65112pt too wide) in paragraph at lines 179--213
 \OT1/cmr/m/n/12 tur-ma^^Y-nah-men ver-an-lasst wer-den, die Um-ter-mi-nie-run-gen oder Ka-pa-zit[]atsver[]anderungen
  []
 
-[37] [38 <./image/wiendahl_2002_auftragsueberwachung.png>]
+[38] [39 <./image/wiendahl_2002_auftragsueberwachung.png>]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 218.
 
@@ -1908,13 +2109,13 @@ Overfull \hbox (10.63428pt too wide) in paragraph at lines 219--219
 \OT1/cmr/m/n/12 anf[]uhren  
  []
 
-[39 <./image/wiehndahl_2002_zustandsbeobachter.png>] [40]
+[40 <./image/wiehndahl_2002_zustandsbeobachter.png>] [41]
 Overfull \hbox (1.41003pt too wide) in paragraph at lines 237--239
 \OT1/cmr/m/n/12 Unternehmen m[]ussen lang-fris-tig die ein-ge-setz-ten Tech-no-lo-gi-en und Werk-
  []
 
-[41]
-<image/schnell_2012_viereck.png, id=2023, 1684.2925pt x 849.1725pt>
+[42]
+<image/schnell_2012_viereck.png, id=2077, 1684.2925pt x 849.1725pt>
 File: image/schnell_2012_viereck.png Graphic file (type png)
 <use image/schnell_2012_viereck.png>
 Package pdftex.def Info: image/schnell_2012_viereck.png  used on input line 264.
@@ -1929,19 +2130,19 @@ Overfull \hbox (2.8221pt too wide) in paragraph at lines 252--270
 \OT1/cmr/m/n/12 ma^^Y-geb-lich durch das []P-C erm[]oglicht. Erst durch das Er-rei-chen der Controlling-
  []
 
-[42] [43 <./image/schnell_2012_viereck.png>]
-<image/schnell_klein_gradueller_aufbau.png, id=2075, 1842.885pt x 1276.77pt>
+[43] [44 <./image/schnell_2012_viereck.png>]
+<image/schnell_klein_gradueller_aufbau.png, id=2129, 1842.885pt x 1276.77pt>
 File: image/schnell_klein_gradueller_aufbau.png Graphic file (type png)
 <use image/schnell_klein_gradueller_aufbau.png>
 Package pdftex.def Info: image/schnell_klein_gradueller_aufbau.png  used on input line 274.
 (pdftex.def)             Requested size: 338.59023pt x 234.56227pt.
- [44 <./image/schnell_klein_gradueller_aufbau.png>]
-<image/gadatsch_2014_bsc_aufbau.png, id=2120, 1170.3725pt x 636.3775pt>
+ [45 <./image/schnell_klein_gradueller_aufbau.png>]
+<image/gadatsch_2014_bsc_aufbau.png, id=2173, 1170.3725pt x 636.3775pt>
 File: image/gadatsch_2014_bsc_aufbau.png Graphic file (type png)
 <use image/gadatsch_2014_bsc_aufbau.png>
 Package pdftex.def Info: image/gadatsch_2014_bsc_aufbau.png  used on input line 296.
 (pdftex.def)             Requested size: 338.59023pt x 184.10777pt.
-<image/gadatsch_2014_BSC_kreislauf.png, id=2132, 473.77pt x 287.0725pt>
+<image/gadatsch_2014_BSC_kreislauf.png, id=2185, 473.77pt x 287.0725pt>
 File: image/gadatsch_2014_BSC_kreislauf.png Graphic file (type png)
 <use image/gadatsch_2014_BSC_kreislauf.png>
 Package pdftex.def Info: image/gadatsch_2014_BSC_kreislauf.png  used on input line 308.
@@ -1951,7 +2152,7 @@ Overfull \hbox (47.79877pt too wide) in paragraph at lines 289--318
   \OT1/cmr/m/n/12 Die ein-ge-setz-ten Kenn-zah-len sol-len sich da-bei aus Ursache-Wirkungs-Zusammenh[]angen
  []
 
-[45] [46 <./image/gadatsch_2014_bsc_aufbau.png>]
+[46] [47 <./image/gadatsch_2014_bsc_aufbau.png> <./image/gadatsch_2014_BSC_kreislauf.png>]
 Underfull \hbox (badness 3449) in paragraph at lines 338--338
 []|\OT1/cmr/m/n/12 Auswahlentscheidungen sind von Sach-verst[]andigen
  []
@@ -1966,8 +2167,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 319--345
 
  []
 
-[47 <./image/gadatsch_2014_BSC_kreislauf.png>] [48]
-<image/gottmann_funktionsorientierter_ansatz.png, id=2254, 2276.505pt x 1194.4625pt>
+[48]
+<image/gottmann_funktionsorientierter_ansatz.png, id=2298, 2276.505pt x 1194.4625pt>
 File: image/gottmann_funktionsorientierter_ansatz.png Graphic file (type png)
 <use image/gottmann_funktionsorientierter_ansatz.png>
 Package pdftex.def Info: image/gottmann_funktionsorientierter_ansatz.png  used on input line 350.
@@ -1987,52 +2188,268 @@ Overfull \hbox (26.49683pt too wide) in paragraph at lines 345--365
 \OT1/cmr/bx/n/12 Messkennzahlen \OT1/cmr/m/n/12 stel-len in der Re-gel ab-so-lu-te Wer-te dar, die ei-ne Dokumentations-
  []
 
-[49 <./image/gottmann_funktionsorientierter_ansatz.png>]
-<image/gottmann_einsatzbereich_kennzahlen.png, id=2297, 2808.4925pt x 1198.4775pt>
+[49] [50 <./image/gottmann_funktionsorientierter_ansatz.png>]
+<image/gottmann_einsatzbereich_kennzahlen.png, id=2351, 2808.4925pt x 1198.4775pt>
 File: image/gottmann_einsatzbereich_kennzahlen.png Graphic file (type png)
 <use image/gottmann_einsatzbereich_kennzahlen.png>
 Package pdftex.def Info: image/gottmann_einsatzbereich_kennzahlen.png  used on input line 371.
 (pdftex.def)             Requested size: 398.3386pt x 169.98018pt.
-) (./chapters/flexibilitaet.tex
-Overfull \hbox (61.54863pt too wide) in paragraph at lines 365--1
-\OT1/cmr/m/n/12 gis-tik und Auf-trags-ab-wick-lung als se-quen-zi-ell von-ein-an-der abh[]angigen Gesch[]aftsbereiche[][][]
+ [51 <./image/gottmann_einsatzbereich_kennzahlen.png>]
+<image/dreistufigeransatz_schnell.png, id=2390, 608.2725pt x 429.605pt>
+File: image/dreistufigeransatz_schnell.png Graphic file (type png)
+<use image/dreistufigeransatz_schnell.png>
+Package pdftex.def Info: image/dreistufigeransatz_schnell.png  used on input line 390.
+(pdftex.def)             Requested size: 278.83578pt x 196.93895pt.
+
+Overfull \hbox (9.24329pt too wide) in paragraph at lines 383--404
+\OT1/cmr/m/n/12 Sys-tems wer-den durch die an-ge-spro-che-ne Input-Output-Kombination zus[]atzliche
+ []
+
+[52]
+<image/bauer_erfolgsfaktoren.png, id=2440, 743.77875pt x 438.63875pt>
+File: image/bauer_erfolgsfaktoren.png Graphic file (type png)
+<use image/bauer_erfolgsfaktoren.png>
+Package pdftex.def Info: image/bauer_erfolgsfaktoren.png  used on input line 413.
+(pdftex.def)             Requested size: 398.3386pt x 234.9204pt.
+ [53 <./image/dreistufigeransatz_schnell.png (PNG copy)>] [54 <./image/bauer_erfolgsfaktoren.png>]) (./chapters/flexibilitaet.tex [55]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'brockhaus2006' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Overfull \hbox (26.94939pt too wide) in paragraph at lines 10--10
+[][]\OT1/cmr/m/n/12 Abgrenzung 
  []
 
 
-Overfull \hbox (11.4627pt too wide) in paragraph at lines 365--1
-\OT1/cmr/m/n/12 erm[]oglichen in die-sem An-satz ei-ne dif-fe-ren-zier-te-re Ad-ap-ti-on an rea-le gesch[]aftliche
- []
-
-[50] [51 <./image/gottmann_einsatzbereich_kennzahlen.png>]
-Overfull \hbox (100.9125pt too wide) in paragraph at lines 8--8
-[][]\OT1/cmr/m/n/12 SSteuerungsinstrument[]aus 
+Overfull \hbox (26.94939pt too wide) in paragraph at lines 10--10
+[][]\OT1/cmr/m/n/12 Abgrenzung 
  []
 
 
-Overfull \hbox (100.9125pt too wide) in paragraph at lines 8--8
-[][]\OT1/cmr/m/n/12 SSteuerungsinstrument[]aus 
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
  []
 
-) (./chapters/rahmenwerk_zur_bewertung.tex
-Overfull \hbox (4.15492pt too wide) in paragraph at lines 17--1
-[] [] |\OT1/cmr/bx/n/12 4.2.3.2.4 Fle-xi-bi-lit[]at im IT-In-fra-struk-tur-con-trol-ling[] \OT1/cmr/m/n/12 Kri-te-ri-en gu-
+
+Overfull \hbox (12.83849pt too wide) in paragraph at lines 3--11
+\OT1/cmr/m/n/12 Diachronisch ist der Be-griff Fle-xi-bi-lit[]at auf das la-tei-ni-sche \OT1/cmr/m/it/12 flec-te-re \OT1/cmr/m/n/12 zur[]uckzuf[]uhren
  []
 
-[52
 
-]) (./chapters/ausblick_und_potential.tex) [53
+Overfull \hbox (72.71773pt too wide) in paragraph at lines 3--11
+\OT1/cmr/m/n/12 Elas-ti-zit[]at, An-pas-sungsf[]ahigkeit, Agi-lit[]at, Wand-lungsf[]ahigkeit und Ver[]anderungsf[]ahigkeit.[][][]
+ []
 
-]
-Overfull \hbox (1.67755pt too wide) in paragraph at lines 83--83
+<image/garrel_flexibilitaet.png, id=2514, 686.565pt x 195.73125pt>
+File: image/garrel_flexibilitaet.png Graphic file (type png)
+<use image/garrel_flexibilitaet.png>
+Package pdftex.def Info: image/garrel_flexibilitaet.png  used on input line 27.
+(pdftex.def)             Requested size: 338.59023pt x 96.52737pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--37
+
+ []
+
+
+Overfull \hbox (0.52803pt too wide) in paragraph at lines 12--37
+\OT1/cmr/m/n/12 Flexibilit[]at wur-de ur-spr[]unglich als re-ak-ti-ve Kom-pe-tenz aus-ge-legt, die zur Kom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--37
+
+ []
+
+[56
+
+] [57] [58 <./image/garrel_flexibilitaet.png (PNG copy)>]
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'Upton1997ProcessRI'. The output might not 
+(biblatex-dw)                be correct.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Wiendahl2009' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+<image/eigenschaften_flexibilitaet.pdf, id=2626, 516.20741pt x 730.49861pt>
+File: image/eigenschaften_flexibilitaet.pdf Graphic file (type pdf)
+<use image/eigenschaften_flexibilitaet.pdf>
+Package pdftex.def Info: image/eigenschaften_flexibilitaet.pdf  used on input line 63.
+(pdftex.def)             Requested size: 278.83578pt x 394.59714pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--65
+
+ []
+
+
+Overfull \hbox (23.1846pt too wide) in paragraph at lines 38--65
+\OT1/cmr/m/n/12 zul[]osender Ma^^Y-nah-men.[][][] Fle-xi-bi-lit[]at zielt zu dem auf dy-na-mi-sche Ver[]anderungen.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--65
+
+ []
+
+
+Overfull \hbox (16.05287pt too wide) in paragraph at lines 38--65
+\OT1/cmr/m/n/12 Ge-samt-heit al-ler vor-han-de-nen Hand-lungs-op-tio-nen, wel-che ge-nutzt wer-den k[]onnen,
+ []
+
+[59] [60]
+<image/gottmann_flexibilitaet.pdf, id=2682, 586.4013pt x 299.36403pt>
+File: image/gottmann_flexibilitaet.pdf Graphic file (type pdf)
+<use image/gottmann_flexibilitaet.pdf>
+Package pdftex.def Info: image/gottmann_flexibilitaet.pdf  used on input line 78.
+(pdftex.def)             Requested size: 358.50229pt x 183.02289pt.
+ [61 <./image/eigenschaften_flexibilitaet.pdf>]
+<image/sethi_flexibilitaet.png, id=2727, 3426.8025pt x 1847.90375pt>
+File: image/sethi_flexibilitaet.png Graphic file (type png)
+<use image/sethi_flexibilitaet.png>
+Package pdftex.def Info: image/sethi_flexibilitaet.png  used on input line 91.
+(pdftex.def)             Requested size: 398.3386pt x 214.80249pt.
+
+Underfull \hbox (badness 2285) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 Die In-ten-ti-on dif-fe-ren-ziert den Zeit-punkt der Ma^^Y-nah-men-
+ []
+
+
+Overfull \hbox (55.66725pt too wide) in paragraph at lines 116--117
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--127
+
+ []
+
+
+Overfull \hbox (25.30563pt too wide) in paragraph at lines 83--127
+\OT1/cmr/m/n/12 Tats[]achlich sind in der Li-te-ra-tur-re-cher-che bis zu 50 ver-schie-de-ne Fle-xi-bi-lit[]atsbegriffe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--127
+
+ []
+
+
+Overfull \hbox (60.65373pt too wide) in paragraph at lines 83--127
+\OT1/cmr/m/n/12 Daneben, al-so ab-seits des Be-trach-tungs-ge-gen-stands, wird al-ler-dings un-ter Ber[]ucksichtigung
+ []
+
+
+Overfull \hbox (5.98253pt too wide) in paragraph at lines 83--127
+\OT1/cmr/m/n/12 den sich un-ter-schied-lich stark dif-fe-ren-zie-ren-de Aus-pr[]agungsunterscheidungen.[][][]
+ []
+
+
+Overfull \hbox (31.34715pt too wide) in paragraph at lines 83--127
+\OT1/cmr/m/n/12 kann die-ses auch hier bei-be-hal-ten wer-den, zu-mal ei-ne tak-ti-sche Fle-xi-bi-lit[]atsdimension
+ []
+
+[62 <./image/gottmann_flexibilitaet.pdf>] [63 <./image/sethi_flexibilitaet.png (PNG copy)>]
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'ranta1988interactive'. The output might not 
+(biblatex-dw)                be correct.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+
+ []
+
+
+Overfull \hbox (5.78204pt too wide) in paragraph at lines 128--133
+\OT1/cmr/bx/n/12 Maschinenflexibilit[]at \OT1/cmr/m/n/12 be-zeich-net die Ei-gen-schaft ei-ner Ma-schi-ne, un-ter-schied-
+ []
+
+
+Overfull \hbox (16.82217pt too wide) in paragraph at lines 128--133
+\OT1/cmr/m/n/12 li-che Ope-ra-tio-nen oh-ne R[]ustzeit oder -Kosten zu ben[]otigen.[][][] Da-durch erm[]oglicht
+ []
+
+[64]
+Overfull \hbox (3.07562pt too wide) in paragraph at lines 142--143
+[]\OT1/cmr/m/n/12 als Verh[]altnis von r[]ustzeitbedingtem Still-stand zu pro-duk-ti-vem Be-trieb[][][] 
+ []
+
+[65]
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'chatterjee1987planning'. The output might not 
+(biblatex-dw)                be correct.
+
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'stecke1984variations'. The output might not 
+(biblatex-dw)                be correct.
+
+
+Overfull \hbox (18.83487pt too wide) in paragraph at lines 159--160
+[]\OT1/cmr/m/n/12 Auf Ba-sis ei-nes Ma-schi-nen-ty-pen-ran-kings auf-stei-gend von F[]orderbandanlagen
+ []
+
+[66]
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'jaikumar1984'. The output might not 
+(biblatex-dw)                be correct.
+
+[67] [68]
+Overfull \hbox (40.1183pt too wide) in paragraph at lines 211--212
+[]\OT1/cmr/m/n/12 als Verh[]altnis des ge-sam-ten Pro-duk-ti-ons-vo-lu-mens zu den ge-sam-ten R[]ustkosten[][][] 
+ []
+
+
+Overfull \hbox (10.99574pt too wide) in paragraph at lines 215--219
+\OT1/cmr/bx/n/12 Volumenflexibilit[]at \OT1/cmr/m/n/12 be-zeich-net die F[]ahigkeit ei-nes Pro-duk-ti-ons-sys-tems, grund-
+ []
+
+[69] [70]
+Overfull \hbox (25.26398pt too wide) in paragraph at lines 257--262
+\OT1/cmr/bx/n/12 Produktionsflexibilit[]at \OT1/cmr/m/n/12 be-zeich-net die Grund-ge-samt-heit al-ler pro-duk-ti-onsf[]ahigen
+ []
+
+
+Overfull \hbox (11.1713pt too wide) in paragraph at lines 257--262
+\OT1/cmr/m/n/12 Pro-duk-te, die oh-ne gr[]o^^Yere In-ves-ti-tio-nen im Sys-tem her-ge-stellt wer-den k[]onnen.[][][]
+ []
+
+
+Overfull \hbox (21.36101pt too wide) in paragraph at lines 263--264
+[]\OT1/cmr/m/n/12 als Ab-so-lut-zahl pro-duk-ti-onsf[]ahiger Pro-duk-te bzw. Teilst[]uckkombinationen[][][] 
+ []
+
+[71]
+Overfull \hbox (7.01248pt too wide) in paragraph at lines 273--283
+\OT1/cmr/m/n/12 dung, je-weils ver-min-dert um den Ge-winn bei Nicht-Anpassung.''[][][] Ein []ahnlicher
+ []
+
+[72]
+Overfull \hbox (28.39914pt too wide) in paragraph at lines 285--285
+|[]\OT1/cmr/bx/n/14.4 Flexibilit[]at im An-wen-dungs-kon-text der IT-Organisation| 
+ []
+
+) (./chapters/rahmenwerk_zur_bewertung.tex) (./chapters/ausblick_und_potential.tex) [73] [74]
+Overfull \hbox (1.67755pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Alpar, Paul u.a.: An-wen-dungs-ori-en-tier-te Wirt-schafts-in-for-ma-tik, Sprin-ger Fach-
  []
 
 
-Overfull \hbox (18.03502pt too wide) in paragraph at lines 83--83
+Overfull \hbox (18.03502pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 prei-se in-ter-na-tio-nal ver-bun-de-ner Un-ter-neh-men, K[]oln: Ver-lag Dr. Ot-to Schmidt,
  []
 
-[7
+[8
 
 ]
 
@@ -2041,10 +2458,29 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                be correct.
 
 
-Overfull \hbox (30.30974pt too wide) in paragraph at lines 83--83
+Overfull \hbox (30.30974pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Bouffier, Wil-ly: Kenn-zah-len im be-trieb-li-chen Rech-nungs-we-sen, in: Der []osterreichische
  []
 
+
+Overfull \hbox (42.50154pt too wide) in paragraph at lines 90--90
+[][]\OT1/cmr/m/n/12 Ders.: Or-ga-ni-sa-to-ri-sche Fle-xi-bi-lit[]at in Wertsch[]opfungsnetzwerken, in: Gesch[]aftsmodelle
+ []
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'brockhaus2006' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+[9]
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'chatterjee1987planning'. The output might not 
+(biblatex-dw)                be correct.
+
+[10]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'crueger2004'. The output might not 
@@ -2057,11 +2493,12 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[8]
-Overfull \hbox (24.35626pt too wide) in paragraph at lines 83--83
+
+Overfull \hbox (24.35626pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Elektronikindustrie, Zen-tral-ver-band Elektrotechnik- und: ZVEI-Kennzahlensystem:
  []
 
+[11]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'fandel2011produktionsmanagement' is not an integer.
@@ -2070,22 +2507,18 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (1.55086pt too wide) in paragraph at lines 83--83
-[][]\OT1/cmr/m/n/12 Fandel, G., A. Fis-tek und S. St[]utz: Pro-duk-ti-ons-ma-na-ge-ment, 2. Aufl. (Springer-
- []
-
-
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Gadatsch2013Kostenrechnung' is not an integer.
 (biblatex-dw)                The edition will not be printed as
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[9]
-Overfull \hbox (20.39772pt too wide) in paragraph at lines 83--83
+[12]
+Overfull \hbox (20.39772pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 G[]unther, H.O. und H. Tem-pel-mei-er: Pro-duk-ti-on und Lo-gis-tik (Springer-Lehrbuch),
  []
 
+[13]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Gutenberg1979' is not an integer.
@@ -2094,8 +2527,13 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (36.87704pt too wide) in paragraph at lines 83--83
+Overfull \hbox (36.87704pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Hansmann, K.W.: In-dus-tri-el-les Ma-na-ge-ment, Ol-den-bourg, 2006, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783486580587,
+ []
+
+
+Overfull \hbox (20.34041pt too wide) in paragraph at lines 90--90
+\OT1/cmr/m/n/12 dell-gest[]utzten Ent-schei-dungs-vor-be-rei-tung (Ol-den-bourgs Lehr- und Handb[]ucher
  []
 
 
@@ -2106,6 +2544,11 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
+Overfull \hbox (40.02353pt too wide) in paragraph at lines 90--90
+\OT1/cmr/m/n/12 heit-li-che Kon-zep-ti-on zur umwelt- und un-ter-neh-mens-be-zo-ge-nen Fle-xi-bi-lit[]atsanalyse,
+ []
+
+
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Horvath2015' is not an integer.
 (biblatex-dw)                The edition will not be printed as
@@ -2113,11 +2556,21 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (16.32594pt too wide) in paragraph at lines 83--83
+Overfull \hbox (16.32594pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Horv^^Sath, P^^Seter, Ro-nald Gleich und Mi-scha Sei-ter: Con-trol-ling, 13. Aufl., M[]unchen:
  []
 
-[10]
+
+Overfull \hbox (9.21214pt too wide) in paragraph at lines 90--90
+[][]\OT1/cmr/m/n/12 Hutchinson, Ge-or-ge K: FLE-XI-BI-LI-TY IS KEY TO ECONOMIC-FEASIBILITY
+ []
+
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'jaikumar1984'. The output might not 
+(biblatex-dw)                be correct.
+
+[14]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'jehle1999produktionswirtschaft' is not an integer.
@@ -2126,10 +2579,11 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (0.85123pt too wide) in paragraph at lines 83--83
+Overfull \hbox (0.85123pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Jost, Wolf-ram: EDV-gest[]utzte CIM-Rahmenplanung, Gabler Ver-lag, 1993, \OT1/cmr/m/sc/12 doi\OT1/cmr/m/n/12 :
  []
 
+[15]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Kilger2012' is not an integer.
@@ -2137,8 +2591,8 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[11]
-Overfull \hbox (54.99146pt too wide) in paragraph at lines 83--83
+
+Overfull \hbox (54.99146pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 ge-eig-ne-te In-stru-men-te mess-bar ma-chen, Diplomica-Verlag, 2011, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783842853485. 
  []
 
@@ -2150,15 +2604,16 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (7.22778pt too wide) in paragraph at lines 83--83
+Overfull \hbox (7.22778pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 nung und Con-trol-ling (En-zy-klop[]adie der Be-triebs-wirt-schafts-leh-re), Schaeffer-
  []
 
 
-Overfull \hbox (19.07738pt too wide) in paragraph at lines 83--83
+Overfull \hbox (19.07738pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 K[]upper, H.U.: Con-trol-ling: Kon-zep-ti-on, Auf-ga-ben, In-stru-men-te, Sch[]affer-Poeschel,
  []
 
+[16]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'kuetz2011' is not an integer.
@@ -2171,27 +2626,27 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                at entry 'lachnit1976'. The output might not 
 (biblatex-dw)                be correct.
 
-[12]
-Overfull \hbox (40.29321pt too wide) in paragraph at lines 83--83
+
+Overfull \hbox (40.29321pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Lange, Chri-stoph: In-ves-ti-ti-ons-ent-schei-dun-gen im Um-bruch: Struk-tur ei-nes Investitions-
  []
 
 
-Overfull \hbox (4.9371pt too wide) in paragraph at lines 83--83
+Overfull \hbox (4.9371pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Lelke, Frank und An-dre-as Ol-lech: Ba-lan-ced Sco-re-card zur Performance-Messung
  []
 
-
-Overfull \hbox (7.06041pt too wide) in paragraph at lines 83--83
+[17]
+Overfull \hbox (7.06041pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Lindl, Mi-cha-el: Auf-trags-lei-t-tech-nik f[]ur Kon-struk-ti-on und Ar-beits-pla-nung, Sprin-
  []
 
 
-Overfull \hbox (14.62381pt too wide) in paragraph at lines 83--83
+Overfull \hbox (14.62381pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 nungs-prei-sen (Un-ter-neh-men und Steu-ern), Sha-ker, 2005, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783832237554. 
  []
 
-[13]
+[18]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'nebl2007produktionswirtschaft' is not an integer.
@@ -2207,32 +2662,43 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
+Overfull \hbox (0.18019pt too wide) in paragraph at lines 90--90
+[][]\OT1/cmr/m/n/12 Ost, Sven: Ent-wick-lung ei-nes Ver-fah-rens zur dif-fe-ren-zier-ten Fle-xi-bi-lit[]atsanalyse
+ []
+
+[19]
+
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'radermacher2009'. The output might not 
 (biblatex-dw)                be correct.
 
-[14]
-Overfull \hbox (14.66414pt too wide) in paragraph at lines 83--83
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'ranta1988interactive'. The output might not 
+(biblatex-dw)                be correct.
+
+
+Overfull \hbox (14.66414pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 Marketing- und Ve-triebs-con-trol-ling, in: A. Klein (Hrsg.): Mo-der-ne Controlling-
  []
 
 
-Overfull \hbox (36.0247pt too wide) in paragraph at lines 83--83
+Overfull \hbox (36.0247pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 Instrumente f[]ur Mar-ke-ting und Ver-trieb (Hau-fe Fach-pra-xis), Haufe-Mediengruppe,
  []
 
 
-Overfull \hbox (4.03152pt too wide) in paragraph at lines 83--83
+Overfull \hbox (4.03152pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 er-recht-li-che Zwe-cke, in: Ver-rech-nungs-prei-se im Span-nungs-feld zwi-schen Kon-
  []
 
 
-Overfull \hbox (0.46951pt too wide) in paragraph at lines 83--83
+Overfull \hbox (0.46951pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 z-ern-steue-rung und in-ter-na-tio-na-lem Steu-er-recht, Sprin-ger Fach-me-di-en Wies-
  []
 
-[15]
-Overfull \hbox (1.28548pt too wide) in paragraph at lines 83--83
+[20]
+Overfull \hbox (1.28548pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Sandt, Joa-chim: Ma-na-ge-ment mit Kenn-zah-len und Kenn-zah-len-sys-te-men, Deut-
  []
 
@@ -2242,22 +2708,38 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                be correct.
 
 
-Overfull \hbox (0.71786pt too wide) in paragraph at lines 83--83
+Overfull \hbox (0.71786pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 f[]ur Mar-ke-ting und Ver-trieb (Hau-fe Fach-pra-xis), Haufe-Mediengruppe, 2010,
  []
 
-[16] [17]
-Overfull \hbox (3.6345pt too wide) in paragraph at lines 83--83
+[21]
+Overfull \hbox (2.7286pt too wide) in paragraph at lines 90--90
+[][]\OT1/cmr/m/n/12 Ders.: Ope-ra-ti-ves Pro-duk-ti-ons-con-trol-ling: Si-che-rung der Ef-fi-zi-enz in Fer-ti-gungs-
+ []
+
+[22] [23]
+
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'stecke1984variations'. The output might not 
+(biblatex-dw)                be correct.
+
+
+Overfull \hbox (3.6345pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Syska, An-dre-as: Just-in-Time (JIT), in: Pro-duk-ti-ons-ma-na-ge-ment, Gabler, 2006,
  []
 
 
-Overfull \hbox (27.62021pt too wide) in paragraph at lines 83--83
+Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
+(biblatex-dw)                at entry 'Upton1997ProcessRI'. The output might not 
+(biblatex-dw)                be correct.
+
+
+Overfull \hbox (27.62021pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Vahrenkamp, R.: Pro-duk-ti-ons-ma-na-ge-ment, Ol-den-bourg, 2008, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783486587845,
  []
 
-[18]
-Overfull \hbox (19.17662pt too wide) in paragraph at lines 83--83
+[24]
+Overfull \hbox (19.17662pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Weber, J. und C.M. Wal-len-burg: Logistik- und Supply-Chain-Controlling, Sch[]affer-
  []
 
@@ -2268,109 +2750,500 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 
 
 Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Wiendahl2009' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+[25]
+
+Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'zaepfel2010grundzuege' is not an integer.
 (biblatex-dw)                The edition will not be printed as
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (43.72032pt too wide) in paragraph at lines 83--83
+Overfull \hbox (43.72032pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Ders.: Stra-te-gi-sches Produktions-Management, De Gruy-ter, 2014, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783486804485. 
  []
 
 
-Overfull \hbox (28.68684pt too wide) in paragraph at lines 83--83
-[][]\OT1/cmr/m/n/12 Z[]apfel, G.: Tak-ti-sches Produktions-Management (In-ter-na-tio-na-le Stan-dard-lehrb[]ucher
+Overfull \hbox (5.32901pt too wide) in paragraph at lines 90--90
+[][]\OT1/cmr/m/n/12 Ders.: Tak-ti-sches Produktions-Management (In-ter-na-tio-na-le Stan-dard-lehrb[]ucher
  []
 
 
-Overfull \hbox (43.13048pt too wide) in paragraph at lines 83--83
+Overfull \hbox (43.13048pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 der Wirtschafts- und So-zi-al-wis-sen-schaf-ten), De Gruy-ter, 2010, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783486700831. 
  []
 
-[19]
-Overfull \hbox (50.48323pt too wide) in paragraph at lines 83--83
+
+Overfull \hbox (50.48323pt too wide) in paragraph at lines 90--90
 [][]\OT1/cmr/m/n/12 Zelewski, S., S. Hoh-mann und T. H[]ugens: Produktionsplanungs- und -steuerungssysteme:
  []
 
 
-Overfull \hbox (36.0247pt too wide) in paragraph at lines 83--83
+Overfull \hbox (36.0247pt too wide) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 Instrumente f[]ur Mar-ke-ting und Ver-trieb (Hau-fe Fach-pra-xis), Haufe-Mediengruppe,
  []
 
-(./chapters/anhang.tex [20]
-<image/gottmann_1.png, id=2696, 2196.205pt x 1284.8pt>
+[26] (./chapters/anhang.tex [27]
+<image/gottmann_1.png, id=3678, 2196.205pt x 1284.8pt>
 File: image/gottmann_1.png Graphic file (type png)
 <use image/gottmann_1.png>
 Package pdftex.def Info: image/gottmann_1.png  used on input line 14.
-(pdftex.def)             Requested size: 318.67209pt x 186.41866pt.
-<image/gottmann_2.png, id=2700, 2236.355pt x 1664.2175pt>
+(pdftex.def)             Requested size: 278.83578pt x 163.10898pt.
+<image/gottmann_2.png, id=3682, 2236.355pt x 1664.2175pt>
 File: image/gottmann_2.png Graphic file (type png)
 <use image/gottmann_2.png>
 Package pdftex.def Info: image/gottmann_2.png  used on input line 23.
-(pdftex.def)             Requested size: 318.67209pt x 237.12807pt.
- [21
+(pdftex.def)             Requested size: 278.83578pt x 207.49341pt.
+ [28
 
- <./image/gottmann_1.png>]
-<image/gottmann_3.png, id=2715, 2236.355pt x 1535.7375pt>
+ <./image/gottmann_1.png> <./image/gottmann_2.png>]
+<image/gottmann_3.png, id=3699, 2236.355pt x 1535.7375pt>
 File: image/gottmann_3.png Graphic file (type png)
 <use image/gottmann_3.png>
 Package pdftex.def Info: image/gottmann_3.png  used on input line 33.
 (pdftex.def)             Requested size: 318.67209pt x 218.82143pt.
-<image/gottmann_4.png, id=2719, 2240.37pt x 1543.7675pt>
+<image/gottmann_4.png, id=3703, 2240.37pt x 1543.7675pt>
 File: image/gottmann_4.png Graphic file (type png)
 <use image/gottmann_4.png>
 Package pdftex.def Info: image/gottmann_4.png  used on input line 42.
 (pdftex.def)             Requested size: 318.67209pt x 219.5887pt.
- [22 <./image/gottmann_2.png> <./image/gottmann_3.png>]
-<image/gottmann_5.png, id=2737, 2244.385pt x 1419.3025pt>
+ [29 <./image/gottmann_3.png> <./image/gottmann_4.png>]
+<image/gottmann_5.png, id=3719, 2244.385pt x 1419.3025pt>
 File: image/gottmann_5.png Graphic file (type png)
 <use image/gottmann_5.png>
 Package pdftex.def Info: image/gottmann_5.png  used on input line 52.
 (pdftex.def)             Requested size: 318.67209pt x 201.51637pt.
-<image/gottmann_6.png, id=2741, 2240.37pt x 1401.235pt>
+<image/gottmann_6.png, id=3723, 2240.37pt x 1401.235pt>
 File: image/gottmann_6.png Graphic file (type png)
 <use image/gottmann_6.png>
 Package pdftex.def Info: image/gottmann_6.png  used on input line 61.
 (pdftex.def)             Requested size: 318.67209pt x 199.31458pt.
- [23 <./image/gottmann_4.png> <./image/gottmann_5.png>]
-<image/gottmann_7.png, id=2759, 2230.3325pt x 1413.28pt>
+ [30 <./image/gottmann_5.png> <./image/gottmann_6.png>]
+<image/gottmann_7.png, id=3739, 2230.3325pt x 1413.28pt>
 File: image/gottmann_7.png Graphic file (type png)
 <use image/gottmann_7.png>
 Package pdftex.def Info: image/gottmann_7.png  used on input line 71.
 (pdftex.def)             Requested size: 318.67209pt x 201.91205pt.
-) [24
+ [31 <./image/gottmann_7.png>]
+Overfull \hbox (1.63727pt too wide) in paragraph at lines 76--76
+|[]\OT1/cmr/bx/n/17.28 Messmodelle zur Fle-xi-bi-lit[]at nach Bell-mann
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\OT1/cmr/bx/n/12 Modell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]|\OT1/cmr/m/n/12 Bestandsflexibilit[]atsma^^Yzahl so-wie Ent-wick-lungs-fle-xi-bi-
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 85--85
+\OT1/cmr/m/n/12 lit[]atsma^^Yzahl als Quo-ti-en-ten des Ge-winns bei op-ti-ma-ler
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 86--86
+\OT1/cmr/m/n/12 stimmt []uber die Men-ge der Plan-re-vi-si-ons-zeit-punk-te und
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 86--86
+\OT1/cmr/m/n/12 Fle-xi-bi-lit[]at der Ent-schei-dung []uber die An-zahl von Ent-
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 90--90
+[]|\OT1/cmr/m/n/12 Flexibilit[]at ei-nes Fer-ti-gungs-sys-tems []uber die An-zahl der
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 90--90
+\OT1/cmr/m/n/12 Wahlm[]oglichkeiten im Sys-tem (z.B. An-zahl der Ag-gre-
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 90--90
+\OT1/cmr/m/n/12 ga-te oder Rou-ten) und die Verf[]ugbarkeit der je-wei-li-gen
+ []
+
+
+Overfull \hbox (1.08179pt too wide) in paragraph at lines 93--93
+[]|[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]|\OT1/cmr/m/n/12 Flexibilit[]at von Pro-bleml[]osungsverfahren []uber die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+\OT1/cmr/m/n/12 Men-ge zul[]assiger Ent-schei-dungs-fol-gen ei-nes Pro-
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 97--97
+\OT1/cmr/m/n/12 bleml[]osungsverfahrens und M[]achtigkeit der Men-ge der
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 99--99
+[]|\OT1/cmr/m/n/12 Flexibilit[]at ei-nes Pro-duk-ti-ons-sys-tems f[]ur Dienst-leis-tun-gen
+ []
+
+
+Overfull \hbox (17.2315pt too wide) in alignment at lines 80--101
+ [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 101
+ []
+
+
+Overfull \hbox (17.2315pt too wide) in alignment at lines 101--103
+ [] [] 
+ []
+
+[32
+
+] [33] [34] [35]) [36
 runsystem(makeindex -s MA.ist -t MA.glg -o MA.gls MA.glo)...executed safely (allowed).
 
 runsystem(makeindex -s MA.ist -t MA.alg -o MA.acr MA.acn)...executed safely (allowed).
 
- <./image/gottmann_6.png> <./image/gottmann_7.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `MA.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'MA.run.xml'.
 \openout1 = `MA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55014 strings out of 492616
- 1154682 string characters out of 6129481
- 1659681 words of memory out of 5000000
- 56895 multiletter control sequences out of 15000+600000
- 540403 words of font info for 53 fonts, out of 8000000 for 9000
+ 56535 strings out of 492616
+ 1182598 string characters out of 6129481
+ 1749517 words of memory out of 5000000
+ 57853 multiletter control sequences out of 15000+600000
+ 541059 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 64i,19n,102p,1987b,3855s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,20n,102p,1987b,3855s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.506} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.505} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.504} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.503} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.502} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.501} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.500} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.499} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.498} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.497} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.496} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.495} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.494} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.493} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.492} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.491} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.490} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.489} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.488} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.487} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.486} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.485} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.484} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.483} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.482} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.481} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.480} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.479} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.478} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.477} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.476} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.475} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.474} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.473} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.472} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.471} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.470} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.469} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.468} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.467} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.466} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.465} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.464} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.463} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.462} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.461} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.460} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.459} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.458} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.457} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.456} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.455} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.454} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.453} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.452} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.451} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.450} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.449} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.448} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.447} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.446} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.445} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.444} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.443} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.442} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.441} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.440} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.439} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.438} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.437} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.436} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.435} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.434} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.433} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.432} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.431} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.430} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.429} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.428} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.427} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.426} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.425} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.424} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.423} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.422} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.421} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.420} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.419} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.418} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.417} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.416} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.415} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.414} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.413} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.412} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.411} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.410} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.409} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.408} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.407} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.406} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.405} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.404} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.403} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.402} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.401} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.400} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.399} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.398} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.397} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.396} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.395} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.394} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.393} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.392} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.391} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.390} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.389} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.388} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.387} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.386} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.385} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.384} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.383} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.382} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.381} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.380} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.379} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.378} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.377} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.376} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.375} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.374} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.373} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.372} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.371} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.370} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.369} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.368} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.367} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.366} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.365} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.364} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.363} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.362} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.361} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.360} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.357} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.359} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.358} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.357} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.356} has been referenced but does not exist, replaced by a fixed one
 
@@ -2402,11 +3275,11 @@ pdfTeX warning (dest): name{Hfootnote.343} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.342} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.340} has been referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.341} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.339} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.341} has been referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.340} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.338} has been referenced but does not exist, replaced by a fixed one
 
@@ -2418,11 +3291,11 @@ pdfTeX warning (dest): name{Hfootnote.335} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.334} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.331} has been referenced but does not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{Hfootnote.333} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.332} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.331} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.330} has been referenced but does not exist, replaced by a fixed one
 
@@ -2640,9 +3513,9 @@ pdfTeX warning (dest): name{Hfootnote.224} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.223} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.218} has been referenced but does not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{Hfootnote.222} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.217} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.221} has been referenced but does not exist, replaced by a fixed one
 
@@ -2650,7 +3523,7 @@ pdfTeX warning (dest): name{Hfootnote.220} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.219} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.217} has been referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{Hfootnote.218} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.216} has been referenced but does not exist, replaced by a fixed one
 
@@ -3084,11 +3957,11 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (78 pages, 6253239 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (111 pages, 7096963 bytes).
 PDF statistics:
- 3092 PDF objects out of 3580 (max. 8388607)
- 2893 compressed objects within 29 object streams
- 1309 named destinations out of 1440 (max. 500000)
- 302 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4322 PDF objects out of 5155 (max. 8388607)
+ 4047 compressed objects within 41 object streams
+ 1856 named destinations out of 2073 (max. 500000)
+ 340 words of extra memory for PDF output out of 10000 (max. 10000000)
 

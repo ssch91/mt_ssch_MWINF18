@@ -169,6 +169,38 @@
       \field{type}{Dissertation}
       \field{year}{1929}
     \endentry
+    \entry{ansoff1975managing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=41466e97314d78692e18d1424bac83d5}{%
+           family={Ansoff},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi Igor},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Los Angeles}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA}%
+      }
+      \strng{namehash}{41466e97314d78692e18d1424bac83d5}
+      \strng{fullhash}{41466e97314d78692e18d1424bac83d5}
+      \strng{bibnamehash}{41466e97314d78692e18d1424bac83d5}
+      \strng{authorbibnamehash}{41466e97314d78692e18d1424bac83d5}
+      \strng{authornamehash}{41466e97314d78692e18d1424bac83d5}
+      \strng{authorfullhash}{41466e97314d78692e18d1424bac83d5}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{California management review}
+      \field{number}{2}
+      \field{title}{Managing strategic surprise by response to weak signals}
+      \field{volume}{18}
+      \field{year}{1975}
+      \field{pages}{21\bibrangedash 33}
+      \range{pages}{13}
+    \endentry
     \entry{bange2004software}{book}{}
       \name{author}{1}{}{%
         {{hash=44d341bf6017e58a6c24cc905b89a431}{%
@@ -218,6 +250,37 @@
       \field{journaltitle}{Diskussionsbeiträge: FernUniversität Hagen}
       \field{title}{Interne Marktorientierung durch Verrechnungspreise}
       \field{year}{1999}
+    \endentry
+    \entry{bauer2009100}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ebda88f7501c51c949ef5ce3ee6f25e1}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d2b8c94d7097ec7e1303035df7d05a6e}{%
+           family={Hayessen},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cometis}%
+      }
+      \strng{namehash}{f6fe415a61c67d20c38f2c04807b041b}
+      \strng{fullhash}{f6fe415a61c67d20c38f2c04807b041b}
+      \strng{bibnamehash}{f6fe415a61c67d20c38f2c04807b041b}
+      \strng{authorbibnamehash}{f6fe415a61c67d20c38f2c04807b041b}
+      \strng{authornamehash}{f6fe415a61c67d20c38f2c04807b041b}
+      \strng{authorfullhash}{f6fe415a61c67d20c38f2c04807b041b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783940828576}
+      \field{series}{Kennzahlen kompakt}
+      \field{title}{100 Produktionskennzahlen}
+      \field{year}{2009}
     \endentry
     \entry{Bauer2017}{book}{}
       \name{author}{1}{}{%
@@ -335,6 +398,80 @@
       \verb 10.15358/9783800651177
       \endverb
     \endentry
+    \entry{Bellmann2009}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=858ec70e89343e8f7780f38f09928ee5}{%
+           family={Bellmann},
+           familyi={B\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=99245c601c72de04722b359730290caa}{%
+           family={Himpel},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9c72e5e0f84ca95e5a542f6f927da633}{%
+           family={Böhm},
+           familyi={B\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{ace8f02cdd98d5553e78b5d28fb8750a}
+      \strng{fullhash}{ace8f02cdd98d5553e78b5d28fb8750a}
+      \strng{bibnamehash}{ace8f02cdd98d5553e78b5d28fb8750a}
+      \strng{authorbibnamehash}{ace8f02cdd98d5553e78b5d28fb8750a}
+      \strng{authornamehash}{ace8f02cdd98d5553e78b5d28fb8750a}
+      \strng{authorfullhash}{ace8f02cdd98d5553e78b5d28fb8750a}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Strategisches und operatives Produktionsmanagement}
+      \field{title}{Messung von Flexibilität in der Produktion}
+      \field{year}{2009}
+      \field{pages}{221\bibrangedash 240}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-8401-2_11
+      \endverb
+    \endentry
+    \entry{bengtsson2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1c3bfdc205ee0067fd90fd0d38983879}{%
+           family={Bengtsson},
+           familyi={B\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2af68712b99d4f5857bf172eac706f44}{%
+           family={Olhager},
+           familyi={O\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{98c59f57b2da19c18f06cb1262b114e4}
+      \strng{fullhash}{98c59f57b2da19c18f06cb1262b114e4}
+      \strng{bibnamehash}{98c59f57b2da19c18f06cb1262b114e4}
+      \strng{authorbibnamehash}{98c59f57b2da19c18f06cb1262b114e4}
+      \strng{authornamehash}{98c59f57b2da19c18f06cb1262b114e4}
+      \strng{authorfullhash}{98c59f57b2da19c18f06cb1262b114e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Production Economics}
+      \field{month}{07}
+      \field{title}{Valuation of product-mix flexibility using real options}
+      \field{volume}{78}
+      \field{year}{2002}
+      \field{pages}{13\bibrangedash 28}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/S0925-5273(01)00143-8
+      \endverb
+    \endentry
     \entry{klein2014marketing2}{incollection}{}
       \name{author}{1}{}{%
         {{hash=967cbfa581e1347e9bf45e50b8bd4195}{%
@@ -426,6 +563,44 @@
       \verb 10.1007/978-3-642-31893-1
       \endverb
     \endentry
+    \entry{blyton1996}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=a17a1eca3c520a6abc7172ee9576d568}{%
+           family={Blyton},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ae21aa86ef12dd7390424d8947c1d385}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a17a1eca3c520a6abc7172ee9576d568}
+      \strng{fullhash}{a17a1eca3c520a6abc7172ee9576d568}
+      \strng{bibnamehash}{a17a1eca3c520a6abc7172ee9576d568}
+      \strng{authorbibnamehash}{a17a1eca3c520a6abc7172ee9576d568}
+      \strng{authornamehash}{a17a1eca3c520a6abc7172ee9576d568}
+      \strng{authorfullhash}{a17a1eca3c520a6abc7172ee9576d568}
+      \strng{editorbibnamehash}{ae21aa86ef12dd7390424d8947c1d385}
+      \strng{editornamehash}{ae21aa86ef12dd7390424d8947c1d385}
+      \strng{editorfullhash}{ae21aa86ef12dd7390424d8947c1d385}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of business and management}
+      \field{title}{Flexibilty}
+      \field{volume}{4}
+      \field{year}{1996}
+      \field{pages}{1448\bibrangedash 1457}
+      \range{pages}{10}
+    \endentry
     \entry{bouffier1952}{article}{}
       \name{author}{1}{}{%
         {{hash=d4a88ed50cfa3ddd80450ed181982f08}{%
@@ -454,6 +629,124 @@
       \field{pages}{26\bibrangedash 40}
       \range{pages}{15}
     \endentry
+    \entry{Brehm2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a87fe1ebd1512f99d876aaaa53cd7c82}{%
+           family={Brehm},
+           familyi={B\bibinitperiod},
+           given={Carsten\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitätsverlag}%
+      }
+      \strng{namehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{fullhash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{bibnamehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{authorbibnamehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{authornamehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{authorfullhash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Organisatorische Flexibilität der Unternehmung}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1007/978-3-322-81620-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-322-81620-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-322-81620-7
+      \endverb
+    \endentry
+    \entry{Brehm2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=a87fe1ebd1512f99d876aaaa53cd7c82}{%
+           family={Brehm},
+           familyi={B\bibinitperiod},
+           given={Carsten\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=445b52516cc607c70ea3346b3ef2273f}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Norbert},
+           giveni={N\bibinitperiod}}}%
+        {{hash=220ca12d62ac47e84b68ab3b8bdabe8e}{%
+           family={Buchholz},
+           familyi={B\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=250b8f89389f866e48d27d3c80033e29}{%
+           family={Eichler},
+           familyi={E\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{fullhash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{bibnamehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{authorbibnamehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{authornamehash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{authorfullhash}{a87fe1ebd1512f99d876aaaa53cd7c82}
+      \strng{editorbibnamehash}{b2778fb9ed5848750627876562c48b1a}
+      \strng{editornamehash}{b2778fb9ed5848750627876562c48b1a}
+      \strng{editorfullhash}{b2778fb9ed5848750627876562c48b1a}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Gesch{ä}ftsmodelle f{ü}r Wertsch{ö}pfungsnetzwerke}
+      \field{isbn}{978-3-322-88977-5}
+      \field{title}{Organisatorische Flexibilit{ä}t in Wertsch{ö}pfungsnetzwerken}
+      \field{year}{2003}
+      \field{pages}{79\bibrangedash 100}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/978-3-322-88977-5_4
+      \endverb
+    \endentry
+    \entry{brill1987measures}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c30029c8b0711b4553790f08f3d70f60}{%
+           family={Brill},
+           familyi={B\bibinitperiod},
+           given={Percy\bibnamedelima H},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=a03350c4d4bd53476bbc33329cea4afd}{%
+           family={Mandelbaum},
+           familyi={M\bibinitperiod},
+           given={Marvin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Windsor, Faculty of Business Administration}%
+      }
+      \strng{namehash}{43c8f8aee810df6d9d70288354414684}
+      \strng{fullhash}{43c8f8aee810df6d9d70288354414684}
+      \strng{bibnamehash}{43c8f8aee810df6d9d70288354414684}
+      \strng{authorbibnamehash}{43c8f8aee810df6d9d70288354414684}
+      \strng{authornamehash}{43c8f8aee810df6d9d70288354414684}
+      \strng{authorfullhash}{43c8f8aee810df6d9d70288354414684}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measures of flexibility for production systems}
+      \field{year}{1987}
+    \endentry
     \entry{britzelmaier2013controlling}{book}{}
       \name{author}{1}{}{%
         {{hash=cd682ca5c237e6a4dadd07ab7ce24c88}{%
@@ -479,6 +772,78 @@
       \field{series}{Always learning}
       \field{title}{Controlling: Grundlagen, Praxis, Handlungsfelder}
       \field{year}{2013}
+    \endentry
+    \entry{brockhaus2006}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e2093e223db190357167b2f04a2bfe78}{%
+           family={Brockhaus},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig; Mannheim}%
+      }
+      \list{publisher}{1}{%
+        {Brockhaus}%
+      }
+      \strng{namehash}{e2093e223db190357167b2f04a2bfe78}
+      \strng{fullhash}{e2093e223db190357167b2f04a2bfe78}
+      \strng{bibnamehash}{e2093e223db190357167b2f04a2bfe78}
+      \strng{authorbibnamehash}{e2093e223db190357167b2f04a2bfe78}
+      \strng{authornamehash}{e2093e223db190357167b2f04a2bfe78}
+      \strng{authorfullhash}{e2093e223db190357167b2f04a2bfe78}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{21., neu bearb. Aufl.}
+      \field{title}{Brockhaus. Enzyklopädie in 30 Bänden}
+      \field{year}{2006}
+    \endentry
+    \entry{browne1984}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a271cdbf88abca3dc320babcdfd5b460}{%
+           family={Browne},
+           familyi={B\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b9fac725102ee602ca938500ffa91d0}{%
+           family={Dubois},
+           familyi={D\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+        {{hash=56f400d60333a1da23562c2a2c8052f4}{%
+           family={Rathmill},
+           familyi={R\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9fb9f7d170ba315854850a93edcc2f53}{%
+           family={Sethi},
+           familyi={S\bibinitperiod},
+           given={Suresh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5830d3b9ec228848812b047d8b4d3b65}{%
+           family={Stecke},
+           familyi={S\bibinitperiod},
+           given={Kathryn},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e1b308bd78a0efe4a5ccc89cb4b5dd9}
+      \strng{fullhash}{267c47a1cccc8e7a7133afe6e18ea245}
+      \strng{bibnamehash}{8e1b308bd78a0efe4a5ccc89cb4b5dd9}
+      \strng{authorbibnamehash}{8e1b308bd78a0efe4a5ccc89cb4b5dd9}
+      \strng{authornamehash}{8e1b308bd78a0efe4a5ccc89cb4b5dd9}
+      \strng{authorfullhash}{267c47a1cccc8e7a7133afe6e18ea245}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The FMS Magazine}
+      \field{month}{1}
+      \field{title}{Classification of Flexible Manufacturing Systems}
+      \field{volume}{2}
+      \field{year}{1984}
+      \field{pages}{114\bibrangedash 117}
+      \range{pages}{4}
     \endentry
     \entry{Buchholz2013}{book}{}
       \name{author}{1}{}{%
@@ -512,6 +877,31 @@
       \verb{url}
       \verb https://doi.org/10.1007/978-3-8349-4007-0
       \endverb
+    \endentry
+    \entry{buzacott1982}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=358eba40ea9fc0325b70b99172a0685f}{%
+           family={Buzacott},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{358eba40ea9fc0325b70b99172a0685f}
+      \strng{fullhash}{358eba40ea9fc0325b70b99172a0685f}
+      \strng{bibnamehash}{358eba40ea9fc0325b70b99172a0685f}
+      \strng{authorbibnamehash}{358eba40ea9fc0325b70b99172a0685f}
+      \strng{authornamehash}{358eba40ea9fc0325b70b99172a0685f}
+      \strng{authorfullhash}{358eba40ea9fc0325b70b99172a0685f}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{1st International Conference on Flexible Manufacturing Systems}
+      \field{month}{10}
+      \field{title}{The Fundamental Principles of Flexibility in Manufacturing Systems}
+      \field{year}{1982}
+      \field{pages}{13\bibrangedash 22}
+      \range{pages}{10}
     \endentry
     \entry{byrdturner2001}{article}{}
       \name{author}{2}{}{%
@@ -585,6 +975,222 @@
       \field{pages}{167\bibrangedash 2008}
       \range{pages}{1842}
     \endentry
+    \entry{carter1986}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=0ce8bb72f4643c9f6072755dbb67110d}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={M.F.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=04c00ba9251298b4044387c7567a19c9}{%
+           family={Stecke},
+           familyi={S\bibinitperiod},
+           given={K.E.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f82a87121de28abb5d6f89e25cae636a}{%
+           family={Suri},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0ce8bb72f4643c9f6072755dbb67110d}
+      \strng{fullhash}{0ce8bb72f4643c9f6072755dbb67110d}
+      \strng{bibnamehash}{0ce8bb72f4643c9f6072755dbb67110d}
+      \strng{authorbibnamehash}{0ce8bb72f4643c9f6072755dbb67110d}
+      \strng{authornamehash}{0ce8bb72f4643c9f6072755dbb67110d}
+      \strng{authorfullhash}{0ce8bb72f4643c9f6072755dbb67110d}
+      \strng{editorbibnamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editornamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editorfullhash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Second ORSA/TIMS Special Interest Conference on FMS}
+      \field{title}{Systematic Assessment of the Value of Flexibility from FMS}
+      \field{year}{1986}
+      \field{pages}{107\bibrangedash 118}
+      \range{pages}{12}
+    \endentry
+    \entry{chatterjee1984}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=cfb9c019993da5080a009f610514d35d}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=65fccde7dc046dc0284b90d926a7564f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={M.A.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2da027df382b0a4fdfd39d7532edb32a}{%
+           family={Maxwell},
+           familyi={M\bibinitperiod},
+           given={W.L.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=87bf38a2728e5b73cf38d2db6aa87458}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={L.W.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=04c00ba9251298b4044387c7567a19c9}{%
+           family={Stecke},
+           familyi={S\bibinitperiod},
+           given={K.E.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f82a87121de28abb5d6f89e25cae636a}{%
+           family={Suri},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aa192e2e7e0da622a8f40e53970957ef}
+      \strng{fullhash}{4e901c0051e82b9c0db9e2d16107f107}
+      \strng{bibnamehash}{aa192e2e7e0da622a8f40e53970957ef}
+      \strng{authorbibnamehash}{aa192e2e7e0da622a8f40e53970957ef}
+      \strng{authornamehash}{aa192e2e7e0da622a8f40e53970957ef}
+      \strng{authorfullhash}{4e901c0051e82b9c0db9e2d16107f107}
+      \strng{editorbibnamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editornamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editorfullhash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the First ORSA/TIMS Special Interest Conference on FMS}
+      \field{title}{Manufacturing Flexibility: Models and Measurements}
+      \field{year}{1984}
+    \endentry
+    \entry{chatterjee1987planning}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cfb9c019993da5080a009f610514d35d}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=65fccde7dc046dc0284b90d926a7564f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={MA},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2da027df382b0a4fdfd39d7532edb32a}{%
+           family={Maxwell},
+           familyi={M\bibinitperiod},
+           given={WL},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e33a0d0ed3038442bcfd0c3105b66f0}
+      \strng{fullhash}{3e33a0d0ed3038442bcfd0c3105b66f0}
+      \strng{bibnamehash}{3e33a0d0ed3038442bcfd0c3105b66f0}
+      \strng{authorbibnamehash}{3e33a0d0ed3038442bcfd0c3105b66f0}
+      \strng{authornamehash}{3e33a0d0ed3038442bcfd0c3105b66f0}
+      \strng{authorfullhash}{3e33a0d0ed3038442bcfd0c3105b66f0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{University of Pennsylvania, Philadelphia}
+      \field{month}{7}
+      \field{number}{WP No. 87-07-04}
+      \field{title}{A planning framework for flexible manufacturing systems}
+      \field{year}{1987}
+    \endentry
+    \entry{CHEN1996}{article}{}
+      \name{author}{2}{}{%
+        {{hash=14a4a4939fcd3a46843251b4899a6d5e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={I.\bibnamedelimi J.},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=64c601bc3786ef88bb22a116c01b392f}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={C.-H.},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informa {UK} Limited}%
+      }
+      \strng{namehash}{2e7fcbd4212e364e708930ce7667d7fc}
+      \strng{fullhash}{2e7fcbd4212e364e708930ce7667d7fc}
+      \strng{bibnamehash}{2e7fcbd4212e364e708930ce7667d7fc}
+      \strng{authorbibnamehash}{2e7fcbd4212e364e708930ce7667d7fc}
+      \strng{authornamehash}{2e7fcbd4212e364e708930ce7667d7fc}
+      \strng{authorfullhash}{2e7fcbd4212e364e708930ce7667d7fc}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Production Research}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{An examination of flexibility measurements and performance of flexible manufacturing systems}
+      \field{volume}{34}
+      \field{year}{1996}
+      \field{pages}{379\bibrangedash 394}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/00207549608904909
+      \endverb
+    \endentry
+    \entry{chung1989}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=a66f4efa6ad4fbec611a93471b2360a5}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={C.H.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=14a4a4939fcd3a46843251b4899a6d5e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={I.J.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=04c00ba9251298b4044387c7567a19c9}{%
+           family={Stecke},
+           familyi={S\bibinitperiod},
+           given={K.E.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f82a87121de28abb5d6f89e25cae636a}{%
+           family={Suri},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{82c94fae4b42d775b7df49b2797e6c56}
+      \strng{fullhash}{82c94fae4b42d775b7df49b2797e6c56}
+      \strng{bibnamehash}{82c94fae4b42d775b7df49b2797e6c56}
+      \strng{authorbibnamehash}{82c94fae4b42d775b7df49b2797e6c56}
+      \strng{authornamehash}{82c94fae4b42d775b7df49b2797e6c56}
+      \strng{authorfullhash}{82c94fae4b42d775b7df49b2797e6c56}
+      \strng{editorbibnamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editornamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editorfullhash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Third ORSA/TIMS Special Interest Conference on FMS}
+      \field{title}{Systematic Assessment of the Value of Flexibility from FMS}
+      \field{year}{1989}
+      \field{pages}{27\bibrangedash 34}
+      \range{pages}{8}
+    \endentry
     \entry{capgemini2008}{report}{}
       \name{author}{2}{}{%
         {{hash=f0c3de59694e1c2e81a0322c3503558b}{%
@@ -616,6 +1222,45 @@
       \field{title}{Change Management Studie 2008}
       \field{type}{Studie}
       \field{year}{2008}
+    \endentry
+    \entry{Corsten2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0e2e284103e2b5c34ed58bb88a381c64}{%
+           family={Corsten},
+           familyi={C\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7c55d2ebd56a0bde41c7c74e97c712fb}{%
+           family={Gössinger},
+           familyi={G\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{3913b10cf279ef2682fd71526df2390a}
+      \strng{fullhash}{3913b10cf279ef2682fd71526df2390a}
+      \strng{bibnamehash}{3913b10cf279ef2682fd71526df2390a}
+      \strng{authorbibnamehash}{3913b10cf279ef2682fd71526df2390a}
+      \strng{authornamehash}{3913b10cf279ef2682fd71526df2390a}
+      \strng{authorfullhash}{3913b10cf279ef2682fd71526df2390a}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Business Economics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Output-Flexibilität in der Dienstleistungsproduktion}
+      \field{volume}{76}
+      \field{year}{2006}
+      \field{pages}{29\bibrangedash 53}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s11573-007-0307-x
+      \endverb
     \endentry
     \entry{crueger2004}{article}{}
       \name{author}{2}{}{%
@@ -654,6 +1299,33 @@
       \field{year}{2004}
       \field{pages}{497\bibrangedash 502}
       \range{pages}{6}
+    \endentry
+    \entry{Damisch2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=60de54e9356ce0583ccfcc6e285bb24d}{%
+           family={Damisch},
+           familyi={D\bibinitperiod},
+           given={Peter\bibnamedelima Nicolai},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitätsverlag}%
+      }
+      \strng{namehash}{60de54e9356ce0583ccfcc6e285bb24d}
+      \strng{fullhash}{60de54e9356ce0583ccfcc6e285bb24d}
+      \strng{bibnamehash}{60de54e9356ce0583ccfcc6e285bb24d}
+      \strng{authorbibnamehash}{60de54e9356ce0583ccfcc6e285bb24d}
+      \strng{authornamehash}{60de54e9356ce0583ccfcc6e285bb24d}
+      \strng{authorfullhash}{60de54e9356ce0583ccfcc6e285bb24d}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wertorientiertes Flexibilitätsmanagement durch den Realoptionsansatz}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1007/978-3-663-11840-4
+      \endverb
     \endentry
     \entry{davis1950}{article}{}
       \name{author}{2}{}{%
@@ -723,6 +1395,30 @@
       \field{series}{Springer-Lehrbuch}
       \field{title}{Produktionsplanung: Ablauforganisatorische Aspekte}
       \field{year}{1997}
+    \endentry
+    \entry{dormayer1986konjunkturelle}{book}{}
+      \name{author}{1}{}{%
+        {{hash=527d21d799156679b279ae9fbd9ff8bd}{%
+           family={Dormayer},
+           familyi={D\bibinitperiod},
+           given={Hans-J{ü}rgen},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ifo-Inst. f{ü}r Wirtschaftsforschung}%
+      }
+      \strng{namehash}{527d21d799156679b279ae9fbd9ff8bd}
+      \strng{fullhash}{527d21d799156679b279ae9fbd9ff8bd}
+      \strng{bibnamehash}{527d21d799156679b279ae9fbd9ff8bd}
+      \strng{authorbibnamehash}{527d21d799156679b279ae9fbd9ff8bd}
+      \strng{authornamehash}{527d21d799156679b279ae9fbd9ff8bd}
+      \strng{authorfullhash}{527d21d799156679b279ae9fbd9ff8bd}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Konjunkturelle Fr{ü}herkennung und Flexibilit{ä}t im Produktionsbereich}
+      \field{year}{1986}
     \endentry
     \entry{Drexl1993KonzeptionelleGK}{inproceedings}{}
       \name{author}{5}{}{%
@@ -909,6 +1605,146 @@
       \field{title}{ZVEI-Kennzahlensystem: ein Instrument zur Unternehmenssteuerung}
       \field{year}{1989}
     \endentry
+    \entry{JanEppink1978}{article}{}
+      \name{author}{1}{}{%
+        {{hash=48cb3316b53687ffc6498816ab54128c}{%
+           family={Eppink},
+           familyi={E\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{48cb3316b53687ffc6498816ab54128c}
+      \strng{fullhash}{48cb3316b53687ffc6498816ab54128c}
+      \strng{bibnamehash}{48cb3316b53687ffc6498816ab54128c}
+      \strng{authorbibnamehash}{48cb3316b53687ffc6498816ab54128c}
+      \strng{authornamehash}{48cb3316b53687ffc6498816ab54128c}
+      \strng{authorfullhash}{48cb3316b53687ffc6498816ab54128c}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Long Range Planning}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Planning for strategic flexibility}
+      \field{volume}{11}
+      \field{year}{1978}
+      \field{pages}{9\bibrangedash 15}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/0024-6301(78)90002-x
+      \endverb
+    \endentry
+    \entry{Evans1991}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d820ae2ee3a79c9d03c032b357ab4eff}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi Stuart},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{d820ae2ee3a79c9d03c032b357ab4eff}
+      \strng{fullhash}{d820ae2ee3a79c9d03c032b357ab4eff}
+      \strng{bibnamehash}{d820ae2ee3a79c9d03c032b357ab4eff}
+      \strng{authorbibnamehash}{d820ae2ee3a79c9d03c032b357ab4eff}
+      \strng{authornamehash}{d820ae2ee3a79c9d03c032b357ab4eff}
+      \strng{authorfullhash}{d820ae2ee3a79c9d03c032b357ab4eff}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Management Studies}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Strategic Flexibility for High Technology Manoeuvres: A Conceptual Framework}
+      \field{volume}{28}
+      \field{year}{1991}
+      \field{pages}{69\bibrangedash 89}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1111/j.1467-6486.1991.tb00271.x
+      \endverb
+    \endentry
+    \entry{eversheim1980}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4532c8a3e48a5571af35b2a8a2206e95}{%
+           family={Eversheim},
+           familyi={E\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=d2253228895fed8e64cad9e8480b5619}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={F.-W.},
+           giveni={F\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{d89debaf5d3690a74433bce99f174597}
+      \strng{fullhash}{d89debaf5d3690a74433bce99f174597}
+      \strng{bibnamehash}{d89debaf5d3690a74433bce99f174597}
+      \strng{authorbibnamehash}{d89debaf5d3690a74433bce99f174597}
+      \strng{authornamehash}{d89debaf5d3690a74433bce99f174597}
+      \strng{authorfullhash}{d89debaf5d3690a74433bce99f174597}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Die Betriebswirtschaft (DBW)}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Planung des Flexibilitätsbedarfes von Industrieunternehmen}
+      \field{volume}{40}
+      \field{year}{1980}
+      \field{pages}{229\bibrangedash 248}
+      \range{pages}{20}
+    \endentry
+    \entry{falkner1986}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=431944cb2f2fd7472764b0e2c0c3b7ec}{%
+           family={Falkner},
+           familyi={F\bibinitperiod},
+           given={C.H.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=04c00ba9251298b4044387c7567a19c9}{%
+           family={Stecke},
+           familyi={S\bibinitperiod},
+           given={K.E.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f82a87121de28abb5d6f89e25cae636a}{%
+           family={Suri},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{431944cb2f2fd7472764b0e2c0c3b7ec}
+      \strng{fullhash}{431944cb2f2fd7472764b0e2c0c3b7ec}
+      \strng{bibnamehash}{431944cb2f2fd7472764b0e2c0c3b7ec}
+      \strng{authorbibnamehash}{431944cb2f2fd7472764b0e2c0c3b7ec}
+      \strng{authornamehash}{431944cb2f2fd7472764b0e2c0c3b7ec}
+      \strng{authorfullhash}{431944cb2f2fd7472764b0e2c0c3b7ec}
+      \strng{editorbibnamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editornamehash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \strng{editorfullhash}{439c9d5588bdcd488b2dd59b7cc4264a}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Second ORSA/TIMS Special Interest Conference on FMS}
+      \field{title}{Flexibility in Manufacturing Plants}
+      \field{year}{1986}
+      \field{pages}{95\bibrangedash 106}
+      \range{pages}{12}
+    \endentry
     \entry{fandel2011produktionsmanagement}{book}{}
       \name{author}{3}{}{%
         {{hash=5991c491479143500fb8e448ed751228}{%
@@ -940,7 +1776,7 @@
       \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{2. Aufl.}
+      \field{edition}{2.}
       \field{isbn}{9783540372172}
       \field{series}{Springer-Lehrbuch}
       \field{title}{Produktionsmanagement}
@@ -1069,6 +1905,161 @@
       \verb https://doi.org/10.1007/978-3-658-01590-9
       \endverb
     \endentry
+    \entry{vonGarrel2014}{inbook}{}
+      \name{author}{3}{}{%
+        {{hash=9110c600b5f2cd1b469a156262fe8a74}{%
+           family={Garrel},
+           familyi={G\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=9bc23411436370663e57369b47296158}{%
+           family={Schenk},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d1cf55f038ce5dcd4d334bbc2c120706}{%
+           family={Seidel},
+           familyi={S\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=b41f00c8aa363eff066cd7a25fa5f2a7}{%
+           family={Schlick},
+           familyi={S\bibinitperiod},
+           given={Christopher\bibnamedelima Marc},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4d87b00e209ea62eaf1494322d92aa4d}{%
+           family={Moser},
+           familyi={M\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9bc23411436370663e57369b47296158}{%
+           family={Schenk},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{081b8b20c0450e3179235d690477bd38}
+      \strng{fullhash}{081b8b20c0450e3179235d690477bd38}
+      \strng{bibnamehash}{081b8b20c0450e3179235d690477bd38}
+      \strng{authorbibnamehash}{081b8b20c0450e3179235d690477bd38}
+      \strng{authornamehash}{081b8b20c0450e3179235d690477bd38}
+      \strng{authorfullhash}{081b8b20c0450e3179235d690477bd38}
+      \strng{editorbibnamehash}{d0ba008f5c44d41c8c0d8496301ab750}
+      \strng{editornamehash}{d0ba008f5c44d41c8c0d8496301ab750}
+      \strng{editorfullhash}{d0ba008f5c44d41c8c0d8496301ab750}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Flexible Produktionskapazit{ä}t innovativ managen: Handlungsempfehlungen f{ü}r die flexible Gestaltung von Produktionssystemen in kleinen und mittleren Unternehmen}
+      \field{isbn}{978-3-642-39896-4}
+      \field{title}{Flexibilisierung der Produktion -- Ma{ß}nahmen und Status-Quo}
+      \field{year}{2014}
+      \field{pages}{81\bibrangedash 126}
+      \range{pages}{46}
+      \verb{doi}
+      \verb 10.1007/978-3-642-39896-4_2
+      \endverb
+    \endentry
+    \entry{vonGarrel2013}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=9110c600b5f2cd1b469a156262fe8a74}{%
+           family={Garrel},
+           familyi={G\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=da44de4f38565fc09fae9461de62cb01}{%
+           family={Tackenberg},
+           familyi={T\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=65c7367e74d7d9ceee776ef3ac4bc142}{%
+           family={Bornewasser},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab1d724831cc8bd4f5bb514e965d6c58}{%
+           family={Z{ü}lch},
+           familyi={Z\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{0bcc946ae3f4838b2f2924c43ea3a1cd}
+      \strng{fullhash}{0bcc946ae3f4838b2f2924c43ea3a1cd}
+      \strng{bibnamehash}{0bcc946ae3f4838b2f2924c43ea3a1cd}
+      \strng{authorbibnamehash}{0bcc946ae3f4838b2f2924c43ea3a1cd}
+      \strng{authornamehash}{0bcc946ae3f4838b2f2924c43ea3a1cd}
+      \strng{authorfullhash}{0bcc946ae3f4838b2f2924c43ea3a1cd}
+      \strng{editorbibnamehash}{069a12102e02a48dc36d6639f646a040}
+      \strng{editornamehash}{069a12102e02a48dc36d6639f646a040}
+      \strng{editorfullhash}{069a12102e02a48dc36d6639f646a040}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Arbeitszeit - Zeitarbeit: Flexibilisierung der Arbeit als Antwort auf die Globalisierung}
+      \field{isbn}{978-3-8349-3739-1}
+      \field{title}{Flexibilit{ä}t von KMU durch situationsspezifische Auslegung der Fertigung}
+      \field{year}{2013}
+      \field{pages}{381\bibrangedash 403}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-3739-1_21
+      \endverb
+    \endentry
+    \entry{Gerwin1987}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2c8061d79015db2bcf3424000f32f3f4}{%
+           family={Gerwin},
+           familyi={G\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald}%
+      }
+      \strng{namehash}{2c8061d79015db2bcf3424000f32f3f4}
+      \strng{fullhash}{2c8061d79015db2bcf3424000f32f3f4}
+      \strng{bibnamehash}{2c8061d79015db2bcf3424000f32f3f4}
+      \strng{authorbibnamehash}{2c8061d79015db2bcf3424000f32f3f4}
+      \strng{authornamehash}{2c8061d79015db2bcf3424000f32f3f4}
+      \strng{authorfullhash}{2c8061d79015db2bcf3424000f32f3f4}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Operations {\&} Production Management}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{An Agenda For Research on the Flexibility of Manufacturing Processes}
+      \field{volume}{7}
+      \field{year}{1987}
+      \field{pages}{38\bibrangedash 49}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1108/eb054784
+      \endverb
+    \endentry
     \entry{gleich2016}{article}{}
       \name{author}{3}{}{%
         {{hash=f44e32a9dfc831e51a9b30df6b0b8267}{%
@@ -1107,6 +2098,54 @@
       \field{year}{2018}
       \field{pages}{80\bibrangedash 84}
       \range{pages}{5}
+    \endentry
+    \entry{goransonagile}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=980e4e2058c819dcc518d4d641c385c2}{%
+           family={Goranson},
+           familyi={G\bibinitperiod},
+           given={H.T.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=fe6186692b9d04b469ec5e2f5d68bfbb}{%
+           family={Molina},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=65e5e81ce303de9adb2c337207fc4f0a}{%
+           family={S{á}nchez},
+           familyi={S\bibinitperiod},
+           given={J.M.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3f74e0202e133c5d4c2e6475aee02802}{%
+           family={Kusiak},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{980e4e2058c819dcc518d4d641c385c2}
+      \strng{fullhash}{980e4e2058c819dcc518d4d641c385c2}
+      \strng{bibnamehash}{980e4e2058c819dcc518d4d641c385c2}
+      \strng{authorbibnamehash}{980e4e2058c819dcc518d4d641c385c2}
+      \strng{authornamehash}{980e4e2058c819dcc518d4d641c385c2}
+      \strng{authorfullhash}{980e4e2058c819dcc518d4d641c385c2}
+      \strng{editorbibnamehash}{9c2d8a1f0bbac2b9628e85b670c8d63d}
+      \strng{editornamehash}{9c2d8a1f0bbac2b9628e85b670c8d63d}
+      \strng{editorfullhash}{9c2d8a1f0bbac2b9628e85b670c8d63d}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Life Cycle Engineering: Concepts, Models and Technologies}
+      \field{isbn}{9780412812507}
+      \field{title}{Agile Manufacturing}
+      \field{year}{1999}
+      \field{pages}{31\bibrangedash 58}
+      \range{pages}{28}
     \endentry
     \entry{Gottmann2019}{book}{}
       \name{author}{1}{}{%
@@ -1335,6 +2374,74 @@
       \verb https://books.google.de/books?id=nRvbSx9Y9MEC
       \endverb
     \endentry
+    \entry{Gupta1968}{article}{}
+      \name{author}{2}{}{%
+        {{hash=275d0e5d7bf5c29646d7678b714db895}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Shiv\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=1cc6a12f1bde3b4d725498e7443237a9}{%
+           family={Rosenhead},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute for Operations Research}%
+        {the Management Sciences ({INFORMS})}%
+      }
+      \strng{namehash}{d8793c989e1bf5734b62aa919b7ccfaa}
+      \strng{fullhash}{d8793c989e1bf5734b62aa919b7ccfaa}
+      \strng{bibnamehash}{d8793c989e1bf5734b62aa919b7ccfaa}
+      \strng{authorbibnamehash}{d8793c989e1bf5734b62aa919b7ccfaa}
+      \strng{authornamehash}{d8793c989e1bf5734b62aa919b7ccfaa}
+      \strng{authorfullhash}{d8793c989e1bf5734b62aa919b7ccfaa}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Science}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Robustness in Sequential Investment Decisions}
+      \field{volume}{15}
+      \field{year}{1968}
+      \field{pages}{18\bibrangedash 29}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1287/mnsc.15.2.b18
+      \endverb
+    \endentry
+    \entry{gustavsson1984flexibility}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a7ce3b8463f3fdc9d5e791c37140f40f}{%
+           family={Gustavsson},
+           familyi={G\bibinitperiod},
+           given={Sten-Olof},
+           giveni={S\bibinithyphendelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{a7ce3b8463f3fdc9d5e791c37140f40f}
+      \strng{fullhash}{a7ce3b8463f3fdc9d5e791c37140f40f}
+      \strng{bibnamehash}{a7ce3b8463f3fdc9d5e791c37140f40f}
+      \strng{authorbibnamehash}{a7ce3b8463f3fdc9d5e791c37140f40f}
+      \strng{authornamehash}{a7ce3b8463f3fdc9d5e791c37140f40f}
+      \strng{authorfullhash}{a7ce3b8463f3fdc9d5e791c37140f40f}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The International Journal of Production Research}
+      \field{number}{5}
+      \field{title}{Flexibility and productivity in complex production processes}
+      \field{volume}{22}
+      \field{year}{1984}
+      \field{pages}{801\bibrangedash 808}
+      \range{pages}{8}
+    \endentry
     \entry{Gutenberg1979}{book}{}
       \name{author}{1}{}{%
         {{hash=f8ba6520051f98714a7fe5a59d3168a8}{%
@@ -1394,6 +2501,37 @@
       \verb{url}
       \verb https://books.google.de/books?id=-rZsxDQLY-QC
       \endverb
+    \endentry
+    \entry{hanssmann1978}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f1e4ebe0054fc3047e7c895d13c95905}{%
+           family={Hanssmann},
+           familyi={H\bibinitperiod},
+           given={Friedrich},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {M{ü}nchen}%
+      }
+      \list{publisher}{1}{%
+        {Oldenbourg}%
+      }
+      \strng{namehash}{f1e4ebe0054fc3047e7c895d13c95905}
+      \strng{fullhash}{f1e4ebe0054fc3047e7c895d13c95905}
+      \strng{bibnamehash}{f1e4ebe0054fc3047e7c895d13c95905}
+      \strng{authorbibnamehash}{f1e4ebe0054fc3047e7c895d13c95905}
+      \strng{authornamehash}{f1e4ebe0054fc3047e7c895d13c95905}
+      \strng{authorfullhash}{f1e4ebe0054fc3047e7c895d13c95905}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{3-486-21941-3}
+      \field{series}{Oldenbourgs Lehr- und Handb{ü}cher der Wirtschafts- und Sozialwissenschaften}
+      \field{subtitle}{Methodik der modellgest{ü}tzten Entscheidungsvorbereitung}
+      \field{title}{Einf{ü}hrung in die Systemforschung}
+      \field{year}{1978}
     \endentry
     \entry{hartmann2002materialwirtschaft}{book}{}
       \name{author}{1}{}{%
@@ -1475,6 +2613,35 @@
       \verb 10.1007/978-3-658-11066-6
       \endverb
     \endentry
+    \entry{horstmann2005}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=9ddaa75f986b2041ddb143e5e347795d}{%
+           family={Horstmann},
+           familyi={H\bibinitperiod},
+           given={Conrad},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Justus-Liebig-Universität}%
+      }
+      \list{location}{1}{%
+        {Gießen}%
+      }
+      \strng{namehash}{9ddaa75f986b2041ddb143e5e347795d}
+      \strng{fullhash}{9ddaa75f986b2041ddb143e5e347795d}
+      \strng{bibnamehash}{9ddaa75f986b2041ddb143e5e347795d}
+      \strng{authorbibnamehash}{9ddaa75f986b2041ddb143e5e347795d}
+      \strng{authornamehash}{9ddaa75f986b2041ddb143e5e347795d}
+      \strng{authorfullhash}{9ddaa75f986b2041ddb143e5e347795d}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Operationalisierung der Unternehmensflexibilität - ganzheitliche Konzeption zur umwelt- und unternehmensbezogenen Flexibilitätsanalyse}
+      \field{type}{phdthesis}
+      \field{year}{2005}
+    \endentry
     \entry{Horvath2015}{book}{}
       \name{author}{3}{}{%
         {{hash=4905c4fd28b31bf2f2632d7cee565fad}{%
@@ -1541,6 +2708,69 @@
       \verb https://doi.org/10.1007/978-3-658-22897-2
       \endverb
     \endentry
+    \entry{hutchinson1984flexibility}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fe85df4bfe09886d8295b3c5cb0480a4}{%
+           family={Hutchinson},
+           familyi={H\bibinitperiod},
+           given={George\bibnamedelima K},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {INST INDUSTRIAL ENGINEERS 25 TECHNOLOGY PARK/ATLANTA, NORCROSS, GA 30092}%
+      }
+      \strng{namehash}{fe85df4bfe09886d8295b3c5cb0480a4}
+      \strng{fullhash}{fe85df4bfe09886d8295b3c5cb0480a4}
+      \strng{bibnamehash}{fe85df4bfe09886d8295b3c5cb0480a4}
+      \strng{authorbibnamehash}{fe85df4bfe09886d8295b3c5cb0480a4}
+      \strng{authornamehash}{fe85df4bfe09886d8295b3c5cb0480a4}
+      \strng{authorfullhash}{fe85df4bfe09886d8295b3c5cb0480a4}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Engineering}
+      \field{number}{6}
+      \field{title}{FLEXIBILITY IS KEY TO ECONOMIC-FEASIBILITY OF AUTOMATING SMALL BATCH MANUFACTURING}
+      \field{volume}{16}
+      \field{year}{1984}
+      \field{pages}{76\bibrangedash 86}
+      \range{pages}{11}
+    \endentry
+    \entry{jacob1974}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6e087145c0400d4badabd35906f9bf88}{%
+           family={Jacob},
+           familyi={J\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6e087145c0400d4badabd35906f9bf88}
+      \strng{fullhash}{6e087145c0400d4badabd35906f9bf88}
+      \strng{bibnamehash}{6e087145c0400d4badabd35906f9bf88}
+      \strng{authorbibnamehash}{6e087145c0400d4badabd35906f9bf88}
+      \strng{authornamehash}{6e087145c0400d4badabd35906f9bf88}
+      \strng{authorfullhash}{6e087145c0400d4badabd35906f9bf88}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0044-2372}
+      \field{journaltitle}{Journal of business economics : JBE}
+      \field{number}{7/8}
+      \field{series}{Journal of business economics}
+      \field{title}{Unsicherheit und Flexibilität : zur Theorie der Planung bei Unsicherheit}
+      \field{volume}{44}
+      \field{year}{1974}
+      \field{pages}{505\bibrangedash 526}
+      \range{pages}{22}
+    \endentry
     \entry{Jaehn2019}{book}{}
       \name{author}{2}{}{%
         {{hash=81f624595e5c11e896bb9c2580228c67}{%
@@ -1578,6 +2808,68 @@
       \verb{url}
       \verb https://doi.org/10.1007/978-3-662-58780-5
       \endverb
+    \endentry
+    \entry{jaikumar1984}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6519065a81feabd2d21664975a634509}{%
+           family={Jaikumar},
+           familyi={J\bibinitperiod},
+           given={Ramchandran},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business School}%
+      }
+      \strng{namehash}{6519065a81feabd2d21664975a634509}
+      \strng{fullhash}{6519065a81feabd2d21664975a634509}
+      \strng{bibnamehash}{6519065a81feabd2d21664975a634509}
+      \strng{authorbibnamehash}{6519065a81feabd2d21664975a634509}
+      \strng{authornamehash}{6519065a81feabd2d21664975a634509}
+      \strng{authorfullhash}{6519065a81feabd2d21664975a634509}
+      \field{extraname}{1}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{number}{WP No. 1-784-07}
+      \field{title}{Flexible Manufacturing Systems: A Managerial Perspective}
+      \field{year}{1984}
+    \endentry
+    \entry{jaikumar1986}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6519065a81feabd2d21664975a634509}{%
+           family={Jaikumar},
+           familyi={J\bibinitperiod},
+           given={Ramchandran},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Graduate School of Business Administration}%
+      }
+      \strng{namehash}{6519065a81feabd2d21664975a634509}
+      \strng{fullhash}{6519065a81feabd2d21664975a634509}
+      \strng{bibnamehash}{6519065a81feabd2d21664975a634509}
+      \strng{authorbibnamehash}{6519065a81feabd2d21664975a634509}
+      \strng{authornamehash}{6519065a81feabd2d21664975a634509}
+      \strng{authorfullhash}{6519065a81feabd2d21664975a634509}
+      \field{extraname}{2}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0017-8012}
+      \field{journaltitle}{Harvard Bus. Rev.}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{Postindustrial Manufacturing}
+      \field{volume}{64}
+      \field{year}{1986}
+      \field{pages}{69\bibrangedash 76}
+      \range{pages}{8}
     \endentry
     \entry{Jakoby2018}{incollection}{}
       \name{author}{1}{}{%
@@ -1655,6 +2947,43 @@
       \field{series}{Grundstudium Betriebswirtschaftslehre}
       \field{title}{Produktionswirtschaft: eine Einf{ü}hrung mit Anwendungen und Kontrollfragen; mit Tabellen}
       \field{year}{1999}
+    \endentry
+    \entry{Jeske2011ErfolgsfaktorF}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c0d252e2283deda2b942e39a7820d16c}{%
+           family={Jeske},
+           familyi={J\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9e439fb81d435cfb3e5ee9bc0c92a445}{%
+           family={Starke},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9110c600b5f2cd1b469a156262fe8a74}{%
+           family={Garrel},
+           familyi={G\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ab4cf24e7299e074d0f30007286f83e}
+      \strng{fullhash}{6ab4cf24e7299e074d0f30007286f83e}
+      \strng{bibnamehash}{6ab4cf24e7299e074d0f30007286f83e}
+      \strng{authorbibnamehash}{6ab4cf24e7299e074d0f30007286f83e}
+      \strng{authornamehash}{6ab4cf24e7299e074d0f30007286f83e}
+      \strng{authorfullhash}{6ab4cf24e7299e074d0f30007286f83e}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Engineering}
+      \field{month}{1}
+      \field{title}{Erfolgsfaktor Flexibilit{ä}t - Ergebnisse einer deutschlandweiten Unternehmensbefragung}
+      \field{year}{2011}
+      \field{pages}{20\bibrangedash 23}
+      \range{pages}{4}
     \endentry
     \entry{Jost1993}{book}{}
       \name{author}{1}{}{%
@@ -2134,6 +3463,39 @@
       \verb 10.1007/978-3-662-45863-1
       \endverb
     \endentry
+    \entry{KUMAR1987}{article}{}
+      \name{author}{1}{}{%
+        {{hash=08a43e8ef8e3a2d464e9e8800f2ab3c9}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vinod},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informa {UK} Limited}%
+      }
+      \strng{namehash}{08a43e8ef8e3a2d464e9e8800f2ab3c9}
+      \strng{fullhash}{08a43e8ef8e3a2d464e9e8800f2ab3c9}
+      \strng{bibnamehash}{08a43e8ef8e3a2d464e9e8800f2ab3c9}
+      \strng{authorbibnamehash}{08a43e8ef8e3a2d464e9e8800f2ab3c9}
+      \strng{authornamehash}{08a43e8ef8e3a2d464e9e8800f2ab3c9}
+      \strng{authorfullhash}{08a43e8ef8e3a2d464e9e8800f2ab3c9}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Production Research}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{Entropic measures of manufacturing flexibility}
+      \field{volume}{25}
+      \field{year}{1987}
+      \field{pages}{957\bibrangedash 966}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/00207548708919888
+      \endverb
+    \endentry
     \entry{kunz2007bsc}{incollection}{}
       \name{author}{2}{}{%
         {{hash=9a8f3acc349a5596a09f8e2c040c6909}{%
@@ -2161,6 +3523,34 @@
       \field{labelnamesource}{author}
       \field{booktitle}{Handwörterbuch Unternehmensrechnung und Controlling}
       \field{series}{Enzyklopädie der Betriebswirtschaftslehre}
+      \field{year}{2002}
+    \endentry
+    \entry{kunz2002}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=2efb1fbfcef446c77c43911eae55d4af}{%
+           family={Kunz},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {St. Gallen Universität}%
+      }
+      \list{location}{1}{%
+        {Bamberg}%
+      }
+      \strng{namehash}{2efb1fbfcef446c77c43911eae55d4af}
+      \strng{fullhash}{2efb1fbfcef446c77c43911eae55d4af}
+      \strng{bibnamehash}{2efb1fbfcef446c77c43911eae55d4af}
+      \strng{authorbibnamehash}{2efb1fbfcef446c77c43911eae55d4af}
+      \strng{authornamehash}{2efb1fbfcef446c77c43911eae55d4af}
+      \strng{authorfullhash}{2efb1fbfcef446c77c43911eae55d4af}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strategieentwicklung bei Diskontinuit{ä}ten}
+      \field{type}{phdthesis}
       \field{year}{2002}
     \endentry
     \entry{kuenzel2018}{article}{}
@@ -2410,6 +3800,28 @@
       \verb 10.1007/978-3-8349-3736-0_2
       \endverb
     \endentry
+    \entry{lam1988measurement}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0c32e9b2812ea31d055aca90c85d71db}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c32e9b2812ea31d055aca90c85d71db}
+      \strng{fullhash}{0c32e9b2812ea31d055aca90c85d71db}
+      \strng{bibnamehash}{0c32e9b2812ea31d055aca90c85d71db}
+      \strng{authorbibnamehash}{0c32e9b2812ea31d055aca90c85d71db}
+      \strng{authornamehash}{0c32e9b2812ea31d055aca90c85d71db}
+      \strng{authorfullhash}{0c32e9b2812ea31d055aca90c85d71db}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Team Project, University of Toronto, Toronto, Canada}
+      \field{title}{Measurement of a Flexible Manufacturing System}
+      \field{year}{1988}
+    \endentry
     \entry{lange1988}{article}{}
       \name{author}{1}{}{%
         {{hash=e68beeb96b34fa2bf948d704fcb7a3fb}{%
@@ -2465,6 +3877,42 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-3-8349-8349-7
+      \endverb
+    \endentry
+    \entry{lasserre1985}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fa19fbfbc2f1e230efb53930a56d0877}{%
+           family={{Lasserre}},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c330638c42360a5a1ebccfdb8cd7c02b}{%
+           family={{Roubellat}},
+           familyi={R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d860cf2037514989a61f6c6b89cbae35}
+      \strng{fullhash}{d860cf2037514989a61f6c6b89cbae35}
+      \strng{bibnamehash}{d860cf2037514989a61f6c6b89cbae35}
+      \strng{authorbibnamehash}{d860cf2037514989a61f6c6b89cbae35}
+      \strng{authornamehash}{d860cf2037514989a61f6c6b89cbae35}
+      \strng{authorfullhash}{d860cf2037514989a61f6c6b89cbae35}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2334-3303}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Measuring decision flexibility in production planning}
+      \field{volume}{30}
+      \field{year}{1985}
+      \field{pages}{447\bibrangedash 452}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/TAC.1985.1103984
       \endverb
     \endentry
     \entry{Leimbck2015}{incollection}{}
@@ -2719,6 +4167,107 @@
       \verb https://doi.org/10.1007/978-3-662-60760-2_8
       \endverb
     \endentry
+    \entry{Mahlmann1976}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=2e693eb38f3648c7af460a484650b0b4}{%
+           family={Mahlmann},
+           familyi={M\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universität Göttingen}%
+      }
+      \strng{namehash}{2e693eb38f3648c7af460a484650b0b4}
+      \strng{fullhash}{2e693eb38f3648c7af460a484650b0b4}
+      \strng{bibnamehash}{2e693eb38f3648c7af460a484650b0b4}
+      \strng{authorbibnamehash}{2e693eb38f3648c7af460a484650b0b4}
+      \strng{authornamehash}{2e693eb38f3648c7af460a484650b0b4}
+      \strng{authorfullhash}{2e693eb38f3648c7af460a484650b0b4}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Anpassung und Anpassungsfähigkeit der betrieblichen Planung}
+      \field{type}{phdthesis}
+      \field{year}{1976}
+    \endentry
+    \entry{Mandelbaum1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a03350c4d4bd53476bbc33329cea4afd}{%
+           family={Mandelbaum},
+           familyi={M\bibinitperiod},
+           given={Marvin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=358eba40ea9fc0325b70b99172a0685f}{%
+           family={Buzacott},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{8d189067ffaa048e68f7f2f5687ec4d6}
+      \strng{fullhash}{8d189067ffaa048e68f7f2f5687ec4d6}
+      \strng{bibnamehash}{8d189067ffaa048e68f7f2f5687ec4d6}
+      \strng{authorbibnamehash}{8d189067ffaa048e68f7f2f5687ec4d6}
+      \strng{authornamehash}{8d189067ffaa048e68f7f2f5687ec4d6}
+      \strng{authorfullhash}{8d189067ffaa048e68f7f2f5687ec4d6}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Flexibility and decision making}
+      \field{volume}{44}
+      \field{year}{1990}
+      \field{pages}{17\bibrangedash 27}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/0377-2217(90)90310-8
+      \endverb
+    \endentry
+    \entry{Marschak1962}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5e972ea5121eebd95b31daa31f104715}{%
+           family={Marschak},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ca4c4817d9bd17e827b704beba9eec47}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{0b7b4f37558c6f43f376d7b3a5ecf743}
+      \strng{fullhash}{0b7b4f37558c6f43f376d7b3a5ecf743}
+      \strng{bibnamehash}{0b7b4f37558c6f43f376d7b3a5ecf743}
+      \strng{authorbibnamehash}{0b7b4f37558c6f43f376d7b3a5ecf743}
+      \strng{authornamehash}{0b7b4f37558c6f43f376d7b3a5ecf743}
+      \strng{authorfullhash}{0b7b4f37558c6f43f376d7b3a5ecf743}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Metroeconomica}
+      \field{month}{2}
+      \field{number}{1-2-3}
+      \field{title}{{FLEXIBILITY}, {UNCERTAINTY}, {AND} {ECONOMIC} {THEORY}}
+      \field{volume}{14}
+      \field{year}{1962}
+      \field{pages}{42\bibrangedash 58}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1111/j.1467-999x.1962.tb00293.x
+      \endverb
+    \endentry
     \entry{mathar2009unternehmenslogistik}{book}{}
       \name{author}{2}{}{%
         {{hash=bab8675954c2ce9a0dbfd1e06e7357ae}{%
@@ -2749,6 +4298,63 @@
       \field{title}{Unternehmenslogistik: Grundlagen f{ü}r die betriebliche Praxis mit zahlreichen Beispielen, Repetitionsfragen und Antworten}
       \field{year}{2009}
     \endentry
+    \entry{Meffert1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=2c8ebd878ccfeea183b2ff1b5c56e4e2}{%
+           family={Meffert},
+           familyi={M\bibinitperiod},
+           given={Heribert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{2c8ebd878ccfeea183b2ff1b5c56e4e2}
+      \strng{fullhash}{2c8ebd878ccfeea183b2ff1b5c56e4e2}
+      \strng{bibnamehash}{2c8ebd878ccfeea183b2ff1b5c56e4e2}
+      \strng{authorbibnamehash}{2c8ebd878ccfeea183b2ff1b5c56e4e2}
+      \strng{authornamehash}{2c8ebd878ccfeea183b2ff1b5c56e4e2}
+      \strng{authorfullhash}{2c8ebd878ccfeea183b2ff1b5c56e4e2}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Marktorientierte Unternehmensführung im Wandel}
+      \field{title}{Grö{ß}ere Flexibilität als Unternehmungskonzept}
+      \field{year}{1999}
+      \field{pages}{467\bibrangedash 488}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/978-3-322-84425-5_20
+      \endverb
+    \endentry
+    \entry{MeierBarthold1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c0851f323612b832ad476896c3bdaa79}{%
+           family={Meier-Barthold},
+           familyi={M\bibinithyphendelim B\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitätsverlag}%
+      }
+      \strng{namehash}{c0851f323612b832ad476896c3bdaa79}
+      \strng{fullhash}{c0851f323612b832ad476896c3bdaa79}
+      \strng{bibnamehash}{c0851f323612b832ad476896c3bdaa79}
+      \strng{authorbibnamehash}{c0851f323612b832ad476896c3bdaa79}
+      \strng{authornamehash}{c0851f323612b832ad476896c3bdaa79}
+      \strng{authorfullhash}{c0851f323612b832ad476896c3bdaa79}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Flexibilität in der Material-Logistik}
+      \field{year}{1999}
+      \verb{doi}
+      \verb 10.1007/978-3-322-95260-8
+      \endverb
+    \endentry
     \entry{meyer1989kunden}{book}{}
       \name{author}{1}{}{%
         {{hash=baed1757a9835cd71669f8a3c2303d2f}{%
@@ -2773,6 +4379,32 @@
       \field{isbn}{9783820205275}
       \field{title}{Kunden-Bilanz-Analyse der Kreditinstitute: eine Einf{ü}hrung in die Jahresabschluss-Analyse und in die Analyse-Praxis der Kreditinstitute}
       \field{year}{1989}
+    \endentry
+    \entry{mirschel2007messung}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9ad975c9d332d7abcc9c225cb8ea8fa5}{%
+           family={Mirschel},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Logos-Verlag}%
+      }
+      \strng{namehash}{9ad975c9d332d7abcc9c225cb8ea8fa5}
+      \strng{fullhash}{9ad975c9d332d7abcc9c225cb8ea8fa5}
+      \strng{bibnamehash}{9ad975c9d332d7abcc9c225cb8ea8fa5}
+      \strng{authorbibnamehash}{9ad975c9d332d7abcc9c225cb8ea8fa5}
+      \strng{authornamehash}{9ad975c9d332d7abcc9c225cb8ea8fa5}
+      \strng{authorfullhash}{9ad975c9d332d7abcc9c225cb8ea8fa5}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783832514679}
+      \field{series}{Schriften zum Konvergenzmanagement}
+      \field{title}{Messung und Bewertung von Produktionsflexibilit{ä}tspotentialen in geschlossenen und offenen Entscheidungsfeldern}
+      \field{year}{2007}
     \endentry
     \entry{mohrmann2007facility}{book}{}
       \name{author}{1}{}{%
@@ -2830,6 +4462,33 @@
       \field{year}{2016}
       \field{pages}{580\bibrangedash 593}
       \range{pages}{14}
+    \endentry
+    \entry{Nagel2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7a77375e9175f31beeaac4e1d3271b7a}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Michaela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitätsverlag}%
+      }
+      \strng{namehash}{7a77375e9175f31beeaac4e1d3271b7a}
+      \strng{fullhash}{7a77375e9175f31beeaac4e1d3271b7a}
+      \strng{bibnamehash}{7a77375e9175f31beeaac4e1d3271b7a}
+      \strng{authorbibnamehash}{7a77375e9175f31beeaac4e1d3271b7a}
+      \strng{authornamehash}{7a77375e9175f31beeaac4e1d3271b7a}
+      \strng{authorfullhash}{7a77375e9175f31beeaac4e1d3271b7a}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Flexibilitätsmanagement - Ein systemdynamischer Ansatz zur quantitativen Bewertung von Produktionsflexibilität}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.1007/978-3-322-81099-1
+      \endverb
     \endentry
     \entry{nebl2007produktionswirtschaft}{book}{}
       \name{author}{1}{}{%
@@ -2941,6 +4600,39 @@
       \field{title}{Controlling in einer ,,Industrie 4.0'' -- Neue M{ö}glichkeiten und neue Grenzen f{ü}r die Steuerung von Unternehmen}
       \field{year}{2017}
     \endentry
+    \entry{Oke2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=064b823dc45046e3b4c615af415e7eb0}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={Adegoke},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald}%
+      }
+      \strng{namehash}{064b823dc45046e3b4c615af415e7eb0}
+      \strng{fullhash}{064b823dc45046e3b4c615af415e7eb0}
+      \strng{bibnamehash}{064b823dc45046e3b4c615af415e7eb0}
+      \strng{authorbibnamehash}{064b823dc45046e3b4c615af415e7eb0}
+      \strng{authornamehash}{064b823dc45046e3b4c615af415e7eb0}
+      \strng{authorfullhash}{064b823dc45046e3b4c615af415e7eb0}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Operations {\&} Production Management}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{A framework for analysing manufacturing flexibility}
+      \field{volume}{25}
+      \field{year}{2005}
+      \field{pages}{973\bibrangedash 996}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1108/01443570510619482
+      \endverb
+    \endentry
     \entry{ossadnik2009controlling}{book}{}
       \name{author}{1}{}{%
         {{hash=3259ccecda2d48acf9e0cc4d46f7d34b}{%
@@ -2969,6 +4661,58 @@
       \verb{doi}
       \verb https://books.google.de/books?id=ln4aMAAACAAJ
       \endverb
+    \endentry
+    \entry{ost1993}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=f58a5016d711bddd442ff6191629b9cd}{%
+           family={Ost},
+           familyi={O\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Technische Universität Hamburg}%
+      }
+      \strng{namehash}{f58a5016d711bddd442ff6191629b9cd}
+      \strng{fullhash}{f58a5016d711bddd442ff6191629b9cd}
+      \strng{bibnamehash}{f58a5016d711bddd442ff6191629b9cd}
+      \strng{authorbibnamehash}{f58a5016d711bddd442ff6191629b9cd}
+      \strng{authornamehash}{f58a5016d711bddd442ff6191629b9cd}
+      \strng{authorfullhash}{f58a5016d711bddd442ff6191629b9cd}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Entwicklung eines Verfahrens zur differenzierten Flexibilitätsanalyse und - bewertung}
+      \field{type}{phdthesis}
+      \field{year}{1993}
+    \endentry
+    \entry{pauli1987}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66102d6d92d1a744d014235215fca046}{%
+           family={Pauli},
+           familyi={P\bibinitperiod},
+           given={Jürg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Zürich}%
+      }
+      \list{publisher}{1}{%
+        {Industrielle Organisation}%
+      }
+      \strng{namehash}{66102d6d92d1a744d014235215fca046}
+      \strng{fullhash}{66102d6d92d1a744d014235215fca046}
+      \strng{bibnamehash}{66102d6d92d1a744d014235215fca046}
+      \strng{authorbibnamehash}{66102d6d92d1a744d014235215fca046}
+      \strng{authornamehash}{66102d6d92d1a744d014235215fca046}
+      \strng{authorfullhash}{66102d6d92d1a744d014235215fca046}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3857439122}
+      \field{title}{So wird Ihr Unternehmen flexibel: Leitlinien und Massnahmen}
     \endentry
     \entry{Pfohl2018}{book}{}
       \name{author}{1}{}{%
@@ -3001,6 +4745,34 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-3-662-56228-4
+      \endverb
+    \endentry
+    \entry{Pibernik2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1ff72b57a4234250c2b6cf60ee476e99}{%
+           family={Pibernik},
+           familyi={P\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitätsverlag}%
+      }
+      \strng{namehash}{1ff72b57a4234250c2b6cf60ee476e99}
+      \strng{fullhash}{1ff72b57a4234250c2b6cf60ee476e99}
+      \strng{bibnamehash}{1ff72b57a4234250c2b6cf60ee476e99}
+      \strng{authorbibnamehash}{1ff72b57a4234250c2b6cf60ee476e99}
+      \strng{authornamehash}{1ff72b57a4234250c2b6cf60ee476e99}
+      \strng{authorfullhash}{1ff72b57a4234250c2b6cf60ee476e99}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Flexibilitätsplanung in Wertschöpfungsnetzwerken}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1007/978-3-322-91453-8
       \endverb
     \endentry
     \entry{radermacher2009}{article}{}
@@ -3036,6 +4808,39 @@
       \verb{doi}
       \verb https://www.wiso-net.de/document/HMD__HMD20091026521829152114331811182
       \endverb
+    \endentry
+    \entry{ranta1988interactive}{article}{}
+      \name{author}{2}{}{%
+        {{hash=32f9c0d856b934a915818f4277a61a06}{%
+           family={Ranta},
+           familyi={R\bibinitperiod},
+           given={Jukka},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bbe3b3d6cbf250f65f984c0a888dceb0}{%
+           family={Alabyan},
+           familyi={A\bibinitperiod},
+           given={AK},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Laxenburg}%
+      }
+      \list{publisher}{1}{%
+        {IIASA}%
+      }
+      \strng{namehash}{a970e968728063322f2dd9cdf804b6ae}
+      \strng{fullhash}{a970e968728063322f2dd9cdf804b6ae}
+      \strng{bibnamehash}{a970e968728063322f2dd9cdf804b6ae}
+      \strng{authorbibnamehash}{a970e968728063322f2dd9cdf804b6ae}
+      \strng{authornamehash}{a970e968728063322f2dd9cdf804b6ae}
+      \strng{authorfullhash}{a970e968728063322f2dd9cdf804b6ae}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{WP-88-098}
+      \field{title}{Interactive analysis of FMS productivity and flexibility}
+      \field{year}{1988}
     \endentry
     \entry{ratzer2009}{article}{}
       \name{author}{1}{}{%
@@ -3669,6 +5474,49 @@
       \field{pages}{39\bibrangedash 56}
       \range{pages}{18}
     \endentry
+    \entry{schneeweiss1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=88629459c016a2bbedfcc2ec85512ea8}{%
+           family={Schneeweiß},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f56e0243511ac7b659fa8a67d2c05c7b}{%
+           family={Kühn},
+           familyi={K\bibinitperiod},
+           given={Martin\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{88629459c016a2bbedfcc2ec85512ea8}
+      \strng{fullhash}{88629459c016a2bbedfcc2ec85512ea8}
+      \strng{bibnamehash}{88629459c016a2bbedfcc2ec85512ea8}
+      \strng{authorbibnamehash}{88629459c016a2bbedfcc2ec85512ea8}
+      \strng{authornamehash}{88629459c016a2bbedfcc2ec85512ea8}
+      \strng{authorfullhash}{88629459c016a2bbedfcc2ec85512ea8}
+      \strng{editorbibnamehash}{f56e0243511ac7b659fa8a67d2c05c7b}
+      \strng{editornamehash}{f56e0243511ac7b659fa8a67d2c05c7b}
+      \strng{editorfullhash}{f56e0243511ac7b659fa8a67d2c05c7b}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0341-2687}
+      \field{journaltitle}{Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung : ZfbF}
+      \field{number}{5}
+      \field{title}{Zur Definition und gegenseitigen Abgrenzung der Begriffe Flexibilität, Elastizität und Robustheit}
+      \field{volume}{42}
+      \field{year}{1990}
+      \field{pages}{378\bibrangedash 395}
+      \range{pages}{18}
+    \endentry
     \entry{schnell2012kennzahlen}{incollection}{}
       \name{author}{1}{}{%
         {{hash=534c25a964eeb99913bcb796baab9aab}{%
@@ -4115,6 +5963,32 @@
       \field{title}{Systeme der Kosten- und Erl{ö}srechnung}
       \field{year}{2011}
     \endentry
+    \entry{seebacher2013ansatze}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0191e7945fb25cd186e8d4f33e3ca31f}{%
+           family={Seebacher},
+           familyi={S\bibinitperiod},
+           given={Gottfried},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Logos Verlag Berlin GmbH}%
+      }
+      \strng{namehash}{0191e7945fb25cd186e8d4f33e3ca31f}
+      \strng{fullhash}{0191e7945fb25cd186e8d4f33e3ca31f}
+      \strng{bibnamehash}{0191e7945fb25cd186e8d4f33e3ca31f}
+      \strng{authorbibnamehash}{0191e7945fb25cd186e8d4f33e3ca31f}
+      \strng{authornamehash}{0191e7945fb25cd186e8d4f33e3ca31f}
+      \strng{authorfullhash}{0191e7945fb25cd186e8d4f33e3ca31f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Anwendungsorientierte Beiträge zum industriellen Management}
+      \field{title}{Ans{ä}tze zur Beurteilung der produktionswirtschaftlichen Flexibilit{ä}t}
+      \field{volume}{4}
+      \field{year}{2013}
+    \endentry
     \entry{Seelbach1975}{incollection}{}
       \name{author}{1}{}{%
         {{hash=263d72c31727a95cb5a7dd1e23d78bd5}{%
@@ -4149,6 +6023,45 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-3-662-41497-2_4
+      \endverb
+    \endentry
+    \entry{Sethi1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=55a6dfbb080527fce80d31a42a521483}{%
+           family={Sethi},
+           familyi={S\bibinitperiod},
+           given={Andrea\bibnamedelima Krasa},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=61b09d37d8c1dc9d9d3e6ebeddf7155a}{%
+           family={Sethi},
+           familyi={S\bibinitperiod},
+           given={Suresh\bibnamedelima Pal},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{f2626cdc1435a755583a09d0f6f71a14}
+      \strng{fullhash}{f2626cdc1435a755583a09d0f6f71a14}
+      \strng{bibnamehash}{f2626cdc1435a755583a09d0f6f71a14}
+      \strng{authorbibnamehash}{f2626cdc1435a755583a09d0f6f71a14}
+      \strng{authornamehash}{f2626cdc1435a755583a09d0f6f71a14}
+      \strng{authorfullhash}{f2626cdc1435a755583a09d0f6f71a14}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Flexible Manufacturing Systems}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Flexibility in manufacturing: A survey}
+      \field{volume}{2}
+      \field{year}{1990}
+      \field{pages}{289\bibrangedash 328}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1007/bf00186471
       \endverb
     \endentry
     \entry{siepermann2018}{article}{}
@@ -4297,6 +6210,40 @@
       \field{pages}{221\bibrangedash 236}
       \range{pages}{16}
     \endentry
+    \entry{son1987economic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=496b3b193edf4d41c3c2573a2789b64a}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Young\bibnamedelima Kyu},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3308dc03e8304c2162dcc9a952a7d068}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Chan\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8e88b4cdaa9238a4ad8bc8d10809e1f9}
+      \strng{fullhash}{8e88b4cdaa9238a4ad8bc8d10809e1f9}
+      \strng{bibnamehash}{8e88b4cdaa9238a4ad8bc8d10809e1f9}
+      \strng{authorbibnamehash}{8e88b4cdaa9238a4ad8bc8d10809e1f9}
+      \strng{authornamehash}{8e88b4cdaa9238a4ad8bc8d10809e1f9}
+      \strng{authorfullhash}{8e88b4cdaa9238a4ad8bc8d10809e1f9}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Manufacturing systems}
+      \field{number}{3}
+      \field{title}{Economic measure of productivity, quality and flexibility in advanced manufacturing systems}
+      \field{volume}{6}
+      \field{year}{1987}
+      \field{pages}{193\bibrangedash 207}
+      \range{pages}{15}
+    \endentry
     \entry{Stark1987}{book}{}
       \name{author}{1}{}{%
         {{hash=a4c1b03103884b719f79ad986aa727e1}{%
@@ -4323,6 +6270,37 @@
       \verb{doi}
       \verb 10.1007/978-3-663-13776-4
       \endverb
+    \endentry
+    \entry{stecke1984variations}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9a1a886894082a08666dfbada0e58925}{%
+           family={Stecke},
+           familyi={S\bibinitperiod},
+           given={Kathryn\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=a271cdbf88abca3dc320babcdfd5b460}{%
+           family={Browne},
+           familyi={B\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Michigan}%
+      }
+      \strng{namehash}{a56d09e882805aa78313067af11f6e62}
+      \strng{fullhash}{a56d09e882805aa78313067af11f6e62}
+      \strng{bibnamehash}{a56d09e882805aa78313067af11f6e62}
+      \strng{authorbibnamehash}{a56d09e882805aa78313067af11f6e62}
+      \strng{authornamehash}{a56d09e882805aa78313067af11f6e62}
+      \strng{authorfullhash}{a56d09e882805aa78313067af11f6e62}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{number}{WP No. 392}
+      \field{title}{Variations in flexible manufacturing systems according to the relevant types of automated materials handling}
+      \field{year}{1984}
     \endentry
     \entry{syska2006}{incollection}{}
       \name{author}{1}{}{%
@@ -4417,6 +6395,95 @@
       \field{pages}{10\bibrangedash 14}
       \range{pages}{5}
     \endentry
+    \entry{trigeorgis}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0143de553800610e9677c238f9fe19d3}{%
+           family={Trigeorgis},
+           familyi={T\bibinitperiod},
+           given={Lenos},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stamford, Conn.}%
+      }
+      \list{publisher}{1}{%
+        {JAI Press}%
+      }
+      \strng{namehash}{0143de553800610e9677c238f9fe19d3}
+      \strng{fullhash}{0143de553800610e9677c238f9fe19d3}
+      \strng{bibnamehash}{0143de553800610e9677c238f9fe19d3}
+      \strng{authorbibnamehash}{0143de553800610e9677c238f9fe19d3}
+      \strng{authornamehash}{0143de553800610e9677c238f9fe19d3}
+      \strng{authorfullhash}{0143de553800610e9677c238f9fe19d3}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1048-1559}
+      \field{journaltitle}{Advances in futures and options research : a research annual}
+      \field{title}{A real-options application in natural-resource investments}
+      \field{volume}{4}
+      \field{year}{1990}
+      \field{pages}{153\bibrangedash 164}
+      \range{pages}{12}
+    \endentry
+    \entry{Upton1997ProcessRI}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eb10c4d9a6019c645b458aaf035bb613}{%
+           family={Upton},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb10c4d9a6019c645b458aaf035bb613}
+      \strng{fullhash}{eb10c4d9a6019c645b458aaf035bb613}
+      \strng{bibnamehash}{eb10c4d9a6019c645b458aaf035bb613}
+      \strng{authorbibnamehash}{eb10c4d9a6019c645b458aaf035bb613}
+      \strng{authornamehash}{eb10c4d9a6019c645b458aaf035bb613}
+      \strng{authorfullhash}{eb10c4d9a6019c645b458aaf035bb613}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Science}
+      \field{month}{8}
+      \field{number}{43}
+      \field{title}{Process range in manufacturing: an empirical study of flexibility}
+      \field{year}{1997}
+      \field{pages}{1079\bibrangedash 1092}
+      \range{pages}{14}
+    \endentry
+    \entry{upton1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2ca3f01c768e704ccd850713f22b1940}{%
+           family={Upton},
+           familyi={U\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ca3f01c768e704ccd850713f22b1940}
+      \strng{fullhash}{2ca3f01c768e704ccd850713f22b1940}
+      \strng{bibnamehash}{2ca3f01c768e704ccd850713f22b1940}
+      \strng{authorbibnamehash}{2ca3f01c768e704ccd850713f22b1940}
+      \strng{authornamehash}{2ca3f01c768e704ccd850713f22b1940}
+      \strng{authorfullhash}{2ca3f01c768e704ccd850713f22b1940}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{California Management Review}
+      \field{number}{2}
+      \field{title}{The Management of Manufacturing Flexibility}
+      \field{volume}{36}
+      \field{year}{1994}
+      \field{pages}{72\bibrangedash 89}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.2307/41165745
+      \endverb
+    \endentry
     \entry{vahrenkamp2008produktionsmanagement}{book}{}
       \name{author}{1}{}{%
         {{hash=8dc2f25b38e0a27b81f9229dc7fa1811}{%
@@ -4446,6 +6513,104 @@
       \endverb
       \verb{url}
       \verb https://books.google.de/books?id=uY-4K0-ddaIC
+      \endverb
+    \endentry
+    \entry{Voigt2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=49e1691fee50751bc54b155b8e205769}{%
+           family={Voigt},
+           familyi={V\bibinitperiod},
+           given={Kai-Ingo},
+           giveni={K\bibinithyphendelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{49e1691fee50751bc54b155b8e205769}
+      \strng{fullhash}{49e1691fee50751bc54b155b8e205769}
+      \strng{bibnamehash}{49e1691fee50751bc54b155b8e205769}
+      \strng{authorbibnamehash}{49e1691fee50751bc54b155b8e205769}
+      \strng{authornamehash}{49e1691fee50751bc54b155b8e205769}
+      \strng{authorfullhash}{49e1691fee50751bc54b155b8e205769}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Business Economics}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Zeit und Zeitgeist in der Betriebswirtschaftslehre {---} dargestellt am Beispiel der betriebswirtschaftlichen Flexibilit\"{a}tsdiskussion}
+      \field{volume}{77}
+      \field{year}{2007}
+      \field{pages}{595\bibrangedash 613}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s11573-007-0045-0
+      \endverb
+    \endentry
+    \entry{voigt2005begriffsbestimmung}{article}{}
+      \name{author}{2}{}{%
+        {{hash=49e1691fee50751bc54b155b8e205769}{%
+           family={Voigt},
+           familyi={V\bibinitperiod},
+           given={Kai-Ingo},
+           giveni={K\bibinithyphendelim I\bibinitperiod}}}%
+        {{hash=40ec7239e9d7510800a2fb1869262279}{%
+           family={Saatmann},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc53b335e1e51cc8583a420349c933a9}
+      \strng{fullhash}{dc53b335e1e51cc8583a420349c933a9}
+      \strng{bibnamehash}{dc53b335e1e51cc8583a420349c933a9}
+      \strng{authorbibnamehash}{dc53b335e1e51cc8583a420349c933a9}
+      \strng{authornamehash}{dc53b335e1e51cc8583a420349c933a9}
+      \strng{authorfullhash}{dc53b335e1e51cc8583a420349c933a9}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arbeitspapier FlexLog}
+      \field{title}{Begriffsbestimmung Flexibilit{ä}t und Adaptivit{ä}t}
+      \field{volume}{1}
+      \field{year}{2005}
+      \field{pages}{2005}
+      \range{pages}{1}
+    \endentry
+    \entry{vokurka}{article}{}
+      \name{author}{2}{}{%
+        {{hash=621daccd63f924e4cbd6efe8eefd38f0}{%
+           family={Vokurka},
+           familyi={V\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9426865bffbdc8affdcb7a1ba1cbbf8f}{%
+           family={O'Leary-Kelly},
+           familyi={O\bibinithyphendelim K\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cc2c62c82f1f69c92121b979ab6f105}
+      \strng{fullhash}{3cc2c62c82f1f69c92121b979ab6f105}
+      \strng{bibnamehash}{3cc2c62c82f1f69c92121b979ab6f105}
+      \strng{authorbibnamehash}{3cc2c62c82f1f69c92121b979ab6f105}
+      \strng{authornamehash}{3cc2c62c82f1f69c92121b979ab6f105}
+      \strng{authorfullhash}{3cc2c62c82f1f69c92121b979ab6f105}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Operations Management}
+      \field{month}{06}
+      \field{title}{Review of empirical research on manufacturing flexibility}
+      \field{volume}{18}
+      \field{year}{2000}
+      \field{pages}{485\bibrangedash 501}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/S0272-6963(00)00031-0
       \endverb
     \endentry
     \entry{weber2005internationalisierung}{book}{}
@@ -4616,6 +6781,38 @@
       \field{pages}{2901\bibrangedash 2905}
       \range{pages}{5}
     \endentry
+    \entry{westkaemper2009}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=d0d9abee6aa485cf4fcc6876571e1d7a}{%
+           family={Westkämper},
+           familyi={W\bibinitperiod},
+           given={Engelbert},
+           giveni={E\bibinitperiod}}}%
+        {{hash=bbff0ceb0be931af3823c4656850d092}{%
+           family={Zahn},
+           familyi={Z\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{89b35186216d02ca5b72d5653ec12ac3}
+      \strng{fullhash}{89b35186216d02ca5b72d5653ec12ac3}
+      \strng{bibnamehash}{89b35186216d02ca5b72d5653ec12ac3}
+      \strng{editorbibnamehash}{89b35186216d02ca5b72d5653ec12ac3}
+      \strng{editornamehash}{89b35186216d02ca5b72d5653ec12ac3}
+      \strng{editorfullhash}{89b35186216d02ca5b72d5653ec12ac3}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Wandlungsfähige Produktionsunternehmen}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1007/978-3-540-68890-7
+      \endverb
+    \endentry
     \entry{Wiedenhofer2016}{article}{}
       \name{author}{1}{}{%
         {{hash=c3063f7b2adcb64e2874d6a53b95ed83}{%
@@ -4683,6 +6880,45 @@
       \verb https://doi.org/10.1007/978-3-642-56286-0
       \endverb
     \endentry
+    \entry{Wiendahl2009}{book}{}
+      \name{author}{3}{}{%
+        {{hash=57aff481f65f5ed63af62ba7da99e782}{%
+           family={Wiendahl},
+           familyi={W\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=79268b890259d1e9e6c008e994bed33d}{%
+           family={Reichardt},
+           familyi={R\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=97239a8457bce184acf5602825b618da}{%
+           family={Nyhuis},
+           familyi={N\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Carl Hanser Verlag {GmbH} {\&} Co. {KG}}%
+      }
+      \strng{namehash}{32597e5513047e56e3c24e44760928f2}
+      \strng{fullhash}{32597e5513047e56e3c24e44760928f2}
+      \strng{bibnamehash}{32597e5513047e56e3c24e44760928f2}
+      \strng{authorbibnamehash}{32597e5513047e56e3c24e44760928f2}
+      \strng{authornamehash}{32597e5513047e56e3c24e44760928f2}
+      \strng{authorfullhash}{32597e5513047e56e3c24e44760928f2}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. Aufl.}
+      \field{month}{4}
+      \field{title}{Handbuch Fabrikplanung}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.3139/9783446437029
+      \endverb
+    \endentry
     \entry{klein2014marketing3}{incollection}{}
       \name{author}{1}{}{%
         {{hash=aa1c05aa59b04ac212288ef6b604b658}{%
@@ -4721,6 +6957,36 @@
       \field{year}{2014}
       \field{pages}{63\bibrangedash 80}
       \range{pages}{18}
+    \endentry
+    \entry{seebacher2011}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=32f3b4e672de372cd68d985c7984c364}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={Herwig},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0191e7945fb25cd186e8d4f33e3ca31f}{%
+           family={Seebacher},
+           familyi={S\bibinitperiod},
+           given={Gottfried},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d2c815c60647c056892286d85452165}
+      \strng{fullhash}{8d2c815c60647c056892286d85452165}
+      \strng{bibnamehash}{8d2c815c60647c056892286d85452165}
+      \strng{authorbibnamehash}{8d2c815c60647c056892286d85452165}
+      \strng{authornamehash}{8d2c815c60647c056892286d85452165}
+      \strng{authorfullhash}{8d2c815c60647c056892286d85452165}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-8441-0071}
+      \field{month}{1}
+      \field{title}{The Flexible Design of Supply Chains}
+      \field{year}{2011}
+      \field{pages}{213\bibrangedash 232}
+      \range{pages}{20}
     \endentry
     \entry{winkler2008}{article}{}
       \name{author}{2}{}{%
@@ -4794,6 +7060,33 @@
       \field{year}{2016}
       \verb{doi}
       \verb https://books.google.de/books?id=PW0LkAEACAAJ
+      \endverb
+    \endentry
+    \entry{Wolf1989}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3a440c76cf12b156a4ea49b4d61ce3cb}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{3a440c76cf12b156a4ea49b4d61ce3cb}
+      \strng{fullhash}{3a440c76cf12b156a4ea49b4d61ce3cb}
+      \strng{bibnamehash}{3a440c76cf12b156a4ea49b4d61ce3cb}
+      \strng{authorbibnamehash}{3a440c76cf12b156a4ea49b4d61ce3cb}
+      \strng{authornamehash}{3a440c76cf12b156a4ea49b4d61ce3cb}
+      \strng{authorfullhash}{3a440c76cf12b156a4ea49b4d61ce3cb}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Investitionsplanung zur Flexibilisierung der Produktion}
+      \field{year}{1989}
+      \verb{doi}
+      \verb 10.1007/978-3-322-90636-6
       \endverb
     \endentry
     \entry{zaepfel2010grundzuege}{book}{}
@@ -5030,6 +7323,7 @@
       \range{pages}{18}
     \endentry
   \enddatalist
+  \missing{seebacher2013ansaetze}
 \endrefsection
 \endinput
 
