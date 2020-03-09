@@ -878,6 +878,33 @@
       \verb https://doi.org/10.1007/978-3-8349-4007-0
       \endverb
     \endentry
+    \entry{Burmann2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3b8b87a1b745b6af46bdc4494f763162}{%
+           family={Burmann},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitätsverlag}%
+      }
+      \strng{namehash}{3b8b87a1b745b6af46bdc4494f763162}
+      \strng{fullhash}{3b8b87a1b745b6af46bdc4494f763162}
+      \strng{bibnamehash}{3b8b87a1b745b6af46bdc4494f763162}
+      \strng{authorbibnamehash}{3b8b87a1b745b6af46bdc4494f763162}
+      \strng{authornamehash}{3b8b87a1b745b6af46bdc4494f763162}
+      \strng{authorfullhash}{3b8b87a1b745b6af46bdc4494f763162}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strategische Flexibilität und Strategiewechsel als Determinanten des Unternehmenswertes}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.1007/978-3-322-81984-0
+      \endverb
+    \endentry
     \entry{buzacott1982}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=358eba40ea9fc0325b70b99172a0685f}{%
@@ -4430,6 +4457,54 @@
       \field{isbn}{9783833471124}
       \field{title}{Facility Management mithilfe der Balanced Scorecard neu denken}
       \field{year}{2007}
+    \endentry
+    \entry{Moos2010}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=e60f470fea7bd9c7b6298d6ac5cb8b39}{%
+           family={Moos},
+           familyi={M\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3f659053dfc204757bc6e92723c1c0c1}{%
+           family={Strohhecker},
+           familyi={S\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b3768a3eb64f539687d669e4baf49e00}{%
+           family={Gr{ö}{ß}ler},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{e60f470fea7bd9c7b6298d6ac5cb8b39}
+      \strng{fullhash}{e60f470fea7bd9c7b6298d6ac5cb8b39}
+      \strng{bibnamehash}{e60f470fea7bd9c7b6298d6ac5cb8b39}
+      \strng{authorbibnamehash}{e60f470fea7bd9c7b6298d6ac5cb8b39}
+      \strng{authornamehash}{e60f470fea7bd9c7b6298d6ac5cb8b39}
+      \strng{authorfullhash}{e60f470fea7bd9c7b6298d6ac5cb8b39}
+      \strng{editorbibnamehash}{b80423a034881a472f9226196f7ac4f6}
+      \strng{editornamehash}{b80423a034881a472f9226196f7ac4f6}
+      \strng{editorfullhash}{b80423a034881a472f9226196f7ac4f6}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Strategisches und operatives Produktionsmanagement: Empirie und Simulation}
+      \field{title}{Komplexit{ä}t, Flexibilit{ä}t und Erfolg als Herausforderungen marktorientierter Fertigungsstrategien}
+      \field{year}{2010}
+      \field{pages}{47\bibrangedash 69}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-8401-2_3
+      \endverb
     \endentry
     \entry{schroederHMD2016}{article}{}
       \name{author}{2}{}{%
