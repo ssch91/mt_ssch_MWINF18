@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.31)  9 MAR 2020 02:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.31)  12 MAR 2020 18:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1484,6 +1484,11 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
+Underfull \hbox (badness 1521) in paragraph at lines 8--8
+[][][]\OT1/cmr/m/n/8 Vgl. [][][][]Ralf Kes-ten/Arno M[]uller/Hinrich Schr[]oder, IT-Controlling, Vah-len, 2013, \OT1/cmr/m/sc/8 doi\OT1/cmr/m/n/8 : []$\OT1/cmtt/m/n/8 10 . 15358 /
+ []
+
+
 Overfull \hbox (21.40083pt too wide) in paragraph at lines 9--9
 \OT1/cmr/m/n/12 Abteilung?  
  []
@@ -1834,6 +1839,7 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                at entry 'schmalenbach1909'. The output might not 
 (biblatex-dw)                be correct.
 
+[19]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'bouffier1952'. The output might not 
@@ -1846,7 +1852,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[19] [20] [21]
+[20] [21]
 <image/tab2.png, id=1161, 953.5625pt x 1004.75375pt>
 File: image/tab2.png Graphic file (type png)
 <use image/tab2.png>
@@ -2412,13 +2418,23 @@ File: image/sethi_flexibilitaet.png Graphic file (type png)
 Package pdftex.def Info: image/sethi_flexibilitaet.png  used on input line 91.
 (pdftex.def)             Requested size: 398.3386pt x 214.80249pt.
 
-Underfull \hbox (badness 2285) in paragraph at lines 116--116
-[]|\OT1/cmr/m/n/12 Die In-ten-ti-on dif-fe-ren-ziert den Zeit-punkt der Ma^^Y-nah-men-
+Underfull \hbox (badness 1565) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 Die In-ten-ti-on dif-fe-ren-ziert den Zeit-punkt der
  []
 
 
-Overfull \hbox (55.66725pt too wide) in paragraph at lines 116--117
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 Die Wir-kungs-wei-se dif-fe-ren-ziert funk-tio-na-
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 le und nu-me-ri-sche Wir-kungs-wei-se, al-so z.B.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 Qualifikations- ge-gen[]uber Per-so-nal-men-gen-
  []
 
 
@@ -2565,11 +2581,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--319
  []
 
 [75]
-Overfull \hbox (28.39914pt too wide) in paragraph at lines 319--319
-|[]\OT1/cmr/bx/n/14.4 Flexibilit[]at im An-wen-dungs-kon-text der IT-Organisation| 
+Overfull \hbox (20.17929pt too wide) in paragraph at lines 320--326
+\OT1/cmr/m/n/12 schrie-ben bis-her im Be-zug auf die be-trieb-li-che IT-Organisation kaum ber[]ucksichtigt
  []
 
-) (./chapters/rahmenwerk_zur_bewertung.tex) (./chapters/ausblick_und_potential.tex) [76]
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--341
+
+ []
+
+[76]) (./chapters/rahmenwerk_zur_bewertung.tex) (./chapters/ausblick_und_potential.tex) [77] [78]
 Overfull \hbox (1.67755pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Alpar, Paul u.a.: An-wen-dungs-ori-en-tier-te Wirt-schafts-in-for-ma-tik, Sprin-ger Fach-
  []
@@ -2582,6 +2613,10 @@ Overfull \hbox (18.03502pt too wide) in paragraph at lines 92--92
 [8
 
 ]
+Overfull \hbox (11.81012pt too wide) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 Ver-triebs-con-trol-ling: Grund-la-gen, Kon-zep-te, Kenn-zah-len, Best Prac-ti-ce (Hau-
+ []
+
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'bouffier1952'. The output might not 
@@ -2695,12 +2730,12 @@ Overfull \hbox (9.21214pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Hutchinson, Ge-or-ge K: FLE-XI-BI-LI-TY IS KEY TO ECONOMIC-FEASIBILITY
  []
 
+[14]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'jaikumar1984'. The output might not 
 (biblatex-dw)                be correct.
 
-[14]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'jehle1999produktionswirtschaft' is not an integer.
@@ -2722,8 +2757,8 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (54.99146pt too wide) in paragraph at lines 92--92
-\OT1/cmr/m/n/12 ge-eig-ne-te In-stru-men-te mess-bar ma-chen, Diplomica-Verlag, 2011, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783842853485. 
+Overfull \hbox (4.3952pt too wide) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 durch ge-eig-ne-te In-stru-men-te mess-bar ma-chen, Diplomica-Verlag, 2011, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 :
  []
 
 
@@ -2738,12 +2773,11 @@ Overfull \hbox (7.22778pt too wide) in paragraph at lines 92--92
 \OT1/cmr/m/n/12 nung und Con-trol-ling (En-zy-klop[]adie der Be-triebs-wirt-schafts-leh-re), Schaeffer-
  []
 
-
-Overfull \hbox (19.07738pt too wide) in paragraph at lines 92--92
-[][]\OT1/cmr/m/n/12 K[]upper, H.U.: Con-trol-ling: Kon-zep-ti-on, Auf-ga-ben, In-stru-men-te, Sch[]affer-Poeschel,
+[16]
+Overfull \hbox (9.1247pt too wide) in paragraph at lines 92--92
+[][]\OT1/cmr/m/n/12 K[]upper, Hans-Ulrich: Con-trol-ling: Kon-zep-ti-on, Auf-ga-ben, In-stru-men-te, Sch[]affer-
  []
 
-[16]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'kuetz2011' is not an integer.
@@ -2761,12 +2795,12 @@ Overfull \hbox (40.29321pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Lange, Chri-stoph: In-ves-ti-ti-ons-ent-schei-dun-gen im Um-bruch: Struk-tur ei-nes Investitions-
  []
 
-
+[17]
 Overfull \hbox (4.9371pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Lelke, Frank und An-dre-as Ol-lech: Ba-lan-ced Sco-re-card zur Performance-Messung
  []
 
-[17]
+
 Overfull \hbox (7.06041pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Lindl, Mi-cha-el: Auf-trags-lei-t-tech-nik f[]ur Kon-struk-ti-on und Ar-beits-pla-nung, Sprin-
  []
@@ -2792,11 +2826,15 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
+Overfull \hbox (1.04745pt too wide) in paragraph at lines 92--92
+[][]\OT1/cmr/m/n/12 Ders.: Pro-duk-ti-ons-wirt-schaft, 7. Aufl., Ol-den-bourg Wis-sen-schafts-ver-lag GmbH,
+ []
+
+[19]
 Overfull \hbox (0.18019pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Ost, Sven: Ent-wick-lung ei-nes Ver-fah-rens zur dif-fe-ren-zier-ten Fle-xi-bi-lit[]atsanalyse
  []
 
-[19]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'radermacher2009'. The output might not 
@@ -2806,16 +2844,6 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'ranta1988interactive'. The output might not 
 (biblatex-dw)                be correct.
-
-
-Overfull \hbox (14.66414pt too wide) in paragraph at lines 92--92
-\OT1/cmr/m/n/12 Marketing- und Ve-triebs-con-trol-ling, in: A. Klein (Hrsg.): Mo-der-ne Controlling-
- []
-
-
-Overfull \hbox (36.0247pt too wide) in paragraph at lines 92--92
-\OT1/cmr/m/n/12 Instrumente f[]ur Mar-ke-ting und Ver-trieb (Hau-fe Fach-pra-xis), Haufe-Mediengruppe,
- []
 
 [20]
 Overfull \hbox (4.03152pt too wide) in paragraph at lines 92--92
@@ -2827,34 +2855,38 @@ Overfull \hbox (0.46951pt too wide) in paragraph at lines 92--92
 \OT1/cmr/m/n/12 z-ern-steue-rung und in-ter-na-tio-na-lem Steu-er-recht, Sprin-ger Fach-me-di-en Wies-
  []
 
-
+[21]
 Overfull \hbox (1.28548pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Sandt, Joa-chim: Ma-na-ge-ment mit Kenn-zah-len und Kenn-zah-len-sys-te-men, Deut-
  []
 
-[21]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'schmalenbach1909'. The output might not 
 (biblatex-dw)                be correct.
 
 
-Overfull \hbox (0.71786pt too wide) in paragraph at lines 92--92
-\OT1/cmr/m/n/12 f[]ur Mar-ke-ting und Ver-trieb (Hau-fe Fach-pra-xis), Haufe-Mediengruppe, 2010,
+Overfull \hbox (8.2727pt too wide) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 verl[]assig und fle-xi-bel pla-nen, in: An-dre-as Klein (Hrsg.): Mo-der-ne Controlling-
  []
 
 
-Overfull \hbox (2.7286pt too wide) in paragraph at lines 92--92
-[][]\OT1/cmr/m/n/12 Ders.: Ope-ra-ti-ves Pro-duk-ti-ons-con-trol-ling: Si-che-rung der Ef-fi-zi-enz in Fer-ti-gungs-
+Overfull \hbox (36.0247pt too wide) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 Instrumente f[]ur Mar-ke-ting und Ver-trieb (Hau-fe Fach-pra-xis), Haufe-Mediengruppe,
  []
 
-[22] [23]
+[22]
+Overfull \hbox (33.88123pt too wide) in paragraph at lines 92--92
+[][]\OT1/cmr/m/n/12 Schweitzer, Mar-ceil und Hans-Ulrich K[]upper: Sys-te-me der Kosten- und Erl[]osrechnung
+ []
+
+[23]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'stecke1984variations'. The output might not 
 (biblatex-dw)                be correct.
 
-
+[24]
 Overfull \hbox (3.6345pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Syska, An-dre-as: Just-in-Time (JIT), in: Pro-duk-ti-ons-ma-na-ge-ment, Gabler, 2006,
  []
@@ -2869,9 +2901,14 @@ Overfull \hbox (27.62021pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Vahrenkamp, R.: Pro-duk-ti-ons-ma-na-ge-ment, Ol-den-bourg, 2008, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783486587845,
  []
 
-[24]
-Overfull \hbox (19.17662pt too wide) in paragraph at lines 92--92
-[][]\OT1/cmr/m/n/12 Weber, J. und C.M. Wal-len-burg: Logistik- und Supply-Chain-Controlling, Sch[]affer-
+
+Overfull \hbox (8.75554pt too wide) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 ten des Cen-ter for Con-trol-ling & Ma-na-ge-ment), Deut-scher Uni-ver-sit[]atsverlag,
+ []
+
+[25]
+Overfull \hbox (27.41702pt too wide) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 Poeschel Ver-lag fur Wirt-schaft Steu-ern Recht GmbH, 2015, \OT1/cmr/m/sc/12 isbn\OT1/cmr/m/n/12 : 9783799268998,
  []
 
 
@@ -2879,7 +2916,6 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                at entry 'wehnert2014'. The output might not 
 (biblatex-dw)                be correct.
 
-[25]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Wiendahl2009' is not an integer.
@@ -2887,6 +2923,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
+[26]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'zaepfel2010grundzuege' is not an integer.
@@ -2914,18 +2951,13 @@ Overfull \hbox (50.48323pt too wide) in paragraph at lines 92--92
 [][]\OT1/cmr/m/n/12 Zelewski, S., S. Hoh-mann und T. H[]ugens: Produktionsplanungs- und -steuerungssysteme:
  []
 
-[26]
-Overfull \hbox (36.0247pt too wide) in paragraph at lines 92--92
-\OT1/cmr/m/n/12 Instrumente f[]ur Mar-ke-ting und Ver-trieb (Hau-fe Fach-pra-xis), Haufe-Mediengruppe,
- []
-
 (./chapters/anhang.tex [27]
-<image/gottmann_1.png, id=3767, 2196.205pt x 1284.8pt>
+<image/gottmann_1.png, id=3801, 2196.205pt x 1284.8pt>
 File: image/gottmann_1.png Graphic file (type png)
 <use image/gottmann_1.png>
 Package pdftex.def Info: image/gottmann_1.png  used on input line 14.
 (pdftex.def)             Requested size: 278.83578pt x 163.10898pt.
-<image/gottmann_2.png, id=3771, 2236.355pt x 1664.2175pt>
+<image/gottmann_2.png, id=3805, 2236.355pt x 1664.2175pt>
 File: image/gottmann_2.png Graphic file (type png)
 <use image/gottmann_2.png>
 Package pdftex.def Info: image/gottmann_2.png  used on input line 23.
@@ -2933,29 +2965,29 @@ Package pdftex.def Info: image/gottmann_2.png  used on input line 23.
  [28
 
  <./image/gottmann_1.png> <./image/gottmann_2.png>]
-<image/gottmann_3.png, id=3787, 2236.355pt x 1535.7375pt>
+<image/gottmann_3.png, id=3821, 2236.355pt x 1535.7375pt>
 File: image/gottmann_3.png Graphic file (type png)
 <use image/gottmann_3.png>
 Package pdftex.def Info: image/gottmann_3.png  used on input line 33.
 (pdftex.def)             Requested size: 318.67209pt x 218.82143pt.
-<image/gottmann_4.png, id=3791, 2240.37pt x 1543.7675pt>
+<image/gottmann_4.png, id=3825, 2240.37pt x 1543.7675pt>
 File: image/gottmann_4.png Graphic file (type png)
 <use image/gottmann_4.png>
 Package pdftex.def Info: image/gottmann_4.png  used on input line 42.
 (pdftex.def)             Requested size: 318.67209pt x 219.5887pt.
  [29 <./image/gottmann_3.png> <./image/gottmann_4.png>]
-<image/gottmann_5.png, id=3807, 2244.385pt x 1419.3025pt>
+<image/gottmann_5.png, id=3841, 2244.385pt x 1419.3025pt>
 File: image/gottmann_5.png Graphic file (type png)
 <use image/gottmann_5.png>
 Package pdftex.def Info: image/gottmann_5.png  used on input line 52.
 (pdftex.def)             Requested size: 318.67209pt x 201.51637pt.
-<image/gottmann_6.png, id=3811, 2240.37pt x 1401.235pt>
+<image/gottmann_6.png, id=3845, 2240.37pt x 1401.235pt>
 File: image/gottmann_6.png Graphic file (type png)
 <use image/gottmann_6.png>
 Package pdftex.def Info: image/gottmann_6.png  used on input line 61.
 (pdftex.def)             Requested size: 318.67209pt x 199.31458pt.
  [30 <./image/gottmann_5.png> <./image/gottmann_6.png>]
-<image/gottmann_7.png, id=3827, 2230.3325pt x 1413.28pt>
+<image/gottmann_7.png, id=3862, 2230.3325pt x 1413.28pt>
 File: image/gottmann_7.png Graphic file (type png)
 <use image/gottmann_7.png>
 Package pdftex.def Info: image/gottmann_7.png  used on input line 71.
@@ -3069,13 +3101,21 @@ Package logreq Info: Writing requests to 'MA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57081 strings out of 492616
- 1192706 string characters out of 6129481
- 1766696 words of memory out of 5000000
- 58341 multiletter control sequences out of 15000+600000
+ 57127 strings out of 492616
+ 1193754 string characters out of 6129481
+ 1771177 words of memory out of 5000000
+ 58369 multiletter control sequences out of 15000+600000
  541059 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,20n,102p,1987b,3855s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.519} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.518} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.517} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.516} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.515} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.514} has been referenced but does not exist, replaced by a fixed one
@@ -4107,10 +4147,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (113 pages, 7115104 bytes).
+Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (115 pages, 7120814 bytes).
 PDF statistics:
- 4420 PDF objects out of 5155 (max. 8388607)
- 4142 compressed objects within 42 object streams
- 1910 named destinations out of 2073 (max. 500000)
+ 4458 PDF objects out of 5155 (max. 8388607)
+ 4178 compressed objects within 42 object streams
+ 1928 named destinations out of 2073 (max. 500000)
  340 words of extra memory for PDF output out of 10000 (max. 10000000)
 

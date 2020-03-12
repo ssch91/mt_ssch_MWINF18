@@ -103,25 +103,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.4}Bewertung der Ans\"atze zur Messung}{73}{subsubsection.0.4.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Flexibilit\"at im Anwendungskontext der IT-Organisation}{76}{subsection.0.4.3}% 
+\contentsline {subsection}{\numberline {4.3}Flexibilit\"at im Anwendungskontext der IT}{76}{subsection.0.4.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.3.1}Adaption Flexibilit\"atskonzeption}{76}{subsubsection.0.4.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2}Adaption der Betrachtungsgegenst\"ande}{76}{subsubsection.0.4.3.2}% 
+\contentsline {subsubsection}{\numberline {4.3.2}Adaption der Betrachtungsgegenst\"ande}{78}{subsubsection.0.4.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.3}Adaption von Ans\"atzen zur Messung}{76}{subsubsection.0.4.3.3}% 
+\contentsline {subsubsection}{\numberline {4.3.3}Adaption von Ans\"atzen zur Messung}{78}{subsubsection.0.4.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Rahmenwerk zur Bewertung}{76}{section.0.5}% 
+\contentsline {section}{\numberline {5}Rahmenwerk zur Bewertung}{78}{section.0.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Konzeptionelle Idee}{76}{subsection.0.5.1}% 
+\contentsline {subsection}{\numberline {5.1}Konzeptionelle Idee}{78}{subsection.0.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Dimensionsdefinition}{76}{subsection.0.5.2}% 
+\contentsline {subsection}{\numberline {5.2}Dimensionsdefinition}{78}{subsection.0.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Das Rahmenwerk als Resultat}{76}{subsection.0.5.3}% 
+\contentsline {subsection}{\numberline {5.3}Das Rahmenwerk als Resultat}{78}{subsection.0.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4}Interpretation als Werttreiber}{76}{subsection.0.5.4}% 
+\contentsline {subsection}{\numberline {5.4}Interpretation als Werttreiber}{78}{subsection.0.5.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Ausblick und Potential}{76}{section.0.6}% 
+\contentsline {section}{\numberline {6}Ausblick und Potential}{78}{section.0.6}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Quellenverzeichnis}{VIII}{section.0.6}% 
 \defcounter {refsection}{0}\relax 
