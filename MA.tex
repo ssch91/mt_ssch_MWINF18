@@ -1,8 +1,10 @@
   \documentclass[12pt]{report}
 
 \usepackage[latin1]{inputenc}
+%https://www.teuderun.de/latex/layout/microtype-paket/
+\usepackage{microtype}
 %zur Benutzung von Grafiken
-\usepackage{graphicx}
+\usepackage[draft]{graphicx}
 %für Kapitelformatierung
 \usepackage{titlesec}
 %für Zeilenabstand
@@ -12,7 +14,7 @@
 %Seitenlayout
 \usepackage[a4paper,top=20mm,bottom=20mm,left=30mm,right=40mm]{geometry}
 %Bib-Ressourcen ermöglichen, Stil setzen und genau parametrieren
-\usepackage[style=footnote-dw,natbib=true,edsuper=true,nopublisher=false,doi=true,isbn=true,urldate=long,backend=biber]{biblatex}
+\usepackage[style=footnote-dw,natbib=true,edsuper=true,nopublisher=false,urldate=long,backend=biber]{biblatex}
 %Für das Abkürzungsverzeichnis alternativ: \usepackage[toc]{glossaries}
 \usepackage[acronym,nonumberlist,automake]{glossaries}
 %für diagonal geteilte Zellen in Tabellen, Befehl ist \backslashbox{}

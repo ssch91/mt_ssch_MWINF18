@@ -19,6 +19,13 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Seelbach1975}{incollection}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{doi}
+      \verb 10.1007/978-3-662-41497-2_4
+      \endverb
+    \endentry
     \entry{Abts2017}{book}{}
       \name{author}{2}{}{%
         {{hash=e0b3c54dc44d363192a2ee0648b809aa}{%
@@ -85,12 +92,6 @@
       \range{pages}{149}
       \verb{doi}
       \verb 10.1007/978-3-322-86149-8_8
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-322-86149-8_8
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-322-86149-8_8
       \endverb
     \endentry
     \entry{Alpar2019}{book}{}
@@ -203,21 +204,21 @@
     \endentry
     \entry{bange2004software}{book}{}
       \name{author}{1}{}{%
-        {{hash=44d341bf6017e58a6c24cc905b89a431}{%
+        {{hash=80891537325338e74ea1ccbb843c3c04}{%
            family={Bange},
            familyi={B\bibinitperiod},
-           given={C.},
+           given={Carsten.},
            giveni={C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {OXYGON Verlag}%
       }
-      \strng{namehash}{44d341bf6017e58a6c24cc905b89a431}
-      \strng{fullhash}{44d341bf6017e58a6c24cc905b89a431}
-      \strng{bibnamehash}{44d341bf6017e58a6c24cc905b89a431}
-      \strng{authorbibnamehash}{44d341bf6017e58a6c24cc905b89a431}
-      \strng{authornamehash}{44d341bf6017e58a6c24cc905b89a431}
-      \strng{authorfullhash}{44d341bf6017e58a6c24cc905b89a431}
+      \strng{namehash}{80891537325338e74ea1ccbb843c3c04}
+      \strng{fullhash}{80891537325338e74ea1ccbb843c3c04}
+      \strng{bibnamehash}{80891537325338e74ea1ccbb843c3c04}
+      \strng{authorbibnamehash}{80891537325338e74ea1ccbb843c3c04}
+      \strng{authornamehash}{80891537325338e74ea1ccbb843c3c04}
+      \strng{authorfullhash}{80891537325338e74ea1ccbb843c3c04}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -250,37 +251,6 @@
       \field{journaltitle}{Diskussionsbeiträge: FernUniversität Hagen}
       \field{title}{Interne Marktorientierung durch Verrechnungspreise}
       \field{year}{1999}
-    \endentry
-    \entry{bauer2009100}{book}{}
-      \name{author}{2}{}{%
-        {{hash=ebda88f7501c51c949ef5ce3ee6f25e1}{%
-           family={Bauer},
-           familyi={B\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d2b8c94d7097ec7e1303035df7d05a6e}{%
-           family={Hayessen},
-           familyi={H\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Cometis}%
-      }
-      \strng{namehash}{f6fe415a61c67d20c38f2c04807b041b}
-      \strng{fullhash}{f6fe415a61c67d20c38f2c04807b041b}
-      \strng{bibnamehash}{f6fe415a61c67d20c38f2c04807b041b}
-      \strng{authorbibnamehash}{f6fe415a61c67d20c38f2c04807b041b}
-      \strng{authornamehash}{f6fe415a61c67d20c38f2c04807b041b}
-      \strng{authorfullhash}{f6fe415a61c67d20c38f2c04807b041b}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9783940828576}
-      \field{series}{Kennzahlen kompakt}
-      \field{title}{100 Produktionskennzahlen}
-      \field{year}{2009}
     \endentry
     \entry{Bauer2017}{book}{}
       \name{author}{1}{}{%
@@ -315,6 +285,37 @@
       \verb https://doi.org/10.1007/978-3-658-18366-0
       \endverb
     \endentry
+    \entry{bauer2009100}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7f5c7c3d42c9a1874abaf1a0cd11fbe4}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5285649bfff72c66efa4930cb8b38a52}{%
+           family={Hayessen},
+           familyi={H\bibinitperiod},
+           given={Egbert},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cometis}%
+      }
+      \strng{namehash}{fb0001c8c9a9ce6db4d86d4ac2072ac6}
+      \strng{fullhash}{fb0001c8c9a9ce6db4d86d4ac2072ac6}
+      \strng{bibnamehash}{fb0001c8c9a9ce6db4d86d4ac2072ac6}
+      \strng{authorbibnamehash}{fb0001c8c9a9ce6db4d86d4ac2072ac6}
+      \strng{authornamehash}{fb0001c8c9a9ce6db4d86d4ac2072ac6}
+      \strng{authorfullhash}{fb0001c8c9a9ce6db4d86d4ac2072ac6}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783940828576}
+      \field{series}{Kennzahlen kompakt}
+      \field{title}{100 Produktionskennzahlen}
+      \field{year}{2009}
+    \endentry
     \entry{baumhoff2014}{incollection}{}
       \name{author}{1}{}{%
         {{hash=5179f0ab25393af658f6c84e2eba2b71}{%
@@ -324,15 +325,15 @@
            giveni={H\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=0b5e238252c091fdcf733200a2ea4a83}{%
+        {{hash=783d0e0ef9975fd521d2a6c68cb95b37}{%
            family={Wassermeyer},
            familyi={W\bibinitperiod},
-           given={F.},
+           given={Franz},
            giveni={F\bibinitperiod}}}%
-        {{hash=5fd8612fe55e54df54a226d8d4fc5754}{%
+        {{hash=5179f0ab25393af658f6c84e2eba2b71}{%
            family={Baumhoff},
            familyi={B\bibinitperiod},
-           given={H.},
+           given={Hubertus},
            giveni={H\bibinitperiod}}}%
       }
       \list{location}{1}{%
@@ -347,9 +348,9 @@
       \strng{authorbibnamehash}{5179f0ab25393af658f6c84e2eba2b71}
       \strng{authornamehash}{5179f0ab25393af658f6c84e2eba2b71}
       \strng{authorfullhash}{5179f0ab25393af658f6c84e2eba2b71}
-      \strng{editorbibnamehash}{50be57d35e0088fc699cf987a3b1ca82}
-      \strng{editornamehash}{50be57d35e0088fc699cf987a3b1ca82}
-      \strng{editorfullhash}{50be57d35e0088fc699cf987a3b1ca82}
+      \strng{editorbibnamehash}{cf7d44675912c577671bc3bfc76a2f86}
+      \strng{editornamehash}{cf7d44675912c577671bc3bfc76a2f86}
+      \strng{editorfullhash}{cf7d44675912c577671bc3bfc76a2f86}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -360,6 +361,55 @@
       \field{year}{2014}
       \field{pages}{317\bibrangedash 350}
       \range{pages}{34}
+    \endentry
+    \entry{Baun2015}{inbook}{}
+      \name{author}{4}{}{%
+        {{hash=c8362ec3de9dbb4de64fee2d8b9cfe70}{%
+           family={Baun},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6618a4a7822dda9af3c10b6b8752b0e0}{%
+           family={Bengel},
+           familyi={B\bibinitperiod},
+           given={G{ü}nther},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b68df5ff002a97b27521979211e4fea3}{%
+           family={Kunze},
+           familyi={K\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a585efe5aafa5775fb59e3bd3b21bec5}{%
+           family={Stucky},
+           familyi={S\bibinitperiod},
+           given={Karl-Uwe},
+           giveni={K\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{2904fe3435f34a0f7619f48d03a87734}
+      \strng{fullhash}{8ab4e581ee6d7dc949b5a39d140fb0c8}
+      \strng{bibnamehash}{2904fe3435f34a0f7619f48d03a87734}
+      \strng{authorbibnamehash}{2904fe3435f34a0f7619f48d03a87734}
+      \strng{authornamehash}{2904fe3435f34a0f7619f48d03a87734}
+      \strng{authorfullhash}{8ab4e581ee6d7dc949b5a39d140fb0c8}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Masterkurs Parallele und Verteilte Systeme: Grundlagen und Programmierung von Multicore-Prozessoren, Multiprozessoren, Cluster, Grid und Cloud}
+      \field{isbn}{978-3-8348-2151-5}
+      \field{title}{Rechnerarchitekturen f{ü}r Parallele und Verteilte Systeme}
+      \field{year}{2015}
+      \field{pages}{33\bibrangedash 105}
+      \range{pages}{73}
+      \verb{doi}
+      \verb 10.1007/978-3-8348-2151-5_2
+      \endverb
     \endentry
     \entry{Bellmann2009}{incollection}{}
       \name{author}{3}{}{%
@@ -563,6 +613,43 @@
       \field{year}{1996}
       \field{pages}{1448\bibrangedash 1457}
       \range{pages}{10}
+    \endentry
+    \entry{agile2017}{book}{}
+      \name{author}{3}{}{%
+        {{hash=fc63cd263fffc0119e81fe51b71467ed}{%
+           family={Book},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5314b38cbdd72a16212f6c30e437b43e}{%
+           family={Gruhn},
+           familyi={G\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+        {{hash=66844f7ffa1a97770969e5108963a875}{%
+           family={Striemer},
+           familyi={S\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{fba030f0d449ae79a9c621b5afc93342}
+      \strng{fullhash}{fba030f0d449ae79a9c621b5afc93342}
+      \strng{bibnamehash}{fba030f0d449ae79a9c621b5afc93342}
+      \strng{authorbibnamehash}{fba030f0d449ae79a9c621b5afc93342}
+      \strng{authornamehash}{fba030f0d449ae79a9c621b5afc93342}
+      \strng{authorfullhash}{fba030f0d449ae79a9c621b5afc93342}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Erfolgreiche agile Projekte}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1007/978-3-662-53330-7
+      \endverb
     \endentry
     \entry{bouffier1952}{article}{}
       \name{author}{1}{}{%
@@ -1348,26 +1435,26 @@
     \endentry
     \entry{davis1950}{article}{}
       \name{author}{2}{}{%
-        {{hash=327d9c79d6c486daa36e7e5c03537e78}{%
+        {{hash=65921c7b6c2196aaa7c17692d0e83e3c}{%
            family={Davis},
            familyi={D\bibinitperiod},
-           given={C.G.},
+           given={Carl},
            giveni={C\bibinitperiod}}}%
-        {{hash=36a4dd6068ef03cdbf8c103dac4778e5}{%
+        {{hash=f21aa520ad69374e7b6d40b5c0891da7}{%
            family={Jajodia},
            familyi={J\bibinitperiod},
-           given={S.},
+           given={Sushil},
            giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {American Management Association}%
       }
-      \strng{namehash}{ef87c8dc51ee6a5761e6c9691eb71531}
-      \strng{fullhash}{ef87c8dc51ee6a5761e6c9691eb71531}
-      \strng{bibnamehash}{ef87c8dc51ee6a5761e6c9691eb71531}
-      \strng{authorbibnamehash}{ef87c8dc51ee6a5761e6c9691eb71531}
-      \strng{authornamehash}{ef87c8dc51ee6a5761e6c9691eb71531}
-      \strng{authorfullhash}{ef87c8dc51ee6a5761e6c9691eb71531}
+      \strng{namehash}{d599cb8d867481b9c800989510ce46db}
+      \strng{fullhash}{d599cb8d867481b9c800989510ce46db}
+      \strng{bibnamehash}{d599cb8d867481b9c800989510ce46db}
+      \strng{authorbibnamehash}{d599cb8d867481b9c800989510ce46db}
+      \strng{authornamehash}{d599cb8d867481b9c800989510ce46db}
+      \strng{authorfullhash}{d599cb8d867481b9c800989510ce46db}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -1412,33 +1499,66 @@
       \field{pages}{300}
       \range{pages}{1}
     \endentry
+    \entry{doelle2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1574ebb2627c52f374dca0e616727a75}{%
+           family={Dölle},
+           familyi={D\bibinitperiod},
+           given={Annika},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {d.velop AG}%
+      }
+      \strng{namehash}{1574ebb2627c52f374dca0e616727a75}
+      \strng{fullhash}{1574ebb2627c52f374dca0e616727a75}
+      \strng{bibnamehash}{1574ebb2627c52f374dca0e616727a75}
+      \strng{authorbibnamehash}{1574ebb2627c52f374dca0e616727a75}
+      \strng{authornamehash}{1574ebb2627c52f374dca0e616727a75}
+      \strng{authorfullhash}{1574ebb2627c52f374dca0e616727a75}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{d.velop Blog}
+      \field{month}{6}
+      \field{note}{Abgerufen am 14.03.2020}
+      \field{title}{Bedeutung Purchase to Pay-Prozess - was sich dahinter verbirgt}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.d-velop.de/blog/prozesse-gestalten/der-purchase-to-pay-prozess-p2p-was-sich-hinter-dem-prozess-verbirgt-und-warum-er-digital-mehr-spass-macht/
+      \endverb
+      \verb{url}
+      \verb https://www.d-velop.de/blog/prozesse-gestalten/der-purchase-to-pay-prozess-p2p-was-sich-hinter-dem-prozess-verbirgt-und-warum-er-digital-mehr-spass-macht/
+      \endverb
+    \endentry
     \entry{domschke1997produktionsplanung}{book}{}
       \name{author}{3}{}{%
-        {{hash=576030de5045d4db6ce137b375997394}{%
+        {{hash=8fd00b709bf03b1c4b6db62619b0db06}{%
            family={Domschke},
            familyi={D\bibinitperiod},
-           given={W.},
+           given={Wolfgang},
            giveni={W\bibinitperiod}}}%
-        {{hash=3f8baae5447026a658ae2233eaac7f22}{%
+        {{hash=fa6db1b684582c8f6674b1cc4584eb43}{%
            family={Scholl},
            familyi={S\bibinitperiod},
-           given={A.},
+           given={Armin},
            giveni={A\bibinitperiod}}}%
-        {{hash=1724419bc4a4693924ac74e5a5c96cff}{%
+        {{hash=d8f31a4e6c3c6412c35f7b2ea0eae3bf}{%
            family={Vo{ß}},
            familyi={V\bibinitperiod},
-           given={S.},
+           given={Stefan},
            giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{18ba7ac48dc07a54a225cb485a8089a7}
-      \strng{fullhash}{18ba7ac48dc07a54a225cb485a8089a7}
-      \strng{bibnamehash}{18ba7ac48dc07a54a225cb485a8089a7}
-      \strng{authorbibnamehash}{18ba7ac48dc07a54a225cb485a8089a7}
-      \strng{authornamehash}{18ba7ac48dc07a54a225cb485a8089a7}
-      \strng{authorfullhash}{18ba7ac48dc07a54a225cb485a8089a7}
+      \strng{namehash}{14f7a862c47e9715cd7554b4357baa21}
+      \strng{fullhash}{14f7a862c47e9715cd7554b4357baa21}
+      \strng{bibnamehash}{14f7a862c47e9715cd7554b4357baa21}
+      \strng{authorbibnamehash}{14f7a862c47e9715cd7554b4357baa21}
+      \strng{authornamehash}{14f7a862c47e9715cd7554b4357baa21}
+      \strng{authorfullhash}{14f7a862c47e9715cd7554b4357baa21}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -1485,10 +1605,10 @@
            familyi={F\bibinitperiod},
            given={Bernd\bibnamedelima K.},
            giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=eeb014b1f82376b7e8324940d12aa49f}{%
+        {{hash=c80b1369e8f0d9b3c0967db0961baeaf}{%
            family={G{ü}nther},
            familyi={G\bibinitperiod},
-           given={H.-O.},
+           given={Hans-Otto},
            giveni={H\bibinithyphendelim O\bibinitperiod}}}%
         {{hash=9c1de4faed56436322a4b8fade4a885e}{%
            family={Stadtler},
@@ -1502,11 +1622,11 @@
            giveni={H\bibinitperiod}}}%
       }
       \strng{namehash}{d67919af3693013589ae182cc643ace0}
-      \strng{fullhash}{296d6065936cb03fdfd2cf9b01a4b4ce}
+      \strng{fullhash}{a1a6c02eb04f5894686e39f236e814b0}
       \strng{bibnamehash}{d67919af3693013589ae182cc643ace0}
       \strng{authorbibnamehash}{d67919af3693013589ae182cc643ace0}
       \strng{authornamehash}{d67919af3693013589ae182cc643ace0}
-      \strng{authorfullhash}{296d6065936cb03fdfd2cf9b01a4b4ce}
+      \strng{authorfullhash}{a1a6c02eb04f5894686e39f236e814b0}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -1629,6 +1749,26 @@
       \endverb
       \verb{url}
       \verb https://www.capgemini.com/de-de/resources/studie-it-trends-2019/
+      \endverb
+    \endentry
+    \entry{netzplan1976}{article}{}
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Operations Research}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Einheitliche Bezeichnungen in der Netzplantechnik und im Projektmanagement}
+      \field{volume}{20}
+      \field{year}{1976}
+      \field{pages}{B175\bibrangedash B193}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1007/bf01918393
       \endverb
     \endentry
     \entry{zentralverband1989zvei}{book}{}
@@ -1800,31 +1940,31 @@
     \endentry
     \entry{fandel2011produktionsmanagement}{book}{}
       \name{author}{3}{}{%
-        {{hash=5991c491479143500fb8e448ed751228}{%
+        {{hash=e89d350509acdcc2b8a58ceb9a175c1f}{%
            family={Fandel},
            familyi={F\bibinitperiod},
-           given={G.},
+           given={Günther},
            giveni={G\bibinitperiod}}}%
-        {{hash=554f7a77fa6d880cb1fb404d4ee76fef}{%
+        {{hash=640494d8eec5f459ba38fe72490bb509}{%
            family={Fistek},
            familyi={F\bibinitperiod},
-           given={A.},
+           given={Allegra},
            giveni={A\bibinitperiod}}}%
-        {{hash=23f2ea7bebc968629dceaf217eff86b6}{%
+        {{hash=8b7bae241de98a78c54a89a1f117e512}{%
            family={St{ü}tz},
            familyi={S\bibinitperiod},
-           given={S.},
+           given={Sebastian},
            giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{6b63581a8783bcca2340af8f1312a072}
-      \strng{fullhash}{6b63581a8783bcca2340af8f1312a072}
-      \strng{bibnamehash}{6b63581a8783bcca2340af8f1312a072}
-      \strng{authorbibnamehash}{6b63581a8783bcca2340af8f1312a072}
-      \strng{authornamehash}{6b63581a8783bcca2340af8f1312a072}
-      \strng{authorfullhash}{6b63581a8783bcca2340af8f1312a072}
+      \strng{namehash}{b3a031d103e49193666c889183e2d10b}
+      \strng{fullhash}{b3a031d103e49193666c889183e2d10b}
+      \strng{bibnamehash}{b3a031d103e49193666c889183e2d10b}
+      \strng{authorbibnamehash}{b3a031d103e49193666c889183e2d10b}
+      \strng{authornamehash}{b3a031d103e49193666c889183e2d10b}
+      \strng{authorfullhash}{b3a031d103e49193666c889183e2d10b}
       \field{sortinit}{F}
       \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
       \field{labelnamesource}{author}
@@ -1859,6 +1999,37 @@
       \field{year}{2016}
       \field{pages}{172.176}
       \range{pages}{-1}
+    \endentry
+    \entry{Frschle2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=c694f367fbeb574b9bb0e37dfce27ee8}{%
+           family={Fröschle},
+           familyi={F\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{c694f367fbeb574b9bb0e37dfce27ee8}
+      \strng{fullhash}{c694f367fbeb574b9bb0e37dfce27ee8}
+      \strng{bibnamehash}{c694f367fbeb574b9bb0e37dfce27ee8}
+      \strng{authorbibnamehash}{c694f367fbeb574b9bb0e37dfce27ee8}
+      \strng{authornamehash}{c694f367fbeb574b9bb0e37dfce27ee8}
+      \strng{authorfullhash}{c694f367fbeb574b9bb0e37dfce27ee8}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Business-{IT}-Alignment}
+      \field{month}{11}
+      \field{title}{Damit zusammenwächst, was zusammengehört?}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1007/978-3-658-13760-1_1
+      \endverb
     \endentry
     \entry{gadatsch2008}{book}{}
       \name{author}{1}{}{%
@@ -2154,41 +2325,41 @@
     \endentry
     \entry{goransonagile}{inbook}{}
       \name{author}{1}{}{%
-        {{hash=980e4e2058c819dcc518d4d641c385c2}{%
+        {{hash=70c028d1cbaab53aa95f710a478b0b12}{%
            family={Goranson},
            familyi={G\bibinitperiod},
-           given={H.T.},
-           giveni={H\bibinitperiod}}}%
+           given={H.\bibnamedelimi Ted},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=fe6186692b9d04b469ec5e2f5d68bfbb}{%
+        {{hash=93500a92c6cb1416e3a197dd510d2798}{%
            family={Molina},
            familyi={M\bibinitperiod},
-           given={A.},
+           given={Arturo},
            giveni={A\bibinitperiod}}}%
-        {{hash=65e5e81ce303de9adb2c337207fc4f0a}{%
+        {{hash=118bc2283fdf7fdc15f481d6d53c5907}{%
            family={S{á}nchez},
            familyi={S\bibinitperiod},
-           given={J.M.},
+           given={Jos{é}},
            giveni={J\bibinitperiod}}}%
-        {{hash=3f74e0202e133c5d4c2e6475aee02802}{%
+        {{hash=5adce0a94ef92041c47f347b4f14196e}{%
            family={Kusiak},
            familyi={K\bibinitperiod},
-           given={A.},
+           given={Andrew},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer US}%
       }
-      \strng{namehash}{980e4e2058c819dcc518d4d641c385c2}
-      \strng{fullhash}{980e4e2058c819dcc518d4d641c385c2}
-      \strng{bibnamehash}{980e4e2058c819dcc518d4d641c385c2}
-      \strng{authorbibnamehash}{980e4e2058c819dcc518d4d641c385c2}
-      \strng{authornamehash}{980e4e2058c819dcc518d4d641c385c2}
-      \strng{authorfullhash}{980e4e2058c819dcc518d4d641c385c2}
-      \strng{editorbibnamehash}{9c2d8a1f0bbac2b9628e85b670c8d63d}
-      \strng{editornamehash}{9c2d8a1f0bbac2b9628e85b670c8d63d}
-      \strng{editorfullhash}{9c2d8a1f0bbac2b9628e85b670c8d63d}
+      \strng{namehash}{70c028d1cbaab53aa95f710a478b0b12}
+      \strng{fullhash}{70c028d1cbaab53aa95f710a478b0b12}
+      \strng{bibnamehash}{70c028d1cbaab53aa95f710a478b0b12}
+      \strng{authorbibnamehash}{70c028d1cbaab53aa95f710a478b0b12}
+      \strng{authornamehash}{70c028d1cbaab53aa95f710a478b0b12}
+      \strng{authorfullhash}{70c028d1cbaab53aa95f710a478b0b12}
+      \strng{editorbibnamehash}{c4f1d5087ff5cea8a1b9df4be16124c2}
+      \strng{editornamehash}{c4f1d5087ff5cea8a1b9df4be16124c2}
+      \strng{editorfullhash}{c4f1d5087ff5cea8a1b9df4be16124c2}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
@@ -2289,21 +2460,21 @@
     \endentry
     \entry{grap1998produktion}{book}{}
       \name{author}{1}{}{%
-        {{hash=5e00727426e2412c06e0891e13f82ebb}{%
+        {{hash=977575d90fcef34947e2fae972cd3b46}{%
            family={Grap},
            familyi={G\bibinitperiod},
-           given={R.},
+           given={Rolf},
            giveni={R\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Vahlen}%
       }
-      \strng{namehash}{5e00727426e2412c06e0891e13f82ebb}
-      \strng{fullhash}{5e00727426e2412c06e0891e13f82ebb}
-      \strng{bibnamehash}{5e00727426e2412c06e0891e13f82ebb}
-      \strng{authorbibnamehash}{5e00727426e2412c06e0891e13f82ebb}
-      \strng{authornamehash}{5e00727426e2412c06e0891e13f82ebb}
-      \strng{authorfullhash}{5e00727426e2412c06e0891e13f82ebb}
+      \strng{namehash}{977575d90fcef34947e2fae972cd3b46}
+      \strng{fullhash}{977575d90fcef34947e2fae972cd3b46}
+      \strng{bibnamehash}{977575d90fcef34947e2fae972cd3b46}
+      \strng{authorbibnamehash}{977575d90fcef34947e2fae972cd3b46}
+      \strng{authornamehash}{977575d90fcef34947e2fae972cd3b46}
+      \strng{authorfullhash}{977575d90fcef34947e2fae972cd3b46}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
@@ -2392,26 +2563,26 @@
     \endentry
     \entry{guenther2011produktion}{book}{}
       \name{author}{2}{}{%
-        {{hash=961c73ac51affcc0be8557307973e81f}{%
+        {{hash=c80b1369e8f0d9b3c0967db0961baeaf}{%
            family={G{ü}nther},
            familyi={G\bibinitperiod},
-           given={H.O.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=6fb518eefb9b7a44eabab1cad5299d3c}{%
+           given={Hans-Otto},
+           giveni={H\bibinithyphendelim O\bibinitperiod}}}%
+        {{hash=61e99bcfb1ff045afb965544588cc864}{%
            family={Tempelmeier},
            familyi={T\bibinitperiod},
-           given={H.},
+           given={Horst},
            giveni={H\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{aedfd84dd9cdfbd968644bf39ab4f796}
-      \strng{fullhash}{aedfd84dd9cdfbd968644bf39ab4f796}
-      \strng{bibnamehash}{aedfd84dd9cdfbd968644bf39ab4f796}
-      \strng{authorbibnamehash}{aedfd84dd9cdfbd968644bf39ab4f796}
-      \strng{authornamehash}{aedfd84dd9cdfbd968644bf39ab4f796}
-      \strng{authorfullhash}{aedfd84dd9cdfbd968644bf39ab4f796}
+      \strng{namehash}{1c7fc07fdee0ec4761225fc71d53d45b}
+      \strng{fullhash}{1c7fc07fdee0ec4761225fc71d53d45b}
+      \strng{bibnamehash}{1c7fc07fdee0ec4761225fc71d53d45b}
+      \strng{authorbibnamehash}{1c7fc07fdee0ec4761225fc71d53d45b}
+      \strng{authornamehash}{1c7fc07fdee0ec4761225fc71d53d45b}
+      \strng{authorfullhash}{1c7fc07fdee0ec4761225fc71d53d45b}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
@@ -2420,12 +2591,6 @@
       \field{series}{Springer-Lehrbuch}
       \field{title}{Produktion und Logistik}
       \field{year}{2011}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=nRvbSx9Y9MEC
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=nRvbSx9Y9MEC
-      \endverb
     \endentry
     \entry{Gupta1968}{article}{}
       \name{author}{2}{}{%
@@ -2526,21 +2691,21 @@
     \endentry
     \entry{hansmann2006industrielles}{book}{}
       \name{author}{1}{}{%
-        {{hash=ec0181e6d4748eba6c523d22679d5f75}{%
+        {{hash=afcdde3a0ee92c697ca3ac6a8fd62959}{%
            family={Hansmann},
            familyi={H\bibinitperiod},
-           given={K.W.},
-           giveni={K\bibinitperiod}}}%
+           given={Karl-Werner},
+           giveni={K\bibinithyphendelim W\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Oldenbourg}%
       }
-      \strng{namehash}{ec0181e6d4748eba6c523d22679d5f75}
-      \strng{fullhash}{ec0181e6d4748eba6c523d22679d5f75}
-      \strng{bibnamehash}{ec0181e6d4748eba6c523d22679d5f75}
-      \strng{authorbibnamehash}{ec0181e6d4748eba6c523d22679d5f75}
-      \strng{authornamehash}{ec0181e6d4748eba6c523d22679d5f75}
-      \strng{authorfullhash}{ec0181e6d4748eba6c523d22679d5f75}
+      \strng{namehash}{afcdde3a0ee92c697ca3ac6a8fd62959}
+      \strng{fullhash}{afcdde3a0ee92c697ca3ac6a8fd62959}
+      \strng{bibnamehash}{afcdde3a0ee92c697ca3ac6a8fd62959}
+      \strng{authorbibnamehash}{afcdde3a0ee92c697ca3ac6a8fd62959}
+      \strng{authornamehash}{afcdde3a0ee92c697ca3ac6a8fd62959}
+      \strng{authorfullhash}{afcdde3a0ee92c697ca3ac6a8fd62959}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -2548,12 +2713,6 @@
       \field{isbn}{9783486580587}
       \field{title}{Industrielles Management}
       \field{year}{2006}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=-rZsxDQLY-QC
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=-rZsxDQLY-QC
-      \endverb
     \endentry
     \entry{hanssmann1978}{book}{}
       \name{author}{1}{}{%
@@ -2588,21 +2747,21 @@
     \endentry
     \entry{hartmann2002materialwirtschaft}{book}{}
       \name{author}{1}{}{%
-        {{hash=2278c9ba09223a9819e89d93342c4cd0}{%
+        {{hash=598cbc83ef8ff9810f1984f591ea6f7b}{%
            family={Hartmann},
            familyi={H\bibinitperiod},
-           given={H.},
+           given={Horst},
            giveni={H\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Duncker \& Humblot}%
       }
-      \strng{namehash}{2278c9ba09223a9819e89d93342c4cd0}
-      \strng{fullhash}{2278c9ba09223a9819e89d93342c4cd0}
-      \strng{bibnamehash}{2278c9ba09223a9819e89d93342c4cd0}
-      \strng{authorbibnamehash}{2278c9ba09223a9819e89d93342c4cd0}
-      \strng{authornamehash}{2278c9ba09223a9819e89d93342c4cd0}
-      \strng{authorfullhash}{2278c9ba09223a9819e89d93342c4cd0}
+      \strng{namehash}{598cbc83ef8ff9810f1984f591ea6f7b}
+      \strng{fullhash}{598cbc83ef8ff9810f1984f591ea6f7b}
+      \strng{bibnamehash}{598cbc83ef8ff9810f1984f591ea6f7b}
+      \strng{authorbibnamehash}{598cbc83ef8ff9810f1984f591ea6f7b}
+      \strng{authornamehash}{598cbc83ef8ff9810f1984f591ea6f7b}
+      \strng{authorfullhash}{598cbc83ef8ff9810f1984f591ea6f7b}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -2769,8 +2928,11 @@
            given={George\bibnamedelima K},
            giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Atlanta}%
+      }
       \list{publisher}{1}{%
-        {INST INDUSTRIAL ENGINEERS 25 TECHNOLOGY PARK/ATLANTA, NORCROSS, GA 30092}%
+        {Inst Industrial Engineering}%
       }
       \strng{namehash}{fe85df4bfe09886d8295b3c5cb0480a4}
       \strng{fullhash}{fe85df4bfe09886d8295b3c5cb0480a4}
@@ -2784,7 +2946,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Industrial Engineering}
       \field{number}{6}
-      \field{title}{FLEXIBILITY IS KEY TO ECONOMIC-FEASIBILITY OF AUTOMATING SMALL BATCH MANUFACTURING}
+      \field{title}{Flexibility is key to economic feasibility of automating small batch manufacturing}
       \field{volume}{16}
       \field{year}{1984}
       \field{pages}{76\bibrangedash 86}
@@ -2854,12 +3016,6 @@
       \field{year}{2019}
       \verb{doi}
       \verb 10.1007/978-3-662-58780-5
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-662-58780-5
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-662-58780-5
       \endverb
     \endentry
     \entry{jaikumar1984}{article}{}
@@ -2953,12 +3109,6 @@
       \range{pages}{28}
       \verb{doi}
       \verb 10.1007/978-3-658-23333-4_7
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-658-23333-4_7
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-658-23333-4_7
       \endverb
     \endentry
     \entry{jehle1999produktionswirtschaft}{book}{}
@@ -3100,12 +3250,6 @@
       \verb{doi}
       \verb 10.1007/978-3-322-91060-8
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-322-91060-8
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-322-91060-8
-      \endverb
     \endentry
     \entry{kamps2018gabler}{article}{}
       \name{author}{1}{}{%
@@ -3166,42 +3310,27 @@
       \endverb
     \endentry
     \entry{kaplan1996balanced}{book}{}
-      \name{author}{5}{}{%
-        {{hash=b3c59a4b5cb9ecbb1d8c4824ee4f6778}{%
+      \name{author}{2}{}{%
+        {{hash=478a4e851da9bee30461947173c002d1}{%
            family={Kaplan},
            familyi={K\bibinitperiod},
-           given={R.S.},
+           given={Robert},
            giveni={R\bibinitperiod}}}%
-        {{hash=b3c59a4b5cb9ecbb1d8c4824ee4f6778}{%
-           family={Kaplan},
-           familyi={K\bibinitperiod},
-           given={R.S.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=c1e720b3c905434919f8c3573d318502}{%
+        {{hash=36841f5c90a21950ca79928b098b6b08}{%
            family={Norton},
            familyi={N\bibinitperiod},
-           given={D.P.},
+           given={David},
            giveni={D\bibinitperiod}}}%
-        {{hash=c1e720b3c905434919f8c3573d318502}{%
-           family={Norton},
-           familyi={N\bibinitperiod},
-           given={D.P.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=cbf9a0c22376127c645301af108cb060}{%
-           family={Books24x7},
-           familyi={B\bibinitperiod},
-           given={Inc},
-           giveni={I\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Harvard Business School Press}%
       }
-      \strng{namehash}{c88e1e4727710b888475ea398751153f}
-      \strng{fullhash}{66dcca0cc296505b95f1869597bf2681}
-      \strng{bibnamehash}{c88e1e4727710b888475ea398751153f}
-      \strng{authorbibnamehash}{c88e1e4727710b888475ea398751153f}
-      \strng{authornamehash}{c88e1e4727710b888475ea398751153f}
-      \strng{authorfullhash}{66dcca0cc296505b95f1869597bf2681}
+      \strng{namehash}{b206d1c77d99c00f18587ca2e8d1f3bd}
+      \strng{fullhash}{b206d1c77d99c00f18587ca2e8d1f3bd}
+      \strng{bibnamehash}{b206d1c77d99c00f18587ca2e8d1f3bd}
+      \strng{authorbibnamehash}{b206d1c77d99c00f18587ca2e8d1f3bd}
+      \strng{authornamehash}{b206d1c77d99c00f18587ca2e8d1f3bd}
+      \strng{authorfullhash}{b206d1c77d99c00f18587ca2e8d1f3bd}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -3253,12 +3382,6 @@
       \range{pages}{6}
       \verb{doi}
       \verb 10.1007/s12176-018-0017-y
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/s12176-018-0017-y
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/s12176-018-0017-y
       \endverb
     \endentry
     \entry{kesten2019}{article}{}
@@ -3329,26 +3452,26 @@
     \endentry
     \entry{kiener2012produktions}{book}{}
       \name{author}{2}{}{%
-        {{hash=79c2d7b3d3e63012698191046f611df6}{%
+        {{hash=57cfd4b6a887633faa1f91d8487eca70}{%
            family={Kiener},
            familyi={K\bibinitperiod},
-           given={S.},
+           given={Stefan},
            giveni={S\bibinitperiod}}}%
-        {{hash=efd6691866d869dbee16faf1b8e8b0f1}{%
+        {{hash=14e266701a76b075220e3b3267665f15}{%
            family={Wei{ß}},
            familyi={W\bibinitperiod},
-           given={M.},
+           given={Manfred},
            giveni={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Oldenbourg}%
       }
-      \strng{namehash}{96e0e599c3895c8f00e19faaaa9d90be}
-      \strng{fullhash}{96e0e599c3895c8f00e19faaaa9d90be}
-      \strng{bibnamehash}{96e0e599c3895c8f00e19faaaa9d90be}
-      \strng{authorbibnamehash}{96e0e599c3895c8f00e19faaaa9d90be}
-      \strng{authornamehash}{96e0e599c3895c8f00e19faaaa9d90be}
-      \strng{authorfullhash}{96e0e599c3895c8f00e19faaaa9d90be}
+      \strng{namehash}{3ad04c362dc5231e0329f1064dd8ecbd}
+      \strng{fullhash}{3ad04c362dc5231e0329f1064dd8ecbd}
+      \strng{bibnamehash}{3ad04c362dc5231e0329f1064dd8ecbd}
+      \strng{authorbibnamehash}{3ad04c362dc5231e0329f1064dd8ecbd}
+      \strng{authornamehash}{3ad04c362dc5231e0329f1064dd8ecbd}
+      \strng{authorfullhash}{3ad04c362dc5231e0329f1064dd8ecbd}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -3356,12 +3479,6 @@
       \field{isbn}{9783486713428}
       \field{title}{Produktions-Management: Grundlagen der Produktionsplanung und -steuerung}
       \field{year}{2012}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=cLukpwAACAAJ
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=cLukpwAACAAJ
-      \endverb
     \endentry
     \entry{Kilger2012}{book}{}
       \name{author}{3}{}{%
@@ -3432,12 +3549,6 @@
       \field{year}{2001}
       \verb{doi}
       \verb 10.1007/978-3-642-57546-4
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-642-57546-4
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-642-57546-4
       \endverb
     \endentry
     \entry{schnell2018produktion}{article}{}
@@ -3741,21 +3852,21 @@
     \endentry
     \entry{kurbel2016enterprise}{book}{}
       \name{author}{1}{}{%
-        {{hash=3a91270605766b07ea2f621cde605194}{%
+        {{hash=1d6c135dd99078762e4b38a33baa8397}{%
            family={Kurbel},
            familyi={K\bibinitperiod},
-           given={K.},
+           given={Karl},
            giveni={K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {De Gruyter}%
       }
-      \strng{namehash}{3a91270605766b07ea2f621cde605194}
-      \strng{fullhash}{3a91270605766b07ea2f621cde605194}
-      \strng{bibnamehash}{3a91270605766b07ea2f621cde605194}
-      \strng{authorbibnamehash}{3a91270605766b07ea2f621cde605194}
-      \strng{authornamehash}{3a91270605766b07ea2f621cde605194}
-      \strng{authorfullhash}{3a91270605766b07ea2f621cde605194}
+      \strng{namehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{fullhash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{bibnamehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{authorbibnamehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{authornamehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{authorfullhash}{1d6c135dd99078762e4b38a33baa8397}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -3764,12 +3875,6 @@
       \field{series}{De Gruyter Studium}
       \field{title}{Enterprise Resource Planning und Supply Chain Management in der Industrie: Von MRP bis Industrie 4.0}
       \field{year}{2016}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=VSlBDAAAQBAJ
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=VSlBDAAAQBAJ
-      \endverb
     \endentry
     \entry{kuetz2011}{book}{}
       \name{author}{1}{}{%
@@ -4011,11 +4116,11 @@
            familyi={L\bibinitperiod},
            given={Egon},
            giveni={E\bibinitperiod}}}%
-        {{hash=0ea8ec93320fdbb570f556d1e5b396c8}{%
-           family={Klaus},
-           familyi={K\bibinitperiod},
-           given={Ulf\bibnamedelima Rüdiger},
-           giveni={U\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3ef915fa0bf7500f02f4398e910578a3}{%
+           family={Rüdiger},
+           familyi={R\bibinitperiod},
+           given={Ulf},
+           giveni={U\bibinitperiod}}}%
         {{hash=f272f905c3c675d1d932352e21faaa1b}{%
            family={Hölkermann},
            familyi={H\bibinitperiod},
@@ -4025,12 +4130,12 @@
       \list{publisher}{1}{%
         {Springer Fachmedien Wiesbaden}%
       }
-      \strng{namehash}{3668fe390c45cbd4b9b87c6dd240c94a}
-      \strng{fullhash}{3668fe390c45cbd4b9b87c6dd240c94a}
-      \strng{bibnamehash}{3668fe390c45cbd4b9b87c6dd240c94a}
-      \strng{authorbibnamehash}{3668fe390c45cbd4b9b87c6dd240c94a}
-      \strng{authornamehash}{3668fe390c45cbd4b9b87c6dd240c94a}
-      \strng{authorfullhash}{3668fe390c45cbd4b9b87c6dd240c94a}
+      \strng{namehash}{7f46d952d380698d036a6c486f4f6bc6}
+      \strng{fullhash}{7f46d952d380698d036a6c486f4f6bc6}
+      \strng{bibnamehash}{7f46d952d380698d036a6c486f4f6bc6}
+      \strng{authorbibnamehash}{7f46d952d380698d036a6c486f4f6bc6}
+      \strng{authornamehash}{7f46d952d380698d036a6c486f4f6bc6}
+      \strng{authorfullhash}{7f46d952d380698d036a6c486f4f6bc6}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
       \field{labelnamesource}{author}
@@ -4116,45 +4221,6 @@
       \verb{doi}
       \verb 10.1007/bf01999751
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/bf01999751
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/bf01999751
-      \endverb
-    \endentry
-    \entry{Lindl1994}{book}{}
-      \name{author}{1}{}{%
-        {{hash=5e8f242cab5cf3a36a1959d045ab6b40}{%
-           family={Lindl},
-           familyi={L\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Berlin Heidelberg}%
-      }
-      \strng{namehash}{5e8f242cab5cf3a36a1959d045ab6b40}
-      \strng{fullhash}{5e8f242cab5cf3a36a1959d045ab6b40}
-      \strng{bibnamehash}{5e8f242cab5cf3a36a1959d045ab6b40}
-      \strng{authorbibnamehash}{5e8f242cab5cf3a36a1959d045ab6b40}
-      \strng{authornamehash}{5e8f242cab5cf3a36a1959d045ab6b40}
-      \strng{authorfullhash}{5e8f242cab5cf3a36a1959d045ab6b40}
-      \field{sortinit}{L}
-      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Auftragsleittechnik für Konstruktion und Arbeitsplanung}
-      \field{year}{1994}
-      \verb{doi}
-      \verb 10.1007/978-3-662-05915-9
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-662-05915-9
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-662-05915-9
-      \endverb
     \endentry
     \entry{Loedding2016}{book}{}
       \name{author}{1}{}{%
@@ -4239,7 +4305,6 @@
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Beobachter rekonstruieren den Zustand aus dem Verlauf der Eingangsgr{ö}{ß}en und der Ausgangsgr{ö}{ß}en. Nach einer Erl{ä}uterung des Beobachterproblems werden verschiedene L{ö}sungswege f{ü}r den Beobachterentwurf behandelt und an Beispielen illustriert. F{ü}r die Realisierung von Zustandsr{ü}ckf{ü}hrungen mit Beobachtern ist das Separationstheorem von fundamentaler Bedeutung, denn es erm{ö}glicht den getrennten Entwurf der R{ü}ckf{ü}hrung und des Beobachters. Abschlie{ß}end werden Parallelen zum Kalmanfilter aufgezeigt.}
       \field{booktitle}{Regelungstechnik 2: Mehrgr{ö}{ß}ensysteme, Digitale Regelung}
       \field{isbn}{978-3-662-60760-2}
       \field{title}{Beobachterentwurf}
@@ -4249,11 +4314,88 @@
       \verb{doi}
       \verb 10.1007/978-3-662-60760-2_8
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-662-60760-2_8
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-662-60760-2_8
+    \endentry
+    \entry{luzzini2014organizing}{article}{}
+      \name{author}{5}{}{%
+        {{hash=84c48a47abd25142ac7d1fd52b1bc56c}{%
+           family={Luzzini},
+           familyi={L\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod}}}%
+        {{hash=81ac23be428f1c0ca58ed3046915ed1c}{%
+           family={Longoni},
+           familyi={L\bibinitperiod},
+           given={Annachiara},
+           giveni={A\bibinitperiod}}}%
+        {{hash=038da301833e91239713ff891d0c57c2}{%
+           family={Moretto},
+           familyi={M\bibinitperiod},
+           given={Antonella},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5bc5a891ca53db9f8acba5f237af8b88}{%
+           family={Caniato},
+           familyi={C\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=be0cb6aa025a966eb07068ccc545fcab}{%
+           family={Brun},
+           familyi={B\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{60699f5506a877be1915d08c2f00165a}
+      \strng{fullhash}{f0c8c541c703d541b6b7c8ce36d78352}
+      \strng{bibnamehash}{60699f5506a877be1915d08c2f00165a}
+      \strng{authorbibnamehash}{60699f5506a877be1915d08c2f00165a}
+      \strng{authornamehash}{60699f5506a877be1915d08c2f00165a}
+      \strng{authorfullhash}{f0c8c541c703d541b6b7c8ce36d78352}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Purchasing and Supply Management}
+      \field{number}{3}
+      \field{title}{Organizing IT purchases: Evidence from a global study}
+      \field{volume}{20}
+      \field{year}{2014}
+      \field{pages}{143\bibrangedash 155}
+      \range{pages}{13}
+    \endentry
+    \entry{Madauss2017}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=34d4b633cb65128f270eb39984b2acb7}{%
+           family={Madauss},
+           familyi={M\bibinitperiod},
+           given={Bernd-J.},
+           giveni={B\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{34d4b633cb65128f270eb39984b2acb7}
+      \strng{fullhash}{34d4b633cb65128f270eb39984b2acb7}
+      \strng{bibnamehash}{34d4b633cb65128f270eb39984b2acb7}
+      \strng{authorbibnamehash}{34d4b633cb65128f270eb39984b2acb7}
+      \strng{authornamehash}{34d4b633cb65128f270eb39984b2acb7}
+      \strng{authorfullhash}{34d4b633cb65128f270eb39984b2acb7}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Projektmanagement: Theorie und Praxis aus einer Hand}
+      \field{isbn}{978-3-662-54432-7}
+      \field{title}{Lebenszyklus eines Projektes}
+      \field{year}{2017}
+      \field{pages}{105\bibrangedash 135}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1007/978-3-662-54432-7_4
       \endverb
     \endentry
     \entry{Mahlmann1976}{thesis}{}
@@ -4359,26 +4501,26 @@
     \endentry
     \entry{mathar2009unternehmenslogistik}{book}{}
       \name{author}{2}{}{%
-        {{hash=bab8675954c2ce9a0dbfd1e06e7357ae}{%
+        {{hash=dd4a6e50ed5098b1a6465b8653ff1176}{%
            family={Mathar},
            familyi={M\bibinitperiod},
-           given={H.J.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=fef37bb2ad53808d3b659ab6793d7537}{%
+           given={Hans-Joachim},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=06c61d9d3dcf155cee750ff5940a1200}{%
            family={Scheuring},
            familyi={S\bibinitperiod},
-           given={J.},
+           given={Johannes},
            giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Compendio Bildungsmedien}%
       }
-      \strng{namehash}{18816b80067bb83dd7a9bdeb8ccdf752}
-      \strng{fullhash}{18816b80067bb83dd7a9bdeb8ccdf752}
-      \strng{bibnamehash}{18816b80067bb83dd7a9bdeb8ccdf752}
-      \strng{authorbibnamehash}{18816b80067bb83dd7a9bdeb8ccdf752}
-      \strng{authornamehash}{18816b80067bb83dd7a9bdeb8ccdf752}
-      \strng{authorfullhash}{18816b80067bb83dd7a9bdeb8ccdf752}
+      \strng{namehash}{536e9775ba8b5d29f7887ef2fc2f390a}
+      \strng{fullhash}{536e9775ba8b5d29f7887ef2fc2f390a}
+      \strng{bibnamehash}{536e9775ba8b5d29f7887ef2fc2f390a}
+      \strng{authorbibnamehash}{536e9775ba8b5d29f7887ef2fc2f390a}
+      \strng{authornamehash}{536e9775ba8b5d29f7887ef2fc2f390a}
+      \strng{authorfullhash}{536e9775ba8b5d29f7887ef2fc2f390a}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -4469,6 +4611,33 @@
       \field{title}{Kunden-Bilanz-Analyse der Kreditinstitute: eine Einf{ü}hrung in die Jahresabschluss-Analyse und in die Analyse-Praxis der Kreditinstitute}
       \field{year}{1989}
     \endentry
+    \entry{Lindl1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66063f77daf19a563c2b98ec4c861b6a}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={Lindl},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{66063f77daf19a563c2b98ec4c861b6a}
+      \strng{fullhash}{66063f77daf19a563c2b98ec4c861b6a}
+      \strng{bibnamehash}{66063f77daf19a563c2b98ec4c861b6a}
+      \strng{authorbibnamehash}{66063f77daf19a563c2b98ec4c861b6a}
+      \strng{authornamehash}{66063f77daf19a563c2b98ec4c861b6a}
+      \strng{authorfullhash}{66063f77daf19a563c2b98ec4c861b6a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Auftragsleittechnik für Konstruktion und Arbeitsplanung}
+      \field{year}{1994}
+      \verb{doi}
+      \verb 10.1007/978-3-662-05915-9
+      \endverb
+    \endentry
     \entry{mirschel2007messung}{book}{}
       \name{author}{1}{}{%
         {{hash=9ad975c9d332d7abcc9c225cb8ea8fa5}{%
@@ -4497,21 +4666,21 @@
     \endentry
     \entry{mohrmann2007facility}{book}{}
       \name{author}{1}{}{%
-        {{hash=0335e723de9779eacf219f42508b8c47}{%
+        {{hash=ca5739386aa4989a7b19210e4dae84ca}{%
            family={Mohrmann},
            familyi={M\bibinitperiod},
-           given={M.},
+           given={Martin},
            giveni={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Books on Demand}%
       }
-      \strng{namehash}{0335e723de9779eacf219f42508b8c47}
-      \strng{fullhash}{0335e723de9779eacf219f42508b8c47}
-      \strng{bibnamehash}{0335e723de9779eacf219f42508b8c47}
-      \strng{authorbibnamehash}{0335e723de9779eacf219f42508b8c47}
-      \strng{authornamehash}{0335e723de9779eacf219f42508b8c47}
-      \strng{authorfullhash}{0335e723de9779eacf219f42508b8c47}
+      \strng{namehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{fullhash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{bibnamehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{authorbibnamehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{authornamehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{authorfullhash}{ca5739386aa4989a7b19210e4dae84ca}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -5337,20 +5506,20 @@
            giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=45ff20ca5f2fcdc4b117d07041e3e514}{%
+        {{hash=f38ce39f3b6d91fc38d704c6a342c4a2}{%
            family={Hansen},
            familyi={H\bibinitperiod},
-           given={H.\bibnamedelimi R.},
+           given={Hans\bibnamedelima Robert},
            giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=381a61165e2c467689bdf4cccb086ba0}{%
+        {{hash=9ca796a3dc1bca9e63ec8766fe0b695d}{%
            family={Karagiannis},
            familyi={K\bibinitperiod},
-           given={D.},
+           given={Dimitris},
            giveni={D\bibinitperiod}}}%
-        {{hash=25a032c36fb3532d04839e5fdb2b9b6f}{%
+        {{hash=9c359579da14c40804fa1a88939276d2}{%
            family={Fill},
            familyi={F\bibinitperiod},
-           given={H.-G.},
+           given={Hans-Georg},
            giveni={H\bibinithyphendelim G\bibinitperiod}}}%
       }
       \list{location}{1}{%
@@ -5365,9 +5534,9 @@
       \strng{authorbibnamehash}{6ae2036e4b30199467eb13da040b2b43}
       \strng{authornamehash}{6ae2036e4b30199467eb13da040b2b43}
       \strng{authorfullhash}{6ae2036e4b30199467eb13da040b2b43}
-      \strng{editorbibnamehash}{c43bc28316e5a40c9e26b9ed241e22df}
-      \strng{editornamehash}{c43bc28316e5a40c9e26b9ed241e22df}
-      \strng{editorfullhash}{c43bc28316e5a40c9e26b9ed241e22df}
+      \strng{editorbibnamehash}{a98d937259fb0474f7ec03f1e281a627}
+      \strng{editornamehash}{a98d937259fb0474f7ec03f1e281a627}
+      \strng{editorfullhash}{a98d937259fb0474f7ec03f1e281a627}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
@@ -5568,53 +5737,23 @@
       \verb 10.1007/978-3-658-21327-5_1
       \endverb
     \endentry
-    \entry{schaeffer2015controlling}{book}{}
-      \name{author}{2}{}{%
-        {{hash=933ebdc336ef2c41094a653915c48aa6}{%
-           family={Sch{ä}ffer},
-           familyi={S\bibinitperiod},
-           given={U.},
-           giveni={U\bibinitperiod}}}%
-        {{hash=0f08e2413f70481eba52a73d540bbd56}{%
-           family={Weber},
-           familyi={W\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {WHU - Otto Beisheim School of Management}%
-      }
-      \strng{namehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
-      \strng{fullhash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
-      \strng{bibnamehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
-      \strng{authorbibnamehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
-      \strng{authornamehash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
-      \strng{authorfullhash}{d9d384e8da5ef93671cc4a9fe73b9e2a}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9783937141930}
-      \field{title}{Controlling - Trends \& Benchmarks}
-      \field{year}{2015}
-    \endentry
     \entry{schenk1939betriebskennzahlen}{book}{}
       \name{author}{1}{}{%
-        {{hash=13b09500170dbf1801af4f57aedf8a9c}{%
+        {{hash=a488edc4a2709737dbc716f1860af265}{%
            family={Schenk},
            familyi={S\bibinitperiod},
-           given={H.},
+           given={Hans},
            giveni={H\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Leipzig}%
       }
-      \strng{namehash}{13b09500170dbf1801af4f57aedf8a9c}
-      \strng{fullhash}{13b09500170dbf1801af4f57aedf8a9c}
-      \strng{bibnamehash}{13b09500170dbf1801af4f57aedf8a9c}
-      \strng{authorbibnamehash}{13b09500170dbf1801af4f57aedf8a9c}
-      \strng{authornamehash}{13b09500170dbf1801af4f57aedf8a9c}
-      \strng{authorfullhash}{13b09500170dbf1801af4f57aedf8a9c}
+      \strng{namehash}{a488edc4a2709737dbc716f1860af265}
+      \strng{fullhash}{a488edc4a2709737dbc716f1860af265}
+      \strng{bibnamehash}{a488edc4a2709737dbc716f1860af265}
+      \strng{authorbibnamehash}{a488edc4a2709737dbc716f1860af265}
+      \strng{authornamehash}{a488edc4a2709737dbc716f1860af265}
+      \strng{authorfullhash}{a488edc4a2709737dbc716f1860af265}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -5729,36 +5868,36 @@
     \endentry
     \entry{schnell2012kennzahlen}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=534c25a964eeb99913bcb796baab9aab}{%
+        {{hash=4c2b1d3faa6f398b129174eeec6794ca}{%
            family={Schnell},
            familyi={S\bibinitperiod},
-           given={H.},
+           given={Harald},
            giveni={H\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=29d45a9eb0ebe08234f6b49e7858f2ef}{%
+        {{hash=dcc821618636330ec34787596c4a78f8}{%
            family={Klein},
            familyi={K\bibinitperiod},
-           given={A.},
+           given={Andreas},
            giveni={A\bibinitperiod}}}%
-        {{hash=534c25a964eeb99913bcb796baab9aab}{%
+        {{hash=4c2b1d3faa6f398b129174eeec6794ca}{%
            family={Schnell},
            familyi={S\bibinitperiod},
-           given={H.},
+           given={Harald},
            giveni={H\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Haufe Lexware}%
       }
-      \strng{namehash}{534c25a964eeb99913bcb796baab9aab}
-      \strng{fullhash}{534c25a964eeb99913bcb796baab9aab}
-      \strng{bibnamehash}{534c25a964eeb99913bcb796baab9aab}
-      \strng{authorbibnamehash}{534c25a964eeb99913bcb796baab9aab}
-      \strng{authornamehash}{534c25a964eeb99913bcb796baab9aab}
-      \strng{authorfullhash}{534c25a964eeb99913bcb796baab9aab}
-      \strng{editorbibnamehash}{da8d7b94fd2e19f18059b8044a8c04ab}
-      \strng{editornamehash}{da8d7b94fd2e19f18059b8044a8c04ab}
-      \strng{editorfullhash}{da8d7b94fd2e19f18059b8044a8c04ab}
+      \strng{namehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{fullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{bibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorbibnamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authornamehash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{authorfullhash}{4c2b1d3faa6f398b129174eeec6794ca}
+      \strng{editorbibnamehash}{66e00961d3fe2189f6b77ffc8cd1126e}
+      \strng{editornamehash}{66e00961d3fe2189f6b77ffc8cd1126e}
+      \strng{editorfullhash}{66e00961d3fe2189f6b77ffc8cd1126e}
       \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
@@ -6070,12 +6209,6 @@
       \verb{doi}
       \verb 10.1007/978-3-662-09474-7
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-662-09474-7
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-662-09474-7
-      \endverb
     \endentry
     \entry{Schroeter2002}{book}{}
       \name{author}{1}{}{%
@@ -6110,38 +6243,6 @@
       \verb https://doi.org/10.1007/978-3-322-90664-9
       \endverb
     \endentry
-    \entry{schweitzer1994industriebetriebslehre}{book}{}
-      \name{author}{1}{}{%
-        {{hash=d44e91cc5e095d23991518cb5d074aac}{%
-           family={Schweitzer},
-           familyi={S\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Vahlen}%
-      }
-      \strng{namehash}{d44e91cc5e095d23991518cb5d074aac}
-      \strng{fullhash}{d44e91cc5e095d23991518cb5d074aac}
-      \strng{bibnamehash}{d44e91cc5e095d23991518cb5d074aac}
-      \strng{authorbibnamehash}{d44e91cc5e095d23991518cb5d074aac}
-      \strng{authornamehash}{d44e91cc5e095d23991518cb5d074aac}
-      \strng{authorfullhash}{d44e91cc5e095d23991518cb5d074aac}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9783800617555}
-      \field{series}{Vahlens Handb{ü}cher der Wirtschafts- und Sozialwissenschaften}
-      \field{title}{Industriebetriebslehre: das Wirtschaften in Industrieunternehmungen}
-      \field{year}{1994}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=uFwpJwAACAAJ
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=uFwpJwAACAAJ
-      \endverb
-    \endentry
     \entry{schweitzer2011systeme}{book}{}
       \name{author}{2}{}{%
         {{hash=8800a2ff99e5440bfd3a768a1702565c}{%
@@ -6173,6 +6274,32 @@
       \field{title}{Systeme der Kosten- und Erl{ö}srechnung}
       \field{year}{2011}
     \endentry
+    \entry{schweitzer1994industriebetriebslehre}{book}{}
+      \name{author}{1}{}{%
+        {{hash=59891506c715b2c991a2faf75dc47c81}{%
+           family={Schweitzer},
+           familyi={S\bibinitperiod},
+           given={Marcell},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Vahlen}%
+      }
+      \strng{namehash}{59891506c715b2c991a2faf75dc47c81}
+      \strng{fullhash}{59891506c715b2c991a2faf75dc47c81}
+      \strng{bibnamehash}{59891506c715b2c991a2faf75dc47c81}
+      \strng{authorbibnamehash}{59891506c715b2c991a2faf75dc47c81}
+      \strng{authornamehash}{59891506c715b2c991a2faf75dc47c81}
+      \strng{authorfullhash}{59891506c715b2c991a2faf75dc47c81}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783800617555}
+      \field{series}{Vahlens Handb{ü}cher der Wirtschafts- und Sozialwissenschaften}
+      \field{title}{Industriebetriebslehre: das Wirtschaften in Industrieunternehmungen}
+      \field{year}{1994}
+    \endentry
     \entry{seebacher2013ansatze}{book}{}
       \name{author}{1}{}{%
         {{hash=0191e7945fb25cd186e8d4f33e3ca31f}{%
@@ -6198,42 +6325,6 @@
       \field{title}{Ans{ä}tze zur Beurteilung der produktionswirtschaftlichen Flexibilit{ä}t}
       \field{volume}{4}
       \field{year}{2013}
-    \endentry
-    \entry{Seelbach1975}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=263d72c31727a95cb5a7dd1e23d78bd5}{%
-           family={Seelbach},
-           familyi={S\bibinitperiod},
-           given={Horst},
-           giveni={H\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Physica-Verlag {HD}}%
-      }
-      \strng{namehash}{263d72c31727a95cb5a7dd1e23d78bd5}
-      \strng{fullhash}{263d72c31727a95cb5a7dd1e23d78bd5}
-      \strng{bibnamehash}{263d72c31727a95cb5a7dd1e23d78bd5}
-      \strng{authorbibnamehash}{263d72c31727a95cb5a7dd1e23d78bd5}
-      \strng{authornamehash}{263d72c31727a95cb5a7dd1e23d78bd5}
-      \strng{authorfullhash}{263d72c31727a95cb5a7dd1e23d78bd5}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Ablaufplanung}
-      \field{title}{Kombinatorische Verfahren in der Ablaufplanung}
-      \field{year}{1975}
-      \field{pages}{80\bibrangedash 149}
-      \range{pages}{70}
-      \verb{doi}
-      \verb 10.1007/978-3-662-41497-2_4
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-662-41497-2_4
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-662-41497-2_4
-      \endverb
     \endentry
     \entry{Sethi1990}{article}{}
       \name{author}{2}{}{%
@@ -6328,12 +6419,6 @@
       \verb{doi}
       \verb 10.1007/978-3-662-07197-7
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-662-07197-7
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-662-07197-7
-      \endverb
     \endentry
     \entry{Sinsel2020}{book}{}
       \name{author}{1}{}{%
@@ -6360,12 +6445,6 @@
       \field{year}{2020}
       \verb{doi}
       \verb 10.1007/978-3-662-59761-3
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-662-59761-3
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-662-59761-3
       \endverb
     \endentry
     \entry{Sochaki2020}{inproceedings}{}
@@ -6412,7 +6491,6 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Die Durchf{ü}hrung von Wartungsma{ß}nahmen w{ä}hrend der gesamten Nutzungsphase eines technisch komplexen Produkts ist f{ü}r den zuverl{ä}ssigen und sicheren Betrieb sowie zur Gew{ä}hrleistung einer hohen Produktverf{ü}gbarkeit unerl{ä}sslich. Durch die zunehmende Fahrzeugkomplexit{ä}t werden Automobilhersteller bez{ü}glich der Wartung und Qualit{ä}tssicherung {ü}ber den gesamten Produktlebenszyklus vor immer gr{ö}{ß}ere Herausforderungen gestellt [12]. In der Automobilindustrie ist die vorausbestimmte Wartung von Fahrzeugen fest etabliert [14]. Hierbei sind Wartungsintervalle f{ü}r bestimmte Kilometerlaufleistungen oder Einsatzzeiten durch die Hersteller vorgegeben. Bei jedem Wartungsintervall werden verschiedene Wartungsarbeiten, welche in Wartungspaketen zusammengefasst sind, durchgef{ü}hrt.}
       \field{booktitle}{Potenziale K{ü}nstlicher Intelligenz f{ü}r die Qualit{ä}tswissenschaft}
       \field{isbn}{978-3-662-60692-6}
       \field{title}{Ansatz zur Anpassung von Wartungs- und Instandhaltungspaketen auf Basis maschineller Lernalgorithmen im Hinblick auf den zuverl{ä}ssigen Betrieb technisch komplexer Produkte}
@@ -6511,6 +6589,37 @@
       \field{number}{WP No. 392}
       \field{title}{Variations in flexible manufacturing systems according to the relevant types of automated materials handling}
       \field{year}{1984}
+    \endentry
+    \entry{susskind2015future}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e2782cb3012f4aabbc67ccb4de7426bf}{%
+           family={Susskind},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fc33fdf94834a3306da71d39aa130e71}{%
+           family={Susskind},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press, USA}%
+      }
+      \strng{namehash}{5c105cf425c5d03755f67335bfa13261}
+      \strng{fullhash}{5c105cf425c5d03755f67335bfa13261}
+      \strng{bibnamehash}{5c105cf425c5d03755f67335bfa13261}
+      \strng{authorbibnamehash}{5c105cf425c5d03755f67335bfa13261}
+      \strng{authornamehash}{5c105cf425c5d03755f67335bfa13261}
+      \strng{authorfullhash}{5c105cf425c5d03755f67335bfa13261}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The future of the professions: How technology will transform the work of human experts}
+      \field{year}{2015}
+      \field{pages}{30\bibrangedash 31}
+      \range{pages}{2}
     \endentry
     \entry{syska2006}{incollection}{}
       \name{author}{1}{}{%
@@ -6637,6 +6746,36 @@
       \field{pages}{153\bibrangedash 164}
       \range{pages}{12}
     \endentry
+    \entry{schaeffer2015controlling}{book}{}
+      \name{author}{2}{}{%
+        {{hash=94e8207e57fa24e937f218b42e01cf7b}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Sch{ä}ffer},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b59f69a9b46078ed409ed4460fc39488}{%
+           family={Jürgen},
+           familyi={J\bibinitperiod},
+           given={Weber},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WHU - Otto Beisheim School of Management}%
+      }
+      \strng{namehash}{3d0f4a6e349c33e02fc2e73262080e22}
+      \strng{fullhash}{3d0f4a6e349c33e02fc2e73262080e22}
+      \strng{bibnamehash}{3d0f4a6e349c33e02fc2e73262080e22}
+      \strng{authorbibnamehash}{3d0f4a6e349c33e02fc2e73262080e22}
+      \strng{authornamehash}{3d0f4a6e349c33e02fc2e73262080e22}
+      \strng{authorfullhash}{3d0f4a6e349c33e02fc2e73262080e22}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783937141930}
+      \field{title}{Controlling - Trends \& Benchmarks}
+      \field{year}{2015}
+    \endentry
     \entry{Upton1997ProcessRI}{article}{}
       \name{author}{1}{}{%
         {{hash=eb10c4d9a6019c645b458aaf035bb613}{%
@@ -6696,21 +6835,21 @@
     \endentry
     \entry{vahrenkamp2008produktionsmanagement}{book}{}
       \name{author}{1}{}{%
-        {{hash=8dc2f25b38e0a27b81f9229dc7fa1811}{%
+        {{hash=f34ededd938c160bee73cbe486afadd9}{%
            family={Vahrenkamp},
            familyi={V\bibinitperiod},
-           given={R.},
+           given={Richard},
            giveni={R\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Oldenbourg}%
       }
-      \strng{namehash}{8dc2f25b38e0a27b81f9229dc7fa1811}
-      \strng{fullhash}{8dc2f25b38e0a27b81f9229dc7fa1811}
-      \strng{bibnamehash}{8dc2f25b38e0a27b81f9229dc7fa1811}
-      \strng{authorbibnamehash}{8dc2f25b38e0a27b81f9229dc7fa1811}
-      \strng{authornamehash}{8dc2f25b38e0a27b81f9229dc7fa1811}
-      \strng{authorfullhash}{8dc2f25b38e0a27b81f9229dc7fa1811}
+      \strng{namehash}{f34ededd938c160bee73cbe486afadd9}
+      \strng{fullhash}{f34ededd938c160bee73cbe486afadd9}
+      \strng{bibnamehash}{f34ededd938c160bee73cbe486afadd9}
+      \strng{authorbibnamehash}{f34ededd938c160bee73cbe486afadd9}
+      \strng{authornamehash}{f34ededd938c160bee73cbe486afadd9}
+      \strng{authorfullhash}{f34ededd938c160bee73cbe486afadd9}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
@@ -6718,12 +6857,6 @@
       \field{isbn}{9783486587845}
       \field{title}{Produktionsmanagement}
       \field{year}{2008}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=uY-4K0-ddaIC
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=uY-4K0-ddaIC
-      \endverb
     \endentry
     \entry{Voigt2007}{article}{}
       \name{author}{1}{}{%
@@ -7083,12 +7216,6 @@
       \verb{doi}
       \verb 10.1007/978-3-642-56286-0
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-642-56286-0
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-642-56286-0
-      \endverb
     \endentry
     \entry{Wiendahl2009}{book}{}
       \name{author}{3}{}{%
@@ -7301,21 +7428,21 @@
     \endentry
     \entry{zaepfel2010grundzuege}{book}{}
       \name{author}{1}{}{%
-        {{hash=9a07da34ec921a39a02e9ef057cb1a21}{%
+        {{hash=676c79bd426bbd531cc028b4a52b9bd6}{%
            family={Z{ä}pfel},
            familyi={Z\bibinitperiod},
-           given={G.},
+           given={Günther},
            giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Oldenbourg}%
       }
-      \strng{namehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{fullhash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{bibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorbibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authornamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorfullhash}{9a07da34ec921a39a02e9ef057cb1a21}
+      \strng{namehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{fullhash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{bibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorbibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authornamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorfullhash}{676c79bd426bbd531cc028b4a52b9bd6}
       \field{extraname}{1}
       \field{sortinit}{Z}
       \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
@@ -7328,21 +7455,21 @@
     \endentry
     \entry{zaepfel1982operatives}{book}{}
       \name{author}{1}{}{%
-        {{hash=9a07da34ec921a39a02e9ef057cb1a21}{%
+        {{hash=676c79bd426bbd531cc028b4a52b9bd6}{%
            family={Z{ä}pfel},
            familyi={Z\bibinitperiod},
-           given={G.},
+           given={Günther},
            giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {de Gruyter}%
       }
-      \strng{namehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{fullhash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{bibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorbibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authornamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorfullhash}{9a07da34ec921a39a02e9ef057cb1a21}
+      \strng{namehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{fullhash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{bibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorbibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authornamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorfullhash}{676c79bd426bbd531cc028b4a52b9bd6}
       \field{extraname}{2}
       \field{sortinit}{Z}
       \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
@@ -7355,21 +7482,21 @@
     \endentry
     \entry{zaepfel2014strategisches}{book}{}
       \name{author}{1}{}{%
-        {{hash=9a07da34ec921a39a02e9ef057cb1a21}{%
+        {{hash=676c79bd426bbd531cc028b4a52b9bd6}{%
            family={Z{ä}pfel},
            familyi={Z\bibinitperiod},
-           given={G.},
+           given={Günther},
            giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {De Gruyter}%
       }
-      \strng{namehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{fullhash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{bibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorbibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authornamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorfullhash}{9a07da34ec921a39a02e9ef057cb1a21}
+      \strng{namehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{fullhash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{bibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorbibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authornamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorfullhash}{676c79bd426bbd531cc028b4a52b9bd6}
       \field{extraname}{3}
       \field{sortinit}{Z}
       \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
@@ -7381,21 +7508,21 @@
     \endentry
     \entry{zaepfel2010taktisches}{book}{}
       \name{author}{1}{}{%
-        {{hash=9a07da34ec921a39a02e9ef057cb1a21}{%
+        {{hash=676c79bd426bbd531cc028b4a52b9bd6}{%
            family={Z{ä}pfel},
            familyi={Z\bibinitperiod},
-           given={G.},
+           given={Günther},
            giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {De Gruyter}%
       }
-      \strng{namehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{fullhash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{bibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorbibnamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authornamehash}{9a07da34ec921a39a02e9ef057cb1a21}
-      \strng{authorfullhash}{9a07da34ec921a39a02e9ef057cb1a21}
+      \strng{namehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{fullhash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{bibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorbibnamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authornamehash}{676c79bd426bbd531cc028b4a52b9bd6}
+      \strng{authorfullhash}{676c79bd426bbd531cc028b4a52b9bd6}
       \field{extraname}{4}
       \field{sortinit}{Z}
       \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
@@ -7408,31 +7535,31 @@
     \endentry
     \entry{zelewski2008produktionsplanungs}{book}{}
       \name{author}{3}{}{%
-        {{hash=9ea8c89094c6208a363e81f3a3f1902f}{%
+        {{hash=ffc49c951bb47d463cb1b3149d0db3ed}{%
            family={Zelewski},
            familyi={Z\bibinitperiod},
-           given={S.},
+           given={Stefan},
            giveni={S\bibinitperiod}}}%
-        {{hash=6de10d28d32e894cbf852dbaef0e7cae}{%
+        {{hash=44efb2285a615ea24270fc8cf5e6ec3c}{%
            family={Hohmann},
            familyi={H\bibinitperiod},
-           given={S.},
+           given={Susanne},
            giveni={S\bibinitperiod}}}%
-        {{hash=9abb1167f3f2db14b4c521e227f89247}{%
+        {{hash=80903ced8fb5e1df1f290813bcac0418}{%
            family={H{ü}gens},
            familyi={H\bibinitperiod},
-           given={T.},
+           given={Torben},
            giveni={T\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Oldenbourg}%
       }
-      \strng{namehash}{11b0efc170cda40288c8039cdc83de0f}
-      \strng{fullhash}{11b0efc170cda40288c8039cdc83de0f}
-      \strng{bibnamehash}{11b0efc170cda40288c8039cdc83de0f}
-      \strng{authorbibnamehash}{11b0efc170cda40288c8039cdc83de0f}
-      \strng{authornamehash}{11b0efc170cda40288c8039cdc83de0f}
-      \strng{authorfullhash}{11b0efc170cda40288c8039cdc83de0f}
+      \strng{namehash}{e92c43ffd3efbfa49461a98dedeabd2f}
+      \strng{fullhash}{e92c43ffd3efbfa49461a98dedeabd2f}
+      \strng{bibnamehash}{e92c43ffd3efbfa49461a98dedeabd2f}
+      \strng{authorbibnamehash}{e92c43ffd3efbfa49461a98dedeabd2f}
+      \strng{authornamehash}{e92c43ffd3efbfa49461a98dedeabd2f}
+      \strng{authorfullhash}{e92c43ffd3efbfa49461a98dedeabd2f}
       \field{sortinit}{Z}
       \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
       \field{labelnamesource}{author}

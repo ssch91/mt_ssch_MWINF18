@@ -61,13 +61,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.5}Ablaufplanung}{37}{subsubsection.0.3.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.6}Auftrags\"uberwachung}{39}{subsubsection.0.3.2.6}% 
+\contentsline {subsubsection}{\numberline {3.2.6}Auftrags\"uberwachung}{38}{subsubsection.0.3.2.6}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3}Teilbereiche}{41}{subsection.0.3.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.1}Strategisches Produktionscontrolling}{42}{subsubsection.0.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Taktisch-operatives Produktionscontrolling}{44}{subsubsection.0.3.3.2}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Taktisch-operatives Produktionscontrolling}{43}{subsubsection.0.3.3.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.3}Stufenweiser Ansatz}{45}{subsubsection.0.3.3.3}% 
 \defcounter {refsection}{0}\relax 
@@ -75,19 +75,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.1}Kosten-Leistungsrechnung}{46}{subsubsection.0.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.2}Produktlebenszyklus-Analyse}{47}{subsubsection.0.3.4.2}% 
+\contentsline {subsubsection}{\numberline {3.4.2}Produktlebenszyklus-Analyse}{46}{subsubsection.0.3.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3}Balanced Scorecard}{47}{subsubsection.0.3.4.3}% 
+\contentsline {subsubsection}{\numberline {3.4.3}Balanced Scorecard}{46}{subsubsection.0.3.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.4}Kennzahlen und Kennzahlensysteme}{49}{subsubsection.0.3.4.4}% 
+\contentsline {subsubsection}{\numberline {3.4.4}Kennzahlen und Kennzahlensysteme}{48}{subsubsection.0.3.4.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\numberline {3.4.4.1}Funktionsorientierter Ansatz}{50}{paragraph.0.3.4.4.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\numberline {3.4.4.2}Bereichsklassifizierender Ansatz}{51}{paragraph.0.3.4.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.4.4.3}Dreistufiger Effizienzansatz}{53}{paragraph.0.3.4.4.3}% 
+\contentsline {paragraph}{\numberline {3.4.4.3}Dreistufiger Effizienzansatz}{52}{paragraph.0.3.4.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.4.4.4}Erfolgsfaktoren-orientierter Ansatz mit Balanced Scorecard}{54}{paragraph.0.3.4.4.4}% 
+\contentsline {paragraph}{\numberline {3.4.4.4}Erfolgsfaktoren-orientierter Ansatz mit Balanced Scorecard}{53}{paragraph.0.3.4.4.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Flexibilit\"at}{56}{section.0.4}% 
 \defcounter {refsection}{0}\relax 
@@ -107,44 +107,44 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.3.1}Adaption Flexibilit\"atskonzeption}{76}{subsubsection.0.4.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2}Adaption der Betrachtungsgegenst\"ande}{78}{subsubsection.0.4.3.2}% 
+\contentsline {subsubsection}{\numberline {4.3.2}Adaption der Betrachtungsgegenst\"ande}{77}{subsubsection.0.4.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.3}Adaption von Ans\"atzen zur Messung}{78}{subsubsection.0.4.3.3}% 
+\contentsline {subsubsection}{\numberline {4.3.3}Adaption von Ans\"atzen zur Messung}{83}{subsubsection.0.4.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Rahmenwerk zur Bewertung}{78}{section.0.5}% 
+\contentsline {section}{\numberline {5}Rahmenwerk zur Bewertung}{83}{section.0.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Konzeptionelle Idee}{78}{subsection.0.5.1}% 
+\contentsline {subsection}{\numberline {5.1}Konzeptionelle Idee}{83}{subsection.0.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Dimensionsdefinition}{78}{subsection.0.5.2}% 
+\contentsline {subsection}{\numberline {5.2}Dimensionsdefinition}{83}{subsection.0.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Das Rahmenwerk als Resultat}{78}{subsection.0.5.3}% 
+\contentsline {subsection}{\numberline {5.3}Das Rahmenwerk als Resultat}{83}{subsection.0.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4}Interpretation als Werttreiber}{78}{subsection.0.5.4}% 
+\contentsline {subsection}{\numberline {5.4}Interpretation als Werttreiber}{83}{subsection.0.5.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Ausblick und Potential}{78}{section.0.6}% 
+\contentsline {section}{\numberline {6}Ausblick und Potential}{83}{section.0.6}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Quellenverzeichnis}{VIII}{section.0.6}% 
 \defcounter {refsection}{0}\relax 
 \setcounter {tocdepth}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Anhang}{XXVII}{chapter*.73}% 
+\contentsline {section}{Anhang}{XXVI}{chapter*.73}% 
 \defcounter {refsection}{0}\relax 
 \setcounter {tocdepth}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Einsatzbereiche nach Gottmann}{XXVIII}{section.Alph0.1}% 
+\contentsline {section}{\numberline {A}Einsatzbereiche nach Gottmann}{XXVII}{section.Alph0.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1}Beschaffung/Lieferanten}{XXVIII}{subsection.Alph0.1.1}% 
+\contentsline {subsection}{\numberline {A.1}Beschaffung/Lieferanten}{XXVII}{subsection.Alph0.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2}Anlagen und Produktionsprozesse}{XXVIII}{subsection.Alph0.1.2}% 
+\contentsline {subsection}{\numberline {A.2}Anlagen und Produktionsprozesse}{XXVII}{subsection.Alph0.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.3}Personal}{XXIX}{subsection.Alph0.1.3}% 
+\contentsline {subsection}{\numberline {A.3}Personal}{XXVIII}{subsection.Alph0.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4}Qualit\"at}{XXIX}{subsection.Alph0.1.4}% 
+\contentsline {subsection}{\numberline {A.4}Qualit\"at}{XXVIII}{subsection.Alph0.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5}Material und Logistik}{XXX}{subsection.Alph0.1.5}% 
+\contentsline {subsection}{\numberline {A.5}Material und Logistik}{XXIX}{subsection.Alph0.1.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.6}Organisation/Auftragsabwicklung}{XXX}{subsection.Alph0.1.6}% 
+\contentsline {subsection}{\numberline {A.6}Organisation/Auftragsabwicklung}{XXIX}{subsection.Alph0.1.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.7}Kunden}{XXXI}{subsection.Alph0.1.7}% 
+\contentsline {subsection}{\numberline {A.7}Kunden}{XXX}{subsection.Alph0.1.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Messmodelle zur Flexibilit\"at nach Bellmann et al.}{XXXII}{section.Alph0.2}% 
+\contentsline {section}{\numberline {B}Messmodelle zur Flexibilit\"at nach Bellmann et al.}{XXXI}{section.Alph0.2}% 
