@@ -17,8 +17,6 @@
 %damit auch der Name der Subsection erkannt wird
 \settitlemarks{section,subsection,subsubsection}
 
-
-
 %Bilder in Unterordner suchen
 \graphicspath{{image/}}
 
@@ -29,7 +27,7 @@
 \addbibresource{bibliography.bib}
 
 %Tiefe des Inhaltsverzeichnisses
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{5}
 
 %neue Seite nach Kapitelende
 \newcommand{\sectionbreak}{\clearpage}
@@ -72,6 +70,13 @@
                    text width=8em},
   level 3/.style = {basic, thin, align=left, fill=pink!60, text width=6.5em}
 }
+
+%subparagraph no indent
+\makeatletter
+\renewcommand\subparagraph{%
+ \@startsection {subparagraph}{5}{\z@ }{3.25ex \@plus 1ex
+ \@minus .2ex}{-1em}{\normalfont \normalsize \bfseries }}%
+\makeatother
 
 %engeres itemize
 \newenvironment{tightenumerate}{
