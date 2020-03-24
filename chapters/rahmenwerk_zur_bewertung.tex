@@ -1,10 +1,44 @@
 \section{Rahmenwerk zur Bewertung}
 \subsection{Konzeptionelle Idee}
-Da wie dargelegt Wechselwirkungen zwischen verschiedenen flexibilisierbaren Betrachtungsgegenständen in der IT bestehen, scheint es naheliegend, diesen Ansatz zur Integration in einem Rahmenwerk zur Bewertung der Flexibilität zu nutzen.
-
-%https://www.springerprofessional.de/controlling/Controlling-Funktionen/eine-produktion-4-0-scorecard-optimiert-das-produktionscontrolli/15796456 ZU BSC
+Da wie dargelegt Wechselwirkungen zwischen verschiedenen flexibilisierbaren Betrachtungsgegenständen in der IT bestehen, scheint es naheliegend, diesen Ansatz zur Integration in einem Rahmenwerk zur Bewertung der IT-Flexibilität zu nutzen.
+Einerseits existieren wie dargelegt Möglichkeiten zum gezielten Aufbau von Flexibilitätspotentialen in verschiedenen Dimensionen bzw. für verschiedene Betrachtungsgegenstände, deren Implementation wie angegeben beurteilbar ist, andererseits sind dadurch Effekte zu erzielen, deren Auftreten ebenfalls messbar ist.\\
+Insofern besteht also ein integriert operationalisierbares Konstrukt, das zur kohärenten Steuerung des Aufbaus dieser Flexibilitätspotentiale und gleichzeitig dauerhaft zur Überprüfung des Nutzens genutzt werden kann.
+Die Maßnahmen zum Aufbau der Flexibilitätspotentiale entsprechen kurz-, mittel- und langfristigen Vorhaben, da z.B. Infrastrukturaufbau aufgrund des 72-monatigen Abschreibungszeitraums eher als strategische Investition getätigt wird\footnote{Vgl. \cite[6.14.3.1]{afa-tabelle}}, Personalentwicklung ebenfalls eine langwierige Aufgabe ist, aber die Durchführung von agilen Softwareprojekten zur Herstellung von Microservices durchaus auch kürzere Zeiträume als ein Jahr in Anspruch nehmen kann. 
+Unter Berücksichtigung der Tatsachen, dass die Maßnahmen sowohl strategischer als auch taktisch-operativer Natur sein können ist das Konzept der \gls{BSC} die angemessenste Variante zur Modellierung der bisherigen Konzeption.
 \subsection{Dimensionsdefinition}
-
-
-\subsection{Das Rahmenwerk als Resultat}
-\subsection{Interpretation als Werttreiber}
+Wie in \ref{BSC} angesprochen ist die Voraussetzung für die Kohäsion der mit einer \gls{BSC} angestrebten Steuerung in der Definition von Ursache-Wirkungs-Ketten der Dimensionen.
+Je nach Vorhaben ist allerdings vorher sogar eine Definition der zu untersuchenden Dimensionen vorzunehmen.\\
+Unter Berücksichtigung der in \ref{adaptionbetrachtungsgegenstaende} ermittelten Betrachtungsgegenstände sind diesbzügliche Kandidaten ersichtlich, sodass als Dimensionen der Flexibilität Personal, die technologischen Sichtweisen Infrastruktur/Software sowie die Projekte in Frage kommen.
+Zur ganzheitlichen Steuerung eines Unternehmens sind zudem der Einfluss auf die Kunden- sowie die Finanzperspektive zu berücksichtigen.
+Als Basis von Geschäftsprozessen ist die Interpretation der IT-Dienste als Substitution der Prozessperspektive eine im Modellierungsvorhaben sinnvolle Abwandlung einzustufen.
+Die Aggregation der flexibilitätstragenden Betrachtungsgegenstände in einer Dimension, die die Lern- und Entwicklungsperspektive ersetzt, ist eine Maßnahme, die bereits in ähnlicher Weise Vorhaben für produktionswirtschaftliche Flexibilität geprägt hat.\footnote{Vgl. \cite[S.9]{winkler2008} und \cite[S.57]{Kempkes2018}.}
+Mit dieser Konstellation können nun Wirkungsketten modelliert werden.
+Dieses Vorhaben sollte in der Praxis Top-Down mit der Direktive finanziellen unternehmerischen Erfolgs als Ausgangspunkt erfolgen\footnote{Vgl. \cite[S.9]{horvath1998balanced}}.\\
+Ausgehend von der Lern- und Entwicklungsperspektive, die durch die Flexibilitätspotentiale ersetzt wird, kann alternativ auch eine Bottom-Up-Modellierung vorgenommen werden.\footnote{Vgl. \cite[S.181ff]{horvath2001} nach \cite[S.141]{siebert2011balanced}.}
+ \begin{figure}[!htb]
+\centering
+\includegraphics[width=0.8\linewidth]{bsc_wirkungsketten}
+\captionof{figure}[FlexIT]{Wirkungsketten\footnotemark}
+\label{img:wirkungsketten}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{Eigene Darstellung in Anlehnung an}
+Die ausgewählten Ziele der Kunden- und Finanzperspektive sind übliche Aspekte der Unternehmenssteuerung\footnote{Vgl. zur Auswahl \cite[S.181ff]{horvath2001} nach \cite[S.141]{siebert2011balanced} sowie zur Modellierung \cite[S.9]{winkler2008}.}, die zur praktischen Verwendung ggf. anzupassen und zu parametrieren sind.
+Die Wirkungen der Flexibilitätspotentiale können wie zuvor beschrieben modelliert werden und lassen zumindest intuitiv die Verbindung zu gesamtunternehmerischen Zielen zu.
+\newpage
+\subsection{FlexIT zur Wertbeitragsbemessung}
+Die dargelegten Verhältnisse rechtfertigen tatsächlich die Integration in einer \gls{BSC}-Adaption für IT-Flexibilität.
+ \begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{flex_it}
+\captionof{figure}[FlexIT]{FlexIT\footnotemark}
+\label{img:flex_it}
+\end{figure}
+\addtocounter{footnote}{+0}\footnotetext{Eigene Darstellung in Anlehnung an}
+\noindent Das Resultat, das hier nun mit der Bezeichnung \textit{FlexIT} versehen wird, kann die vorgeschlagenen Maßnahmen wie agile Durchführung von Projekten, Modularisierung der Anwendungslandschaft, Aufbau von Infrastrukturredundanz etc. steuern, indem es sie operativ begleitet und bewertet.\\
+Die Maßnahmen, für die auch keine erschöpfende und allgemeingültige Definition vorgenommen werden kann, sind dazu vorab in einer IT-Strategie zu definieren und die  Wirkungsketten auf Kompatibilität zu hierarchisch übergeordneten Zielen zu prüfen.
+Unternehmensspezifisch sind auch die jeweiligen Zielwerte der Flexibilitätskennzahlen zu definieren, da eine vollständige Implementation der Maßnahmen wie 100\% Mobilität des Personals durch ausbleibende Kommunkation in Büroräumen kontraintuitive Effekte haben kann und nicht proportional zum Implementationsgrad produktivitätsfördernd wirkt.
+Optimale bzw. Grenzwerte, die multifaktoriell von der Unternehmensorganisation beeinflusst werden, sind also ebenfalls unternehmensspezifisch, aber modellintern durch die dargelegten Kennzahlkombinationen zu ermitteln.
+Ein diesbezügliches Beispiel bestünde in der schrittweisen Einführung von Arbeitsplatzmobilität für Teile des Personals und deren Einsatz im Homeoffice, die zunächst zur Steigerung des verbundenen Produktivitätsmaß führt und ggf. ab einem gewissen Anteil, z.B. über 50\% Implementationsgrad wieder rückläufige Produktivität erzielt, da die direkte Kommunikation zu stark gesunken ist, weshalb keine weitere Maßnahmenimplementation mehr vorzunehmen und stattdessen 50\% als Zielwert festzusetzen wäre.\\
+Eine gleichwertige Parameterkombination ist, z.B. mit den in dieser Arbeit definierten Kennzahlen, auch für übrige Maßnahmen jeweils zu ermitteln und fortwährend die Strategie daran zu validieren.
+%-Beispiel von Kennzahlensteigerung zu Wertbeitragssteigerung
+%\subsection{Interpretation als Werttreiber}

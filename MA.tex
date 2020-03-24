@@ -14,7 +14,7 @@
 \usepackage[ngerman]{babel}
 \selectlanguage{ngerman}
 %Seitenlayout
-\usepackage[a4paper,top=20mm,bottom=20mm,left=30mm,right=40mm]{geometry}
+\usepackage[a4paper,top=20mm,bottom=20mm,left=30mm,right=30mm]{geometry}
 %Bib-Ressourcen ermöglichen, Stil setzen und genau parametrieren
 \usepackage[style=footnote-dw,natbib=true,edsuper=true,nopublisher=false,urldate=long,hyperref,backend=biber,maxcitenames=2,maxbibnames=99,doi=true,isbn=true]{biblatex}
 \AtEveryCitekey{\clearfield{isbn}}
@@ -32,8 +32,8 @@
 \renewcommand*{\multinamedelim}{\addcomma\space}
 \renewcommand*{\finalnamedelim}{\addcomma\space}
 \renewcommand*{\nameyeardelim}{\addcomma\space}
-\setlength{\bibitemsep}{\baselineskip}
-\renewbibmacro{in:}{}
+\setlength{\bibitemsep}{0.35\baselineskip}
+%\renewbibmacro{in:}{}
 %\DefineBibliographyStrings{ngerman}{u. a.={et al.\hspace{1mm}}}
 %Für das Abkürzungsverzeichnis alternativ: \usepackage[toc]{glossaries}
 \usepackage[acronym,nonumberlist,automake]{glossaries}
@@ -68,6 +68,9 @@
 \usepackage{longtable} 
 
 \usepackage{array}
+
+%itemizes nebeneinander
+\usepackage{varwidth}
 
 %mit [H] figures und tables festnageln
 \usepackage{float}

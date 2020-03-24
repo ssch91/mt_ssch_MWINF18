@@ -81,6 +81,17 @@
       \verb 10.1007/978-3-322-86149-8_8
       \endverb
     \endentry
+    \entry{afa-tabelle}{book}{}
+      \list{publisher}{1}{%
+        {Bundesministerium der Finanzen}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labeltitlesource}{title}
+      \field{note}{Aktenzeichen: IV D 2-S 1551-188/00, B/2-2-337/2000-S}
+      \field{title}{AfA-Ta­bel­le für die all­ge­mein ver­wend­ba­ren An­la­ge­gü­ter}
+      \field{year}{2000}
+    \endentry
     \entry{Alpar2019}{book}{}
       \name{author}{4}{}{%
         {{hash=b65eda23c9add90eda5a2ccd34f6dfd9}{%
@@ -1677,6 +1688,38 @@
       \field{pages}{300}
       \range{pages}{1}
     \endentry
+    \entry{netzplan1976}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bf83a17c7e3f3daf7d4f3cb074affb13}{%
+           family={DGOR-Arbeitsgruppe},
+           familyi={D\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{bf83a17c7e3f3daf7d4f3cb074affb13}
+      \strng{fullhash}{bf83a17c7e3f3daf7d4f3cb074affb13}
+      \strng{bibnamehash}{bf83a17c7e3f3daf7d4f3cb074affb13}
+      \strng{authorbibnamehash}{bf83a17c7e3f3daf7d4f3cb074affb13}
+      \strng{authornamehash}{bf83a17c7e3f3daf7d4f3cb074affb13}
+      \strng{authorfullhash}{bf83a17c7e3f3daf7d4f3cb074affb13}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Operations Research}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Einheitliche Bezeichnungen in der Netzplantechnik und im Projektmanagement}
+      \field{volume}{20}
+      \field{year}{1976}
+      \field{pages}{B175\bibrangedash B193}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1007/bf01918393
+      \endverb
+    \endentry
     \entry{doelle2017}{misc}{}
       \name{author}{1}{}{%
         {{hash=1574ebb2627c52f374dca0e616727a75}{%
@@ -2000,11 +2043,47 @@
       \strng{authorbibnamehash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
       \strng{authornamehash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
       \strng{authorfullhash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
+      \field{extraname}{1}
       \field{sortinit}{E}
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEE Proceedings - Software}
+      \field{title}{Measuring software flexibility}
+      \field{volume}{153}
+      \field{year}{2006}
+      \field{pages}{113\bibrangedash 125}
+      \range{pages}{13}
+    \endentry
+    \entry{eden2006measuring}{article}{}
+      \name{author}{2}{}{%
+        {{hash=21b4c553296459cbc9eb46550e361349}{%
+           family={Eden},
+           familyi={E\bibinitperiod},
+           given={Amnon\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=07e3dab71ff2bac06cd1ecf5b69ae028}{%
+           family={Mens},
+           familyi={M\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IET}%
+      }
+      \strng{namehash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
+      \strng{fullhash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
+      \strng{bibnamehash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
+      \strng{authorbibnamehash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
+      \strng{authornamehash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
+      \strng{authorfullhash}{5d7ce40bd2d7fdf863e22bb3c09b3c3f}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEE Proceedings-Software}
+      \field{number}{3}
       \field{title}{Measuring software flexibility}
       \field{volume}{153}
       \field{year}{2006}
@@ -2240,6 +2319,25 @@
       \field{pages}{172.176}
       \range{pages}{-1}
     \endentry
+    \entry{bmf2020}{misc}{}
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Bundesministerium für Familie, Senioren, Frauen und Jugend}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labeltitlesource}{title}
+      \field{title}{Fortschrittsindex Vereinbarkeit - Bedeutung der Kennzahlen für die Unternehmenskultur}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://fortschrittsindex.erfolgsfaktor-familie.de/fileadmin/website/downloads/Einordnung-der-Kennzahlen-in-die-Unternehmenskultur.pdf
+      \endverb
+      \verb{url}
+      \verb https://fortschrittsindex.erfolgsfaktor-familie.de/fileadmin/website/downloads/Einordnung-der-Kennzahlen-in-die-Unternehmenskultur.pdf
+      \endverb
+    \endentry
     \entry{Frschle2016}{incollection}{}
       \name{author}{1}{}{%
         {{hash=c694f367fbeb574b9bb0e37dfce27ee8}{%
@@ -2385,6 +2483,45 @@
       \verb{doi}
       \verb https://doi.org/10.1007/978-3-658-01590-9
       \endverb
+    \endentry
+    \entry{garnero2014part}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bb4cd83f5006ba1df36f574a157383a2}{%
+           family={Garnero},
+           familyi={G\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0b3903e33cefd88377fca787c90e476}{%
+           family={Kampelmann},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5924eaa6d64441d9ad06461087854fc1}{%
+           family={Rycx},
+           familyi={R\bibinitperiod},
+           given={Francois},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{c3ce3eb9298aae3fecb6395be88b8ad1}
+      \strng{fullhash}{e260dd86eab4b95ee3679c4a443a401e}
+      \strng{bibnamehash}{e260dd86eab4b95ee3679c4a443a401e}
+      \strng{authorbibnamehash}{e260dd86eab4b95ee3679c4a443a401e}
+      \strng{authornamehash}{c3ce3eb9298aae3fecb6395be88b8ad1}
+      \strng{authorfullhash}{e260dd86eab4b95ee3679c4a443a401e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ILR Review}
+      \field{number}{3}
+      \field{title}{Part-time work, wages, and productivity: evidence from Belgian matched panel data}
+      \field{volume}{67}
+      \field{year}{2014}
+      \field{pages}{926\bibrangedash 954}
+      \range{pages}{29}
     \endentry
     \entry{vonGarrel2014}{inbook}{}
       \name{author}{3}{}{%
@@ -2775,6 +2912,35 @@
       \field{pages}{65\bibrangedash 84}
       \range{pages}{20}
     \endentry
+    \entry{grothe1992}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=228e1e67fa9351ece73e783509167dbd}{%
+           family={Groth},
+           familyi={G\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Düsseldorf}%
+      }
+      \list{publisher}{1}{%
+        {VDI-Verl.}%
+      }
+      \strng{namehash}{228e1e67fa9351ece73e783509167dbd}
+      \strng{fullhash}{228e1e67fa9351ece73e783509167dbd}
+      \strng{bibnamehash}{228e1e67fa9351ece73e783509167dbd}
+      \strng{authorbibnamehash}{228e1e67fa9351ece73e783509167dbd}
+      \strng{authornamehash}{228e1e67fa9351ece73e783509167dbd}
+      \strng{authorfullhash}{228e1e67fa9351ece73e783509167dbd}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3181461164}
+      \field{series}{Fortschritt-Berichte VDI / 16}
+      \field{title}{Kennzahlensystem zur Beurteilung und Analyse der Leistungsfähigkeit einer Fertigung : Einsatz von personellen, organisatorischen und technischen Kennzahlen}
+      \field{year}{1992}
+    \endentry
     \entry{klein2014marketing1}{incollection}{}
       \name{author}{1}{}{%
         {{hash=8c637d9ad5128064fa6335a1806b6135}{%
@@ -3141,6 +3307,45 @@
       \verb 10.1007/978-3-658-11066-6
       \endverb
     \endentry
+    \entry{hill2003does}{article}{}
+      \name{author}{3}{}{%
+        {{hash=37d279424f28c07bf765239a28fc5d87}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={E.\bibnamedelimi Jeffrey},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6f0fb8d06eb95f4cf56089beda276d7f}{%
+           family={Ferris},
+           familyi={F\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=09154021c148bac2bf7cb6701fdb46c5}{%
+           family={M{ä}rtinson},
+           familyi={M\bibinitperiod},
+           given={Vjollca},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{37491808bc3e8d7023bafabeefdfbebc}
+      \strng{fullhash}{82fe5f6e500f809458cf0b91d4cb9cb8}
+      \strng{bibnamehash}{82fe5f6e500f809458cf0b91d4cb9cb8}
+      \strng{authorbibnamehash}{82fe5f6e500f809458cf0b91d4cb9cb8}
+      \strng{authornamehash}{37491808bc3e8d7023bafabeefdfbebc}
+      \strng{authorfullhash}{82fe5f6e500f809458cf0b91d4cb9cb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Vocational Behavior}
+      \field{number}{2}
+      \field{title}{Does it matter where you work? A comparison of how three work venues (traditional office, virtual office, and home office) influence aspects of work and personal/family life}
+      \field{volume}{63}
+      \field{year}{2003}
+      \field{pages}{220\bibrangedash 241}
+      \range{pages}{22}
+    \endentry
     \entry{Horsch2020}{book}{}
       \name{author}{1}{}{%
         {{hash=ce3bfea38430e8fe9ae2fa985ab11353}{%
@@ -3198,6 +3403,41 @@
       \field{type}{phdthesis}
       \field{year}{2005}
     \endentry
+    \entry{horvath2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c84de6c0d6bea0cbb4ac0a659beff8bc}{%
+           family={Horváth},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d013bf3f813b17ee5c5c1ae6d0b8643c}{%
+           family={Partner},
+           familyi={P\bibinitperiod},
+           given={Horváth\bibnamedelima \&},
+           giveni={H\bibinitperiod\bibinitdelim \\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Schäffer-Poeschel}%
+      }
+      \strng{namehash}{c84de6c0d6bea0cbb4ac0a659beff8bc}
+      \strng{fullhash}{c84de6c0d6bea0cbb4ac0a659beff8bc}
+      \strng{bibnamehash}{c84de6c0d6bea0cbb4ac0a659beff8bc}
+      \strng{authorbibnamehash}{c84de6c0d6bea0cbb4ac0a659beff8bc}
+      \strng{authornamehash}{c84de6c0d6bea0cbb4ac0a659beff8bc}
+      \strng{authorfullhash}{c84de6c0d6bea0cbb4ac0a659beff8bc}
+      \strng{editorbibnamehash}{d013bf3f813b17ee5c5c1ae6d0b8643c}
+      \strng{editornamehash}{d013bf3f813b17ee5c5c1ae6d0b8643c}
+      \strng{editorfullhash}{d013bf3f813b17ee5c5c1ae6d0b8643c}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. Auflage}
+      \field{isbn}{3791018132}
+      \field{title}{Balanced Scorecard umsetzen}
+    \endentry
     \entry{Horvath2015}{book}{}
       \name{author}{3}{}{%
         {{hash=4905c4fd28b31bf2f2632d7cee565fad}{%
@@ -3236,6 +3476,39 @@
       \field{isbn}{978-3-800-64955-6}
       \field{title}{Controlling}
       \field{year}{2015}
+    \endentry
+    \entry{horvath1998balanced}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4905c4fd28b31bf2f2632d7cee565fad}{%
+           family={Horv{á}th},
+           familyi={H\bibinitperiod},
+           given={P{é}ter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4b264305ddbeb8cb0927ee820a87283d}{%
+           family={Kaufmann},
+           familyi={K\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verlagsgesellschaft mbH}%
+      }
+      \strng{namehash}{d61f91009783fd14d1375dd0a3ae067f}
+      \strng{fullhash}{d61f91009783fd14d1375dd0a3ae067f}
+      \strng{bibnamehash}{d61f91009783fd14d1375dd0a3ae067f}
+      \strng{authorbibnamehash}{d61f91009783fd14d1375dd0a3ae067f}
+      \strng{authornamehash}{d61f91009783fd14d1375dd0a3ae067f}
+      \strng{authorfullhash}{d61f91009783fd14d1375dd0a3ae067f}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard business manager}
+      \field{title}{Balanced Scorecard - ein Werkzeug zur Umsetzung von Strategien}
+      \field{volume}{20}
+      \field{year}{1998}
+      \field{pages}{39\bibrangedash 50}
+      \range{pages}{12}
     \endentry
     \entry{hruschka2018}{book}{}
       \name{author}{2}{}{%
@@ -4261,6 +4534,45 @@
       \verb{doi}
       \verb 10.1080/00207548708919888
       \endverb
+    \endentry
+    \entry{kunn2013part}{article}{}
+      \name{author}{3}{}{%
+        {{hash=589bea970e52fbd56f708c84d062e841}{%
+           family={K{ü}nn-Nelen},
+           familyi={K\bibinitperiod},
+           given={Annemarie},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e35242f0d38f5427a04916b8eb55758d}{%
+           family={De\bibnamedelima Grip},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Andries},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3d6c51fb66c4b3c4457a4e3a90b26039}{%
+           family={Fouarge},
+           familyi={F\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{efa1c7bccf205aa367b199f6d4f8cac7}
+      \strng{fullhash}{4c075a1c2faa62aed9604d4305ae6be9}
+      \strng{bibnamehash}{4c075a1c2faa62aed9604d4305ae6be9}
+      \strng{authorbibnamehash}{4c075a1c2faa62aed9604d4305ae6be9}
+      \strng{authornamehash}{efa1c7bccf205aa367b199f6d4f8cac7}
+      \strng{authorfullhash}{4c075a1c2faa62aed9604d4305ae6be9}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ILR Review}
+      \field{number}{5}
+      \field{title}{Is part-time employment beneficial for firm productivity?}
+      \field{volume}{66}
+      \field{year}{2013}
+      \field{pages}{1172\bibrangedash 1191}
+      \range{pages}{20}
     \endentry
     \entry{kunz2007bsc}{incollection}{}
       \name{author}{2}{}{%
@@ -5686,6 +5998,31 @@
       \verb 10.1007/978-3-322-91453-8
       \endverb
     \endentry
+    \entry{ponsflectere}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bab800ef4e011e2dc723b2d74dc5a958}{%
+           family={PONS},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{bab800ef4e011e2dc723b2d74dc5a958}
+      \strng{fullhash}{bab800ef4e011e2dc723b2d74dc5a958}
+      \strng{bibnamehash}{bab800ef4e011e2dc723b2d74dc5a958}
+      \strng{authorbibnamehash}{bab800ef4e011e2dc723b2d74dc5a958}
+      \strng{authornamehash}{bab800ef4e011e2dc723b2d74dc5a958}
+      \strng{authorfullhash}{bab800ef4e011e2dc723b2d74dc5a958}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abgerufen am 29.02.2020}
+      \field{title}{PONS Online-Wörterbuch}
+      \verb{urlraw}
+      \verb https://de.pons.com/%C3%BCbersetzung/latein-deutsch/flectere
+      \endverb
+      \verb{url}
+      \verb https://de.pons.com/%C3%BCbersetzung/latein-deutsch/flectere
+      \endverb
+    \endentry
     \entry{radermacher2009}{article}{}
       \name{author}{2}{}{%
         {{hash=69c229585cd0557f261cd8b0e3bbcc77}{%
@@ -7102,6 +7439,71 @@
       \verb 10.1007/bf00186471
       \endverb
     \endentry
+    \entry{shen2006analysis}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=89c99c4bd814dcb8f557bf07737e7dac}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Limin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e4c2929405ee02a637dc2baade13dc5c}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Shangping},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc54cf78cf108ea5ec457511a630bfdd}
+      \strng{fullhash}{cc54cf78cf108ea5ec457511a630bfdd}
+      \strng{bibnamehash}{cc54cf78cf108ea5ec457511a630bfdd}
+      \strng{authorbibnamehash}{cc54cf78cf108ea5ec457511a630bfdd}
+      \strng{authornamehash}{cc54cf78cf108ea5ec457511a630bfdd}
+      \strng{authorfullhash}{cc54cf78cf108ea5ec457511a630bfdd}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{3th Software Measurement European Forum, Italy}
+      \field{title}{Analysis and measurement of software flexibility based on flexible points}
+      \field{year}{2006}
+      \field{pages}{331\bibrangedash 341}
+      \range{pages}{11}
+    \endentry
+    \entry{siebert2011balanced}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d1738400f625068d33651d8dbc520ec}{%
+           family={Siebert},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c540cdbabee32ad9ee63b6213ae52840}{%
+           family={Rietz},
+           familyi={R\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Diplomica Verlag}%
+      }
+      \strng{namehash}{5d1738400f625068d33651d8dbc520ec}
+      \strng{fullhash}{5d1738400f625068d33651d8dbc520ec}
+      \strng{bibnamehash}{5d1738400f625068d33651d8dbc520ec}
+      \strng{authorbibnamehash}{5d1738400f625068d33651d8dbc520ec}
+      \strng{authornamehash}{5d1738400f625068d33651d8dbc520ec}
+      \strng{authorfullhash}{5d1738400f625068d33651d8dbc520ec}
+      \strng{editorbibnamehash}{c540cdbabee32ad9ee63b6213ae52840}
+      \strng{editornamehash}{c540cdbabee32ad9ee63b6213ae52840}
+      \strng{editorfullhash}{c540cdbabee32ad9ee63b6213ae52840}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783842854109}
+      \field{series}{Internationale und Interkulturelle Projekte erfolgreich umsetzen}
+      \field{title}{Die Balanced Scorecard: Entwicklungstendenzen im deutschsprachigen Raum}
+      \field{year}{2011}
+    \endentry
     \entry{siepermann2018}{article}{}
       \name{author}{1}{}{%
         {{hash=f2d933fff70db4d35101f939879ff753}{%
@@ -7415,6 +7817,32 @@
       \verb{doi}
       \verb 10.1007/978-3-658-08056-3
       \endverb
+    \endentry
+    \entry{Tallon20030UF}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=7123facb72fb091a8343f3180afc99ba}{%
+           family={Tallon},
+           familyi={T\bibinitperiod},
+           given={Paul\bibnamedelima P.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=606f5e52bd6cc71c8996df2726432d5f}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Wallace\bibnamedelima E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a5eca5793710880385aeedbe1e0db6f}
+      \strng{fullhash}{7a5eca5793710880385aeedbe1e0db6f}
+      \strng{bibnamehash}{7a5eca5793710880385aeedbe1e0db6f}
+      \strng{authorbibnamehash}{7a5eca5793710880385aeedbe1e0db6f}
+      \strng{authornamehash}{7a5eca5793710880385aeedbe1e0db6f}
+      \strng{authorfullhash}{7a5eca5793710880385aeedbe1e0db6f}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Flexibility to Enhance the Alignment between Information Systems and Business Strategy: Implications for IT Business Value}
+      \field{year}{2003}
     \endentry
     \entry{taylor2000}{article}{}
       \name{author}{1}{}{%
@@ -8572,7 +9000,6 @@
       \range{pages}{18}
     \endentry
   \enddatalist
-  \missing{seebacher2013ansatze}
 \endrefsection
 \endinput
 
