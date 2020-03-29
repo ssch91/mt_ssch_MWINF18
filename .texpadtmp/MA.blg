@@ -1,24 +1,24 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.blg'
-[39] biber-darwin:315> INFO - === Tue Mar 24, 2020, 07:00:59
-[67] Biber.pm:371> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
-[550] Biber.pm:889> INFO - Found 267 citekeys in bib section 0
-[565] Biber.pm:4093> INFO - Processing section 0
-[576] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' for section 0
-[584] bibtex.pm:1523> INFO - LaTeX decoding ...
-[948] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
-[959] Utils.pm:193> WARN - Duplicate entry key: 'Kistner2001' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
-[960] Utils.pm:193> WARN - Duplicate entry key: 'kaplan1996balanced' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
-[1710] Utils.pm:193> WARN - ISBN '978-3-8441-0071' in entry 'seebacher2011' is invalid - run biber with '--validate_datamodel' for details.
-[2019] Utils.pm:193> WARN - month field 'may' in entry 'ebert2016' is not an integer - this will probably not sort properly.
-[2109] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/YxR2ofa0U4/bibliography.bib_30494.utf8, line 1213, warning: 138 characters of junk seen at toplevel
-[2380] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2380] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2381] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[2381] Biber.pm:3927> INFO - No sort tailoring available for locale 'de-DE'
-[2626] bbl.pm:636> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
-[2709] Utils.pm:193> WARN - The entry 'Reinheimer2016' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
-[2732] Utils.pm:193> WARN - The entry 'Voigt2007' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
-[2737] Utils.pm:193> WARN - The entry 'Wiedenhofer2013' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
-[2745] bbl.pm:739> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
-[2746] Biber.pm:110> INFO - WARNINGS: 8
+[39] biber-darwin:315> INFO - === Sat Mar 28, 2020, 03:11:00
+[66] Biber.pm:371> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
+[548] Biber.pm:889> INFO - Found 265 citekeys in bib section 0
+[563] Biber.pm:4093> INFO - Processing section 0
+[573] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' for section 0
+[581] bibtex.pm:1523> INFO - LaTeX decoding ...
+[953] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
+[965] Utils.pm:193> WARN - Duplicate entry key: 'Kistner2001' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
+[966] Utils.pm:193> WARN - Duplicate entry key: 'kaplan1996balanced' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
+[1697] Utils.pm:193> WARN - ISBN '978-3-8441-0071' in entry 'seebacher2011' is invalid - run biber with '--validate_datamodel' for details.
+[2015] Utils.pm:193> WARN - month field 'may' in entry 'ebert2016' is not an integer - this will probably not sort properly.
+[2107] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/fGqyx0mtDN/bibliography.bib_1349.utf8, line 1238, warning: 138 characters of junk seen at toplevel
+[2363] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2364] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2364] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[2364] Biber.pm:3927> INFO - No sort tailoring available for locale 'de-DE'
+[2604] bbl.pm:636> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
+[2684] Utils.pm:193> WARN - The entry 'Reinheimer2016' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[2706] Utils.pm:193> WARN - The entry 'Voigt2007' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[2711] Utils.pm:193> WARN - The entry 'Wiedenhofer2013' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[2717] bbl.pm:739> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
+[2718] Biber.pm:110> INFO - WARNINGS: 8

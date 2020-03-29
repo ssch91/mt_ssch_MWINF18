@@ -21,7 +21,7 @@
 \graphicspath{{image/}}
 
 %Zeilenabstand
-\setstretch{1.3}
+\setstretch{1.4}
 
 %Bib-Ressourcen einbinden
 \addbibresource{bibliography.bib}
@@ -78,7 +78,7 @@
  \@minus .2ex}{-1em}{\normalfont \normalsize \bfseries }}%
 \makeatother
 
-%engeres itemize
+%engeres enumerate
 \newenvironment{tightenumerate}{
 \begin{enumerate}{
 \setlength{\topsep}{-1ex}
@@ -89,6 +89,19 @@
 \end{enumerate}
 \vspace{1ex}
 }
+
+%engeres itemize
+\newenvironment{tightlist}{
+\begin{list}{\textbullet}{
+\setlength{\topsep}{-1ex}
+\setlength{\itemsep}{-1ex}
+\setlength{\leftmargin}{4ex}
+}
+}{
+\end{list}
+\vspace{1ex}
+}
+
 
 %Seitennummerierungen
 \newcounter{savepage}

@@ -620,45 +620,6 @@
       \verb 10.1016/S0925-5273(01)00143-8
       \endverb
     \endentry
-    \entry{klein2014marketing2}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=9939384adea26f915277f7ae1107539a}{%
-           family={Bleiber},
-           familyi={B\bibinitperiod},
-           given={Reinhard},
-           giveni={R\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=dcc821618636330ec34787596c4a78f8}{%
-           family={Klein},
-           familyi={K\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Haufe}%
-      }
-      \strng{namehash}{9939384adea26f915277f7ae1107539a}
-      \strng{fullhash}{9939384adea26f915277f7ae1107539a}
-      \strng{bibnamehash}{9939384adea26f915277f7ae1107539a}
-      \strng{authorbibnamehash}{9939384adea26f915277f7ae1107539a}
-      \strng{authornamehash}{9939384adea26f915277f7ae1107539a}
-      \strng{authorfullhash}{9939384adea26f915277f7ae1107539a}
-      \strng{editorbibnamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editornamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editorfullhash}{dcc821618636330ec34787596c4a78f8}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Marketing- und Vertriebscontrolling: Grundlagen, Konzepte, Kennzahlen, Best Practice}
-      \field{isbn}{9783648057209}
-      \field{series}{Haufe Fachbuch}
-      \field{title}{Mehrstufige Deckungsbeitragsrechnung als Instrument der Ergebnisrechnung im Vertrieb}
-      \field{year}{2014}
-      \field{pages}{41\bibrangedash 62}
-      \range{pages}{22}
-    \endentry
     \entry{Bloech2014}{book}{}
       \name{author}{6}{}{%
         {{hash=3f204438dc8f23af8bbb7ed60fbfe429}{%
@@ -1032,8 +993,11 @@
            given={Liane},
            giveni={L\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
       \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
+        {Gabler}%
       }
       \strng{namehash}{ed2715c9a8503913106a41cf21ed1450}
       \strng{fullhash}{ed2715c9a8503913106a41cf21ed1450}
@@ -1045,6 +1009,8 @@
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{2. Auflage}
+      \field{isbn}{9783834940070}
       \field{title}{Strategisches Controlling}
       \field{year}{2013}
       \verb{doi}
@@ -1139,7 +1105,7 @@
       \field{pages}{41\bibrangedash 52}
       \range{pages}{12}
       \verb{doi}
-      \verb https://doi.org/10.1016/s0378-7206(01)00078-7
+      \verb 10.1016/s0378-7206(01)00078-7
       \endverb
     \endentry
     \entry{byrdturner2000}{article}{}
@@ -1952,6 +1918,9 @@
       \list{institution}{1}{%
         {Capgemini Deutschland}%
       }
+      \list{location}{1}{%
+        {Berlin}%
+      }
       \strng{namehash}{5dacafff8d548a996a440d5db0d9a441}
       \strng{fullhash}{5dacafff8d548a996a440d5db0d9a441}
       \strng{bibnamehash}{5dacafff8d548a996a440d5db0d9a441}
@@ -1962,6 +1931,7 @@
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{month}{2}
       \field{title}{Studie IT-Trends 2019}
       \field{type}{Studie}
       \field{year}{2019}
@@ -2089,6 +2059,58 @@
       \field{year}{2006}
       \field{pages}{113\bibrangedash 125}
       \range{pages}{13}
+    \endentry
+    \entry{holst20112}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a4d5e06b1ec00f5e111855f056e14ef1}{%
+           family={Eisl},
+           familyi={E\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e72b71858e803c12ffe5e52d6d5700c9}{%
+           family={Holst},
+           familyi={H\bibinitperiod},
+           given={Hans-Ulrich},
+           giveni={H\bibinithyphendelim U\bibinitperiod}}}%
+        {{hash=86ffc1740dcb29f37ee419df16a7bd61}{%
+           family={Rieg},
+           familyi={R\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8c09df710af739d110e1ff09bf6944ca}{%
+           family={Schentler},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=16744dcaf1a9a6adb55847ccd0f28a44}{%
+           family={Sindl},
+           familyi={S\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ea259a00334c7dedfa299d2b562fdcfa}{%
+           family={Tschandl},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{14b0a2b7e75d6387405205d6e6a2adde}
+      \strng{fullhash}{470a5d90f8312375788889b4aee9026e}
+      \strng{bibnamehash}{470a5d90f8312375788889b4aee9026e}
+      \strng{authorbibnamehash}{470a5d90f8312375788889b4aee9026e}
+      \strng{authornamehash}{14b0a2b7e75d6387405205d6e6a2adde}
+      \strng{authorfullhash}{470a5d90f8312375788889b4aee9026e}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1616-0495}
+      \field{journaltitle}{CONTROLLER Magazin}
+      \field{month}{11}
+      \field{title}{Moderne Budgetierung umsetzen}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{pages}{64\bibrangedash 67}
+      \range{pages}{4}
     \endentry
     \entry{zentralverband1989zvei}{book}{}
       \name{author}{1}{}{%
@@ -2302,6 +2324,9 @@
            given={Alexander},
            giveni={A\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Going Public Media}%
+      }
       \strng{namehash}{8c250908c426be9f0639d66b28885159}
       \strng{fullhash}{8c250908c426be9f0639d66b28885159}
       \strng{bibnamehash}{8c250908c426be9f0639d66b28885159}
@@ -2313,11 +2338,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{FuS Zeitschrift f{ü}r Familienunternehmen und Strategie}
-      \field{month}{05}
+      \field{month}{5}
       \field{title}{IT-Projekte: Ein Leitfaden aus rechtlicher Sicht.}
       \field{year}{2016}
-      \field{pages}{172.176}
-      \range{pages}{-1}
+      \field{pages}{172\bibrangedash 176}
+      \range{pages}{5}
     \endentry
     \entry{bmf2020}{misc}{}
       \list{location}{1}{%
@@ -2464,8 +2489,11 @@
            given={Elmar},
            giveni={E\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
       \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
+        {Springer Vieweg}%
       }
       \strng{namehash}{12ffb5478a00bfa18628ba1f353ed4b1}
       \strng{fullhash}{12ffb5478a00bfa18628ba1f353ed4b1}
@@ -2478,10 +2506,12 @@
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{4. Auflage}
+      \field{isbn}{9783658015893}
       \field{title}{Masterkurs {IT}-Controlling}
       \field{year}{2014}
       \verb{doi}
-      \verb https://doi.org/10.1007/978-3-658-01590-9
+      \verb 10.1007/978-3-658-01590-9
       \endverb
     \endentry
     \entry{garnero2014part}{article}{}
@@ -2769,8 +2799,11 @@
            given={Juliane},
            giveni={J\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
       \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
+        {Gabler}%
       }
       \strng{namehash}{3e015f5d91805274ee1b7df5849cf133}
       \strng{fullhash}{3e015f5d91805274ee1b7df5849cf133}
@@ -2782,6 +2815,8 @@
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{2. Auflage}
+      \field{isbn}{9783658225377}
       \field{title}{Produktionscontrolling}
       \field{year}{2019}
       \verb{doi}
@@ -2855,6 +2890,9 @@
            familyi={G\bibinitperiod},
            given={Rolf},
            giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
       }
       \list{publisher}{1}{%
         {Vahlen}%
@@ -2940,45 +2978,6 @@
       \field{series}{Fortschritt-Berichte VDI / 16}
       \field{title}{Kennzahlensystem zur Beurteilung und Analyse der Leistungsfähigkeit einer Fertigung : Einsatz von personellen, organisatorischen und technischen Kennzahlen}
       \field{year}{1992}
-    \endentry
-    \entry{klein2014marketing1}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=8c637d9ad5128064fa6335a1806b6135}{%
-           family={Grothe},
-           familyi={G\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=d4fc126afa9a50f6898b6bba9ae4f08f}{%
-           family={Klein},
-           familyi={K\bibinitperiod},
-           given={Aandreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Haufe}%
-      }
-      \strng{namehash}{8c637d9ad5128064fa6335a1806b6135}
-      \strng{fullhash}{8c637d9ad5128064fa6335a1806b6135}
-      \strng{bibnamehash}{8c637d9ad5128064fa6335a1806b6135}
-      \strng{authorbibnamehash}{8c637d9ad5128064fa6335a1806b6135}
-      \strng{authornamehash}{8c637d9ad5128064fa6335a1806b6135}
-      \strng{authorfullhash}{8c637d9ad5128064fa6335a1806b6135}
-      \strng{editorbibnamehash}{d4fc126afa9a50f6898b6bba9ae4f08f}
-      \strng{editornamehash}{d4fc126afa9a50f6898b6bba9ae4f08f}
-      \strng{editorfullhash}{d4fc126afa9a50f6898b6bba9ae4f08f}
-      \field{sortinit}{G}
-      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Marketing- und Vertriebscontrolling: Grundlagen, Konzepte, Kennzahlen, Best Practice}
-      \field{isbn}{9783648057209}
-      \field{series}{Haufe Fachbuch}
-      \field{title}{Social Business, Controlling und die digitale Transformation}
-      \field{year}{2014}
-      \field{pages}{21\bibrangedash 40}
-      \range{pages}{20}
     \endentry
     \entry{Gruenig2018}{book}{}
       \name{author}{2}{}{%
@@ -3346,6 +3345,36 @@
       \field{pages}{220\bibrangedash 241}
       \range{pages}{22}
     \endentry
+    \entry{holst2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e72b71858e803c12ffe5e52d6d5700c9}{%
+           family={Holst},
+           familyi={H\bibinitperiod},
+           given={Hans-Ulrich},
+           giveni={H\bibinithyphendelim U\bibinitperiod}}}%
+        {{hash=a4d5e06b1ec00f5e111855f056e14ef1}{%
+           family={Eisl},
+           familyi={E\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Haufe}%
+      }
+      \strng{namehash}{0da17a159a66199ea75899703136fd50}
+      \strng{fullhash}{0da17a159a66199ea75899703136fd50}
+      \strng{bibnamehash}{0da17a159a66199ea75899703136fd50}
+      \strng{authorbibnamehash}{0da17a159a66199ea75899703136fd50}
+      \strng{authornamehash}{0da17a159a66199ea75899703136fd50}
+      \strng{authorfullhash}{0da17a159a66199ea75899703136fd50}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Haufe Controller Office}
+      \field{title}{Moderne Budgetierung umsetzen: Flexibilität}
+      \field{year}{2011}
+    \endentry
     \entry{Horsch2020}{book}{}
       \name{author}{1}{}{%
         {{hash=ce3bfea38430e8fe9ae2fa985ab11353}{%
@@ -3473,7 +3502,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{13. Aufl.}
-      \field{isbn}{978-3-800-64955-6}
+      \field{isbn}{9783800649556}
       \field{title}{Controlling}
       \field{year}{2015}
     \endentry
@@ -3550,7 +3579,7 @@
            giveni={B\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
+        {Gabler}%
       }
       \strng{namehash}{0a0075de1797ba09f1fa6e19326ace17}
       \strng{fullhash}{0a0075de1797ba09f1fa6e19326ace17}
@@ -3562,10 +3591,12 @@
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{2. Auflage}
+      \field{isbn}{9783658228965}
       \field{title}{Controlling-Konzeptionen}
       \field{year}{2018}
       \verb{doi}
-      \verb https://doi.org/10.1007/978-3-658-22897-2
+      \verb 10.1007/978-3-658-22897-2
       \endverb
     \endentry
     \entry{hutchinson1984flexibility}{article}{}
@@ -4145,6 +4176,9 @@
            given={Hinrich},
            giveni={H\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {München}%
+      }
       \list{publisher}{1}{%
         {Vahlen}%
       }
@@ -4158,6 +4192,8 @@
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{2. Auflage}
+      \field{isbn}{9783800645343}
       \field{title}{{IT}-Controlling}
       \field{year}{2013}
       \verb{doi}
@@ -4671,32 +4707,43 @@
       \range{pages}{4}
     \endentry
     \entry{kuepper2013controlling}{book}{}
-      \name{author}{1}{}{%
+      \name{author}{3}{}{%
         {{hash=98b1f9d842d06c19c30359270b814fe1}{%
            family={K{ü}pper},
            familyi={K\bibinitperiod},
            given={Hans-Ulrich},
            giveni={H\bibinithyphendelim U\bibinitperiod}}}%
+        {{hash=98b6859d984562dfad216b0b7d1358a0}{%
+           family={Friedl},
+           familyi={F\bibinitperiod},
+           given={Gunther},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e228c8227767e4152ff0d2a69fd0926b}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
       }
       \list{publisher}{1}{%
         {Sch{ä}ffer-Poeschel}%
       }
-      \strng{namehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{fullhash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{bibnamehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{authorbibnamehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{authornamehash}{98b1f9d842d06c19c30359270b814fe1}
-      \strng{authorfullhash}{98b1f9d842d06c19c30359270b814fe1}
+      \strng{namehash}{f0fbf19f88c17121dd1c84be57466edb}
+      \strng{fullhash}{4a6aaa3a4902df964ca5b51f7603a008}
+      \strng{bibnamehash}{4a6aaa3a4902df964ca5b51f7603a008}
+      \strng{authorbibnamehash}{4a6aaa3a4902df964ca5b51f7603a008}
+      \strng{authornamehash}{f0fbf19f88c17121dd1c84be57466edb}
+      \strng{authorfullhash}{4a6aaa3a4902df964ca5b51f7603a008}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9783791032115}
+      \field{edition}{6. Auflage}
+      \field{isbn}{3791032119}
       \field{title}{Controlling: Konzeption, Aufgaben, Instrumente}
       \field{year}{2013}
-      \verb{doi}
-      \verb https://books.google.de/books?id=EzLIkQEACAAJ
-      \endverb
     \endentry
     \entry{kuepper2004ablauforganisation}{book}{}
       \name{author}{2}{}{%
@@ -5870,8 +5917,11 @@
            given={Wolfgang},
            giveni={W\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {München}%
+      }
       \list{publisher}{1}{%
-        {Oldenbourg}%
+        {De Gruyter Oldenbourg}%
       }
       \strng{namehash}{ac034dbc1c5c895cc76d013c55586dfd}
       \strng{fullhash}{ac034dbc1c5c895cc76d013c55586dfd}
@@ -5883,13 +5933,11 @@
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{4. Auflage}
       \field{isbn}{9783486586213}
       \field{series}{Lehr- und Handb{ü}cher der Betriebswirtschaftslehre}
       \field{title}{Controlling}
       \field{year}{2009}
-      \verb{doi}
-      \verb https://books.google.de/books?id=ln4aMAAACAAJ
-      \endverb
     \endentry
     \entry{ost1993}{thesis}{}
       \name{author}{1}{}{%
@@ -6048,11 +6096,16 @@
       \field{labeltitlesource}{title}
       \field{issn}{1436-3011}
       \field{journaltitle}{HMD - Praxis der Wirtschaftsinformatik}
-      \field{number}{269}
+      \field{month}{9}
+      \field{number}{5}
       \field{title}{IT-Flexibilit{ä}t: Warum und wie sollten IT-Organisationen flexibel gestaltet werden}
+      \field{volume}{46}
       \field{year}{2009}
       \field{pages}{52\bibrangedash 60}
       \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/BF03340399
+      \endverb
     \endentry
     \entry{ranta1988interactive}{article}{}
       \name{author}{2}{}{%
@@ -6147,8 +6200,11 @@
            given={Martin},
            giveni={M\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {München}%
+      }
       \list{publisher}{1}{%
-        {Verlag Franz Vahlen {GmbH}}%
+        {Vahlen}%
       }
       \strng{namehash}{3679a5864ce76e98dd4d29dbd9c4aafa}
       \strng{fullhash}{a8dc1027a33474274b6b10b0ec010050}
@@ -6160,6 +6216,8 @@
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{9. Auflage}
+      \field{isbn}{9783800651160}
       \field{title}{Controlling mit Kennzahlen}
       \field{year}{2017}
       \verb{doi}
@@ -6331,6 +6389,39 @@
       \field{year}{2010}
       \field{pages}{19\bibrangedash 38}
       \range{pages}{20}
+    \endentry
+    \entry{reinecke2006}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=6c088e99b2ef195137f45822e8ffa019}{%
+           family={Reinecke},
+           familyi={R\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9ce2b1306d5ee24409bff0202de71e77}{%
+           family={Tomczak},
+           familyi={T\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{092dc2645734c50af90e6da1bdba0ed0}
+      \strng{fullhash}{092dc2645734c50af90e6da1bdba0ed0}
+      \strng{bibnamehash}{092dc2645734c50af90e6da1bdba0ed0}
+      \strng{editorbibnamehash}{092dc2645734c50af90e6da1bdba0ed0}
+      \strng{editornamehash}{092dc2645734c50af90e6da1bdba0ed0}
+      \strng{editorfullhash}{092dc2645734c50af90e6da1bdba0ed0}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783409142861}
+      \field{title}{Handbuch Marketingcontrolling}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-9335-9
+      \endverb
     \endentry
     \entry{Reinheimer2016}{incollection}{}
       \name{author}{2}{}{%
@@ -6813,45 +6904,6 @@
       \field{title}{Über Verrechnungspreise}
       \field{year}{1909}
     \endentry
-    \entry{klein2010moderne2}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=ea0b7972eb4fdb1455157b23208e4ca6}{%
-           family={Schmitt},
-           familyi={S\bibinitperiod},
-           given={Matthias},
-           giveni={M\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=dcc821618636330ec34787596c4a78f8}{%
-           family={Klein},
-           familyi={K\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Haufe-Mediengruppe}%
-      }
-      \strng{namehash}{ea0b7972eb4fdb1455157b23208e4ca6}
-      \strng{fullhash}{ea0b7972eb4fdb1455157b23208e4ca6}
-      \strng{bibnamehash}{ea0b7972eb4fdb1455157b23208e4ca6}
-      \strng{authorbibnamehash}{ea0b7972eb4fdb1455157b23208e4ca6}
-      \strng{authornamehash}{ea0b7972eb4fdb1455157b23208e4ca6}
-      \strng{authorfullhash}{ea0b7972eb4fdb1455157b23208e4ca6}
-      \strng{editorbibnamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editornamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editorfullhash}{dcc821618636330ec34787596c4a78f8}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Moderne Controlling-Instrumente f{ü}r Marketing und Vertrieb}
-      \field{isbn}{9783648011492}
-      \field{series}{Haufe Fachpraxis}
-      \field{title}{Vertriebsplanung: Absatzmengen, Preise und Budgets zuverlässig und flexibel planen}
-      \field{year}{2010}
-      \field{pages}{39\bibrangedash 56}
-      \range{pages}{18}
-    \endentry
     \entry{schneeweiss1990}{article}{}
       \name{author}{1}{}{%
         {{hash=88629459c016a2bbedfcc2ec85512ea8}{%
@@ -7300,6 +7352,9 @@
            given={Hans-Ulrich},
            giveni={H\bibinithyphendelim U\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {München}%
+      }
       \list{publisher}{1}{%
         {Vahlen}%
       }
@@ -7325,6 +7380,9 @@
            familyi={S\bibinitperiod},
            given={Marcell},
            giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
       }
       \list{publisher}{1}{%
         {Vahlen}%
@@ -7818,7 +7876,7 @@
       \verb 10.1007/978-3-658-08056-3
       \endverb
     \endentry
-    \entry{Tallon20030UF}{inproceedings}{}
+    \entry{Tallon20030UF}{article}{}
       \name{author}{2}{}{%
         {{hash=7123facb72fb091a8343f3180afc99ba}{%
            family={Tallon},
@@ -7830,6 +7888,9 @@
            familyi={C\bibinitperiod},
            given={Wallace\bibnamedelima E.},
            giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {unveröffentlicht}%
       }
       \strng{namehash}{7a5eca5793710880385aeedbe1e0db6f}
       \strng{fullhash}{7a5eca5793710880385aeedbe1e0db6f}
@@ -8235,12 +8296,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9783835000131}
-      \field{series}{Gabler Edition Wissenschaft / Schriften des Center for Controlling \& Management}
+      \field{series}{Schriften des Center for Controlling \& Management}
       \field{title}{Internationalisierung Des Controllings: Standortbestimmung Und Optionen}
       \field{year}{2005}
-      \verb{doi}
-      \verb https://www.springer.com/de/book/9783835000131
-      \endverb
     \endentry
     \entry{weber2015einfuehrung}{book}{}
       \name{author}{2}{}{%
@@ -8255,8 +8313,11 @@
            given={Ulrich},
            giveni={U\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
       \list{publisher}{1}{%
-        {Schaffer-Poeschel Verlag fur Wirtschaft Steuern Recht GmbH}%
+        {Sch{ä}ffer-Poeschel}%
       }
       \strng{namehash}{1a81c3b02a444c66320b2979f3027cf0}
       \strng{fullhash}{1a81c3b02a444c66320b2979f3027cf0}
@@ -8268,12 +8329,10 @@
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{15. Auflage}
       \field{isbn}{9783799268998}
       \field{title}{Einf{ü}hrung in das Controlling}
-      \field{year}{2015}
-      \verb{doi}
-      \verb https://books.google.de/books?id=M62lAgAAQBAJ
-      \endverb
+      \field{year}{2016}
     \endentry
     \entry{weber2010logistik}{book}{}
       \name{author}{2}{}{%
@@ -8388,10 +8447,6 @@
            given={Andre},
            giveni={A\bibinitperiod}}}%
       }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media LLC}%
-      }
       \strng{namehash}{9cf9da397c16a1957466c2cdd13e8ef0}
       \strng{fullhash}{9cf9da397c16a1957466c2cdd13e8ef0}
       \strng{bibnamehash}{9cf9da397c16a1957466c2cdd13e8ef0}
@@ -8404,7 +8459,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Informatik-Spektrum}
-      \field{month}{01}
+      \field{month}{1}
       \field{number}{3}
       \field{title}{Steigerung der IT-Flexibilit{ä}t}
       \field{volume}{40}
@@ -8412,7 +8467,7 @@
       \field{pages}{236\bibrangedash 244}
       \range{pages}{9}
       \verb{doi}
-      \verb https://doi.org/10.1007/s00287-015-0951-4
+      \verb 10.1007/s00287-015-0951-4
       \endverb
     \endentry
     \entry{Wiedenhofer2013}{article}{}
@@ -8514,45 +8569,6 @@
       \verb{doi}
       \verb 10.3139/9783446437029
       \endverb
-    \endentry
-    \entry{klein2014marketing3}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=5a022d375945b4b22d0a89a17baf7cba}{%
-           family={Wiltinger},
-           familyi={W\bibinitperiod},
-           given={Kai},
-           giveni={K\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=dcc821618636330ec34787596c4a78f8}{%
-           family={Klein},
-           familyi={K\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Haufe}%
-      }
-      \strng{namehash}{5a022d375945b4b22d0a89a17baf7cba}
-      \strng{fullhash}{5a022d375945b4b22d0a89a17baf7cba}
-      \strng{bibnamehash}{5a022d375945b4b22d0a89a17baf7cba}
-      \strng{authorbibnamehash}{5a022d375945b4b22d0a89a17baf7cba}
-      \strng{authornamehash}{5a022d375945b4b22d0a89a17baf7cba}
-      \strng{authorfullhash}{5a022d375945b4b22d0a89a17baf7cba}
-      \strng{editorbibnamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editornamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editorfullhash}{dcc821618636330ec34787596c4a78f8}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Marketing- und Vertriebscontrolling: Grundlagen, Konzepte, Kennzahlen, Best Practice}
-      \field{isbn}{9783648057209}
-      \field{series}{Haufe Fachbuch}
-      \field{title}{Social Media Controlling - oder was wollen wir eigentlich in Facebook?}
-      \field{year}{2014}
-      \field{pages}{63\bibrangedash 80}
-      \range{pages}{18}
     \endentry
     \entry{seebacher2011}{inbook}{}
       \name{author}{2}{}{%
@@ -8663,8 +8679,11 @@
            given={Gerrit},
            giveni={G\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {München}%
+      }
       \list{publisher}{1}{%
-        {Vahlen Franz GmbH}%
+        {Vahlen}%
       }
       \strng{namehash}{042c436c929c1fc8f6682c96a6cd4458}
       \strng{fullhash}{e01274fae127586a7b6d7b82617ac5e7}
@@ -8676,14 +8695,11 @@
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{edition}{26. Auflage}
       \field{isbn}{9783800650002}
-      \field{number}{Bd. 3}
       \field{series}{Vahlens Handb{ü}cher der Wirtschafts- und Sozialwissenschaften}
       \field{title}{Einf{ü}hrung in die Allgemeine Betriebswirtschaftslehre}
       \field{year}{2016}
-      \verb{doi}
-      \verb https://books.google.de/books?id=PW0LkAEACAAJ
-      \endverb
     \endentry
     \entry{Wolf1989}{book}{}
       \name{author}{1}{}{%
@@ -8954,50 +8970,6 @@
       \verb{doi}
       \verb 10.1007/978-3-658-23714-1_3
       \endverb
-    \endentry
-    \entry{klein2010moderne3}{incollection}{}
-      \name{author}{2}{}{%
-        {{hash=fbca59b87b846b28bc61b9b0a90d8702}{%
-           family={Zunk},
-           familyi={Z\bibinitperiod},
-           given={Bernd},
-           giveni={B\bibinitperiod}}}%
-        {{hash=dd6f1eb5275595e21a2cc15c3abf0f44}{%
-           family={Bauer},
-           familyi={B\bibinitperiod},
-           given={Ulrich},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=dcc821618636330ec34787596c4a78f8}{%
-           family={Klein},
-           familyi={K\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Haufe-Mediengruppe}%
-      }
-      \strng{namehash}{da255e7276a827593e799ed8d21d84f6}
-      \strng{fullhash}{da255e7276a827593e799ed8d21d84f6}
-      \strng{bibnamehash}{da255e7276a827593e799ed8d21d84f6}
-      \strng{authorbibnamehash}{da255e7276a827593e799ed8d21d84f6}
-      \strng{authornamehash}{da255e7276a827593e799ed8d21d84f6}
-      \strng{authorfullhash}{da255e7276a827593e799ed8d21d84f6}
-      \strng{editorbibnamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editornamehash}{dcc821618636330ec34787596c4a78f8}
-      \strng{editorfullhash}{dcc821618636330ec34787596c4a78f8}
-      \field{sortinit}{Z}
-      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Moderne Controlling-Instrumente f{ü}r Marketing und Vertrieb}
-      \field{isbn}{9783648011492}
-      \field{series}{Haufe Fachpraxis}
-      \field{title}{Konzeptioneller Rahmen und Handlungsfelder eines Kundenbeziehungscontrollings}
-      \field{year}{2010}
-      \field{pages}{57\bibrangedash 74}
-      \range{pages}{18}
     \endentry
   \enddatalist
 \endrefsection

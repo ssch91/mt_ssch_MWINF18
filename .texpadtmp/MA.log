@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.31)  24 MAR 2020 07:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.31)  29 MAR 2020 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1280,11 +1280,11 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \glo@main@file=\write7
 \openout7 = `MA.glo'.
 
-Package glossaries Info: Writing glossary file MA.glo on input line 91.
+Package glossaries Info: Writing glossary file MA.glo on input line 93.
 \glo@acronym@file=\write8
 \openout8 = `MA.acn'.
 
-Package glossaries Info: Writing glossary file MA.acn on input line 91.
+Package glossaries Info: Writing glossary file MA.acn on input line 93.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
@@ -1320,21 +1320,21 @@ LaTeX Warning: Label `tab:5' multiply defined.
 )
 \openout1 = `MA.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Info: Redefining \microtypecontext on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Info: Redefining \microtypecontext on input line 95.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1405,7 +1405,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Redefining '\citeauthor' on input line 93.
+Package biblatex Info: Redefining '\citeauthor' on input line 95.
 Package biblatex Info: Input encoding 'latin1' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'latin1'.
@@ -1414,20 +1414,20 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MA.bbl' found.
 (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl)
-Package biblatex Info: Reference section=0 on input line 93.
-Package biblatex Info: Reference segment=0 on input line 93.
+Package biblatex Info: Reference section=0 on input line 95.
+Package biblatex Info: Reference segment=0 on input line 95.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 93.
+LaTeX Info: Redefining \selectfont on input line 95.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
  ABD: EveryShipout initializing macros
 
-Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 93.
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 95.
 
 \AtBeginShipoutBox=\box96
-Package hyperref Info: Link coloring OFF on input line 93.
+Package hyperref Info: Link coloring OFF on input line 95.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1435,19 +1435,25 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count496
 )
-LaTeX Info: Redefining \ref on input line 93.
-LaTeX Info: Redefining \pageref on input line 93.
-LaTeX Info: Redefining \nameref on input line 93.
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
  (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.out) (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.out)
 \@outlinefile=\write9
 \openout9 = `MA.out'.
 
- (./titlepage.tex)
-<image/nak.jpg, id=78, 256.0767pt x 56.8524pt>
+ (./titlepage.tex
+<image/nak.jpg, id=82, 256.0767pt x 56.8524pt>
 File: image/nak.jpg Graphic file (type jpg)
 <use image/nak.jpg>
-Package pdftex.def Info: image/nak.jpg  used on input line 96.
-(pdftex.def)             Requested size: 256.07608pt x 56.85225pt.
+Package pdftex.def Info: image/nak.jpg  used on input line 15.
+(pdftex.def)             Requested size: 362.77525pt x 80.54443pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
  [1
 
 
@@ -1456,50 +1462,91 @@ Package pdftex.def Info: image/nak.jpg  used on input line 96.
 
 \openout6 = `MA.ist'.
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image/nak.jpg>] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.tocpdfTeX warning (ext4): destination with the same identifier (name{page.I}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.69 ...onscontrolling}{38}{subsubsection.0.3.3.1}
-                                                  % [1
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image/nak.jpg>]) (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.toc [2
 
 ]
-Overfull \hbox (17.01646pt too wide) detected at line 131
- []\OT1/cmr/m/n/12 XXVII
+Overfull \hbox (3.96521pt too wide) detected at line 127
+ []\OT1/cmr/m/n/12 VIII
  []
 
 
-Overfull \hbox (21.5817pt too wide) detected at line 135
- []\OT1/cmr/m/n/12 XXVIII
+Overfull \hbox (8.21239pt too wide) detected at line 131
+ []\OT1/cmr/m/n/12 XXX
  []
 
 
-Overfull \hbox (17.01646pt too wide) detected at line 151
- []\OT1/cmr/m/n/12 XXXII
+Overfull \hbox (12.45123pt too wide) detected at line 135
+ []\OT1/cmr/m/n/12 XXXI
+ []
+
+
+Overfull \hbox (17.02063pt too wide) detected at line 151
+ []\OT1/cmr/m/n/12 XXXV
+ []
+
+[3]
+Overfull \hbox (21.25948pt too wide) detected at line 153
+ []\OT1/cmr/m/n/12 XXXVI
  []
 
 )
 \tf@toc=\write10
 \openout10 = `MA.toc'.
 
- [2] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.lof)
+ [4] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.lof)
 \tf@lof=\write11
 \openout11 = `MA.lof'.
 
- [3
+ [5
 
 ] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.lot)
 \tf@lot=\write12
 \openout12 = `MA.lot'.
 
- [4
+ [6
 
-] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.acr) [5
+] (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.acr) [7
 
 
 ] (./chapters/einleitung.tex
 
 Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'woehe2016einfuehrung' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Horvath2015' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'kuepper2013controlling' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'weber2015einfuehrung' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Gadatsch2014' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'kesten2013' is not an integer.
 (biblatex-dw)                The edition will not be printed as
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
@@ -1542,12 +1589,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-
-Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
-(biblatex-dw)                at entry 'radermacher2009'. The output might not 
-(biblatex-dw)                be correct.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 17--32
 
  []
@@ -1563,6 +1604,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--48
  []
 
 [3]) (./chapters/controllingansatz.tex [4]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'ossadnik2009controlling' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Hubert2018' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3--23
 
  []
@@ -1575,38 +1631,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--23
 [5
 
 ]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Buchholz2013' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Reichmann2017' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
 Overfull \hbox (0.92236pt too wide) in paragraph at lines 41--41
  []|$[]$| 
  []
 
 [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 53.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 55.
-
-Overfull \hbox (27.95882pt too wide) in paragraph at lines 55--55
-[][]\OT1/cmr/m/n/12 (-20) Seitenzahlen 
- []
-
-
-Overfull \hbox (3.10896pt too wide) in paragraph at lines 55--55
-\OT1/cmr/m/n/12 (-20) K[]upper 
- []
-
-
-Overfull \hbox (27.95882pt too wide) in paragraph at lines 55--55
-[][]\OT1/cmr/m/n/12 (-20) Seitenzahlen 
- []
-
-
-Overfull \hbox (3.10896pt too wide) in paragraph at lines 55--55
-\OT1/cmr/m/n/12 (-20) K[]upper 
- []
-
 
 Overfull \hbox (6.1611pt too wide) in paragraph at lines 53--57
 \OT1/cmr/m/n/12 (-20) fl[]usse (Un-ter-neh-men-sum-welt). De-fi-ni-ti-on und An-wen-dung von Fr[]uhwarnsystemen
@@ -1618,31 +1664,38 @@ Overfull \hbox (0.65718pt too wide) in paragraph at lines 57--59
  []
 
 [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 210--225
+Underfull \hbox (badness 10000) in paragraph at lines 208--223
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 226--235
+Underfull \hbox (badness 10000) in paragraph at lines 224--233
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 236--246
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 247--256
+Underfull \hbox (badness 10000) in paragraph at lines 234--244
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 257--272
+Underfull \hbox (badness 10000) in paragraph at lines 245--254
 
  []
 
-[12] [13]
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 255--269
+
+ []
+
+[13]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Gottmann2019' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Gutenberg1979' is not an integer.
@@ -1665,7 +1718,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 [14]
-Underfull \hbox (badness 1688) in paragraph at lines 298--298
+Underfull \hbox (badness 1688) in paragraph at lines 295--295
 \OT1/cmr/m/n/8 S.103-130, [][][][]Martin K[]utz, \OT1/cmr/m/it/8 Pro-jekt-con-trol-ling in der IT: Steue-rung von Pro-jek-ten und Pro-jekt-port-fo-li-os\OT1/cmr/m/n/8 ,
  []
 
@@ -1677,26 +1730,16 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (2.26208pt too wide) in paragraph at lines 297--309
-\OT1/cmr/m/n/12 (-20) Ter-min-ein-hal-tung durch In-for-ma-ti-ons-er-mitt-lung und -bereitstellung zu erm[]oglichen.[][][][][][]
+Overfull \hbox (2.04958pt too wide) in paragraph at lines 294--306
+\OT1/cmr/m/n/12 (-20) Ter-min-ein-hal-tung durch In-for-ma-ti-ons-er-mitt-lung und -bereitstellung zu erm[]oglichen.[][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--309
+Underfull \hbox (badness 10000) in paragraph at lines 294--306
 
  []
 
-[15]
-Overfull \hbox (12.27927pt too wide) in paragraph at lines 315--315
-[][]\OT1/cmr/m/n/12 (-20) inhaltlich 
- []
-
-
-Overfull \hbox (12.27927pt too wide) in paragraph at lines 315--315
-[][]\OT1/cmr/m/n/12 (-20) inhaltlich 
- []
-
-[16]
+[15] [16]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'schmalenbach1909'. The output might not 
@@ -1710,10 +1753,21 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--329
+Underfull \hbox (badness 10000) in paragraph at lines 319--328
 
  []
 
+
+Overfull \hbox (36.61432pt too wide) in paragraph at lines 319--328
+\OT1/cmr/m/n/12 (-20) Dieser h[]aufig star-re Pro-zess wird in der Pra-xis in Fra-ge ge-stellt. Fle-xi-bi-li-sie-rungsm[]oglichkeiten
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 336--339
+
+ []
+
+[18]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'bouffier1952'. The output might not 
@@ -1726,18 +1780,19 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[17] [18] [19]
-<image/tab2.png, id=1110, 953.5625pt x 1004.75375pt>
+[19] [20]
+<image/tab2.png, id=1138, 953.5625pt x 1004.75375pt>
 File: image/tab2.png Graphic file (type png)
 <use image/tab2.png>
-Package pdftex.def Info: image/tab2.png  used on input line 357.
+Package pdftex.def Info: image/tab2.png  used on input line 367.
 (pdftex.def)             Requested size: 426.79135pt x 449.71268pt.
- [20 <./image/tab2.png>]
+ [21 <./image/tab2.png>]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'lachnit1976'. The output might not 
 (biblatex-dw)                be correct.
 
+[22]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'crueger2004'. The output might not 
@@ -1763,11 +1818,11 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 ) (./chapters/grundlagen_des_produktionscontrollings.tex
-Underfull \hbox (badness 10000) in paragraph at lines 383--1
+Underfull \hbox (badness 10000) in paragraph at lines 393--1
 
  []
 
-[21] [22] [23]
+[23] [24]
 Overfull \hbox (1.9159pt too wide) in paragraph at lines 1--1
 |[]\OT1/cmr/bx/n/17.28 Produktionscontrolling als Kon-zep-ti-ons-grund-la-
  []
@@ -1792,13 +1847,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--22
 
  []
 
-[24
+[25
 
-]
-<image/pps_system.png, id=1321, 1156.32pt x 232.87pt>
+] [26]
+<image/pps_system.png, id=1376, 1156.32pt x 232.87pt>
 File: image/pps_system.png Graphic file (type png)
 <use image/pps_system.png>
-Package pdftex.def Info: image/pps_system.png  used on input line 32.
+Package pdftex.def Info: image/pps_system.png  used on input line 31.
 (pdftex.def)             Requested size: 426.79135pt x 85.9509pt.
 
 
@@ -1809,26 +1864,16 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Underfull \hbox (badness 7576) in paragraph at lines 36--36
+Underfull \hbox (badness 7576) in paragraph at lines 35--35
 \OT1/cmr/m/n/8 etal., []\OT1/cmr/m/it/8 Kon-zep-tio-nel-le Grund-la-gen ka-pa-zit[]atsorientierter PPS-Systeme[]\OT1/cmr/m/n/8 , S.2-3, [][][][]Stefan Ze-lew-ski etal.,
  []
 
-[25]
-Overfull \hbox (23.25755pt too wide) in paragraph at lines 43--43
-[][]\OT1/cmr/m/n/12 (-20) einleitender 
- []
-
-
-Overfull \hbox (23.25755pt too wide) in paragraph at lines 43--43
-[][]\OT1/cmr/m/n/12 (-20) einleitender 
- []
-
-[26 <./image/pps_system.png (PNG copy)>]
-<image/pfohl_Materialbedarfsarten.png, id=1399, 692.5875pt x 388.45125pt>
+[27 <./image/pps_system.png (PNG copy)>]
+<image/pfohl_Materialbedarfsarten.png, id=1430, 637.38126pt x 312.16624pt>
 File: image/pfohl_Materialbedarfsarten.png Graphic file (type png)
 <use image/pfohl_Materialbedarfsarten.png>
-Package pdftex.def Info: image/pfohl_Materialbedarfsarten.png  used on input line 59.
-(pdftex.def)             Requested size: 426.79135pt x 239.37917pt.
+Package pdftex.def Info: image/pfohl_Materialbedarfsarten.png  used on input line 60.
+(pdftex.def)             Requested size: 426.79135pt x 209.02644pt.
 
 
 Package biblatex-dw Warning: The 'edition' field of entry
@@ -1837,15 +1882,12 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[27]
-<image/methoden_bedarfsermittlung.png, id=1449, 655.44875pt x 532.99126pt>
+[28] [29 <./image/pfohl_Materialbedarfsarten.png (PNG copy)>]
+<image/methoden_bedarfsermittlung.png, id=1496, 711.65875pt x 275.0275pt>
 File: image/methoden_bedarfsermittlung.png Graphic file (type png)
 <use image/methoden_bedarfsermittlung.png>
 Package pdftex.def Info: image/methoden_bedarfsermittlung.png  used on input line 85.
-(pdftex.def)             Requested size: 426.79135pt x 347.0583pt.
-
-
-LaTeX Warning: Marginpar on page 28 moved.
+(pdftex.def)             Requested size: 426.79135pt x 164.93384pt.
 
 
 Package biblatex-dw Warning: The 'edition' field of entry
@@ -1854,11 +1896,11 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[28 <./image/pfohl_Materialbedarfsarten.png>] [29 <./image/methoden_bedarfsermittlung.png>] [30]
-<image/arbeitsplatzdurchlaufzeit.png, id=1572, 358.33875pt x 155.58125pt>
+[30 <./image/methoden_bedarfsermittlung.png (PNG copy)>] [31]
+<image/arbeitsplatzdurchlaufzeit.png, id=1598, 358.33875pt x 155.58125pt>
 File: image/arbeitsplatzdurchlaufzeit.png Graphic file (type png)
 <use image/arbeitsplatzdurchlaufzeit.png>
-Package pdftex.def Info: image/arbeitsplatzdurchlaufzeit.png  used on input line 143.
+Package pdftex.def Info: image/arbeitsplatzdurchlaufzeit.png  used on input line 141.
 (pdftex.def)             Requested size: 213.39568pt x 92.6515pt.
 
 
@@ -1869,26 +1911,26 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--162
+Underfull \hbox (badness 10000) in paragraph at lines 130--160
 
  []
 
 
-Overfull \hbox (10.48514pt too wide) in paragraph at lines 132--162
+Overfull \hbox (10.48514pt too wide) in paragraph at lines 130--160
 \OT1/cmr/m/n/12 (-20) Aus der Durch-lauf-ter-mi-nie-rung re-sul-tie-ren ter-mi-nier-te Auf-tr[]age, de-ren Durchf[]uhrbarkeit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--162
+Underfull \hbox (badness 10000) in paragraph at lines 130--160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--162
+Underfull \hbox (badness 10000) in paragraph at lines 130--160
 
  []
 
-[31 <./image/arbeitsplatzdurchlaufzeit.png>] [32]
+[32] [33 <./image/arbeitsplatzdurchlaufzeit.png>] [34]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'domschke1997produktionsplanung' is not an integer.
@@ -1897,73 +1939,54 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 172--172
+Underfull \hbox (badness 1348) in paragraph at lines 170--170
 [][][]\OT1/cmr/m/n/8 Vgl. [][][][]Wolfgang Domsch-ke etal., \OT1/cmr/m/it/8 Pro-duk-ti-ons-pla-nung: Ab-lau-f-or-ga-ni-sa-to-ri-sche Aspek-te\OT1/cmr/m/n/8 , 2. Aufl. (Springer-
  []
 
-[33]
-<image/wiendahl_2002_auftragsueberwachung.png, id=1724, 476.78125pt x 156.585pt>
+[35]
+<image/wiendahl_2002_auftragsueberwachung.png, id=1789, 476.78125pt x 156.585pt>
 File: image/wiendahl_2002_auftragsueberwachung.png Graphic file (type png)
 <use image/wiendahl_2002_auftragsueberwachung.png>
-Package pdftex.def Info: image/wiendahl_2002_auftragsueberwachung.png  used on input line 191.
+Package pdftex.def Info: image/wiendahl_2002_auftragsueberwachung.png  used on input line 189.
 (pdftex.def)             Requested size: 298.75264pt x 98.12103pt.
 
-Underfull \hbox (badness 3568) in paragraph at lines 203--203
+Underfull \hbox (badness 3568) in paragraph at lines 201--201
 [][][]\OT1/cmr/m/n/8 Vgl. [][][]ebd.[], S.99 und [][]Simon, []\OT1/cmr/m/it/8 Fer-ti-gungs-re-ge-lung durch ziel-gr[]o^^Yenorientierte Pla-nung und lo-gis-ti-sches
  []
 
-<image/wiehndahl_2002_zustandsbeobachter.png, id=1738, 479.7925pt x 343.2825pt>
+<image/wiehndahl_2002_zustandsbeobachter.png, id=1803, 479.7925pt x 343.2825pt>
 File: image/wiehndahl_2002_zustandsbeobachter.png Graphic file (type png)
 <use image/wiehndahl_2002_zustandsbeobachter.png>
-Package pdftex.def Info: image/wiehndahl_2002_zustandsbeobachter.png  used on input line 206.
+Package pdftex.def Info: image/wiehndahl_2002_zustandsbeobachter.png  used on input line 204.
 (pdftex.def)             Requested size: 298.75264pt x 213.75484pt.
-[34] [35 <./image/wiendahl_2002_auftragsueberwachung.png>] [36 <./image/wiehndahl_2002_zustandsbeobachter.png>]
+[36] [37 <./image/wiendahl_2002_auftragsueberwachung.png>]
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 222.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 220.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 222.
-
-Overfull \hbox (9.72693pt too wide) in paragraph at lines 223--223
-\OT1/cmr/m/n/12 (-20) anf[]uhren  
- []
-
-
-Overfull \hbox (9.72693pt too wide) in paragraph at lines 223--223
-\OT1/cmr/m/n/12 (-20) anf[]uhren  
- []
-
-[37] [38]
-Overfull \hbox (9.13159pt too wide) in paragraph at lines 261--261
-[][]\OT1/cmr/m/n/12 (-20) nachweis  
- []
-
-
-Overfull \hbox (9.13159pt too wide) in paragraph at lines 261--261
-[][]\OT1/cmr/m/n/12 (-20) nachweis  
- []
-
-<image/schnell_2012_viereck.png, id=1959, 1684.2925pt x 849.1725pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 220.
+ [38 <./image/wiehndahl_2002_zustandsbeobachter.png>] [39] [40]
+<image/schnell_2012_viereck.png, id=2013, 1684.2925pt x 849.1725pt>
 File: image/schnell_2012_viereck.png Graphic file (type png)
 <use image/schnell_2012_viereck.png>
-Package pdftex.def Info: image/schnell_2012_viereck.png  used on input line 268.
+Package pdftex.def Info: image/schnell_2012_viereck.png  used on input line 265.
 (pdftex.def)             Requested size: 298.75264pt x 150.6158pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--274
+Underfull \hbox (badness 10000) in paragraph at lines 253--271
 
  []
 
-[39]
-<image/schnell_klein_gradueller_aufbau.png, id=2002, 1842.885pt x 1276.77pt>
+[41]
+<image/schnell_klein_gradueller_aufbau.png, id=2044, 1842.885pt x 1276.77pt>
 File: image/schnell_klein_gradueller_aufbau.png Graphic file (type png)
 <use image/schnell_klein_gradueller_aufbau.png>
-Package pdftex.def Info: image/schnell_klein_gradueller_aufbau.png  used on input line 278.
+Package pdftex.def Info: image/schnell_klein_gradueller_aufbau.png  used on input line 275.
 (pdftex.def)             Requested size: 362.77525pt x 251.31671pt.
 
-Overfull \hbox (28.9902pt too wide) in paragraph at lines 275--285
+Overfull \hbox (28.9902pt too wide) in paragraph at lines 272--282
 \OT1/cmr/m/n/12 (-20) Neben der res[]umierten in-halt-li-chen Tren-nung von stra-te-gi-schem und tak-ti-schem/operativem
  []
 
-[40 <./image/schnell_2012_viereck.png>]
+[42 <./image/schnell_2012_viereck.png> <./image/schnell_klein_gradueller_aufbau.png>]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Gruenig2018' is not an integer.
@@ -1986,11 +2009,15 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--298
+Underfull \hbox (badness 10000) in paragraph at lines 288--295
 
  []
 
-[41 <./image/schnell_klein_gradueller_aufbau.png>]
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 298--303
+
+ []
+
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Horsch2020' is not an integer.
@@ -1998,6 +2025,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
+[44]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Szyszka2015' is not an integer.
@@ -2005,77 +2033,71 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-<image/kostenarten_horsch.pdf, id=2067, 573.70305pt x 249.10786pt>
+<image/kostenarten_horsch.pdf, id=2129, 573.70305pt x 249.10786pt>
 File: image/kostenarten_horsch.pdf Graphic file (type pdf)
 <use image/kostenarten_horsch.pdf>
-Package pdftex.def Info: image/kostenarten_horsch.pdf  used on input line 315.
+Package pdftex.def Info: image/kostenarten_horsch.pdf  used on input line 314.
 (pdftex.def)             Requested size: 426.79135pt x 185.3214pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--325
+Underfull \hbox (badness 10000) in paragraph at lines 309--324
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--325
-
- []
-
-[42] [43 <./image/kostenarten_horsch.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+[45 <./image/kostenarten_horsch.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
 []|\OT1/cmr/m/n/12 (+20) Zusammenh[]ange zwi-schen den Kenn-zah-len wer-den
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 345--345
+Underfull \hbox (badness 2269) in paragraph at lines 344--344
 []|\OT1/cmr/m/n/12 (+20) Der Be-zug zu den obe-ren Un-ter-neh-mens-zie-len wird
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--352
+Underfull \hbox (badness 10000) in paragraph at lines 324--351
 
  []
 
-[44]
-<image/gottmann_funktionsorientierter_ansatz.png, id=2177, 2276.505pt x 1194.4625pt>
+<image/gottmann_funktionsorientierter_ansatz.png, id=2199, 2276.505pt x 1194.4625pt>
 File: image/gottmann_funktionsorientierter_ansatz.png Graphic file (type png)
 <use image/gottmann_funktionsorientierter_ansatz.png>
-Package pdftex.def Info: image/gottmann_funktionsorientierter_ansatz.png  used on input line 357.
+Package pdftex.def Info: image/gottmann_funktionsorientierter_ansatz.png  used on input line 356.
 (pdftex.def)             Requested size: 426.79135pt x 223.92471pt.
- [45 <./image/gottmann_funktionsorientierter_ansatz.png>]
-<image/gottmann_einsatzbereich_kennzahlen.png, id=2213, 2808.4925pt x 1198.4775pt>
+[46] [47 <./image/gottmann_funktionsorientierter_ansatz.png>]
+<image/gottmann_einsatzbereich_kennzahlen.png, id=2256, 2808.4925pt x 1198.4775pt>
 File: image/gottmann_einsatzbereich_kennzahlen.png Graphic file (type png)
 <use image/gottmann_einsatzbereich_kennzahlen.png>
-Package pdftex.def Info: image/gottmann_einsatzbereich_kennzahlen.png  used on input line 379.
+Package pdftex.def Info: image/gottmann_einsatzbereich_kennzahlen.png  used on input line 378.
 (pdftex.def)             Requested size: 426.79135pt x 182.12292pt.
- [46]
-<image/dreistufigeransatz_schnell.png, id=2256, 608.2725pt x 429.605pt>
+ [48]
+<image/dreistufigeransatz_schnell.png, id=2297, 608.2725pt x 429.605pt>
 File: image/dreistufigeransatz_schnell.png Graphic file (type png)
 <use image/dreistufigeransatz_schnell.png>
-Package pdftex.def Info: image/dreistufigeransatz_schnell.png  used on input line 398.
+Package pdftex.def Info: image/dreistufigeransatz_schnell.png  used on input line 397.
 (pdftex.def)             Requested size: 298.75264pt x 211.00648pt.
- [47 <./image/gottmann_einsatzbereich_kennzahlen.png>] [48 <./image/dreistufigeransatz_schnell.png (PNG copy)>]
-<image/bauer_erfolgsfaktoren.png, id=2322, 743.77875pt x 438.63875pt>
+ [49 <./image/gottmann_einsatzbereich_kennzahlen.png>] [50 <./image/dreistufigeransatz_schnell.png (PNG copy)>]
+<image/bauer_erfolgsfaktoren.png, id=2361, 743.77875pt x 438.63875pt>
 File: image/bauer_erfolgsfaktoren.png Graphic file (type png)
 <use image/bauer_erfolgsfaktoren.png>
-Package pdftex.def Info: image/bauer_erfolgsfaktoren.png  used on input line 421.
+Package pdftex.def Info: image/bauer_erfolgsfaktoren.png  used on input line 420.
 (pdftex.def)             Requested size: 426.79135pt x 251.69995pt.
- [49 <./image/bauer_erfolgsfaktoren.png>]
-<image/gadatsch_2014_bsc_aufbau.png, id=2364, 1170.3725pt x 636.3775pt>
+ [51 <./image/bauer_erfolgsfaktoren.png>]
+<image/gadatsch_2014_bsc_aufbau.png, id=2400, 3203.97pt x 1740.5025pt>
 File: image/gadatsch_2014_bsc_aufbau.png Graphic file (type png)
 <use image/gadatsch_2014_bsc_aufbau.png>
-Package pdftex.def Info: image/gadatsch_2014_bsc_aufbau.png  used on input line 441.
-(pdftex.def)             Requested size: 362.77525pt x 197.25555pt.
-<image/gadatsch_2014_BSC_kreislauf.png, id=2376, 473.77pt x 287.0725pt>
+Package pdftex.def Info: image/gadatsch_2014_bsc_aufbau.png  used on input line 440.
+(pdftex.def)             Requested size: 362.77525pt x 197.05959pt.
+<image/gadatsch_2014_BSC_kreislauf.png, id=2412, 4189.6525pt x 2499.3375pt>
 File: image/gadatsch_2014_BSC_kreislauf.png Graphic file (type png)
 <use image/gadatsch_2014_BSC_kreislauf.png>
-Package pdftex.def Info: image/gadatsch_2014_BSC_kreislauf.png  used on input line 453.
-(pdftex.def)             Requested size: 362.77525pt x 219.82437pt.
+Package pdftex.def Info: image/gadatsch_2014_BSC_kreislauf.png  used on input line 452.
+(pdftex.def)             Requested size: 362.77525pt x 216.38803pt.
 
-Overfull \hbox (10.88702pt too wide) in paragraph at lines 433--463
+Overfull \hbox (10.88702pt too wide) in paragraph at lines 432--462
   \OT1/cmr/m/n/12 (-20) Die ein-ge-setz-ten Kenn-zah-len sol-len sich da-bei aus Ursache-Wirkungs-Zusammenh[]angen
  []
 
-[50 <./image/gadatsch_2014_bsc_aufbau.png>] [51 <./image/gadatsch_2014_BSC_kreislauf.png>]) (./chapters/flexibilitaet.tex [52]
+[52] [53 <./image/gadatsch_2014_bsc_aufbau.png> <./image/gadatsch_2014_BSC_kreislauf.png>]) (./chapters/flexibilitaet.tex [54]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'brockhaus2006' is not an integer.
@@ -2093,7 +2115,7 @@ Overfull \hbox (7.13802pt too wide) in paragraph at lines 3--10
 \OT1/cmr/m/n/12 (-20) Rah-men-be-din-gun-gen[][][] und Fle-xi-bi-li-sie-rung die ,,Lo-cke-rung be-zie-hungs-wei-se Aufl[]osung
  []
 
-<image/garrel_flexibilitaet.png, id=2488, 686.565pt x 195.73125pt>
+<image/garrel_flexibilitaet.png, id=2527, 686.565pt x 195.73125pt>
 File: image/garrel_flexibilitaet.png Graphic file (type png)
 <use image/garrel_flexibilitaet.png>
 Package pdftex.def Info: image/garrel_flexibilitaet.png  used on input line 27.
@@ -2113,9 +2135,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--37
 
  []
 
-[53
+[55
 
-] [54]
+] [56]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 39.
+
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'Upton1997ProcessRI'. The output might not 
@@ -2128,7 +2152,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-<image/eigenschaften_flexibilitaet.pdf, id=2579, 516.20741pt x 730.49861pt>
+<image/eigenschaften_flexibilitaet.pdf, id=2615, 516.20741pt x 730.49861pt>
 File: image/eigenschaften_flexibilitaet.pdf Graphic file (type pdf)
 <use image/eigenschaften_flexibilitaet.pdf>
 Package pdftex.def Info: image/eigenschaften_flexibilitaet.pdf  used on input line 63.
@@ -2143,18 +2167,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--65
 
  []
 
-[55 <./image/garrel_flexibilitaet.png (PNG copy)>] [56] [57]
-<image/gottmann_flexibilitaet.pdf, id=2656, 586.4013pt x 299.36403pt>
+[57 <./image/garrel_flexibilitaet.png (PNG copy)>] [58] [59]
+<image/gottmann_flexibilitaet.pdf, id=2695, 586.4013pt x 299.36403pt>
 File: image/gottmann_flexibilitaet.pdf Graphic file (type pdf)
 <use image/gottmann_flexibilitaet.pdf>
 Package pdftex.def Info: image/gottmann_flexibilitaet.pdf  used on input line 78.
 (pdftex.def)             Requested size: 384.1096pt x 196.09628pt.
- [58 <./image/eigenschaften_flexibilitaet.pdf>]
+ [60 <./image/eigenschaften_flexibilitaet.pdf>]
 Underfull \hbox (badness 2726) in paragraph at lines 87--87
 [][][]\OT1/cmr/m/n/8 Vgl. [][][][]Heribert Mef-fert, \OT1/cmr/m/it/8 Gr[]o^^Yere Fle-xi-bi-lit[]at als Un-ter-neh-mungs-kon-zept\OT1/cmr/m/n/8 , in: Markt-ori-en-tier-te Un-ter-neh-
  []
 
-<image/sethi_flexibilitaet.png, id=2694, 3426.8025pt x 1847.90375pt>
+<image/sethi_flexibilitaet.png, id=2733, 3426.8025pt x 1847.90375pt>
 File: image/sethi_flexibilitaet.png Graphic file (type png)
 <use image/sethi_flexibilitaet.png>
 Package pdftex.def Info: image/sethi_flexibilitaet.png  used on input line 91.
@@ -2174,331 +2198,594 @@ Overfull \hbox (23.40636pt too wide) in paragraph at lines 83--129
 \OT1/cmr/m/n/12 (-20) Daneben, al-so ab-seits des Be-trach-tungs-ge-gen-stands, wird al-ler-dings un-ter Ber[]ucksichtigung
  []
 
-[59 <./image/gottmann_flexibilitaet.pdf>]
+[61 <./image/gottmann_flexibilitaet.pdf>] [62 <./image/sethi_flexibilitaet.png (PNG copy)>]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'ranta1988interactive'. The output might not 
 (biblatex-dw)                be correct.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--135
+Underfull \hbox (badness 10000) in paragraph at lines 130--136
 
  []
 
-[60 <./image/sethi_flexibilitaet.png (PNG copy)>]
-Overfull \hbox (12.28578pt too wide) in paragraph at lines 140--140
-[][]\OT1/cmr/m/n/12 (-20) einf[]uhren  
- []
-
-
-Overfull \hbox (12.28578pt too wide) in paragraph at lines 140--140
-[][]\OT1/cmr/m/n/12 (-20) einf[]uhren  
- []
-
-[61]
+[63]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'chatterjee1987planning'. The output might not 
 (biblatex-dw)                be correct.
 
+[64]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'stecke1984variations'. The output might not 
 (biblatex-dw)                be correct.
 
-[62]
+[65pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.181 	\begin{equation}
+                       ]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.186 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.186 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.186 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.186 	\begin{equation}
+                       
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'jaikumar1984'. The output might not 
 (biblatex-dw)                be correct.
 
-[63] [64]
-Overfull \hbox (3.91504pt too wide) in paragraph at lines 213--214
-[]\OT1/cmr/m/n/12 (-20) als Verh[]altnis des ge-sam-ten Pro-duk-ti-ons-vo-lu-mens zu den ge-sam-ten R[]ustkosten[][][] 
- []
-
-[65]
-Overfull \hbox (15.34474pt too wide) in paragraph at lines 225--228
+pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.190 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.190 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.190 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.190 	\begin{equation}
+                        [66]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.224 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.224 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.224 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.224 	\begin{equation}
+                        [67]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.241 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.241 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.241 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.241 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.245 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.245 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.245 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.245 	\begin{equation}
+                       
+Overfull \hbox (15.34474pt too wide) in paragraph at lines 248--251
 []\OT1/cmr/m/n/12 (-20) als bin[]ares Erf[]ullungskriterium der Sta-bi-lit[]at von Pro-duk-ti-ons-kos-ten bei tats[]achlich
  []
 
-
-Overfull \hbox (18.86017pt too wide) in paragraph at lines 232--233
+[68]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.251 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.251 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.251 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.251 	\begin{equation}
+                       
+Overfull \hbox (18.86017pt too wide) in paragraph at lines 255--256
 []\OT1/cmr/m/n/12 (-20) als Verh[]altnis zwi-schen Leer-lauf-zeit und Pro-duk-tiv-be-triebs-zeit als Ka-pa-zit[]atsreserve
  []
 
-[66] [67]
-Underfull \hbox (badness 10000) in paragraph at lines 286--301
+pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.267 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.267 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.267 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.267 	\begin{equation}
+                        [69]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.279 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.279 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.279 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.279 	\begin{equation}
+                        [70]
+Underfull \hbox (badness 10000) in paragraph at lines 311--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--301
+Underfull \hbox (badness 10000) in paragraph at lines 311--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--301
+Underfull \hbox (badness 10000) in paragraph at lines 311--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--301
+Underfull \hbox (badness 10000) in paragraph at lines 311--325
 
  []
 
-[68] [69]
-Underfull \hbox (badness 10000) in paragraph at lines 310--320
+[71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 334--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--320
+Underfull \hbox (badness 10000) in paragraph at lines 334--344
 
  []
 
-[70]
-Underfull \hbox (badness 10000) in paragraph at lines 328--342
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 352--366
 
  []
 
-[71]
-<image/indikatoren.pdf, id=3251, 537.82431pt x 380.05397pt>
+[74]
+<image/indikatoren.pdf, id=3291, 537.82431pt x 380.05397pt>
 File: image/indikatoren.pdf Graphic file (type pdf)
 <use image/indikatoren.pdf>
-Package pdftex.def Info: image/indikatoren.pdf  used on input line 420.
+Package pdftex.def Info: image/indikatoren.pdf  used on input line 444.
 (pdftex.def)             Requested size: 426.79135pt x 301.59633pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Overfull \hbox (39.11177pt too wide) in paragraph at lines 343--427
+Overfull \hbox (39.11177pt too wide) in paragraph at lines 367--451
 \OT1/cmr/bx/n/12 Materialflexibilit[]at \OT1/cmr/m/n/12 (-20) und \OT1/cmr/bx/n/12 Ab-lauffle-xi-bi-lit[]at \OT1/cmr/m/n/12 (-20) ent-fal-len auf-grund der feh-len-den Abh[]angigkeit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Overfull \hbox (33.82835pt too wide) in paragraph at lines 343--427
+Overfull \hbox (33.82835pt too wide) in paragraph at lines 367--451
 \OT1/cmr/bx/n/12 Prozessflexibilit[]at \OT1/cmr/m/n/12 (-20) geht eben-falls von Werkst[]ucken aus, wo-bei hier Ad-ap-ti-onsm[]oglichkeiten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Overfull \hbox (18.72968pt too wide) in paragraph at lines 343--427
+Overfull \hbox (18.72968pt too wide) in paragraph at lines 367--451
 \OT1/cmr/m/n/12 (-20) nachl[]assigen. Ab-strakt be-trach-tet wer-den al-ler-dings Be-stand-tei-le der Wertsch[]opfungskette
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Overfull \hbox (2.73056pt too wide) in paragraph at lines 343--427
+Overfull \hbox (2.73056pt too wide) in paragraph at lines 367--451
 \OT1/cmr/m/n/12 (-20) wer-den, an-de-rer-seits stellt die pr[]aventive Schaf-fung ir-ra-tio-nal ho-her Ka-pa-zit[]atsreserven
  []
 
 
-Overfull \hbox (5.64427pt too wide) in paragraph at lines 343--427
+Overfull \hbox (5.64427pt too wide) in paragraph at lines 367--451
 \OT1/cmr/m/n/12 (-20) Die Vo-lu-men-fle-xi-bi-lit[]at ist al-so vor al-lem auf die tech-ni-sche In-fra-struk-tur zu []ubertragen. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Overfull \hbox (3.23302pt too wide) in paragraph at lines 343--427
+Overfull \hbox (3.23302pt too wide) in paragraph at lines 367--451
 \OT1/cmr/m/n/12 (-20) wie die Vo-lu-men-fle-xi-bi-lit[]at er-zie-len soll, aber vor al-lem deut-li-che Ka-pa-zit[]atserh[]ohungen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--427
+Underfull \hbox (badness 10000) in paragraph at lines 367--451
 
  []
 
-[72] [73] [74] [75] [76] [77]
-Underfull \hbox (badness 10000) in paragraph at lines 437--462
+[75] [76] [77] [78] [79] [80] [81 <./image/indikatoren.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 461--487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--462
+Underfull \hbox (badness 10000) in paragraph at lines 461--487
 
  []
 
-[78 <./image/indikatoren.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
 
  []
 
-[79] [80]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.492 		\begin{equation}
-                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+l.489 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.492 		\begin{equation}
-                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+l.489 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.492 		\begin{equation}
-                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+l.489 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.492 		\begin{equation}
-                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.496 	\begin{equation}
-                       \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.496 	\begin{equation}
-                       \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.496 	\begin{equation}
-                       \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.496 	\begin{equation}
-                       \tag{W: (1) + (4)} [81]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.529 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.529 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.529 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.529 	\begin{equation}
-                        [82]
-Overfull \hbox (18.68272pt too wide) in paragraph at lines 532--533
-[]\OT1/cmr/m/n/12 (-20) als Verh[]altnis der In-fra-struk-tur-kom-po-nen-ten, die aus-fal-len m[]ussen, die Lauff[]ahigkeit
+l.489 		\begin{equation}
+                        
+Overfull \hbox (33.62059pt too wide) in paragraph at lines 493--494
+[]\OT1/cmr/m/n/12 (-20) als An-teil der Mit-ar-bei-ter in mit-ge-stalt-ba-ren, von sta-ti-scher Einschicht-Vollzeitt[]atigkeit
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.533 	\begin{equation}
+l.494 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.494 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.494 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.494 		\begin{equation}
+                         [83]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.498 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.498 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.498 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.498 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.502 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.502 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.502 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.502 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.506 	\begin{equation}
+                        [84]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.517 		\begin{equation}
+                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.517 		\begin{equation}
+                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.517 		\begin{equation}
+                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.517 		\begin{equation}
+                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.521 	\begin{equation}
+                       \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.521 	\begin{equation}
+                       \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.521 	\begin{equation}
+                       \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.521 	\begin{equation}
+                       \tag{W: (1) + (4)} [85]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.554 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.554 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.554 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.554 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.533 	\begin{equation}
+l.558 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.533 	\begin{equation}
+l.558 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.533 	\begin{equation}
+l.558 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.558 	\begin{equation}
+                        [86]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.562 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.537 	\begin{equation}
+l.562 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.537 	\begin{equation}
+l.562 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.537 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.537 	\begin{equation}
+l.562 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.545 	\begin{equation}
+l.570 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.545 	\begin{equation}
+l.570 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.545 	\begin{equation}
+l.570 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.545 	\begin{equation}
+l.570 	\begin{equation}
                        \tag{W: (1)}
 
 Package biblatex-dw Warning: The 'edition' field of entry
@@ -2507,156 +2794,192 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[83]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+[87]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 	\begin{equation}
+l.600 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 	\begin{equation}
+l.600 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 	\begin{equation}
+l.600 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 	\begin{equation}
-                        [84]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.580 	\begin{equation}
+l.600 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.580 	\begin{equation}
+l.605 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.580 	\begin{equation}
+l.605 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.580 	\begin{equation}
-                       
-Overfull \hbox (62.27095pt too wide) in paragraph at lines 589--591
+l.605 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.605 	\begin{equation}
+                        [88]
+Overfull \hbox (62.27095pt too wide) in paragraph at lines 614--616
 []\OT1/cmr/m/n/12 (-20) Die Stei-ge-rung der []Anderungsflexibilit[]at soll-te mit der Re-duk-ti-on von []anderungsverursachten
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
+l.616 		\begin{equation}
                         \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
+l.616 		\begin{equation}
                         \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
+l.616 		\begin{equation}
                         \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
-                        \tag{W: (3)} [85]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+l.616 		\begin{equation}
+                        \tag{W: (3)} [89]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.614 	\begin{equation}
+l.639 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.614 	\begin{equation}
+l.639 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.614 	\begin{equation}
+l.639 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.614 	\begin{equation}
+l.639 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.622 		\begin{equation}
-                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.622 		\begin{equation}
-                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.622 		\begin{equation}
-                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.622 		\begin{equation}
-                        \tag{W: (1)} [86]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.645 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.645 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.645 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.645 	\begin{equation}
+l.643 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.649 	\begin{equation}
+l.643 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.649 	\begin{equation}
+l.643 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.649 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.649 	\begin{equation}
+l.643 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.653 	\begin{equation}
+l.654 		\begin{equation}
+                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.654 		\begin{equation}
+                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.654 		\begin{equation}
+                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.654 		\begin{equation}
+                        \tag{W: (1)} [90]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.677 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.677 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.677 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.677 	\begin{equation}
+                        [91]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.681 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.681 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.681 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.681 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.653 	\begin{equation}
+l.685 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.653 	\begin{equation}
+l.685 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.653 	\begin{equation}
-                        [87]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+l.685 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.661 	\begin{equation}
+l.685 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.693 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.661 	\begin{equation}
+l.693 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.661 	\begin{equation}
+l.693 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.661 	\begin{equation}
-                       \tag{W: (1)}) (./chapters/rahmenwerk_zur_bewertung.tex [88]
+l.693 	\begin{equation}
+                       \tag{W: (1)}
+Overfull \hbox (34.5309pt too wide) in paragraph at lines 696--696
+[][]\OT1/cmr/m/n/12 (-20) zufriedenheit? 
+ []
+
+
+Overfull \hbox (37.72298pt too wide) in paragraph at lines 696--696
+\OT1/cmr/m/n/12 (-20) leranf[]alligkeit? 
+ []
+
+
+Overfull \hbox (34.5309pt too wide) in paragraph at lines 696--696
+[][]\OT1/cmr/m/n/12 (-20) zufriedenheit? 
+ []
+
+
+Overfull \hbox (37.72298pt too wide) in paragraph at lines 696--696
+\OT1/cmr/m/n/12 (-20) leranf[]alligkeit? 
+ []
+
+) (./chapters/rahmenwerk_zur_bewertung.tex [92]
 Overfull \hbox (0.15718pt too wide) in paragraph at lines 3--8
 \OT1/cmr/m/n/12 (-20) Insofern be-steht al-so ein in-te-griert ope-ra-tio-na-li-sier-ba-res Kon-strukt, das zur koh[]arenten
  []
@@ -2668,29 +2991,54 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-<image/bsc_wirkungsketten.png, id=3584, 964.60374pt x 784.9325pt>
+<image/bsc_wirkungsketten.png, id=3624, 964.60374pt x 784.9325pt>
 File: image/bsc_wirkungsketten.png Graphic file (type png)
 <use image/bsc_wirkungsketten.png>
 Package pdftex.def Info: image/bsc_wirkungsketten.png  used on input line 20.
 (pdftex.def)             Requested size: 341.43437pt x 277.83255pt.
-[89
+[93
 
-] [90 <./image/bsc_wirkungsketten.png (PNG copy)>]
-<image/flex_it.png, id=3621, 1142.2675pt x 1173.38374pt>
+] [94 <./image/bsc_wirkungsketten.png (PNG copy)>]
+<image/flex_it.png, id=3663, 1142.2675pt x 1173.38374pt>
 File: image/flex_it.png Graphic file (type png)
 <use image/flex_it.png>
 Package pdftex.def Info: image/flex_it.png  used on input line 32.
 (pdftex.def)             Requested size: 320.0935pt x 328.81377pt.
-) (./chapters/ausblick_und_potential.tex [91 <./image/flex_it.png>] [92]) [93
+) (./chapters/ausblick_und_potential.tex [95 <./image/flex_it.png>] [96])
+Underfull \hbox (badness 10000) in paragraph at lines 2--118
 
-]
-Overfull \hbox (4.33266pt too wide) in paragraph at lines 120--120
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--118
+
+ []
+
+[97
+
+] [98]
+Overfull \hbox (4.33266pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Adam, Diet-rich: \OT1/cmr/m/it/12 (-20) Ab-lauf-pla-nung und Fer-ti-gungs-steue-rung\OT1/cmr/m/n/12 (-20) , in: Produktions-Management,
  []
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 119.
-[6
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
+[8
 
 ]
 
@@ -2698,12 +3046,7 @@ Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty
 (biblatex-dw)                at entry 'bouffier1952'. The output might not 
 (biblatex-dw)                be correct.
 
-
-Overfull \hbox (4.09143pt too wide) in paragraph at lines 120--120
-[][]\OT1/cmr/m/n/12 (-20) Ders.: \OT1/cmr/m/it/12 (-20) Or-ga-ni-sa-to-ri-sche Fle-xi-bi-lit[]at in Wertsch[]opfungsnetzwerken\OT1/cmr/m/n/12 (-20) , in: Gesch[]aftsmodelle
- []
-
-[7]
+[9]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'brockhaus2006' is not an integer.
@@ -2712,17 +3055,24 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Buchholz2013' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+[10]
+
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'chatterjee1987planning'. The output might not 
 (biblatex-dw)                be correct.
 
-[8]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'crueger2004'. The output might not 
 (biblatex-dw)                be correct.
 
-[9]
+[11]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'domschke1997produktionsplanung' is not an integer.
@@ -2730,7 +3080,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[10]
+[12]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'fandel2011produktionsmanagement' is not an integer.
@@ -2738,6 +3088,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
+[13]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Gadatsch2013Kostenrechnung' is not an integer.
@@ -2745,7 +3096,21 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[11] [12]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Gadatsch2014' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Gottmann2019' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+[14]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Gruenig2018' is not an integer.
@@ -2761,10 +3126,11 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (33.59822pt too wide) in paragraph at lines 120--120
+Overfull \hbox (33.59822pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Hansmann, Karl-Werner: \OT1/cmr/m/it/12 (-20) In-dus-tri-el-les Ma-na-ge-ment\OT1/cmr/m/n/12 (-20) , Ol-den-bourg, 2006, \OT1/cmr/m/sc/12 (-20) isbn\OT1/cmr/m/n/12 (-20) : 9783486580587. 
  []
 
+[15]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'hartmann2002materialwirtschaft' is not an integer.
@@ -2779,7 +3145,6 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[13]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'horvath2001' is not an integer.
@@ -2802,6 +3167,19 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Hubert2018' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Overfull \hbox (10.8385pt too wide) in paragraph at lines 122--122
+[][]\OT1/cmr/m/n/12 (-20) Hubert, Bo-ris: \OT1/cmr/m/it/12 (-20) Controlling-Konzeptionen\OT1/cmr/m/n/12 (-20) , 2. Auf-la-ge, Gabler, 2018, \OT1/cmr/m/sc/12 (-20) isbn\OT1/cmr/m/n/12 (-20) : 9783658228965,
+ []
+
+[16]
+
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'jaikumar1984'. The output might not 
 (biblatex-dw)                be correct.
@@ -2813,7 +3191,14 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[14]
+[17]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'kesten2013' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Kilger2012' is not an integer.
@@ -2821,8 +3206,8 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[15]
-Overfull \hbox (4.17233pt too wide) in paragraph at lines 120--120
+
+Overfull \hbox (4.17233pt too wide) in paragraph at lines 122--122
 \OT1/cmr/m/it/12 (-20) eig-ne-te In-stru-men-te mess-bar ma-chen\OT1/cmr/m/n/12 (-20) , Diplomica-Verlag, 2011, \OT1/cmr/m/sc/12 (-20) isbn\OT1/cmr/m/n/12 (-20) : 9783842853485. 
  []
 
@@ -2840,7 +3225,14 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[16]
+[18]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'kuepper2013controlling' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'kuetz2011' is not an integer.
@@ -2848,22 +3240,23 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
+[19]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'lachnit1976'. The output might not 
 (biblatex-dw)                be correct.
 
 
-Overfull \hbox (3.2683pt too wide) in paragraph at lines 120--120
+Overfull \hbox (3.2683pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Lange, Chri-stoph: \OT1/cmr/m/it/12 (-20) In-ves-ti-ti-ons-ent-schei-dun-gen im Um-bruch: Struk-tur ei-nes Investitions-
  []
 
-[17]
-Overfull \hbox (8.11293pt too wide) in paragraph at lines 120--120
+[20]
+Overfull \hbox (8.11293pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Meier-Barthold, Dirk: \OT1/cmr/m/it/12 (-20) Fle-xi-bi-lit[]at in der Material-Logistik\OT1/cmr/m/n/12 (-20) , Deut-scher Uni-ver-sit[]atsverlag,
  []
 
-[18]
+[21]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'nebl2007produktionswirtschaft' is not an integer.
@@ -2878,23 +3271,32 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[19]
 
-Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
-(biblatex-dw)                at entry 'radermacher2009'. The output might not 
-(biblatex-dw)                be correct.
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'ossadnik2009controlling' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
 
+[22]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'ranta1988interactive'. The output might not 
 (biblatex-dw)                be correct.
 
 
-Overfull \hbox (5.24683pt too wide) in paragraph at lines 120--120
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'Reichmann2017' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Overfull \hbox (5.24683pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Reichmann, Tho-mas und Lan-ge, Chri-stoph: \OT1/cmr/m/it/12 (-20) Auf-ga-ben und In-stru-men-te des Investitions-
  []
 
-[20]
+[23]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Rieg2015' is not an integer.
@@ -2902,18 +3304,23 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[21]
+[24]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'schmalenbach1909'. The output might not 
 (biblatex-dw)                be correct.
 
-[22]
-Overfull \hbox (0.16658pt too wide) in paragraph at lines 120--120
+[25]
+Overfull \hbox (0.16658pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Schweitzer, Mar-ceil und K[]upper, Hans-Ulrich: \OT1/cmr/m/it/12 (-20) Sys-te-me der Kosten- und Erl[]osrechnung
  []
 
-[23]
+
+Overfull \hbox (7.51483pt too wide) in paragraph at lines 122--122
+\OT1/cmr/m/it/12 (-20) mun-gen \OT1/cmr/m/n/12 (-20) (Vah-lens Handb[]ucher der Wirtschafts- und So-zi-al-wis-sen-schaf-ten), M[]unchen:
+ []
+
+[26]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'stecke1984variations'. The output might not 
@@ -2926,18 +3333,25 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[24]
+[27]
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'Upton1997ProcessRI'. The output might not 
 (biblatex-dw)                be correct.
 
 
-Overfull \hbox (13.47708pt too wide) in paragraph at lines 120--120
+Overfull \hbox (13.47708pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Vahrenkamp, Ri-chard: \OT1/cmr/m/it/12 (-20) Pro-duk-ti-ons-ma-na-ge-ment\OT1/cmr/m/n/12 (-20) , Ol-den-bourg, 2008, \OT1/cmr/m/sc/12 (-20) isbn\OT1/cmr/m/n/12 (-20) : 9783486587845. 
  []
 
-[25]
+[28]
+
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'weber2015einfuehrung' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
 
 Package biblatex-dw Warning: Field 'number' set, but 'volume' is empty 
 (biblatex-dw)                at entry 'wehnert2014'. The output might not 
@@ -2951,10 +3365,18 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (22.78651pt too wide) in paragraph at lines 120--120
+Package biblatex-dw Warning: The 'edition' field of entry
+(biblatex-dw)                'woehe2016einfuehrung' is not an integer.
+(biblatex-dw)                The edition will not be printed as
+(biblatex-dw)                superscript. Instead, the 'edition'
+(biblatex-dw)                field is printed completely.
+
+
+Overfull \hbox (22.78651pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Wolff, Eber-hard: \OT1/cmr/m/it/12 (-20) Mi-cro-ser-vices: Grund-la-gen fle-xibler Soft-wa-rear-chi-tek-tu-ren\OT1/cmr/m/n/12 (-20) , dpunkt.Verlag,
  []
 
+[29]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'zangemeister2014nutzwertanalyse' is not an integer.
@@ -2962,7 +3384,6 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[26]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'zaepfel2010grundzuege' is not an integer.
@@ -2971,94 +3392,102 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Overfull \hbox (0.70238pt too wide) in paragraph at lines 120--120
+Overfull \hbox (0.70238pt too wide) in paragraph at lines 122--122
 [][]\OT1/cmr/m/n/12 (-20) Ders.: \OT1/cmr/m/it/12 (-20) Stra-te-gi-sches Produktions-Management\OT1/cmr/m/n/12 (-20) , De Gruy-ter, 2014, \OT1/cmr/m/sc/12 (-20) isbn\OT1/cmr/m/n/12 (-20) : 9783486804485. 
  []
 
-(./chapters/anhang.tex [27]
-<image/gottmann_1.png, id=4188, 2196.205pt x 1284.8pt>
+(./chapters/anhang.tex [30]
+<image/gottmann_1.png, id=4234, 2196.205pt x 1284.8pt>
 File: image/gottmann_1.png Graphic file (type png)
 <use image/gottmann_1.png>
 Package pdftex.def Info: image/gottmann_1.png  used on input line 14.
 (pdftex.def)             Requested size: 298.75264pt x 174.77362pt.
-<image/gottmann_2.png, id=4192, 2236.355pt x 1664.2175pt>
+<image/gottmann_2.png, id=4238, 2236.355pt x 1664.2175pt>
 File: image/gottmann_2.png Graphic file (type png)
 <use image/gottmann_2.png>
 Package pdftex.def Info: image/gottmann_2.png  used on input line 23.
 (pdftex.def)             Requested size: 298.75264pt x 222.29803pt.
- [28
+ [31
 
  <./image/gottmann_1.png> <./image/gottmann_2.png>]
-<image/gottmann_3.png, id=4209, 2236.355pt x 1535.7375pt>
+<image/gottmann_3.png, id=4254, 2236.355pt x 1535.7375pt>
 File: image/gottmann_3.png Graphic file (type png)
 <use image/gottmann_3.png>
 Package pdftex.def Info: image/gottmann_3.png  used on input line 33.
 (pdftex.def)             Requested size: 341.43437pt x 234.45154pt.
-<image/gottmann_4.png, id=4213, 2240.37pt x 1543.7675pt>
+<image/gottmann_4.png, id=4258, 2240.37pt x 1543.7675pt>
 File: image/gottmann_4.png Graphic file (type png)
 <use image/gottmann_4.png>
 Package pdftex.def Info: image/gottmann_4.png  used on input line 42.
 (pdftex.def)             Requested size: 341.43437pt x 235.25342pt.
- [29 <./image/gottmann_3.png> <./image/gottmann_4.png>]
-<image/gottmann_5.png, id=4229, 2244.385pt x 1419.3025pt>
+ [32 <./image/gottmann_3.png> <./image/gottmann_4.png>]
+<image/gottmann_5.png, id=4274, 2244.385pt x 1419.3025pt>
 File: image/gottmann_5.png Graphic file (type png)
 <use image/gottmann_5.png>
 Package pdftex.def Info: image/gottmann_5.png  used on input line 52.
 (pdftex.def)             Requested size: 341.43437pt x 215.89648pt.
-<image/gottmann_6.png, id=4233, 2240.37pt x 1401.235pt>
+<image/gottmann_6.png, id=4278, 2240.37pt x 1401.235pt>
 File: image/gottmann_6.png Graphic file (type png)
 <use image/gottmann_6.png>
 Package pdftex.def Info: image/gottmann_6.png  used on input line 61.
 (pdftex.def)             Requested size: 341.43437pt x 213.533pt.
- [30 <./image/gottmann_5.png> <./image/gottmann_6.png>]
-<image/gottmann_7.png, id=4249, 2230.3325pt x 1413.28pt>
+ [33 <./image/gottmann_5.png> <./image/gottmann_6.png>]
+<image/gottmann_7.png, id=4294, 2230.3325pt x 1413.28pt>
 File: image/gottmann_7.png Graphic file (type png)
 <use image/gottmann_7.png>
 Package pdftex.def Info: image/gottmann_7.png  used on input line 71.
 (pdftex.def)             Requested size: 341.43437pt x 216.33896pt.
- [31 <./image/gottmann_7.png>]
-Underfull \hbox (badness 6316) in paragraph at lines 90--90
+ [34 <./image/gottmann_7.png>]
+<image/auftragsfreigabeverfahren_loedding.png, id=4306, 755.82375pt x 296.10625pt>
+File: image/auftragsfreigabeverfahren_loedding.png Graphic file (type png)
+<use image/auftragsfreigabeverfahren_loedding.png>
+Package pdftex.def Info: image/auftragsfreigabeverfahren_loedding.png  used on input line 80.
+(pdftex.def)             Requested size: 426.79135pt x 167.20093pt.
+ [35
+
+ <./image/auftragsfreigabeverfahren_loedding.png>]
+Underfull \hbox (badness 6316) in paragraph at lines 99--99
 []|\OT1/cmr/m/n/12 (+20) Flexibilit[]at ei-nes Fer-ti-gungs-sys-tems []uber die An-zahl der
  []
 
 
-Underfull \hbox (badness 7186) in paragraph at lines 97--97
+Underfull \hbox (badness 7186) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/12 (+20) Flexibilit[]at von Pro-bleml[]osungsverfahren []uber die Men-ge
  []
 
 
-Overfull \hbox (16.66231pt too wide) in alignment at lines 80--101
+Overfull \hbox (16.66231pt too wide) in alignment at lines 89--110
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 101
+Underfull \vbox (badness 10000) detected at line 110
  []
 
 
-Overfull \hbox (16.66231pt too wide) in alignment at lines 101--103
+Overfull \hbox (16.66231pt too wide) in alignment at lines 110--112
  [] [] 
  []
 
-[32
+[36
 
-] [33]
-Underfull \hbox (badness 1127) in paragraph at lines 107--107
+] [37] [38]
+Underfull \hbox (badness 1127) in paragraph at lines 116--116
 [][][]\OT1/cmr/m/n/8 Vgl. [][][][]Karl Mahl-mann, \OT1/cmr/m/it/8 An-pas-sung und An-pas-sungsf[]ahigkeit der be-trieb-li-chen Pla-nung\OT1/cmr/m/n/8 , Diss., Uni-ver-sit[]at
  []
 
-[34]) [35
+[39]) [40
 runsystem(makeindex -s MA.ist -t MA.glg -o MA.gls MA.glo)...executed safely (allowed).
 
 runsystem(makeindex -s MA.ist -t MA.alg -o MA.acr MA.acn)...executed safely (allowed).
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
  (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
 Package rerunfilecheck Info: File `MA.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
@@ -3070,13 +3499,31 @@ Package logreq Info: Writing requests to 'MA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59421 strings out of 492616
- 1233172 string characters out of 6129481
- 1874273 words of memory out of 5000000
- 60147 multiletter control sequences out of 15000+600000
- 549074 words of font info for 161 fonts, out of 8000000 for 9000
+ 59308 strings out of 492616
+ 1230130 string characters out of 6129481
+ 1849657 words of memory out of 5000000
+ 60020 multiletter control sequences out of 15000+600000
+ 548775 words of font info for 160 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,20n,102p,1987b,3857s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.608} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.607} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.606} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.605} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.604} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.603} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.602} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.601} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.600} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.599} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.598} has been referenced but does not exist, replaced by a fixed one
@@ -3499,13 +3946,13 @@ pdfTeX warning (dest): name{Hfootnote.390} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.389} has been referenced but does not exist, replaced by a fixed one
 
+pdfTeX warning (dest): name{Hfootnote.385} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.388} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.387} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.386} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.385} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.384} has been referenced but does not exist, replaced by a fixed one
 
@@ -3543,9 +3990,9 @@ pdfTeX warning (dest): name{Hfootnote.368} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.367} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.366} has been referenced but does not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{Hfootnote.365} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.366} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.364} has been referenced but does not exist, replaced by a fixed one
 
@@ -3561,9 +4008,9 @@ pdfTeX warning (dest): name{Hfootnote.359} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.358} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.356} has been referenced but does not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{Hfootnote.357} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.356} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.355} has been referenced but does not exist, replaced by a fixed one
 
@@ -3683,11 +4130,11 @@ pdfTeX warning (dest): name{Hfootnote.298} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.297} has been referenced but does not exist, replaced by a fixed one
 
+pdfTeX warning (dest): name{Hfootnote.294} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.296} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.295} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.294} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.293} has been referenced but does not exist, replaced by a fixed one
 
@@ -3695,11 +4142,11 @@ pdfTeX warning (dest): name{Hfootnote.292} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.291} has been referenced but does not exist, replaced by a fixed one
 
+pdfTeX warning (dest): name{Hfootnote.288} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.290} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.289} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.288} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.287} has been referenced but does not exist, replaced by a fixed one
 
@@ -3847,9 +4294,9 @@ pdfTeX warning (dest): name{Hfootnote.216} has been referenced but does not exis
 
 pdfTeX warning (dest): name{Hfootnote.215} has been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.213} has been referenced but does not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{Hfootnote.214} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.213} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.212} has been referenced but does not exist, replaced by a fixed one
 
@@ -4275,11 +4722,11 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (129 pages, 7873417 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (138 pages, 5855451 bytes).
 PDF statistics:
- 4888 PDF objects out of 5155 (max. 8388607)
- 4571 compressed objects within 46 object streams
- 2208 named destinations out of 2487 (max. 500000)
- 18280 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 4950 PDF objects out of 5155 (max. 8388607)
+ 4623 compressed objects within 47 object streams
+ 2221 named destinations out of 2487 (max. 500000)
+ 17781 words of extra memory for PDF output out of 20736 (max. 10000000)
 

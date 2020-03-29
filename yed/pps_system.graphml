@@ -160,7 +160,7 @@ und -steuerung<y:LabelModel>
           <y:Geometry height="52.5" width="1122.0" x="85.0" y="373.0"/>
           <y:Fill color="#999999" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.921875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.0390625" x="488.48046875" y="13.7890625">Produktionsplanung<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.921875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="303.5546875" x="409.22265625" y="13.7890625">Produktionsplanung und -steuerung (PPS)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>

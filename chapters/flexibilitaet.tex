@@ -36,7 +36,7 @@ Flexibilität insofern im Kontext der Produktion zu betrachten, mandatiert die Im
 Die Implemenationsweise wird dabei bestimmt durch die Konzeption der Flexibilität, also deren angestrebten systemorientierten Auswirkungen.
 \subsubsection{Flexibilitätskonzeption}\label{flexibilitaetskonzeption}
 Wie indiziert existiert kein einheitliches Begriffsverständnis für produktionswirtschaftliche Flexibilität.
-Einige Definitionsansätze zentrieren z.B. adaptiven Systemcharakter als Fähigkeit auf veränderte Rahmenbedingungen zu reagieren.\footnote{jacob, sethi, garavelli}  
+Einige Definitionsansätze zentrieren z.B. adaptiven Systemcharakter als Fähigkeit auf veränderte Rahmenbedingungen zu reagieren.\footnote{jacob, sethi, garavelli} \todo{bls} 
 Definitionsansätze variieren im Bezug auf die Schwerpunktsetzung eines reaktiven oder proaktiven Profils\footnote{Vgl. dazu \cite[S.242]{Brehm2004} und zu den Ansätzen seebacher 9-10, upton}, stimmen aber darin insoweit überein, dass jedwede reaktive oder proaktive im Rahmen von Flexibilitätspotentialen ausgelöste Maßnahme zur temporären, reversiblen und zielführenden Systemveränderung führen muss, egal ob der Maßnahmenbezug antizipativ oder dekursiv ist.\footnote{gerwin, oke}
 In der Literatur variieren im Kontext der Flexibilität die Bezeichnungen, sodass die Gefahr entsteht, terminologisch ungenau zu werden.
 Da die Begriffscharakterisierung allerdings maßgeblich die Ansprüche an mögliche flexibilisierende Maßnahmen definiert, ist eine Abgrenzung gegen vermeintliche Synonyme entscheidend.\\\\
@@ -69,7 +69,7 @@ Flexibilität ist die Fähigkeit ,,einer Organisation, sich an ändernde organisati
 In der Literatur sind zahlreiche Ansätze zu ermitteln, wobei vor allem das Abstraktionsniveau bei der Quantifizierung stark variiert.
 Aufbauend auf der Flexibilitätskonzeption in \ref{flexibilitaetskonzeption} können Implementationsziele für flexibilisierende Maßnahmen identifiziert werden.
 Dazu sind z.B. die Bereiche aus dem bereichsklassifizierenden Ansatz (vgl. \ref{bereichsklassifizierenderansatz}) einschlägig.
-Bei diesen bescheinigt Gottmann den Bereichen Beschaffung/Lieferanten, Anlagen und Produktionsprozesse, Personal und Kunden Einschlägigkeit von Flexibilität.\todo{prüfen, ob doppelt}
+Bei diesen bescheinigt Gottmann den Bereichen Beschaffung/Lieferanten, Anlagen und Produktionsprozesse, Personal und Kunden Einschlägigkeit von Flexibilität.
 %----Tabelle 
 \begin{table}[H]
 \setlength\extrarowheight{1pt} %etwas mehr Luft
@@ -132,36 +132,38 @@ Neben diesen sollen zusätzlich Messungsansätze aus der Recherche von Bellmann et
 \textbf{Maschinenflexibilität} bezeichnet die Eigenschaft einer Maschine, unterschiedliche Operationen durchführen zu können, ohne Rüstzeit zu benötigen oder -kosten zu verursachen.\footnote{Vgl. \cite[S.298]{Sethi1990}}
 Dadurch ermöglicht sie z.B. geringere Losgrößen\footnote{Vgl. \cite{ranta1988interactive}}, höhere mittlere Maschinenauslastung und Lagermengenreduktion.\footnote{Vgl. \cite{hutchinson1984flexibility}}\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
-	\item als Absolutzahl von Operationen, die eine Maschine ausführen kann ohne eine definierte Grenze von Rüstkosten (bzw. -zeit) zu benötigen\footnote{Vgl. \cite[S.299]{Sethi1990}}
-	\begin{center}
-			$F_{maschine}=|\left\{o | k_{ruest}\leq k_{grenz}\right\}|$
-	\end{center}
-	\item als gewichtete Absolutzahl wie in 1. mit Gewichtung über die relative Relevanz der Operation\footnote{Vgl. \cite{brill1987measures}}\todo{einführen}
-	\begin{center}
-		$F_{maschine}=\frac{\sum{ i=1 }{ |\left\{o | k_{ruest}\leq k_{grenz}\right\}| }{ w_{i} \times o_{i}}}{\sum{ i=1 }{ |\left\{o | k_{ruest}\leq k_{grenz}\right\}| }{ w_{i} }}$
-	\end{center}
+	\item als Absolutzahl von Operationen $o$ , die eine Maschine ausführen kann ohne eine definierte Grenze $k_{grenz}$ von Rüstkosten $k_{r\ddot{u}st}$ (bzw. -zeit) zu benötigen\footnote{Vgl. \cite[S.299]{Sethi1990}}
+	\begin{equation}
+		F_{maschine}=|\left\{o | k_{r\ddot{u}st}\leq k_{grenz}\right\}|
+	\end{equation}
+	\item als gewichtete Absolutzahl wie in 1. mit Gewichtung über die relative Relevanz der Operation\footnote{Vgl. \cite{brill1987measures}}
+	\begin{equation}
+		F_{maschine}=\sum\limits_{ i=1 }^{ |\left\{o | k_{ruest}\leq k_{grenz}\right\}| }{ w_{i} \times o_{i}}
+	\end{equation}
 	\item als Verhältnis von rüstzeitbedingtem Stillstand zu produktivem Betrieb\footnote{Vgl. \cite{son1987economic}}
-	\begin{center}
-			$F_{maschine}=\frac{t_{ruest}}{t_{ruest}+t_{prod}}$
-	\end{center}
+	\begin{equation}
+		F_{maschine}=\frac{t_{ruest}}{t_{prod}}
+	\end{equation}
 	\item als verbleibenden Wert einer Maschine für ein neues Produkt im Sinne der Obsoleszenzrate, wobei dieser Wert auch vom neuen Produkt abhängt\footnote{Vgl. \cite[S.300]{Sethi1990} als Interpretation von \cite{gustavsson1984flexibility} und \cite{lam1988measurement}}
-	\begin{center}
-			$F_{maschine}=\frac{v_{rest}}{v_{invest}}$
-	\end{center}
+	\begin{equation}
+		F_{maschine}=\frac{v_{rest}}{v_{invest}}
+	\end{equation}
 \end{tightenumerate}
 \textbf{Materialflexibilität} bezeichnet die systemische Fähigkeit, verschiedene Teilearten effizient im Produktionsweg zu positionieren und zu bearbeiten.\footnote{Vgl. \cite[S.300]{Sethi1990}}
 Dies erhöht die Verfügbarkeit von Maschinen, damit auch deren Auslastung und reduziert Durchlaufzeiten.\footnote{Vgl. \cite[S.300]{Sethi1990}}\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als Anteil der möglichen Wege durch das Produktionssystem im Vergleich zu einem universellen System\footnote{Vgl. zum universellen System: \cite{chatterjee1987planning}. Das universelle System bietet im Sinne einer Permutation ohne Wiederholungen eine vollständig universelle Einsetzbarkeit.}
-	\begin{center}
-	$F_{material}=\frac{p_{moeglich}}{n_{maschine}!}$
-	\end{center}
+	\begin{equation}
+		F_{material}=\frac{p_{moeglich}}{n_{maschine}!}
+	\end{equation}
 	\item auf Basis eines Maschinentypenrankings aufsteigend von Förderbandanlagen zu autonomen Robotern\footnote{Vgl. \cite[S.5-7]{stecke1984variations}}
 \end{tightenumerate}
 \textbf{Ablaufflexibilität} bezeichnet die Fähigkeit eines Werkstücks, in unterschiedlicher Verarbeitungsreihenfolge zu demselben Produkt verarbeitet zu werden.\footnote{Vgl. \cite[S.301]{Sethi1990}}
-Dieser Eigenschaften begünstigen die Routingflexilibität und leiten sich dabei aus dem Design des Werkstücks selbst ab, z.B. aus der Modularität.\footnote{Vgl. \cite[S.302]{Sethi1990}}
+Diese Eigenschaften begünstigen die Routingflexilibität und leiten sich dabei aus dem Design des Werkstücks selbst ab, z.B. aus der Modularität.\footnote{Vgl. \cite[S.302]{Sethi1990}}
 Im Falle von z.B. Nicht-Verfügbarkeit einer Maschine können Durchlaufzeiten reduziert werden.\footnote{Vgl. \cite[S.302]{Sethi1990}}\\
 Ansätze zur Messung sind:
 \begin{tightenumerate}
@@ -170,23 +172,26 @@ Ansätze zur Messung sind:
 \textbf{Prozessflexibilität} meint die Menge unterschiedlicher Werkstücke, die ein System ohne größere Konfigurationsänderungen verarbeiten kann.\footnote{Vgl. \cite[S.302]{Sethi1990}}\\
 Diese Fähigkeit ermöglicht es, auf Nachfrageschwankungen zu reagieren, da gleichzeitig verschiedene Produkte erzeugt werden können\footnote{Vgl. \cite[S.302]{Sethi1990}} und dadurch Losgrößen und Lagermengen zu reduzieren.\footnote{Vgl. \cite[S.S.114]{browne1984}}\\
 Zur Messung bestehen zahlreiche Ansätze:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als (offensichtliche) Absolutzahl gleichzeitig produzierbarer Produkte\footnote{Vgl. \cite[S.303]{Sethi1990}}
 	\item als absolute Anzahl distinkter Teilstückarten (sofern zählbar) in der Menge gleichzeitig produzierbarer Produkte\footnote{Vgl. \cite[S.S.114]{browne1984} und \cite{Gerwin1987}}
 	\item als Bandbreite der Größen, Formen etc. von gleichzeitig produzierbaren Produkten, sofern die Teile nicht zählbar sind\footnote{Vgl. \cite[S.303]{Sethi1990}}
-	\item als Absolutzahl gleichzeitig produzierbarer Produkte $p$ unter Beibehaltung der bestmöglichen Produktionsmenge
-	\begin{center}
-	$F_{prozess}=|\left\{p | n_{p} \times v_{p} = p_{opt} \times v_{p_{opt}} \right\}|$
-	\end{center}
+	\item als Absolutzahl gleichzeitig produzierbarer Produkte $p$ mit dem Wert $v$ unter Beibehaltung der bestmöglichen Produktionsmenge in Relation zum optimalen Produkt $p_{opt}$
+	\begin{equation}
+		F_{prozess}=|\left\{p | n_{p} \times v_{p} = n_{p_{opt}} \times v_{p_{opt}} \right\}|
+	\end{equation}
 	\item als Höhe der (Um-)Rüstkosten zwischen unterschiedlichen Aufgaben des aktuellen Produktionsprogramms
-	\item als zu maximierendes Verhältnis zwischen Gesamterzeugnisvolumen und Kosten der teilstückbearbeitungsbedingten Wartezeit innerhalb einer Periode\footnote{Vgl. \cite{son1987economic}}
-	\begin{center}
-	$F_{prozess}=\frac{ v_{ges} }{ c_{wart} }$
-	\end{center}
-	\item als relativ-wahrscheinlichen Anteil in einem System produktionsfähiger Produkte auf Basis von deren auftragsbedingten Produktionsnotwendigkeitswahrscheinlichkeit $p$\footnote{Vgl. \cite[S.16]{buzacott1982}. Dieser Ansatz ist jedoch insofern problematisch, dass ohne Begrenzung der Produkte die Flexibilität zwangsläufig gegen 0 konvergiert, vgl. \cite{jaikumar1984}. Hinzu kommt die nicht praxistaugliche Messbarkeit von Auftragswahrscheinlichkeiten in dynamischen Märkten.}
-	\begin{center}
-	$F_{prozess}=\frac{1}{\prod_{i=1}^{n}{p}-1}$
-	\end{center}
+	\item als zu maximierendes Verhältnis zwischen dem monetär ausgedrückten Gesamterzeugnisvolumen $v$ (value) und Kosten der teilstückbearbeitungsbedingten Wartekosten $c_{wart}$ innerhalb einer Periode\footnote{Vgl. \cite{son1987economic}}
+	\begin{equation}
+		F_{prozess}=\frac{ v_{ges}}{c_{wart}}
+	\end{equation}
+	\item als relativ-wahrscheinlichen Anteil nicht produktionsfähiger Produkte $P_{n-prod}$ in einem System produktionsfähiger Produkte $P_{prod}$ auf Basis von deren auftragsbedingten Produktionsnotwendigkeitswahrscheinlichkeit $p_i$\footnote{Vgl. \cite[S.16]{buzacott1982}. Dieser Ansatz ist jedoch insofern problematisch, dass ohne Begrenzung der Produkte die Flexibilität zwangsläufig gegen 0 konvergiert, vgl. \cite{jaikumar1984}. Hinzu kommt die nicht praxistaugliche Messbarkeit von Auftragswahrscheinlichkeiten in dynamischen Märkten.}
+	\begin{equation}
+		\frac{p_{n-prod}}{p_{n-prod}+p_{prod}}
+				\times
+		\sum\limits_{i=1}^{n_{P_{n-prod}}}{p_i}	
+	\end{equation}
 \end{tightenumerate}
 \textbf{Routingflexibilität} bedeutet die Fähigkeit eines Systems, ein Produkt auf unterschiedlichen Wegen im Produktionssystem herzustellen.\footnote{Vgl. \cite[S.305]{Sethi1990}}
 Diese unterschiedlichen Wege können aus unterschiedlichen Maschinen oder Tätigkeiten oder einer anderen Reihenfolge der Operationen bestehen.\footnote{Vgl. \cite[S.305]{Sethi1990}}\\
@@ -194,23 +199,31 @@ Im Gegensatz zur Ablaufflexibilität bezieht sich diese also auf das Produktionss
 Routingflexibilität ermöglicht effizientere Terminierung aufgrund von gleichmäßigerer Lastverteilung.\footnote{Vgl. \cite[S.306]{Sethi1990}}
 Außerdem kann das System auf Vorfälle wie Maschinenausfälle reagieren und seine Produktion beibehalten (ggf. reduzieren, aber nicht einstellen).\footnote{Vgl. \cite[S.306]{Sethi1990}}\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als absoluter Durchschnitt möglicher Produktionswege über alle Produkte\footnote{Vgl. \cite{chatterjee1987planning} and \cite{chung1989}}
-	\item als Anteil der möglichen Wege $p$ durch das Produktionssystem zu zwischen Arbeitsstationen oder Maschinen bestehenden Verbindungen $n$\footnote{Vgl. \cite{carter1986}}
-	\begin{center}
-	$F_{routing}=\frac{p_{moeglich}}{\frac{n_{maschine} \times (n_{maschine} - 1)}{2}}$
-	\end{center}
+	\item als Anteil der möglichen Wege $p$ durch das Produktionssystem zu zwischen Arbeitsstationen oder Maschinen möglichen Verbindungen $n$\footnote{Vgl. \cite{carter1986}}
+	\begin{equation}
+		F_{routing}=\frac{p_{moeglich}}{\frac{n_{maschine} \times (n_{maschine} - 1)}{2}}
+	\end{equation}
 	\item als relative Durchlaufzeitreduktion bei der Nutzung dynamischer Produktionswege im Vergleich zu statischen Produktionswegen\footnote{Vgl. \cite{chung1989}, in der Praxis allerdings entweder schätzkalkulatorisch oder nur durch Alternativbetrieb zu erfassen und daher nicht sonderlich praxistauglich.}
 	\item als relative Durchlaufzeiterhöhung beim Eintritt unerwünschter Vorfälle wie Maschinenausfälle im Vergleich zum regulären Betrieb\footnote{Vgl. \cite{browne1984}. Dieser Ansatz wirkt validierend und bietet die praxistaugliche Möglichkeit der empirischen Validierung.}
+	\begin{equation}
+		F_{routing}=\frac{t_{opt}}{t_{ausfall} + t_{opt}}
+	\end{equation}
 \end{tightenumerate}
 \textbf{Produktflexibilität} ist das Maß für die Einfachheit, mit der Teile im Produktionsprozess durch andere ersetzt werden können.\footnote{Vgl. \cite[S.304]{Sethi1990}}
 Diese Änderungen sind allerdings ausnahmslos mit Rekonfigurationsmaßnahmen verbunden und dies stellt den Unterschied zur Prozessflexibilität dar.\footnote{Vgl. \cite[S.304]{Sethi1990}}\\
 Durch diese Flexibilität wird dem Unternehmen eine höhere Innovationsfähigkeit ermöglicht, da neue Produktdesigns leichter in den Markt gebracht werden können.\footnote{Vgl. \cite{carter1986}}\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als absolute Kosten oder Zeit für die Veränderung der in der Produktion befindlichen Produktteilstücke\footnote{Vgl. \cite{browne1984}}
 	\item die Kosten bzw. Zeit wie in 1. in Relation zu den Gesamtkosten der Produktion\footnote{Vgl. \cite[S.305]{Sethi1990}}
-	\item als Verhältnis des gesamten Produktionsvolumens zu den gesamten Rüstkosten\footnote{Vgl. \cite{son1987economic}}
+	\item als Verhältnis des gesamten monetären Produktionsvolumens $v$ zu den gesamten Rüstkosten $k_{r\ddot{u}st}$\footnote{Vgl. \cite{son1987economic}}
+	\begin{equation}
+		F_{prod} = \frac{k_{r\ddot{u}st}}{v}
+	\end{equation}
 	\item als Absolutzahl innerhalb einer Periode neu eingeführter Teile\footnote{Vgl. \cite{jaikumar1986}}
 	\item als absoluter Wertzuwachs neuer Produkte, die im Produktionssystem mit einer definierten Kostengrenze an neuem Produktionsmaterial hergestellt werden können, wobei diese Grenze als Opportunitätskosten für Nicht-Einführung zu verstehen und über stochastische Modelle zu ermitteln ist\footnote{Vgl. \cite{jaikumar1984}}
 \end{tightenumerate}
@@ -218,58 +231,70 @@ Ansätze zur Messung sind:
 Dabei werden allerdings nur tatsächlich machbare Volumina berücksichtigt.\\
 Gerade zyklisches bzw. saisonales Geschäft wird dadurch begünstigt, auf Nachfrageschwankungen reagieren zu können und somit ist der Korridor unterstützter Volumina soweit wie möglich zu maximieren.\footnote{Vgl. \cite[S.307]{Sethi1990}}\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
-	\item als kleinste Menge aller Teilstücke bei der das Produktionssystem noch profitabel arbeitet\footnote{Vgl. \cite{browne1984}, wobei hier nur die praktische Untergrenze bestimmt wird.}
-	\item als naheliegende Generalisierung von 1. die Bestimmung des Volumenkorridors, in dem das Produktionssystem profitabel arbeiten kann\footnote{Vgl. \cite[S.308]{Sethi1990}}
+	\item als kleinste Produktionsmenge $v_{min}$ bei der das Produktionssystem mit den Fixkosten $k_{fix}$ und den variablen Kosten $k_{var}$ zum Verkaufspreis $p$ noch profitabel arbeitet\footnote{Vgl. \cite{browne1984}, wobei hier nur die praktische Untergrenze bestimmt wird.}
+	\begin{equation}
+		 F_{vol} = \frac{k_{fix}}{p - k_{var}}
+	\end{equation}
+	\item als naheliegende Generalisierung von 1. die Bestimmung der Größe Volumenkorridors, in dem das Produktionssystem profitabel arbeiten kann\footnote{Vgl. \cite[S.308]{Sethi1990}}
+	\begin{equation}
+		F_{vol} = v_{max} - v_{min}
+	\end{equation}
 	\item als Verhältnis durchschnittlicher Volumenschwankung zur Volumenobergrenze\footnote{Vgl. \cite{Gerwin1987}}
+	\begin{equation}
+		F_{vol}= \sqrt{\frac{\left(\displaystyle\sum_{i=n}^{m}\left({v_{ist_i+1} - v_{ist_i}}\right)^{2}\right) }{m-n}} / v_{max}
+	\end{equation}
 	\item als binäres Erfüllungskriterium der Stabilität von Produktionskosten bei tatsächlich festgestellter Volumenschwankungen\footnote{Vgl. \cite{falkner1986}}. Hierbei ist die Funktionselastizität der Kostenfunktion entscheidend.
 	Mit variablen Kosten $v$, Produktionsvolumen $V$ und den Fixkosten $f$ ergeben sich produktionsvolumenabhängige durchschnittliche Produktionskosten $\overline{k}(V) = \frac{f+v}{V}$.  
-	Die Elastizität dieser Funktion berechnet sich als
-	\begin{center}
-	$\epsilon(\overline{k}(V)) = \frac{\overline{k}'(V) \times V }{\overline{k}(V)} = -\frac{f}{f+v}$.
-	\end{center}
+	Die Elastizität dieser Funktion berechnet sich zu
+	\begin{equation}
+		\epsilon(\overline{k}(V)) = \frac{\overline{k}'(V) \times V }{\overline{k}(V)} = -\frac{f}{f+v}
+	\end{equation}
 	Da die Elastizität demnach mit höheren Fixkosten sinkt, ist ein hoher Anteil variabler Kosten als hohe Volumenflexibilität interpretierbar.
 	\item als Verhältnis zwischen Leerlaufzeit und Produktivbetriebszeit als Kapazitätsreserve zur Aktivierung\footnote{Vgl. \cite[S.308]{Sethi1990}, wobei dieser Ansatz die Schwäche aufweist, dass irrationale Überkapazität als hohe Flexibilität interpretiert werden muss. Das Maß ist somit in seinem zeitabhängigen Verlauf zu betrachten.}
-	\begin{center}
-	$F_{vol} = \frac{t_{leer} - t_{wartung}}{t_{prod}}$.
-	\end{center}
+	\begin{equation}
+		F_{vol} = \frac{t_{leer} - t_{wartung}}{t_{prod}}
+	\end{equation}
 \end{tightenumerate}
 \textbf{Erweiterungsflexibilität} ist das Maß für die Einfachheit, mit der Kapazitäten oder Fähigkeiten im Sinne anderer Flexibilitätsarten aufgebaut werden können.\footnote{Vgl. \cite[S.309]{Sethi1990}}
 Im Gegensatz zur Volumenflexibilität, die vor allem auf variable Bearbeitung von Bestandsmärkten abzielt, ist die Intention der Erweiterungsflexibilität, die maximale Kapazität zu erhöhen und neue Technologien für neue Märkte zu etablieren.\footnote{Vgl. \cite[S.309]{Sethi1990}}
 Diese Flexibilität ermöglicht die sukzessive Adaption der Produktion bei Expansionsvorhaben und reduziert diesbezügliche Implementationszeit und -kosten.\footnote{Vgl. \cite[S.309]{Sethi1990}}\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als das zu minimierende Verhältnis zwischen den Kosten zur Verdopplung eines Produktionssystemoutputs zu der ursprünglichen Investition\footnote{Vgl. \cite{carter1986}}
-	\begin{center}
-	$F_{erweiter} = \frac{k_{doppel}}{k_{invest}}$
-	\end{center}
+	\begin{equation}
+		F_{erweiter} = \frac{k_{doppel}}{k_{invest}}
+	\end{equation}
 \end{tightenumerate}
 \textbf{Programmflexibilität} bezeichnet die Fähigkeit eines Produktionssystems zum hinreichend langen autonomen Betrieb.\footnote{Vgl. \cite[S.310]{Sethi1990}}
 Diese Fähigkeit reduziert aufgrund der verbesserten Rüstzeiten die Durchlaufzeit.
 Autonome Lauffähigkeit geht häufig auch mit geringeren Toleranzen und höherer Qualität einher.\footnote{Vgl. \cite[S.310]{Sethi1990}}
 Ferner erhöht sich der effektive Durchsatz des Produktionssystems.\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als das Verhältnis von autonomer Laufzeit (zweite und dritte Schicht) zu überwachter Laufzeit (erste Schicht)\footnote{Vgl. \cite[S.299]{Sethi1990}}
-	\begin{center}
-	$F_{programm} = \frac{t_{auto}}{t_{manuell}}$
-	\end{center}
-	\item als das Verhältnis von autonomer Laufzeit (zweite und dritte Schicht) zu überwachter Laufzeit (erste Schicht)\footnote{Vgl. \cite[S.299]{Sethi1990}}\todo{hä}
+	\begin{equation}
+		F_{programm} = \frac{t_{auto}}{t_{manuell}}
+	\end{equation}
 \end{tightenumerate}
 \textbf{Produktionsflexibilität} bezeichnet die Grundgesamtheit aller produktionsfähigen Produkte, die ohne größere Investitionen im System hergestellt werden können.\footnote{Vgl. \cite[S.311]{Sethi1990}}
 Dadurch grenzt sich die Produktionsflexibilität von der Produktflexibilität ab, da durchaus nennenswerte Rekonfiguration möglich sein kann, solange Investitionen in Anlagen vermieden werden.
 Sie ist vor allem in Märkten, die eine hohe Frequenz von Neueinführungen aufweisen zur Wettbewerbsfähigkeit relevant.\footnote{Vgl. \cite[S.311]{Sethi1990}}
 Darüber hinaus wirkt die Fähigkeit risikostreuend.\\
 Ansätze zur Messung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als Absolutzahl produktionsfähiger Produkte bzw. \\Teilstückkombinationen\footnote{Vgl. \cite{chatterjee1984}}
 \end{tightenumerate}
 \textbf{Marktflexibilität} bezeichnet die Fähigkeit eines Produktionssystems, sich an ein sich veränderndes Marktumfeld anzupassen.\footnote{Vgl. \cite[S.312]{Sethi1990}}
 Diese Modifizierung bezieht sich auf die Rearrangierung vorhandener Produktionsfaktoren oder deren zweckmäßige Erweiterung.
-Dadurch können Produktionssysteme sich auf die Anforderungen des Marktes risikoärmer einstellen und Trends unter Umständen schneller adaptieren als der Wettbewerb.\\
+Dadurch können sich Produktionssysteme auf die Anforderungen des Marktes risikoärmer einstellen und Trends unter Umständen schneller adaptieren als der Wettbewerb.\\
 Ansätze zur Messung sind:
 \begin{tightenumerate}
-	\item als gewichteter Wert der Kosten zur Einführung eines neues Produktes, zur Erhöhung bzw. Verringerung eines Produktionsvolumens um einen definierten Umfang und zur Erhöhung der Produktionsgesamtkapazität\footnote{Vgl. \cite[S.313]{Sethi1990}}
+	\item als gewichteter Wert der Kosten zur Einführung eines neuen Produktes, zur Erhöhung bzw. Verringerung eines Produktionsvolumens um einen definierten Umfang und zur Erhöhung der Produktionsgesamtkapazität\footnote{Vgl. \cite[S.313]{Sethi1990}}
 	\item als kalkulatorische Lagerfehlbestandskosten oder verzögerungsbedingte Produktionskostenveränderungen\footnote{Vgl. \cite[S.313]{Sethi1990}}
 \end{tightenumerate}
 Neben diesen weitestgehend konkreten Messungsansätzen existieren wie indiziert abstraktere Verfahren, die nach Meinung der jeweiligen Verfasser entweder zentrale Faktoren oder gesamtsystemische Flexibilität fokussieren.
@@ -296,8 +321,7 @@ Diese Aussagen werden dann entweder mit Werten optimaler Parametrierung verglich
 Beispiele sind die abstrakten Modelle von Hannsmann\footnote{Vgl. \cite{hanssmann1978}}, Jacob\footnote{Vgl. \cite{jacob1974}} sowie von Jaikumar zur Produktflexibilität\footnote{Vgl. \cite{jaikumar1986}}, die Gewinne bei prophetischem Wissen, optimaler Strategie und Negativ-Szenarien einschätzen und vergleichen.
 Diese Modelle sind insgesamt deutlich komplexer anzuwenden, da sie nicht von messbaren oder simulierbaren Eigenschaften ausgehen, sondern diffizile Beziehungen als scheinbar simpel und teilweise unifaktoriell (Strategie-Erfolgs-Äquivalenz von Hannsmann) ausgelegt werden.
 Sie trivialisieren daher insofern produktionswirtschaftliche Funktionalität oder sind zumindest aufgrund des hohen Abstraktionsniveaus nicht mehr praxistauglich, da ein Vergleich mit einer optimalen Strategie, welche sich ohnehin nur stochastisch ermitteln lassen, keine besonders konkreten Handlungsempfehlungen für einzelne Flexibilitätsträger mehr zulässt.\\\\
-Bellmann et al. fixieren letztlich sieben Kriterien zur Bewertung von Messmodellen.\footnote{Vgl. hier und im folgenden \cite[S.234-235]{Bellmann2009}, wobei Anwendungsaufwand tabellarisch nicht aufgeführt wird.}
-\setlist{nolistsep}
+Bellmann et al. fixieren letztlich sieben Kriterien zur Bewertung von Messmodellen\footnote{Vgl. hier und im folgenden \cite[S.234-235]{Bellmann2009}, wobei Anwendungsaufwand tabellarisch nicht aufgeführt wird.}:
 \begin{tightenumerate}
 	\item Orientierung an realen Flexibilitätsträgern
 	\item Beachtung von Teilflexibilitäten
@@ -333,9 +357,9 @@ Insofern ist die aufgestellte Definition von Jeske et al. auch auf die IT und ih
 Weniger eindeutig sind allerdings die Änderungsimpulse, also die Ausrichtung auf externe und interne Auslöser.
 Die Produktionsfaktoren in der IT können nur teilweise in denen in der Produktion identifiziert werden.
 Zwar existiert eine technische Infrastruktur, doch diese kann nicht direkt wertschöpfend eingesetzt werden, z.B. zur Erzeugung eines verkaufsfähigen Endprodukts, sondern ist in der Regel durch darauf aufbauende Software zur Leistungsbereitstellung zu einem wertschöpfungsfähigen System zu ergänzen. 
-Der letztlich wertschöpfende Aspekt sind entweder darauf basierende Automation von wertschöpfenden Tätigkeiten oder die wertschöpfende Verwendung durch einen Anwender.
+Der letztlich wertschöpfende Aspekt ist entweder darauf basierende Automation von wertschöpfenden Tätigkeiten oder die wertschöpfende Verwendung durch einen Anwender.
 In diesem Sinne sind technische Anlagen nicht direkt, sondern nur indirekt wertschöpfend.
-Gemäß Carrs These ,,IT doesn't matter''\footnote{Vgl. \cite[S.6]{carr2003doesn}} wäre externe Impulse insoweit zu vernachlässigen, als dass die Leistungserbringung der IT als binäres Kriterium zu werten wäre und, sofern die Leistungserbringung erfolgt, nur interne Impulse zu befriedigende Bedarfe indizieren können.\\
+Gemäß Carrs These ,,IT doesn't matter''\footnote{Vgl. \cite[S.6]{carr2003doesn}} wären externe Impulse insoweit zu vernachlässigen, als dass die Leistungserbringung der IT als binäres Kriterium zu werten wäre und, sofern die Leistungserbringung erfolgt, nur interne Impulse zu befriedigende Bedarfe indizieren können.\\
 Die allerdings angesprochene Verstrickung mit dem Geschäft und daraus für die IT resultierende strategische Interdependenz lässt sich allerdings erweitern auf den auch geschäftsmodellseitig steigenden Einfluss von IT, z.B. durch direkt IT-seitige Leistungserbringung für den Kunden in vielseitiger Form bis hin zum vollständig digitalen Geschäftsmodell.\footnote{Vgl. \cite[S.2-3]{al2008defining}.}
 Zusätzlich können Innovationen dafür sorgen, dass Flexibilitätspotentiale leichter und effektiver implementiert werden, z.B. durch die Einführung von neuer Software, die leichter auf betriebliche Anforderungen anzupassen ist.
 Auch die Berücksichtigung externer Impulse ist daher sinnvoll und die entwickelte Definition letztlich soweit abstrakt, dass diese auch für die IT vollständig übernommen werden kann.%\\\\
@@ -408,7 +432,7 @@ Der Wertschöpfungsbeitrag durch die IT besteht vor allem in der optimal an fachb
 Insofern kann dies auch als das ,,Produkt'' unternehmerischer IT verstanden werden.
 Die IT-Dienste sind insofern also als Betrachtungsgegenstand zu identifizieren.
 Dazu gehören auch die durch diese IT-Dienste gestützten Prozesse bzw. die Gesamtheit aller existierenden Geschäftsprozesse, also inklusive der nicht durch die IT gestützten Prozesse.
-Erstere können dabei als produktionsfähig betrachtet werden, während letztere einem nicht befriedigtem Bedarf bzw. nicht bestehender Nachfrage entsprechen.\todo{wirr}\\\\
+IT-gestützte Prozesse können dabei als produktionsfähig betrachtet werden, während nicht IT-gestützte einem nicht befriedigtem Bedarf bzw. nicht bestehender Nachfrage entsprechen.\\\\
 Die \textbf{Marktflexibilität} letztlich versucht, vorhandene Produktionsfaktoren so zu rearrangieren oder zu erweitern, dass ein Produktionsvolumen längerfristig erhöht wird oder neue Produkte, also neue IT-Dienste eingeführt werden.
 Die Wiederverwendung von Bestandteilen der IT-Organisation (infrastrukturell oder virtuell) zu diesem Zweck oder die Erweiterung der Hardware- und Softwaresysteme zur Bereitstellung neuer IT-Dienste können insofern aus dieser Fähigkeit als Betrachtungsgegenstände abgeleitet werden.\\\\ 
 Mit diesen Erkenntnissen können nun die Betrachtungsgegenstände bzw. Implementationsziele für Flexibilisierungsmaßnahmen festgelegt werden.
@@ -436,10 +460,10 @@ Für diese können nun  Messungsansätze definiert werden.
 \subsubsection{Adaption von Ansätzen zur Messung}
 Messungsansätze wie von Sethi/Sethi vorgeschlagen erlauben vor allem die Zustandsbewertung des Flexibilitätsaspekts, z.B. die Anzahl möglicher Wege durch das Produktionssystem.
 Die Ansätze sind im Prinzip einer Bestandsaufnahme sinnvoll, sie besitzen allerdings nicht immer direktes Steuerungpotential, geben also nicht direkt Maßnahmen zur Steuerung vor (zumindest insofern, als dass ,,Erweiterung der Wege durch die Produktion'' keine umsetzungstaugliche Vorgabe ist) und die Wertbeitragsbemessung davon entkoppelt wird.\\
-Dort wo möglich, soll der Integrationsansatz, der im \gls{P-C} bisher vermisst wird, dadurch transportiert werden, dass der Implementationsgrad von Flexibilisierungsmaßnahmen, die jeweils einen oder mehrere Indikatoren betreffen, identifiziert und auf Effizienz- oder Effektivitätsmaße, die dadurch beeinflusst werden, projiziert wird.
-Diese Kombination gibt Aufschluss über die Auswirkungen der Maßnahmen und ermöglicht so auch die Beurteilung im zeitlichen verlauf, also darüber, ob ein steigendes Erreichungsmaß auch einen steigenden Wertbeitrag bedingt.\\\\
+Wo möglich, soll der Integrationsansatz, der im \gls{P-C} bisher vermisst wird, dadurch transportiert werden, dass der Implementationsgrad von Flexibilisierungsmaßnahmen, die jeweils einen oder mehrere Indikatoren betreffen, identifiziert und auf Effizienz- oder Effektivitätsmaße, die dadurch beeinflusst werden, projiziert wird.
+Diese Kombination gibt Aufschluss über die Auswirkungen der Maßnahmen und ermöglicht so auch die Beurteilung im zeitlichen Verlauf, also darüber, ob ein steigendes Erreichungsmaß auch einen steigenden Wertbeitrag bedingt.\\\\
 Beim \textbf{Personal} stehen Indikatoren wie Qualifikation und Einsetzbarkeit im Sinne von Universalität in Verbindung. 
-Hoher Qualifikationsgrad kann auf die Fähigkeit, verschiedene Aufgaben in der IT übernehmen zu können, projiziert werden.\footnote{Extremfälle mit hoher Spezialisierung bilden hier ggf. Ausnahmen, da dieses Personal für sehr spezifische Aufgaben eingesetzt wird.}
+Hoher Qualifikationsgrad kann auf die Fähigkeit, verschiedene Aufgaben in der IT übernehmen zu können, übertragen werden.\footnote{Extremfälle mit hoher Spezialisierung bilden hier ggf. Ausnahmen, da dieses Personal für sehr spezifische Aufgaben eingesetzt wird.}
 Als Maßnahmen diesbezüglicher Flexibilisierung bestehen z.B. Möglichkeiten in der gezielten Personalentwicklung\footnote{Vgl. \cite[S.37-72]{vonSchneyder2007}.} sowie Job-Enrichment und Job-Rotation\footnote{Vgl. \cite[S.111]{vonGarrel2014}.}.
 Insgesamt ist das Ziel der Personalflexibilität in dieser Hinsicht daher, einzelne Tätigkeiten in der IT nicht auf Schlüsselpersonen zu konzentrieren, sondern das Know-How z.B. für Krankheits- und Kündigungsfälle im Personal zu verteilen.
 \\
@@ -459,13 +483,14 @@ Trivialere Varianten sind Überstundenaufbau und -abbau.
 Zur Arbeitszeit bestehen insofern Verbindungen, die in der Praxis stark vertreten sind.\footnote{Vgl. hierzu die FlexPro-Studie: \cite[S.552]{Haemmerle2017}.}\\\\
 %----Messung
 Ansätze zur Beurteilung des Erreichungsgrades der Flexibilisierung sind:
+\setcounter{equation}{0}
 \begin{tightenumerate}
 	\item als gesamtpersonelle qualifikatorische Ersetzungsfähigkeit im Gruppen-\\Flexibilitätsgrad\footnote{Vgl. \cite[S.56]{grothe1992} nach \cite[S.200]{vonSchneyder2007}.}\\
 		\begin{equation}
-			F_{gruppe}= \frac{\sum\limits_{ i=1 }^{ n }{ ers(i) }}{n(i)-(n(i)-nM(i)}
+			F_{gruppe}= \frac{\sum\limits_{ i=1 }^{ n }{ ers(i) }}{n(i)-(n(i)-nM(i))}
 		\end{equation}
 		Wobei $ers(i)$ der Anteil der Mitarbeiter ist, der den Mitarbeiter $i$ qualifikatorisch ersetzen kann, $n(i)$ die Anzahl der Mitarbeiter und $nM(i)$ der betrachtete Mitarbeiter, der ersetzt werden soll.
-	\item als Anteil der Mitarbeiter in mitgestaltbaren, von statischer Einschicht-Vollzeit-Tätigkeit abweichenden Arbeitszeitverhältnissen $n_{flex}$ zu denen, die sich in letzterem Arbeitszeitverhältnis befinden $n_{statisch}$\footnote{Vgl. \cite[S.1, Kennzahl 1]{bmf2020}.}
+	\item als Anteil der Mitarbeiter in mitgestaltbaren, von statischer Einschicht-Vollzeittätigkeit abweichenden Arbeitszeitverhältnissen $n_{flex}$ zu denen, die sich in letzterem Arbeitszeitverhältnis befinden $n_{statisch}$\footnote{Vgl. \cite[S.1, Kennzahl 1]{bmf2020}.}
 		\begin{equation}
 			F_{zeit}= \frac{n_{flex}}{n_{flex}+n_{statisch}}
 		\end{equation}
@@ -488,7 +513,7 @@ Diesen Kennzahlen, die eine Flexibilisierung des Personals andeuten, können wie 
 Im zeitlichen Verlauf ist damit möglich, zu beurteilen, ob diese Flexibilisierung unternehmerisch zielführend war.
 \begin{tightenumerate}
 	\item Da bei Arbeitsortmobilität und flexiblen Arbeitszeitmodellen Implikationen zur Mitarbeiterproduktivität bestehen, 
-	die bzgl. Arbeitszeitflexibilität positive Effekte indizieren\footnote{Vgl. \cite{garnero2014part} und \\ \cite{kunn2013part}}, für Arbeit abseits des Büros allerdings gemischte Resultate hervorbringen\footnote{\cite{hill2003does}}, sollte ein zeitabhängiges Produktivitätsmaß bestimmt werden - eine Produktivitätsbewertung durch Vorgesetzte ist hier ein zwar vages, aber dafür leicht realisierbares Maß - und die Produktivität $P$ betroffener Mitarbeiter gegenüber den anderen ermittelt werden, um festzustellen, dass ein Fortführung der Maßnahmen empfehlenswert ist.
+	die bzgl. Arbeitszeitflexibilität positive Effekte indizieren\footnote{Vgl. \cite{garnero2014part} und \\ \cite{kunn2013part}}, für Arbeit abseits des Büros allerdings gemischte Resultate hervorbringen\footnote{\cite{hill2003does}}, sollte ein zeitabhängiges Produktivitätsmaß bestimmt werden - eine Produktivitätsbewertung durch Vorgesetzte als ein zwar vages, dafür leicht realisierbares Maß stellt hier situationsunabhängig ein stets praxistaugliches Minimum dar - und die Produktivität $P$ betroffener Mitarbeiter gegenüber den anderen ermittelt werden, um festzustellen, dass eine Fortführung der Maßnahmen empfehlenswert ist.
 		\begin{equation}\tag{W: (2) + (3)}
 		P_{rel}	= \frac{\int\limits_{t_0}^{t_n}P_{flex}(t) dt}{\int\limits_{t_0}^{t_n}P_{statisch}(t) dt}
 		\end{equation}
@@ -496,12 +521,12 @@ Im zeitlichen Verlauf ist damit möglich, zu beurteilen, ob diese Flexibilisierun
 	\begin{equation}\tag{W: (1) + (4)}
 			E_{F_{gruppe}} = \frac{F_{gruppe}(t_2)}{F_{gruppe}(t_1)}/\frac{K_{ausfall}(t_2)}{K_{ausfall}(t_1)}
 		\end{equation}
-	\item Zur Fluktuation existieren darüber hinaus verschiedene Varianten zu Fluktuationskosten pro Mitarbeiter sowie den gesamten Fluktuationskosten, die im zeitlichen Verlauf betrachtet werden können.\footnote{Siehe hierzu \cite[S.199-200]{vonSchneyder2007}}  
+	\item Zur Fluktuation existieren darüber hinaus verschiedene Varianten der Fluktuationskosten pro Mitarbeiter sowie den gesamten Fluktuationskosten, die im zeitlichen Verlauf betrachtet werden können.\footnote{Siehe hierzu \cite[S.199-200]{vonSchneyder2007}}  
 \end{tightenumerate}
 %----Ende
 Flexibilität der \textbf{Infrastruktur} kann in sofern über Redundanz aufgebaut werden, als dass Betriebsausfälle (bzw. zumindest Nicht-Verfügbarkeit von IT-Diensten) nicht zwingend die Folge von infrastrukturellen Teil-Ausfällen sein müssen.
 Diesbezügliche Redundanz kann also über die funktionale Entkopplung der Software und IT-Dienste von Infrastrukturelementen erreicht werden, was im Regelfall eine mehrfache Bereitstellung dieser bedeutet.
-Konkret manifestiert sich dies in der der Bereitstellung von Infrastruktur über das Mindestmaß hinaus, z.B. in Form von Servern, Datenspeichern, Datenleitungen, Netzwerkkomponenten bis hin zum Betrieb multipler Rechenzentren.\footnote{Vgl. \cite[S.160-194]{oracle2017}}
+Konkret manifestiert sich dies in der Bereitstellung von Infrastruktur über das Mindestmaß hinaus, z.B. in Form von Servern, Datenspeichern, Datenleitungen oder Netzwerkkomponenten bis hin zum Betrieb multipler Rechenzentren.\footnote{Vgl. \cite[S.160-194]{oracle2017}}
 %Wertschöpfung
 Den durch Aufbau der Redundanz entstehenden Kosten stehen die Opportunitätserlöse für besagte verhinderte Ausfälle gegenüber.
 \\
@@ -529,17 +554,17 @@ Ansätze zur Messung dieser Flexibilitätsaspekte sind:
 	\begin{equation}
 		F_{kap}= \sqrt{\frac{\left(\displaystyle\sum_{i=n}^{m}\left({K_{prod_i+1} - K_{prod_i}}\right)^{2}\right) }{m-n}} / K_{max}
 	\end{equation}
-	\item als Verhältnis der Infrastrukturkomponenten, die ausfallen müssen, die Lauffähigkeit eingeschränkt wird zu der Gesamtanzahl Infrastrukturkomponenten, die zur IT-Dienst-Bereitstellung dienen
+	\item als Verhältnis der Infrastrukturkomponenten, die ausfallen müssen bis die Lauffähigkeit eingeschränkt wird zu der Gesamtanzahl Infrastrukturkomponenten, die zur IT-Dienst-Bereitstellung dienen
 	\begin{equation}
 		F_{red}= \frac{n_{ausfall}}{n_{gesamt}}
 	\end{equation}
-	\item als die minimale Kapazitätserweiterung $e_{min}$ im Verhältnis zur durchschnittlichen Kapazität $K$ einer der bestehenden Infrastukturkomponenten mit deren Anzahl $n$
+	\item als die minimale Kapazitätserweiterung $E_{min}$ im Verhältnis zur durchschnittlichen Kapazität $K$ einer der bestehenden Infrastukturkomponenten mit deren Anzahl $n$
 	\begin{equation}
-		F_{erweiter}= \frac{e_{min}}{K/n}
+		F_{erweiter}= \frac{E_{min}}{K/n}
 	\end{equation}
 \end{tightenumerate}
 %----Wertbeitrag
-Die Wertbeitragsbemessung dieser Messung kann ebenfalls verfolgt werden.
+Die Wertbeitragsbemessung dieser Maßnahmen kann ebenfalls verfolgt werden:
 \begin{tightenumerate}
 	\item als die Höhe der durch Redundanzfälle verhinderten Ausfälle erzeugten Opportunitätserlöse in Verbindung mit dem ansonsten zu erwartenden Umsatz $U(t)$ im Zeitraum $t$ mit der Dauer der Redundanzfälle $t_{red}$
 	\begin{equation}\tag{W: (1)}
@@ -594,7 +619,7 @@ Die Wertbeitragsbemessung dieser Messung kann ebenfalls verfolgt werden.
 		
 \end{tightenumerate}
 %----Ende \\
-Als wertschöpfungsfähiges Endprodukt bestehen für die \textbf{IT-Dienste} in ihrer Flexibilität in Folge der dargelegten Ansätze Abhängigkeiten zur Software, auf der sie basieren, zum Personal, das diese implementiert und betreibt und zur Infrastruktur, auf der die Software läuft.
+Als wertschöpfungsfähiges Endprodukt bestehen für die \textbf{IT-Dienste} in ihrer Flexibilität in Folge der dargelegten Ansätze Abhängigkeiten zur Software, auf der sie basieren, zum Personal, das diese implementiert und betreibt und zur Infrastruktur, die die Software ausführt und bereithält.
 Manche Indikatoren wie die Verfügbarkeit sind allerdings für den IT-Dienst als Zielgröße relevanter als für die beeinflussenden Dimensionen.
 Vereinfacht ausgedrückt ist für den Endbenutzer nur die Verfügbarkeit des IT-Dienstes kritisch und im Falle der Nicht-Verfügbarkeit irrelevant, ob es sich dabei um Fehler in Software oder Infrastruktur handelt.
 Die aus der produktionswirtschaftlichen Flexibilität stammende Forderung nach Variantenreichtum lässt sich zwar auf den Variantenreichtum von IT-Diensten übertragen, aber die Komplexität in der Produktion resultiert dabei vor allem aus den Rahmenbedingungen des Produktionssystems, das verschiedene Produkte herstellen können muss.
@@ -614,13 +639,20 @@ Ansätze zur Messung dieser Flexibilitätsaspekte sind:
 	\begin{equation}
 		F_{align}= \frac{p_{IT}}{p_{IT}+p_{nicht-IT}}
 	\end{equation}
+	\item als Verfügbarkeit der Dienste unter Berücksichtigung von Offline-Wartungen und -Ergänzungen, welche z.B. durch Online-Wartungsfähigkeit zu verhindern wären
+	\begin{equation}
+		F_{verf}= \frac{t_{n-verf}}{t_{verf}+t_{n-verf}}
+		\end{equation}
+	%\todo{Online-Updatefähigket}
+	%\todo{Anteil offlinefähiger Prozesse}
+	%\todo{Anteil tatsächlich genutzter IT-Dienste}
 \end{tightenumerate}
 %----Wertbeitrag
 Die Wertbeitragsbemessung dieser Messung kann ebenfalls verfolgt werden.
 \begin{tightenumerate}
-	\item als Prozessqualität $Q_p$ im Vergleich zwischen in IT-Diensten abgewickelten Prozessen und analog bzw. zumindest mit wenig fachspezifischer IT-Unterstützung abgewickelt wird; neben Prozessdurchlaufzeit sind auch andere Kernfaktoren von Prozessen wie die Prozessfehlerrate einsetzbar
+	\item als Prozessqualität $Q_p$ im Vergleich der Prozessdurchführungen vor und nach deren Digitalisierung; neben Prozessdurchlaufzeit $DLZ$ sind auch andere Kernfaktoren von Prozessen wie die Prozessfehlerrate einsetzbar
 		\begin{equation}\tag{W: (1)}
-			Q_p = DLZ_{IT}/DLZ_{nicht-IT}
+			Q_p = DLZ_{nach-IT}/DLZ_{vor-IT}
 		\end{equation}
 \end{tightenumerate}
 %----Ende \\
@@ -661,6 +693,7 @@ Die Wertbeitragsbemessung dieser Messung kann ebenfalls verfolgt werden.
 	\begin{equation}\tag{W: (1)}
 		E_{agil} = \frac{\sum\limits_{i=1}^{n}{\left(BF_{plan} - BF_{ist}\right)}}{\sum\limits_{i=1}^{n}{\left(BP_{plan} - BP_{ist}\right)}}
 	\end{equation}
+	\todo{zufriedenheit? fehleranfälligkeit? akzeptanzrate hinsichtlich Missnutzung?}
 \end{tightenumerate}
 %----Ende 
 
