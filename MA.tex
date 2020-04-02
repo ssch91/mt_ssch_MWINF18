@@ -3,11 +3,12 @@
 %\renewcommand{\familydefault}{\sfdefault}
 
 \usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
 %https://www.teuderun.de/latex/layout/microtype-paket/
 \usepackage{microtype}
 %zur Benutzung von Grafiken
-\usepackage{graphicx}
-%\usepackage[draft]{graphicx} %aktivieren für schnelleren Typeset
+%\usepackage{graphicx}
+\usepackage[draft]{graphicx} %aktivieren für schnelleren Typeset
 %für Kapitelformatierung
 \usepackage{titlesec}
 %für Zeilenabstand
@@ -18,7 +19,19 @@
 %Seitenlayout
 \usepackage[a4paper,top=20mm,bottom=20mm,left=30mm,right=30mm]{geometry}
 %Bib-Ressourcen ermöglichen, Stil setzen und genau parametrieren
-\usepackage[style=footnote-dw,natbib=true,edsuper=true,nopublisher=false,urldate=long,hyperref,backend=biber,maxcitenames=2,maxbibnames=99,doi=true,isbn=true]{biblatex}
+\usepackage[idembib=false,
+style=footnote-dw,
+natbib=true,
+edsuper=true,
+nopublisher=false,
+urldate=long,
+hyperref,
+backend=biber,
+maxcitenames=2,
+maxbibnames=99,
+doi=true,
+isbn=true
+]{biblatex}
 \AtEveryCitekey{\clearfield{isbn}}
 \AtEveryCitekey{\clearfield{issn}}
 \AtEveryCitekey{\clearfield{doi}}
@@ -58,13 +71,15 @@
 \include{acronyms}
 %Parametrierung der Packages
 \include{metadata}
+%Zeilenumbrüche für Wörter, die Latex nicht kennt
+\include{hyphenation}
 
 %Latex Smartdiagram, Bäumc zeichnen und Stil
 \usepackage{forest}
 \useforestlibrary{edges}
 
 %footnote ohne Indent
-\usepackage[hang,flushmargin]{footmisc}
+\usepackage[hang,flushmargin,bottom]{footmisc}
 
 %Tabelle über mehrere Seiten in diesem environment
 \usepackage{longtable} 
