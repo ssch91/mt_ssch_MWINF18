@@ -1,0 +1,99 @@
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\begin{tabularx}{\textwidth}{|C|C|C|}
+\hline
+\backslashbox{\textbf{Merkmale}}{\textbf{C.-Typen}}  & {\textbf{Strategisches Controlling}}           & {\textbf{Operatives Controlling}}                                  \\ \hline
+\makecell[c]{Orientierung}                                          & \makecell[c]{Umwelt und \\Unternehmung:\\ Adaption}   & \makecell[c]{Unternehmung:\\Wirtschaftlichkeit\\betrieblicher Prozess}     \\ \hline
+Planungsstufe                                         & Strategische Planung                & Taktische und operative Planung, Budgetierung           \\ \hline
+Dimensionen                                           & Chancen/Risiken, St\"arken/Schw\"achen  & Aufwand/Ertrag, Kosten/Leistungen                       \\ \hline
+Zielgr\"o\IeC {\ss }en                                            & Existenzsicherung, Erfolgspotential & Wirtschaftlichkeit, Gewinn, Rentabilit\"at   \\ \hline
+\end{tabularx}
+\caption[Controlling-Parameter nach Horv\'ath et al.]{Controlling-Parameter nach Horv\'ath et al.\footnotemark.}\label{tab:1}
+\end{table}
+\efloatseparator
+ 
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\includegraphics[width=\textwidth]{tab2}
+\captionof{table}[Arten betriebswirtschaftlicher Kennzahlen]{Arten betriebswirtschaftlicher Kennzahlen\footnotemark}\label{tab:2}
+\end{table}
+\efloatseparator
+ 
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\includegraphics[width=\textwidth]{kostenarten_horsch.pdf}
+\captionof{table}[Kostenarten]{Kostenarten\footnotemark}\label{tab:horsch_kostenarten}
+\end{table}
+\efloatseparator
+ 
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\begin{tabularx}{\textwidth}{|>{\Centering\hsize=0.25\hsize}X|>{\hsize=0.75\hsize}X|}
+\hline
+{\textbf{Anforderung}} & {\textbf{Erl\"auterung bez. des Prozesses der Kennzahlenauswahl}} \\ \hline
+Vollst\"andigkeit    & Alle zur Steuerung erforderlichen Kennzahlen werden ausgew\"ahlt.     \\ \hline
+Intersubjektivit\"at    & Auswahlentscheidungen sind von Sachverst\"andigen nachvollziehbar. \\ \hline
+Klarheit      & Eine vom Menschen noch erfassbare begrenzte Menge von Kennzahlen wird systematisch, einheitlich und transparent strukturiert.  \\ \hline
+Multikausalit\"at   & Zusammenh\"ange zwischen den Kennzahlen werden ber\"ucksichtigt.    \\ \hline
+Zielorientierung   & Der Bezug zu den oberen Unternehmenszielen wird ber\"ucksichtigt.    \\ \hline
+Partizipation   & Entscheidungstr\"ager beeinflussen die Kennzahlenauswahl an definierten Stellen.    \\ \hline
+\end{tabularx}
+\caption[Anforderungen an den Prozess der Kennzahlenauswahl]{Anforderungen an den Prozess der Kennzahlenauswahl\footnotemark.}\label{tab:3}
+\end{table}
+\efloatseparator
+ 
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\includegraphics[width=0.9\textwidth]{eigenschaften_flexibilitaet.pdf}
+\captionof{table}[Begriffsabgrenzung Flexibilit\"at]{Begriffsabgrenzung Flexibilit\"at\footnotemark}\label{tab:4}
+\end{table}
+\efloatseparator
+ 
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\includegraphics[width=1\textwidth]{gottmann_flexibilitaet.pdf}
+\captionof{table}[Einsatzbereiche Flexibilit\"at nach Gottmann]{Einsatzbereiche Flexibilit\"at nach Gottmann\footnotemark}\label{tab:5}
+\end{table}
+\efloatseparator
+ 
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\scalebox{0.75}{
+\begin{tabularx}{1.3 \textwidth}{|p{3.5cm}|p{2cm}|p{2cm}|X|}
+\hline
+\makecell[l]{Wirkungs-\\dimension} & \multicolumn{2}{|c|}{Merkmalsauspr\"agung} & {Erl\"auterung} \\ \hline
+ \textbf{Ebene} & {strategisch} & {operativ} & {Die Wirkungsdimension bemisst sich an der Komplexit\"at der Vorhersehbarkeit und am Grad der langfristigen Relevanz des Ma\IeC {\ss }nahmenerfolgs.\footnotemark} \\ \hline
+ \textbf{Zeitraum} & {kurzfristig} & {langfristig} & {Der Zeitraum bezeichnet die Dauer zwischen Aktivierung bzw. Nutzung des Potentials und Inkrafttreten seiner Wirkung.\footnotemark
+ Die Dimension ist eng, wenn auch nicht untrennbar mit der Wirkungsebene verbunden (z.B. Rohstoffpreiskrise als kurzfristige strategische Herausforderung).\footnotemark} \\ \hline
+ \textbf{Zeitpunkt} & {proaktiv} & {reaktiv} & {Der Zeitpunkt bezeichnet den zeitlichen Beginn der Nutzung des Flexibilit\"atspotentials in Relation zu seiner ausl\"osenden Einflussgr\"o\IeC {\ss }e (ex ante/ex post).\footnotemark} \\ \hline
+ \textbf{Intention} & {offensiv} & {defensiv} & {Die Intention differenziert den Zeitpunkt der Ma\IeC {\ss }nahmenausl\"osung im Bezug auf den Wettbewerb.\footnotemark
+ Zwar sind die Kombinationen ,,proaktiv-offensiv'' und ,,reaktiv-defensiv'' gel\"aufig, doch nicht exklusiv g\"ultig.\footnotemark} \\ \hline
+ \textbf{Wirkungsweise} & {quantitativ} & {qualitativ} & {Die Wirkungsweise wird zwischen funktionalem und numerischem Charakter, also z.B. Qualifikations- gegen\"uber Personalmengenver\"anderung.\footnotemark} \\ \hline
+ \textbf{Wirkungsfelder} & {extern} & {intern} & {Das Wirkungsfeld besteht im Kompromiss der Diversifizierung zur Reaktion auf Marktentwicklungen und einem stabilen Betrieb. Die externe Wirkung dient zur Positionierung eines Unternehmens im Markt und die interne Wirkung zur Gestaltung der Unternehmenspotentiale zu deren Erreichung.\footnotemark} \\ \hline
+\end{tabularx}
+}
+\captionof{table}[Informationsversorgungsprozess]{Informationsversorgungsprozess\footnotemark}\label{tab:5}
+\end{table}
+\efloatseparator
+ 
+\begin{table}[H]
+\setlength\extrarowheight{1pt} %etwas mehr Luft
+\captionsetup{justification=centering} %Caption zentrieren
+\centering
+\includegraphics[width=\textwidth]{indikatoren.pdf}
+\captionof{table}[Betrachtungsgegenst\"ande und Indikatoren in der IT]{Betrachtungsgegenst\"ande und Indikatoren in der IT\footnotemark}\label{tab:indikatoren}
+\end{table}

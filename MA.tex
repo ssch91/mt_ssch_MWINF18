@@ -7,8 +7,8 @@
 %https://www.teuderun.de/latex/layout/microtype-paket/
 \usepackage{microtype}
 %zur Benutzung von Grafiken
-%\usepackage{graphicx}
-\usepackage[draft]{graphicx} %aktivieren für schnelleren Typeset
+\usepackage{graphicx}
+%\usepackage[draft]{graphicx} %aktivieren für schnelleren Typeset
 %für Kapitelformatierung
 \usepackage{titlesec}
 %für Zeilenabstand
@@ -44,19 +44,28 @@ isbn=true
 }
 %Autoren in der Bibliography als Nachname, Vorname
 \DeclareNameAlias{sortname}{family-given}
-\renewcommand*{\multinamedelim}{\addcomma\space}
-\renewcommand*{\finalnamedelim}{\addcomma\space}
-\renewcommand*{\nameyeardelim}{\addcomma\space}
+%\renewcommand*{\multinamedelim}{\addsemicolon\space}
+%\renewcommand*{\finalnamedelim}{\addsemicolon\addspace}
+%\renewcommand*{\nameyeardelim}{\addcomma\space}
+%\DeclareDelimFormat{multinamedelim}{\addsemicolon\space}
+%\DeclareDelimAlias{finalnamedelim}{multinamedelim}
+\renewcommand*{\bibmultinamedelim}{\addsemicolon\space}%
+\renewcommand*{\bibfinalnamedelim}{\space\,und\space}%
+
+%\renewcommand*{\mkbibnamefamily}{\textsc} %Vornamen in Bibliography capitalized
 \setlength{\bibitemsep}{0.35\baselineskip}
 %\renewbibmacro{in:}{}
 %\DefineBibliographyStrings{ngerman}{u. a.={et al.\hspace{1mm}}}
 %Für das Abkürzungsverzeichnis alternativ: \usepackage[toc]{glossaries}
 \usepackage[acronym,nonumberlist,automake]{glossaries}
+\setacronymstyle{long-sc-short}  
 %für diagonal geteilte Zellen in Tabellen, Befehl ist \backslashbox{}
 \usepackage{diagbox}
 %Benötigt, um Tabellen automatisch am Rand umzubrechen
 \usepackage{tabularx,ragged2e}
 \usepackage{makecell}
+%Zellen über mehrere Reihen
+\usepackage{multirow}
 %Benötigt, um Captions bei Tabellen jeweils zu zentrieren, könnte auch in den Metadaten für alle passieren
 \usepackage{caption}
 %Für ToDo-Annotationen, bei Bedarf entfernen
@@ -69,6 +78,11 @@ isbn=true
 
 %Befüllen für Abkürzungen
 \include{acronyms}
+%Anhang nicht im TOC
+\usepackage{etoolbox}
+%\appto\appendix{\addtocontents{toc}{\protect\setcounter{tocdepth}{-1000}}}
+%\appto\listoffigures{\addtocontents{lof}{\protect\setcounter{tocdepth}{1}}}
+%\appto\listoftables{\addtocontents{lot}{\protect\setcounter{tocdepth}{1}}}
 %Parametrierung der Packages
 \include{metadata}
 %Zeilenumbrüche für Wörter, die Latex nicht kennt
@@ -80,7 +94,6 @@ isbn=true
 
 %footnote ohne Indent
 \usepackage[hang,flushmargin,bottom]{footmisc}
-
 %Tabelle über mehrere Seiten in diesem environment
 \usepackage{longtable} 
 
@@ -98,11 +111,9 @@ isbn=true
 %für Formeln
 \usepackage{amsmath}
 
-%Anhang nicht im TOC
-\usepackage{etoolbox}
-\appto\appendix{\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}}
-\appto\listoffigures{\addtocontents{lof}{\protect\setcounter{tocdepth}{1}}}
-\appto\listoftables{\addtocontents{lot}{\protect\setcounter{tocdepth}{1}}}
+
+
+
 
 %Abkürzungsverzeichnis erstellen
 \makeglossaries
@@ -110,7 +121,8 @@ isbn=true
 \begin{document}
 \frontmatter
 \input{titlepage}
-\tableofcontents 
+\input{chapters/erklaerung}
+\maintoc 
 \newpage
 \addcontentsline{toc}{section}{Abbildungsverzeichnis}
 \listoffigures
@@ -119,9 +131,9 @@ isbn=true
 \listoftables
 \newpage
 %\addcontentsline{toc}{section}{Abkürzungsverzeichnis}
-\printglossary[type=\acronymtype,title=Abkürzungsverzeichnis]
-
+\printglossary[type=\acronymtype,style=acronym,title=Abkürzungsverzeichnis]
 \newpage
+\setcounter{table}{0}
 \mainmatter
 \input{chapters/einleitung}
 \input{chapters/controllingansatz}
@@ -134,8 +146,8 @@ isbn=true
 \backmatter
 \addcontentsline{toc}{section}{Quellenverzeichnis}
 \printbibliography
+\appendixtoc
 \appendix
-\addcontentsline{toc}{section}{Anhang}
 \renewcommand\thesection{\Alph{section}}
 \input{chapters/anhang}
 \end{document}

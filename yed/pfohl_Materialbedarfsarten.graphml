@@ -15,13 +15,12 @@
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
     <node id="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="27.14492725614923" width="172.19437325325543" x="509.95140668668614" y="256.28260911577615"/>
+          <y:Geometry height="27.14492725614923" width="172.19437325325543" x="511.6528133733723" y="264.01239455499166"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.71142578125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="120.2841796875" x="25.955096782877717" y="4.216750737449615">Materialbedarfsarten<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="20.04296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="130.85546875" x="20.669452251627717" y="3.5509792530746154">Materialbedarfsarten<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -33,13 +32,12 @@
       </data>
     </node>
     <node id="n1">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="27.14492725614923" width="172.19437325325543" x="315.4028133733723" y="313.4275363719254"/>
+          <y:Geometry height="33.21833010124715" width="172.19437325325543" x="315.4028133733723" y="310.3908349493764"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.4228515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="151.9091796875" x="10.142596782877717" y="-3.1389621531753846">Ermittlung nach Ursprung
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.3828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="143.78125" x="14.206561626627717" y="-1.0822411993764263">Ermittlung nach Ursprung
 und Erzeugnisebene<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -52,13 +50,12 @@ und Erzeugnisebene<y:LabelModel>
       </data>
     </node>
     <node id="n2">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="27.14492725614923" width="172.19437325325543" x="692.7791983806068" y="313.4275363719254"/>
+          <y:Geometry height="33.21833010124715" width="172.19437325325543" x="692.7791983806068" y="310.3908349493764"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.4228515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="166.37890625" x="2.9077335016277175" y="-3.1389621531753846">Ermittlung unter Berück-
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.3828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="157.474609375" x="7.3598819391277175" y="-1.0822411993764263">Ermittlung unter Berück-
 sichtigung der Lagerbestände<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -71,13 +68,12 @@ sichtigung der Lagerbestände<y:LabelModel>
       </data>
     </node>
     <node id="n3">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="47.297311384103295" width="239.36399464995236" x="334.0" y="397.83313050513163"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.13427734375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="224.31689453125" x="7.52355005935118" y="-0.41848297982335225">Primärbedarf
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.07421875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="212.3125" x="13.52574732497618" y="-1.8884536829483523">Primärbedarf
 Bedarf an verkaufsfähigen Erzeugnissen
 (Marktbedarf)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -91,13 +87,12 @@ Bedarf an verkaufsfähigen Erzeugnissen
       </data>
     </node>
     <node id="n4">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="47.29731138410341" width="239.36399464995236" x="359.7314866090905" y="458.3939183841314"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.13427734375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="238.7275390625" x="0.31822779372618015" y="-0.4184829798232954">Sekundärbedarf
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.07421875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="225.05078125" x="7.15660669997618" y="-1.8884536829482954">Sekundärbedarf
 Bedarf an Rohstoffen, Teilen und 
 Gruppen zur Fertigung des Primärbedarfs<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -111,14 +106,13 @@ Gruppen zur Fertigung des Primärbedarfs<y:LabelModel>
       </data>
     </node>
     <node id="n5">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="47.29731138410341" width="239.3639946499523" x="402.0989497102232" y="518.9547062631311"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.4228515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="200.7431640625" x="19.310415293726123" y="6.937229910801761">Tertiärbedarf
-Bedarf an Betriebs und Hilfsstoffen<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.3828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="193.26953125" x="23.047231699976123" y="5.957249442051761">Tertiärbedarf
+Bedarf an Betriebs- und Hilfsstoffen<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -130,13 +124,12 @@ Bedarf an Betriebs und Hilfsstoffen<y:LabelModel>
       </data>
     </node>
     <node id="n6">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="47.29731138410341" width="208.3605839147831" x="687.5491386019837" y="414.84719737199276"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.13427734375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="167.41015625" x="20.475213832391546" y="-0.4184829798232954">Bruttobedarf
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.07421875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="157.919921875" x="25.220331019891546" y="-1.8884536829482954">Bruttobedarf
 Periodenbezogener Primär-, 
 Sekundär- oder Tertiärbedarf<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -150,13 +143,12 @@ Sekundär- oder Tertiärbedarf<y:LabelModel>
       </data>
     </node>
     <node id="n7">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="47.29731138410341" width="208.3605839147831" x="721.5986134570953" y="479.18888899918386"/>
           <y:Fill color="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.13427734375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.10888671875" x="1.125848598016546" y="-0.41848297982335225">Nettobedarf
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.07421875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="194.67578125" x="6.842401332391546" y="-1.8884536829483523">Nettobedarf
 Bruttobedarf abzüglich verfügbarem
 Lagerbedarf<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -170,7 +162,6 @@ Lagerbedarf<y:LabelModel>
       </data>
     </node>
     <edge id="e0" source="n0" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -185,7 +176,6 @@ Lagerbedarf<y:LabelModel>
       </data>
     </edge>
     <edge id="e1" source="n0" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -200,7 +190,6 @@ Lagerbedarf<y:LabelModel>
       </data>
     </edge>
     <edge id="e2" source="n2" target="n6">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -217,7 +206,6 @@ Lagerbedarf<y:LabelModel>
       </data>
     </edge>
     <edge id="e3" source="n1" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -234,7 +222,6 @@ Lagerbedarf<y:LabelModel>
       </data>
     </edge>
     <edge id="e4" source="n3" target="n4">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -250,7 +237,6 @@ Lagerbedarf<y:LabelModel>
       </data>
     </edge>
     <edge id="e5" source="n4" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -266,7 +252,6 @@ Lagerbedarf<y:LabelModel>
       </data>
     </edge>
     <edge id="e6" source="n6" target="n7">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">

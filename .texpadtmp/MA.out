@@ -1,13 +1,65 @@
 \BOOKMARK [1][-]{chapter*.1}{Abbildungsverzeichnis}{}% 1
 \BOOKMARK [1][-]{chapter*.2}{Tabellenverzeichnisverzeichnis}{}% 2
 \BOOKMARK [1][-]{section.0.1}{Einleitung}{}% 3
-\BOOKMARK [1][-]{section.0.2}{Controllingansatz}{}% 4
-\BOOKMARK [1][-]{section.0.3}{Produktionscontrolling als Konzeptionsgrundlage}{}% 5
-\BOOKMARK [1][-]{section.0.4}{Flexibilit\344t}{}% 6
-\BOOKMARK [1][-]{section.0.5}{Rahmenwerk zur Bewertung}{}% 7
-\BOOKMARK [1][-]{section.0.6}{Fazit und Potential}{}% 8
-\BOOKMARK [1][-]{section.0.6}{Quellenverzeichnis}{}% 9
-\BOOKMARK [1][-]{chapter*.39}{Anhang}{}% 10
-\BOOKMARK [1][-]{section.Alph0.1}{Einsatzbereiche nach Gottmann}{}% 11
-\BOOKMARK [1][-]{section.Alph0.2}{Auftragsfreigabeverfahren}{}% 12
-\BOOKMARK [1][-]{section.Alph0.3}{Messmodelle zur Flexibilit\344t nach Bellmann et al.}{}% 13
+\BOOKMARK [2][-]{subsection.0.1.1}{Motivation und Zielsetzung}{section.0.1}% 4
+\BOOKMARK [2][-]{subsection.0.1.2}{Forschungsrelevanz}{section.0.1}% 5
+\BOOKMARK [2][-]{subsection.0.1.3}{Methodisches Vorgehen}{section.0.1}% 6
+\BOOKMARK [1][-]{section.0.2}{Controllingansatz}{}% 7
+\BOOKMARK [2][-]{subsection.0.2.1}{Definitionsans\344tze}{section.0.2}% 8
+\BOOKMARK [2][-]{subsection.0.2.2}{Aufgaben und Ziele des Controllings}{section.0.2}% 9
+\BOOKMARK [2][-]{subsection.0.2.3}{Controllingbereiche}{section.0.2}% 10
+\BOOKMARK [3][-]{subsubsection.0.2.3.1}{Finanzielle Bereiche}{subsection.0.2.3}% 11
+\BOOKMARK [3][-]{subsubsection.0.2.3.2}{Fachliche Bereiche}{subsection.0.2.3}% 12
+\BOOKMARK [3][-]{subsubsection.0.2.3.3}{Projektcontrolling}{subsection.0.2.3}% 13
+\BOOKMARK [2][-]{subsection.0.2.4}{Steuerungsansatz}{section.0.2}% 14
+\BOOKMARK [3][-]{subsubsection.0.2.4.1}{Budgetierung}{subsection.0.2.4}% 15
+\BOOKMARK [3][-]{subsubsection.0.2.4.2}{Kennzahlen}{subsection.0.2.4}% 16
+\BOOKMARK [3][-]{subsubsection.0.2.4.3}{Verrechnungspreise}{subsection.0.2.4}% 17
+\BOOKMARK [1][-]{section.0.3}{Produktionscontrolling als Konzeptionsgrundlage}{}% 18
+\BOOKMARK [2][-]{subsection.0.3.1}{Definition}{section.0.3}% 19
+\BOOKMARK [2][-]{subsection.0.3.2}{Betrachtungsgegenst\344nde}{section.0.3}% 20
+\BOOKMARK [3][-]{subsubsection.0.3.2.1}{Bedarfsplanung}{subsection.0.3.2}% 21
+\BOOKMARK [3][-]{subsubsection.0.3.2.2}{Losgr\366\337en}{subsection.0.3.2}% 22
+\BOOKMARK [3][-]{subsubsection.0.3.2.3}{Termin- und Kapazit\344tsplanung}{subsection.0.3.2}% 23
+\BOOKMARK [3][-]{subsubsection.0.3.2.4}{Auftragsfreigabe}{subsection.0.3.2}% 24
+\BOOKMARK [3][-]{subsubsection.0.3.2.5}{Ablaufplanung}{subsection.0.3.2}% 25
+\BOOKMARK [3][-]{subsubsection.0.3.2.6}{Auftrags\374berwachung}{subsection.0.3.2}% 26
+\BOOKMARK [2][-]{subsection.0.3.3}{Teilbereiche}{section.0.3}% 27
+\BOOKMARK [3][-]{subsubsection.0.3.3.1}{Strategisches Produktionscontrolling}{subsection.0.3.3}% 28
+\BOOKMARK [3][-]{subsubsection.0.3.3.2}{Taktisch-operatives Produktionscontrolling}{subsection.0.3.3}% 29
+\BOOKMARK [3][-]{subsubsection.0.3.3.3}{Stufenweiser Ansatz}{subsection.0.3.3}% 30
+\BOOKMARK [2][-]{subsection.0.3.4}{Methoden und Techniken}{section.0.3}% 31
+\BOOKMARK [3][-]{subsubsection.0.3.4.1}{Strategische Instrumente}{subsection.0.3.4}% 32
+\BOOKMARK [3][-]{subsubsection.0.3.4.2}{Taktisch-operative Instrumente}{subsection.0.3.4}% 33
+\BOOKMARK [4][-]{paragraph.0.3.4.2.1}{Kosten- und Leistungsrechnung}{subsubsection.0.3.4.2}% 34
+\BOOKMARK [4][-]{paragraph.0.3.4.2.2}{Kennzahlen und Kennzahlensysteme}{subsubsection.0.3.4.2}% 35
+\BOOKMARK [3][-]{subsubsection.0.3.4.3}{Balanced Scorecard als Kombination}{subsection.0.3.4}% 36
+\BOOKMARK [1][-]{section.0.4}{Flexibilit\344t}{}% 37
+\BOOKMARK [2][-]{subsection.0.4.1}{Allgemeines Verst\344ndnis von Flexibilit\344t}{section.0.4}% 38
+\BOOKMARK [2][-]{subsection.0.4.2}{Flexibilit\344t im Anwendungskontext der Produktion}{section.0.4}% 39
+\BOOKMARK [3][-]{subsubsection.0.4.2.1}{Flexibilit\344tskonzeption}{subsection.0.4.2}% 40
+\BOOKMARK [3][-]{subsubsection.0.4.2.2}{Betrachtungsgegenst\344nde}{subsection.0.4.2}% 41
+\BOOKMARK [3][-]{subsubsection.0.4.2.3}{Messungsans\344tze}{subsection.0.4.2}% 42
+\BOOKMARK [3][-]{subsubsection.0.4.2.4}{Bewertung der Messungsans\344tze}{subsection.0.4.2}% 43
+\BOOKMARK [2][-]{subsection.0.4.3}{Flexibilit\344t im Anwendungskontext der IT}{section.0.4}% 44
+\BOOKMARK [3][-]{subsubsection.0.4.3.1}{Adaption der Flexibilit\344tskonzeption}{subsection.0.4.3}% 45
+\BOOKMARK [3][-]{subsubsection.0.4.3.2}{Adaption der Betrachtungsgegenst\344nde}{subsection.0.4.3}% 46
+\BOOKMARK [3][-]{subsubsection.0.4.3.3}{Adaption von Messungsans\344tzen}{subsection.0.4.3}% 47
+\BOOKMARK [1][-]{section.0.5}{Rahmenwerk f\374r Flexibilit\344t in der IT}{}% 48
+\BOOKMARK [2][-]{subsection.0.5.1}{Konzeptionelle Idee}{section.0.5}% 49
+\BOOKMARK [2][-]{subsection.0.5.2}{Dimensionsdefinition}{section.0.5}% 50
+\BOOKMARK [2][-]{subsection.0.5.3}{FlexIT zur Wertbeitragsbemessung}{section.0.5}% 51
+\BOOKMARK [1][-]{section.0.6}{Fazit und Potential}{}% 52
+\BOOKMARK [1][-]{section.0.6}{Quellenverzeichnis}{}% 53
+\BOOKMARK [1][-]{chapter*.39}{Anhang}{}% 54
+\BOOKMARK [1][-]{chapter*.39}{Anhang}{}% 55
+\BOOKMARK [1][-]{section.Alph0.1}{Einsatzbereiche nach Gottmann}{}% 56
+\BOOKMARK [2][-]{subsection.Alph0.1.1}{Beschaffung/Lieferanten}{section.Alph0.1}% 57
+\BOOKMARK [2][-]{subsection.Alph0.1.2}{Anlagen und Produktionsprozesse}{section.Alph0.1}% 58
+\BOOKMARK [2][-]{subsection.Alph0.1.3}{Personal}{section.Alph0.1}% 59
+\BOOKMARK [2][-]{subsection.Alph0.1.4}{Qualit\344t}{section.Alph0.1}% 60
+\BOOKMARK [2][-]{subsection.Alph0.1.5}{Material und Logistik}{section.Alph0.1}% 61
+\BOOKMARK [2][-]{subsection.Alph0.1.6}{Organisation/Auftragsabwicklung}{section.Alph0.1}% 62
+\BOOKMARK [2][-]{subsection.Alph0.1.7}{Kunden}{section.Alph0.1}% 63
+\BOOKMARK [1][-]{section.Alph0.2}{Auftragsfreigabeverfahren nach L\366dding}{}% 64
+\BOOKMARK [1][-]{section.Alph0.3}{Messmodelle zur Flexibilit\344t nach Bellmann et al.}{}% 65

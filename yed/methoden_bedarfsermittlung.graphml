@@ -15,13 +15,12 @@
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
     <node id="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="239.0" x="426.0" y="131.0"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="20.048828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="203.646484375" x="17.6767578125" y="4.9755859375">Methoden der Bedarfsermittlung<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="21.3798828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="220.28369140625" x="9.358154296875" y="4.31005859375">Methoden der Bedarfsermittlung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -33,13 +32,12 @@
       </data>
     </node>
     <node id="n1">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="129.31635202012114" x="226.68949974035644" y="217.25526017672516"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="113.86328125" x="7.726535385060572" y="2.9910203320418134">Deterministische
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.705078125" x="11.305636947560572" y="2.0408250195418134">Deterministische
 Bedarfsermittlung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -52,13 +50,12 @@ Bedarfsermittlung<y:LabelModel>
       </data>
     </node>
     <node id="n2">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="129.31635202012114" x="480.84182398993937" y="217.2552601767252"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="113.86328125" x="7.726535385060629" y="2.991020332041785">Stochastische
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.705078125" x="11.305636947560629" y="2.040825019541785">Stochastische
 Bedarfsermittlung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -71,13 +68,12 @@ Bedarfsermittlung<y:LabelModel>
       </data>
     </node>
     <node id="n3">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="129.31635202012114" x="734.9941482395222" y="217.2552601767252"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="113.86328125" x="7.726535385060515" y="2.991020332041785">Subjektive
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.705078125" x="11.305636947560515" y="2.040825019541785">Subjektive
 Bedarfsermittlung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -90,13 +86,12 @@ Bedarfsermittlung<y:LabelModel>
       </data>
     </node>
     <node id="n4">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="84.62147343801192" x="191.72620231240512" y="285.57905422512135"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.599609375" x="5.010932031505945" y="2.991020332041785">Analytische
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.41552734375" x="7.102973047130945" y="2.040825019541785">Analytische
 Verfahren<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -109,13 +104,12 @@ Verfahren<y:LabelModel>
       </data>
     </node>
     <node id="n5">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="84.62147343801192" x="306.347675750417" y="285.57905422512135"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.287109375" x="-1.832817968494055" y="2.991020332041785">Synthethische
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="83.00927734375" x="0.8060980471309449" y="2.040825019541785">Synthethische
 Verfahren<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -128,13 +122,12 @@ Verfahren<y:LabelModel>
       </data>
     </node>
     <node id="n6">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="84.62147343801192" x="700.036296342449" y="285.57905422512135"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.607421875" x="10.507025781505945" y="2.991020332041785">Analog-
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.3291015625" x="12.146185937755945" y="2.040825019541785">Analog-
 schätzung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -147,13 +140,12 @@ schätzung<y:LabelModel>
       </data>
     </node>
     <node id="n7">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="84.62147343801192" x="814.6577697804609" y="285.57905422512135"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.607421875" x="10.507025781505945" y="2.991020332041785">Intuitiv-
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.3291015625" x="12.146185937755945" y="2.040825019541785">Intuitiv-
 schätzung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -166,13 +158,12 @@ schätzung<y:LabelModel>
       </data>
     </node>
     <node id="n8">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="150.68231593690646" x="470.16156479698566" y="362.8214621896638"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.798828125" x="0.4417439059532171" y="2.991020332041785">Methoden der 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="140.72216796875" x="4.980073984078217" y="2.040825019541785">Methoden der 
 exponentiellen Glättung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -185,13 +176,12 @@ exponentiellen Glättung<y:LabelModel>
       </data>
     </node>
     <node id="n9">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="150.68231593690646" x="724.3166118120076" y="362.8214621896638"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.048828125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.134765625" x="16.273775155953217" y="11.015434394541785">Regressionsanalyse<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.9990234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.88818359375" x="19.897066171578217" y="10.540336738291785">Regressionsanalyse<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -203,13 +193,12 @@ exponentiellen Glättung<y:LabelModel>
       </data>
     </node>
     <node id="n10">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.07969691408357" width="150.68231593690646" x="216.00651778196374" y="362.8214621896638"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif Extra" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.09765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.255859375" x="18.213228280953217" y="2.991020332041785">Methoden der 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="CMU Serif" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="37.998046875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.76220703125" x="21.960054452828217" y="2.040825019541785">Methoden der 
 Mittelwertbildung<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -222,7 +211,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </node>
     <edge id="e0" source="n0" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -235,7 +223,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e1" source="n0" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -251,7 +238,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e2" source="n0" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -267,7 +253,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e3" source="n1" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -283,7 +268,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e4" source="n1" target="n4">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -299,7 +283,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e5" source="n2" target="n8">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -312,7 +295,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e6" source="n2" target="n10">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -328,7 +310,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e7" source="n2" target="n9">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -344,7 +325,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e8" source="n3" target="n7">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -360,7 +340,6 @@ Mittelwertbildung<y:LabelModel>
       </data>
     </edge>
     <edge id="e9" source="n3" target="n6">
-      <data key="d9"/>
       <data key="d10">
         <y:GenericEdge configuration="com.yworks.bpmn.Connection">
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">

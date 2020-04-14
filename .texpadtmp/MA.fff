@@ -1,0 +1,206 @@
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{pps_system}
+\captionof{figure}[Produktions-Planungs- und -Steuerungs-System]{Produktions-Planungs- und Steuerungs-System\footnotemark}
+\label{img:pps_system}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{pfohl_Materialbedarfsarten}
+\captionof{figure}[Materialbedarfsarten]{Materialbedarfsarten\footnotemark}
+\label{img:Materialbedarfsarten}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{methoden_bedarfsermittlung}
+\captionof{figure}[Methoden der Bedarfsermittlung]{Methoden der Bedarfsermittlung\footnotemark}
+\label{img:berechnungsmethoden}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\linewidth]{arbeitsplatzdurchlaufzeit}
+\captionof{figure}[Arbeitsplatzdurchlaufzeit]{Arbeitsplatzdurchlaufzeit\footnotemark}
+\label{img:arbeitsplatzdurchlaufzeit}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{wiendahl_2002_auftragsueberwachung}
+\captionof{figure}[Ablauf der Auftrags\"uberwachung]{Ablauf der Auftrags\"uberwachung\footnotemark}
+\label{img:ablauf_auftragsueberwachung}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{wiehndahl_2002_zustandsbeobachter}
+\captionof{figure}[Adaptiver Zustandsbeobachter]{Adaptiver Zustandsbeobachter\footnotemark}
+\label{img:zustandsbeobachter}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{schnell_2012_viereck}
+\captionof{figure}[Effektivit\"at und Effizienz in der Produktion]{Effektivit\"at und Effizienz in der Produktion\footnotemark}
+\label{img:viereck}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\linewidth]{schnell_klein_gradueller_aufbau}
+\captionof{figure}[Stufenweiser Aufbau des Produktions-Controllings]{Stufenweiser Aufbau des Produktions-Controllings\footnotemark}
+\label{img:stufenweiser}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{gottmann_funktionsorientierter_ansatz}
+\captionof{figure}[Funktionsorientierter Kennzahlenansatz nach Gottmann]{Funktionsorientierter Kennzahlenansatz nach Gottmann\footnotemark}
+\label{img:gottmann_funktionsorientierter_ansatz}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{gottmann_einsatzbereich_kennzahlen}
+\captionof{figure}[Bereichsklassifizierender Ansatz nach Gottmann]{Bereichsklassifizierender Ansatz nach Gottmann\footnotemark}
+\label{img:gottmann_bereichsklassifizierender_ansatz}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{dreistufigeransatz_schnell}
+\captionof{figure}[Dreistufiges Konzept nach Schnell]{Dreistufiges Konzept nach Schnell\footnotemark}
+\label{img:dreistufigeransatz}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{bauer_erfolgsfaktoren}
+\captionof{figure}[Erfolgsfaktoren im Produktionscontrolling nach Bauer]{Erfolgsfaktoren im Produktionscontrolling nach Bauer\footnotemark}
+\label{img:bauer_erfolgsfaktoren}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\linewidth]{gadatsch_2014_bsc_aufbau}
+\captionof{figure}[Schematischer Aufbau der Balanced Scorecard]{Schematischer Aufbau der Balanced Scorecard\footnotemark}
+\label{img:schematischbsc}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\linewidth]{gadatsch_2014_BSC_kreislauf}
+\captionof{figure}[Balanced Scorecard F\"uhrungskreislauf]{Balanced Scorecard F\"uhrungskreislauf\footnotemark}
+\label{img:fuehrungskreislauf_bsc}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\linewidth]{garrel_flexibilitaet}
+\captionof{figure}[Grundmodell der Flexibilit\"at]{Grundmodell der Flexibilit\"at\footnotemark}
+\label{img:garrel_flexibilitaet}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{sethi_flexibilitaet}
+\captionof{figure}[Flexibilit\"atsarten im System nach Sethi]{Flexibilit\"atsarten im System nach Sethi\footnotemark}
+\label{img:sethi_flexibilitaet}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{bsc_wirkungsketten}
+\captionof{figure}[Wirkungsketten]{Wirkungsketten\footnotemark}
+\label{img:wirkungsketten}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{flex_it}
+\captionof{figure}[FlexIT]{FlexIT\footnotemark}
+\label{img:flex_it}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{gottmann_1}
+\captionof{figure}[Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Beschaffung]{Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Beschaffung\footnotemark}
+\label{img:gottmann_1}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{gottmann_2}
+\captionof{figure}[Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren f\"ur Anlagen und Produktionsprozesse]{Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren f\"ur Anlagen und Produktionsprozesse\footnotemark}
+\label{img:gottmann_2}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\linewidth]{gottmann_3}
+\captionof{figure}[Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren f\"ur Personal]{Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren f\"ur Personal\footnotemark}
+\label{img:gottmann_3}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\linewidth]{gottmann_4}
+\captionof{figure}[Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Qualit\"at]{Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Qualit\"at\footnotemark}
+\label{img:gottmann_4}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\linewidth]{gottmann_5}
+\captionof{figure}[Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Logistik]{Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Logistik\footnotemark}
+\label{img:gottmann_5}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\linewidth]{gottmann_6}
+\captionof{figure}[Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Organisation]{Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in der Organisation\footnotemark}
+\label{img:gottmann_6}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\linewidth]{gottmann_7}
+\captionof{figure}[Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in Richtung Kunde]{Zielgr\"o\IeC {\ss }en, Einflussfaktoren und Indikatoren in Richtung Kunde\footnotemark}
+\label{img:gottmann_17}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\linewidth]{auftragsfreigabeverfahren_loedding}
+\captionof{figure}[Klassifizierung von Auftragsfreigabeverfahren]{Klassifizierung von Auftragsfreigabeverfahren\footnotemark}
+\label{img:loedding_1}
+\end{figure}

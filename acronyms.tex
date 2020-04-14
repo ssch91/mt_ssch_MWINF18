@@ -3,7 +3,9 @@
 \newacronym{IV}{IV}{Informationsversorgung}
 \newacronym{F+E}{F\&E}{Forschung und Entwicklung}
 \newacronym{KuE-C}{KuE-C}{Kosten- und Erfolgscontrolling}
-\newacronym{F-C}{F-C}{Finanzcontrolling}
+\newacronym[
+ user1={Finanzcontrollings}
+]{F-C}{F-C}{Finanzcontrolling}
 \newacronym{I-C}{I-C}{Investitionscontrolling}
 \newacronym{R-C}{R-C}{Risikocontrolling}
 \newacronym{B-C}{B-C}{Beschaffungscontrolling}
@@ -27,3 +29,61 @@
 \glsaddall
 
 \renewcommand*{\glspostdescription}{} % Removes dots at the end of each entry.
+
+%Ein neuer Verzeichnisstil für Abkürzungen
+         \newglossarystyle{acronym}{
+            \setglossarystyle{long3col}
+            \renewenvironment{theglossary}  
+            {\begin{longtable}{@{} p{0.2\textwidth} @{} p{0.8\textwidth} @{} l @{}}}  
+            {\end{longtable}
+            }
+            % Kopf der Tabelle
+               \renewcommand*{\glossaryheader}{
+                  \bfseries Abkürzung
+                  & \bfseries Bedeutung
+                  & \bfseries
+                  \\[3mm]
+                  \endhead
+               }
+               \renewcommand*{\glossaryentryfield}[5]{
+                  \glstarget{##1}{##2} %Abkürzung
+                  & ##5   %Beschreibung
+                  & ##1 %Site Number
+                  \\
+               }
+         }
+\setglossarystyle{acronym}
+\setglossarypreamble[acronym]{\vspace*{-\baselineskip}}
+
+%Sonderverwendung von Akronymen 
+\newcommand{\myglsgen}[1]{%
+ \glsdoifexists{#1}%
+ {%
+   \ifglsused{#1}{%
+     \acrshort{#1}%
+   }% 
+   {%
+     \glsuseri{#1} (\acrshort{#1})%
+     \glsunset{#1}%
+   }%
+ }%	
+}%
+
+
+
+%\renewcommand{\footnote}[1]{
+%\foottrue\origfootnote{#1}
+%\footfalse
+%}
+
+%%Acronyme in Fußnoten
+%\ifglsacrfootnote
+% \renewcommand{\acrfullformat}[2]{%
+%   #2\protect\footnote{#2\space(#1)}%
+%    \resetacronym{#1}
+% }
+%\else
+% \renewcommand{\acrfullformat}[2]{#2\space(#1)}
+%\fi
+%
+%%\SetCustomStyle
