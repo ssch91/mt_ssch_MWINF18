@@ -6249,6 +6249,35 @@
       \field{volume}{7}
       \field{year}{2007}
     \endentry
+    \entry{mohrmann2007facility}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ca5739386aa4989a7b19210e4dae84ca}{%
+           family={Mohrmann},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Norderstedt}%
+      }
+      \list{publisher}{1}{%
+        {Books on Demand}%
+      }
+      \strng{namehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{fullhash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{bibnamehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{authorbibnamehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{authornamehash}{ca5739386aa4989a7b19210e4dae84ca}
+      \strng{authorfullhash}{ca5739386aa4989a7b19210e4dae84ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9783833471124}
+      \field{shorttitle}{Facility Management mithilfe der Balanced Scorecard neu denken}
+      \field{title}{Facility Management mithilfe der Balanced Scorecard neu denken: von der Strategieentwicklung zur Strategieumsetzung}
+      \field{year}{2007}
+    \endentry
     \entry{Moos2010}{incollection}{}
       \name{author}{1}{}{%
         {{hash=e60f470fea7bd9c7b6298d6ac5cb8b39}{%
@@ -10109,7 +10138,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{mohrmann2007f acility}
 \endrefsection
 \endinput
 

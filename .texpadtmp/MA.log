@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.12)  14 APR 2020 07:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.12)  15 APR 2020 03:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1269,15 +1269,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MA.bbl' found.
- (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                mohrmann2007f acility
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl)
 Package biblatex Info: Reference section=0 on input line 121.
 Package biblatex Info: Reference segment=0 on input line 121.
  ABD: EverySelectfont initializing macros
@@ -1689,11 +1681,23 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 [18] [19]
-Overfull \vbox (10.75543pt too high) detected at line 407
+Overfull \vbox (8.2316pt too high) detected at line 407
  []
 
 
-Overfull \vbox (10.75543pt too high) detected at line 407
+Overfull \vbox (13.60088pt too high) detected at line 407
+ []
+
+
+Overfull \vbox (8.2316pt too high) detected at line 407
+ []
+
+
+Overfull \vbox (13.60088pt too high) detected at line 407
+ []
+
+
+Overfull \vbox (8.2316pt too high) detected at line 407
  []
 
 
@@ -1702,7 +1706,7 @@ Overfull \hbox (1.62134pt too wide) in paragraph at lines 407--407
  []
 
 
-Overfull \vbox (10.75543pt too high) detected at line 407
+Overfull \vbox (13.60088pt too high) detected at line 407
  []
 
 
@@ -1721,7 +1725,7 @@ Underfull \hbox (badness 1127) in paragraph at lines 407--407
  []
 
 
-Overfull \hbox (6.41164pt too wide) in alignment at lines 407--407
+Overfull \hbox (3.45596pt too wide) in alignment at lines 407--407
 [][][][][][][] 
  []
 
@@ -2192,7 +2196,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
  []
 
-<image/garrel_flexibilitaet.png, id=2642, 686.565pt x 195.73125pt>
+<image/garrel_flexibilitaet.png, id=2643, 686.565pt x 195.73125pt>
 File: image/garrel_flexibilitaet.png Graphic file (type png)
 <use image/garrel_flexibilitaet.png>
 Package pdftex.def Info: image/garrel_flexibilitaet.png  used on input line 27.
@@ -2228,7 +2232,7 @@ Overfull \vbox (13.36061pt too high) detected at line 126
  []
 
 
-Overfull \vbox (4.21648pt too high) detected at line 126
+Overfull \vbox (14.17513pt too high) detected at line 126
  []
 
 
@@ -2237,6 +2241,10 @@ Overfull \vbox (4.88557pt too high) detected at line 126
 
 
 Overfull \vbox (4.21648pt too high) detected at line 126
+ []
+
+
+Overfull \vbox (1.47964pt too high) detected at line 126
  []
 
 
@@ -2248,7 +2256,7 @@ Overfull \vbox (13.36061pt too high) detected at line 126
  []
 
 
-Overfull \vbox (4.21648pt too high) detected at line 126
+Overfull \vbox (14.17513pt too high) detected at line 126
  []
 
 
@@ -2257,6 +2265,10 @@ Overfull \vbox (4.88557pt too high) detected at line 126
 
 
 Overfull \vbox (4.21648pt too high) detected at line 126
+ []
+
+
+Overfull \vbox (1.47964pt too high) detected at line 126
  []
 
 
@@ -2273,7 +2285,7 @@ Overfull \vbox (13.36061pt too high) detected at line 126
  []
 
 
-Overfull \vbox (4.21648pt too high) detected at line 126
+Overfull \vbox (14.17513pt too high) detected at line 126
  []
 
 
@@ -2282,6 +2294,10 @@ Overfull \vbox (4.88557pt too high) detected at line 126
 
 
 Overfull \vbox (4.21648pt too high) detected at line 126
+ []
+
+
+Overfull \vbox (1.47964pt too high) detected at line 126
  []
 
 
@@ -2300,13 +2316,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--128
  []
 
 [55 <./image/garrel_flexibilitaet.png (PNG copy)>] [56] [57]
-<image/gottmann_flexibilitaet.pdf, id=2823, 586.4013pt x 299.36403pt>
+<image/gottmann_flexibilitaet.pdf, id=2824, 586.4013pt x 299.36403pt>
 File: image/gottmann_flexibilitaet.pdf Graphic file (type pdf)
 <use image/gottmann_flexibilitaet.pdf>
 Package pdftex.def Info: image/gottmann_flexibilitaet.pdf  used on input line 147.
 (pdftex.def)             Requested size: 426.79135pt x 217.88983pt.
  [58]
-<image/sethi_flexibilitaet.png, id=2844, 3426.8025pt x 1847.90375pt>
+<image/sethi_flexibilitaet.png, id=2845, 3426.8025pt x 1847.90375pt>
 File: image/sethi_flexibilitaet.png Graphic file (type png)
 <use image/sethi_flexibilitaet.png>
 Package pdftex.def Info: image/sethi_flexibilitaet.png  used on input line 160.
@@ -2689,133 +2705,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 439--546
 
  []
 
-[73] [74] [75] [76] [77] [78] [79]
-Underfull \hbox (badness 10000) in paragraph at lines 563--590
+[73] [74] [75] [76] [77] [78]
+Underfull \hbox (badness 10000) in paragraph at lines 562--589
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--590
+Underfull \hbox (badness 10000) in paragraph at lines 562--589
 
  []
 
-[80]
-Underfull \hbox (badness 10000) in paragraph at lines 590--591
+[79] [80]
+Underfull \hbox (badness 10000) in paragraph at lines 589--590
 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
+l.590 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
+l.590 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
+l.590 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.591 		\begin{equation}
+l.590 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.596 		\begin{equation}
+l.595 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.596 		\begin{equation}
+l.595 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.596 		\begin{equation}
+l.595 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.596 		\begin{equation}
-                         [81]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.600 		\begin{equation}
+l.595 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.600 		\begin{equation}
+l.599 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.600 		\begin{equation}
+l.599 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.600 		\begin{equation}
+l.599 		\begin{equation}
+                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.599 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.604 		\begin{equation}
+l.603 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.604 		\begin{equation}
+l.603 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.604 		\begin{equation}
+l.603 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.604 		\begin{equation}
+l.603 		\begin{equation}
                         pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.608 	\begin{equation}
+l.607 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.608 	\begin{equation}
+l.607 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.608 	\begin{equation}
+l.607 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.608 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+l.607 	\begin{equation}
+                        [81]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.621 		\begin{equation}
+l.620 		\begin{equation}
                         \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.621 		\begin{equation}
+l.620 		\begin{equation}
                         \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.621 		\begin{equation}
+l.620 		\begin{equation}
                         \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.621 		\begin{equation}
-                        \tag{W: (2) + (3)} [82]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+l.620 		\begin{equation}
+                        \tag{W: (2) + (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.625 	\begin{equation}
+l.624 	\begin{equation}
                        \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.625 	\begin{equation}
+l.624 	\begin{equation}
                        \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.625 	\begin{equation}
+l.624 	\begin{equation}
                        \tag{W: (1) + (4)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.625 	\begin{equation}
+l.624 	\begin{equation}
                        \tag{W: (1) + (4)}
 
 Package biblatex-dw Warning: The 'edition' field of entry
@@ -2824,70 +2840,70 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[83]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+[82] [83]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.658 	\begin{equation}
+l.657 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.658 	\begin{equation}
+l.657 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.658 	\begin{equation}
+l.657 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.658 	\begin{equation}
+l.657 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.662 	\begin{equation}
+l.661 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.662 	\begin{equation}
+l.661 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.662 	\begin{equation}
+l.661 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.662 	\begin{equation}
+l.661 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.666 	\begin{equation}
+l.665 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.666 	\begin{equation}
+l.665 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.666 	\begin{equation}
+l.665 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.666 	\begin{equation}
-                        [84]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+l.665 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.674 	\begin{equation}
+l.673 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.674 	\begin{equation}
+l.673 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.674 	\begin{equation}
+l.673 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.674 	\begin{equation}
+l.673 	\begin{equation}
                        \tag{W: (1)}
 
 Package biblatex-dw Warning: The 'edition' field of entry
@@ -2904,171 +2920,171 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                field is printed completely.
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 688--688
+Underfull \hbox (badness 1533) in paragraph at lines 687--687
 [][][]\T1/cmr/m/n/8 Vgl. [][][][]Eberhard Wolff, \T1/cmr/m/it/8 Mi-cro-ser-vices: Grund-la-gen fle-xibler Soft-wa-rear-chi-tek-tu-ren\T1/cmr/m/n/8 , 2. Auf-la-ge, Hei-del-berg:
  []
 
-[85]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+[84]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.704 	\begin{equation}
+l.703 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.704 	\begin{equation}
+l.703 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.704 	\begin{equation}
+l.703 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.704 	\begin{equation}
+l.703 	\begin{equation}
+                        [85]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.708 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.709 	\begin{equation}
+l.708 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.709 	\begin{equation}
+l.708 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.709 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.709 	\begin{equation}
-                        [86]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.720 		\begin{equation}
-                        \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.720 		\begin{equation}
-                        \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.720 		\begin{equation}
-                        \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.720 		\begin{equation}
-                        \tag{W: (3)} [87]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.743 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.743 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.743 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.743 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.747 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.747 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.747 	\begin{equation}
-                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.747 	\begin{equation}
+l.708 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.758 		\begin{equation}
+l.719 		\begin{equation}
+                        \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.719 		\begin{equation}
+                        \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.719 		\begin{equation}
+                        \tag{W: (3)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.719 		\begin{equation}
+                        \tag{W: (3)} [86]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.742 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.742 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.742 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.742 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.746 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.746 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.746 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.746 	\begin{equation}
+                        [87]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.757 		\begin{equation}
                         \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.758 		\begin{equation}
+l.757 		\begin{equation}
                         \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.758 		\begin{equation}
+l.757 		\begin{equation}
                         \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.758 		\begin{equation}
+l.757 		\begin{equation}
                         \tag{W: (1)} [88]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.781 	\begin{equation}
+l.780 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.781 	\begin{equation}
+l.780 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.781 	\begin{equation}
+l.780 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.781 	\begin{equation}
+l.780 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.785 	\begin{equation}
+l.784 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.785 	\begin{equation}
+l.784 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.785 	\begin{equation}
+l.784 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.785 	\begin{equation}
+l.784 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.789 	\begin{equation}
+l.788 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.789 	\begin{equation}
+l.788 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.789 	\begin{equation}
+l.788 	\begin{equation}
                        pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.789 	\begin{equation}
-                        [89]pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
+l.788 	\begin{equation}
+                       pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.797 	\begin{equation}
+l.796 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.797 	\begin{equation}
+l.796 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.797 	\begin{equation}
+l.796 	\begin{equation}
                        \tag{W: (1)}pdfTeX warning (ext4): destination with the same identifier (name{equation.0.4.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.797 	\begin{equation}
-                       \tag{W: (1)}) (./chapters/rahmenwerk_zur_bewertung.tex [90]
+l.796 	\begin{equation}
+                       \tag{W: (1)}) (./chapters/rahmenwerk_zur_bewertung.tex [89]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'horvath2001' is not an integer.
@@ -3076,20 +3092,20 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-<image/bsc_wirkungsketten.png, id=3707, 964.60374pt x 784.9325pt>
+<image/bsc_wirkungsketten.png, id=3703, 964.60374pt x 784.9325pt>
 File: image/bsc_wirkungsketten.png Graphic file (type png)
 <use image/bsc_wirkungsketten.png>
 Package pdftex.def Info: image/bsc_wirkungsketten.png  used on input line 20.
 (pdftex.def)             Requested size: 426.79135pt x 347.28769pt.
-[91
+[90
 
-] [92 <./image/bsc_wirkungsketten.png (PNG copy)>] [93]
-<image/flex_it.png, id=3749, 1119.18124pt x 1167.36125pt>
+] [91 <./image/bsc_wirkungsketten.png (PNG copy)>]
+<image/flex_it.png, id=3742, 1119.18124pt x 1167.36125pt>
 File: image/flex_it.png Graphic file (type png)
 <use image/flex_it.png>
-Package pdftex.def Info: image/flex_it.png  used on input line 32.
+Package pdftex.def Info: image/flex_it.png  used on input line 31.
 (pdftex.def)             Requested size: 320.0935pt x 333.87704pt.
-) (./chapters/ausblick_und_potential.tex [94 <./image/flex_it.png>] [95])
+) (./chapters/ausblick_und_potential.tex [92 <./image/flex_it.png>] [93])
 Underfull \hbox (badness 10000) in paragraph at lines 2--145
 
  []
@@ -3109,19 +3125,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--145
 
  []
 
+[94
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--145
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--145
-
- []
-
-[96
-
-] [97]
+] [95]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Abts2017' is not an integer.
@@ -3544,12 +3550,12 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-
+[24]
 Overfull \hbox (13.63202pt too wide) in paragraph at lines 149--149
 \T1/cmr/m/it/12 (-20) in-ter-na-tio-na-lem Steu-er-recht\T1/cmr/m/n/12 (-20) , Wies-ba-den: Sprin-ger Gabler, 2015, \T1/cmr/m/sc/12 (-20) isbn\T1/cmr/m/n/12 (-20) : 9783658077181,
  []
 
-[24] [25]
+[25] [26]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Schoensleben2016' is not an integer.
@@ -3557,7 +3563,6 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[26]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'schweitzer1994industriebetriebslehre' is not an integer.
@@ -3572,7 +3577,7 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[27]
+[27] [28]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'Szyszka2015' is not an integer.
@@ -3580,7 +3585,6 @@ Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                superscript. Instead, the 'edition'
 (biblatex-dw)                field is printed completely.
 
-[28]
 
 Package biblatex-dw Warning: The 'edition' field of entry
 (biblatex-dw)                'vahrenkamp2008produktionsmanagement' is not an integer.
@@ -3722,12 +3726,12 @@ Overfull \hbox (30.38275pt too wide) detected at line 137
  [33
 
 ] (./chapters/anhang.tex
-<image/gottmann_1.png, id=4373, 2196.205pt x 1284.8pt>
+<image/gottmann_1.png, id=4371, 2196.205pt x 1284.8pt>
 File: image/gottmann_1.png Graphic file (type png)
 <use image/gottmann_1.png>
 Package pdftex.def Info: image/gottmann_1.png  used on input line 24.
 (pdftex.def)             Requested size: 298.75264pt x 174.77362pt.
-<image/gottmann_2.png, id=4377, 2236.355pt x 1664.2175pt>
+<image/gottmann_2.png, id=4375, 2236.355pt x 1664.2175pt>
 File: image/gottmann_2.png Graphic file (type png)
 <use image/gottmann_2.png>
 Package pdftex.def Info: image/gottmann_2.png  used on input line 34.
@@ -3737,34 +3741,34 @@ Package pdftex.def Info: image/gottmann_2.png  used on input line 34.
 
 
  <./image/gottmann_1.png> <./image/gottmann_2.png>]
-<image/gottmann_3.png, id=4393, 2236.355pt x 1535.7375pt>
+<image/gottmann_3.png, id=4391, 2236.355pt x 1535.7375pt>
 File: image/gottmann_3.png Graphic file (type png)
 <use image/gottmann_3.png>
 Package pdftex.def Info: image/gottmann_3.png  used on input line 45.
 (pdftex.def)             Requested size: 341.43437pt x 234.45154pt.
-<image/gottmann_4.png, id=4397, 2240.37pt x 1543.7675pt>
+<image/gottmann_4.png, id=4395, 2240.37pt x 1543.7675pt>
 File: image/gottmann_4.png Graphic file (type png)
 <use image/gottmann_4.png>
 Package pdftex.def Info: image/gottmann_4.png  used on input line 55.
 (pdftex.def)             Requested size: 341.43437pt x 235.25342pt.
  [35 <./image/gottmann_3.png> <./image/gottmann_4.png>]
-<image/gottmann_5.png, id=4413, 2244.385pt x 1419.3025pt>
+<image/gottmann_5.png, id=4411, 2244.385pt x 1419.3025pt>
 File: image/gottmann_5.png Graphic file (type png)
 <use image/gottmann_5.png>
 Package pdftex.def Info: image/gottmann_5.png  used on input line 66.
 (pdftex.def)             Requested size: 341.43437pt x 215.89648pt.
-<image/gottmann_6.png, id=4417, 2240.37pt x 1401.235pt>
+<image/gottmann_6.png, id=4415, 2240.37pt x 1401.235pt>
 File: image/gottmann_6.png Graphic file (type png)
 <use image/gottmann_6.png>
 Package pdftex.def Info: image/gottmann_6.png  used on input line 75.
 (pdftex.def)             Requested size: 341.43437pt x 213.533pt.
  [36 <./image/gottmann_5.png> <./image/gottmann_6.png>]
-<image/gottmann_7.png, id=4434, 2230.3325pt x 1413.28pt>
+<image/gottmann_7.png, id=4431, 2230.3325pt x 1413.28pt>
 File: image/gottmann_7.png Graphic file (type png)
 <use image/gottmann_7.png>
 Package pdftex.def Info: image/gottmann_7.png  used on input line 86.
 (pdftex.def)             Requested size: 341.43437pt x 216.33896pt.
-<image/auftragsfreigabeverfahren_loedding.png, id=4438, 755.82375pt x 296.10625pt>
+<image/auftragsfreigabeverfahren_loedding.png, id=4435, 755.82375pt x 296.10625pt>
 File: image/auftragsfreigabeverfahren_loedding.png Graphic file (type png)
 <use image/auftragsfreigabeverfahren_loedding.png>
 Package pdftex.def Info: image/auftragsfreigabeverfahren_loedding.png  used on input line 97.
@@ -3808,13 +3812,15 @@ Package logreq Info: Writing requests to 'MA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51530 strings out of 480608
- 1083464 string characters out of 5903630
- 1906983 words of memory out of 5000000
- 64078 multiletter control sequences out of 15000+600000
- 566611 words of font info for 219 fonts, out of 8000000 for 9000
+ 51537 strings out of 480608
+ 1083715 string characters out of 5903630
+ 1905938 words of memory out of 5000000
+ 64083 multiletter control sequences out of 15000+600000
+ 565835 words of font info for 218 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  68i,20n,102p,1602b,3860s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.612} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.611} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.610} has been referenced but does not exist, replaced by a fixed one
@@ -5037,12 +5043,12 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
-pe1/public/cm-super/sfti0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (138 pages, 6002113 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
+pe1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
+Output written on /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.pdf (136 pages, 5976553 bytes).
 PDF statistics:
- 5131 PDF objects out of 5155 (max. 8388607)
- 4808 compressed objects within 49 object streams
- 2233 named destinations out of 2487 (max. 500000)
- 33025 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 5126 PDF objects out of 5155 (max. 8388607)
+ 4806 compressed objects within 49 object streams
+ 2236 named destinations out of 2487 (max. 500000)
+ 32513 words of extra memory for PDF output out of 35830 (max. 10000000)
 

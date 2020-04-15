@@ -1,32 +1,31 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.blg'
-[88] biber-darwin:322> INFO - === Tue Apr 14, 2020, 04:05:32
-[110] Biber.pm:415> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
-[586] Biber.pm:943> INFO - Found 269 citekeys in bib section 0
-[604] Biber.pm:4256> INFO - Processing section 0
-[604] Utils.pm:75> INFO - Globbing data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
-[604] Utils.pm:91> INFO - Globbed data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib
+[96] biber-darwin:322> INFO - === Tue Apr 14, 2020, 23:41:58
+[124] Biber.pm:415> INFO - Reading '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bcf'
+[585] Biber.pm:943> INFO - Found 269 citekeys in bib section 0
+[601] Biber.pm:4256> INFO - Processing section 0
+[602] Utils.pm:75> INFO - Globbing data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
+[602] Utils.pm:91> INFO - Globbed data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib
 [615] Biber.pm:4455> INFO - Looking for bibtex format file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib' for section 0
 [627] bibtex.pm:1653> INFO - LaTeX decoding ...
-[1134] bibtex.pm:1471> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
-[1148] Utils.pm:304> WARN - Duplicate entry key: 'Kistner2001' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
-[1819] Utils.pm:304> WARN - ISBN '9783668587799' in entry 'Jaehn2019' is invalid - run biber with '--validate_datamodel' for details.
-[1851] Utils.pm:304> WARN - ISBN '978662597606' in entry 'Sinsel2020' is invalid - run biber with '--validate_datamodel' for details.
-[2187] Utils.pm:304> WARN - ISBN '978384410071' in entry 'seebacher2011' is invalid - run biber with '--validate_datamodel' for details.
-[2390] Utils.pm:304> WARN - ISBN '79783658137595' in entry 'Frschle2016' is invalid - run biber with '--validate_datamodel' for details.
-[2734] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_hzqi/bibliography.bib_15423.utf8, line 928, warning: undefined macro "7/8"
-[2735] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_hzqi/bibliography.bib_15423.utf8, line 1385, warning: undefined macro "9/10"
-[2735] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_hzqi/bibliography.bib_15423.utf8, line 1520, warning: undefined macro "3/4"
-[2735] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_hzqi/bibliography.bib_15423.utf8, line 1530, warning: undefined macro "5/6"
-[2735] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_hzqi/bibliography.bib_15423.utf8, line 1545, warning: undefined macro "9/10"
-[2735] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_hzqi/bibliography.bib_15423.utf8, line 1557, warning: undefined macro "3/4"
-[2736] Utils.pm:304> WARN - I didn't find a database entry for 'mohrmann2007f acility' (section 0)
-[3217] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3217] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3217] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[3217] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[3584] bbl.pm:652> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
-[3743] Utils.pm:304> WARN - The entry 'Voigt2007' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
-[3750] Utils.pm:304> WARN - The entry 'Wiedenhofer2013' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
-[3760] bbl.pm:755> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
-[3761] Biber.pm:128> INFO - WARNINGS: 14
+[1109] bibtex.pm:1471> INFO - Found BibTeX data source '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib'
+[1120] Utils.pm:304> WARN - Duplicate entry key: 'Kistner2001' in file '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/bibliography.bib', skipping ...
+[1672] Utils.pm:304> WARN - ISBN '9783668587799' in entry 'Jaehn2019' is invalid - run biber with '--validate_datamodel' for details.
+[1699] Utils.pm:304> WARN - ISBN '978662597606' in entry 'Sinsel2020' is invalid - run biber with '--validate_datamodel' for details.
+[1981] Utils.pm:304> WARN - ISBN '978384410071' in entry 'seebacher2011' is invalid - run biber with '--validate_datamodel' for details.
+[2153] Utils.pm:304> WARN - ISBN '79783658137595' in entry 'Frschle2016' is invalid - run biber with '--validate_datamodel' for details.
+[2398] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_UZeP/bibliography.bib_17107.utf8, line 928, warning: undefined macro "7/8"
+[2398] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_UZeP/bibliography.bib_17107.utf8, line 1385, warning: undefined macro "9/10"
+[2398] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_UZeP/bibliography.bib_17107.utf8, line 1520, warning: undefined macro "3/4"
+[2398] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_UZeP/bibliography.bib_17107.utf8, line 1530, warning: undefined macro "5/6"
+[2398] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_UZeP/bibliography.bib_17107.utf8, line 1545, warning: undefined macro "9/10"
+[2398] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/v7/_xgc8fmd4wx6dw3nz9tqg10c0000gn/T/biber_tmp_UZeP/bibliography.bib_17107.utf8, line 1557, warning: undefined macro "3/4"
+[2715] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2716] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2716] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[2716] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
+[3058] bbl.pm:652> INFO - Writing '/Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl' with encoding 'latin1'
+[3206] Utils.pm:304> WARN - The entry 'Voigt2007' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[3213] Utils.pm:304> WARN - The entry 'Wiedenhofer2013' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[3223] bbl.pm:755> INFO - Output to /Users/sebastianschack/Documents/MA_Vorlage/mt_ssch_MWINF18/.texpadtmp/MA.bbl
+[3223] Biber.pm:128> INFO - WARNINGS: 13
